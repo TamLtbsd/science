@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <herd>sci-mathematics</herd>
+  <maintainer>
+    <email>dongxuli2011@gmail.com</email>
+    <name>Dongxu Li</name>
+  </maintainer>
+  <use>
+    <flag name="X">
+  Enable gui support using wxWidgets. 
+  </flag>
+  </use>
+  <upstream>
+    <remote-id type="sourceforge">gambit</remote-id>
+  </upstream>
+</pkgmetadata>

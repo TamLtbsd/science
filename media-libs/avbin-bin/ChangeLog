@@ -1,0 +1,27 @@
+# ChangeLog for media-libs/avbin-bin
+# Copyright 1999-2014 Gentoo Foundation; Distributed under the GPL v2
+# $Header: $
+
+  10 Nov 2014; Justin Lecher <jlec@gentoo.org> avbin-bin-7.ebuild,
+  metadata.xml:
+  Bump EAPI
+
+*avbin-bin-7 (24 Feb 2009)
+
+  24 Feb 2009; Andrey Grozin <grozin@gentoo.org>
+  -media-libs/avbin-bin/avbin-bin-6.ebuild,
+  +media-libs/avbin-bin/avbin-bin-7.ebuild:
+  Version bump
+
+*avbin-bin-6 (26 Aug 2008)
+
+  24 Aug 2008; Andrey Grozin <grozin@gentoo.org>
+  +avbin-bin-6.ebuild, -avbin-bin-3.ebuild:
+  Version bump, for pyglet-1.1
+
+*avbin-bin-3 (29 May 2008)
+
+  29 May 2008; Andrey Grozin <grozin@gentoo.org>
+  +metadata.xml, +avbin-bin-3.ebuild:
+  Initial import, thanks to Thomas Pani, bug #207125
+

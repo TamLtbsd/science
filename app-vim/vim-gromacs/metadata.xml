@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <herd>sci-chemistry</herd>
+  <longdescription lang="en">
+  VIM syntax plugin which provides syntax highlighting for the gromacs files.
+</longdescription>
+  <upstream>
+    <remote-id type="github">HubLot/vim-gromacs</remote-id>
+  </upstream>
+</pkgmetadata>
