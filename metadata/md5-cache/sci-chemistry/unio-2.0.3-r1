@@ -1,0 +1,11 @@
+_eclasses_=
+_md5_=4c4bb818155a266cf763d2395a6f060a
+SLOT=0
+DEFINED_PHASES=install
+EAPI=5
+DESCRIPTION=Automated NMR Data Analysis
+LICENSE=unio
+RESTRICT=fetch
+SRC_URI=UNIO10-Distribution19Dec2013.tar.gz
+HOMEPAGE=http://perso.ens-lyon.fr/torsten.herrmann/Herrmann/Software.html
+RDEPEND=app-shells/ksh !prefix? ( >=x11-libs/libX11-1.6.2[abi_x86_32(-)] >=x11-libs/libXext-1.3.2[abi_x86_32(-)] )

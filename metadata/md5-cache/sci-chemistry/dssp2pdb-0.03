@@ -1,0 +1,11 @@
+_eclasses_=
+_md5_=d6603139b4f1111a048f4c0bdefb86cc
+SLOT=0
+DEFINED_PHASES=install
+EAPI=5
+DESCRIPTION=convert dssp to pdb
+LICENSE=GPL-2
+SRC_URI=http://dev.gentooexperimental.org/~jlec/distfiles/dssp2pdb-0.03.tar
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+HOMEPAGE=http://structure.usc.edu/dssp2pdb/
+RDEPEND=dev-lang/perl sci-chemistry/dssp

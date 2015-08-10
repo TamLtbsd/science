@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	eutils	351a78113be5b393c09a2c948701ad36
+_md5_=d92e4502a25bea62e910366187dbda6c
+SLOT=0
+DEFINED_PHASES=install unpack
+EAPI=5
+DESCRIPTION=Analysis Tool for Gridded and Non-Gridded Data
+LICENSE=PMEL-FERRET
+SRC_URI=ftp://ftp.pmel.noaa.gov/ferret/pub/data/fer_dsets.tar.gz x86? ( ftp://ftp.pmel.noaa.gov/ferret/pub/linux_32_nc4/fer_environment.v664.tar.gz -> x86fer_environment.v664.tar.gz ftp://ftp.pmel.noaa.gov/ferret/pub/linux_32_nc4/fer_executables.v664.tar.gz -> x86fer_executables.v664.tar.gz ) amd64? ( ftp://ftp.pmel.noaa.gov/ferret/pub/x86_64-linux_nc4/fer_environment.v664.tar.gz -> amd64fer_environment.v664.tar.gz ftp://ftp.pmel.noaa.gov/ferret/pub/x86_64-linux_nc4/fer_executables.v664.tar.gz -> amd64fer_executables.v664.tar.gz )
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://ferret.pmel.noaa.gov/Ferret/
+RDEPEND=>=app-crypt/mit-krb5-1.6.3-r6 x11-base/xorg-server virtual/libstdc++:3.3

@@ -1,0 +1,14 @@
+_eclasses_=multibuild	4550e10791f720f7af3fdd911aedf518	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	vcs-snapshot	2ecbc36efd3f6b8486f63fcf8530c1bd	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	python-r1	cafc0cf4ff05a561eb084acb586152e	libtool	7f78cd7d403808a350c9ae23f5821fb4	autotools	8056957fdccf2b3cd6e282a4b4551d1a	eutils	351a78113be5b393c09a2c948701ad36	python-utils-r1	c595450196ccd7d3fac66424be096ffc
+_md5_=9eedec3c08e53a899b4c972704fa5cdc
+SLOT=0
+DEFINED_PHASES=compile configure install prepare setup unpack
+EAPI=5
+DEPEND=python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)] gmp? ( dev-libs/gmp:0 ) !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=An efficient theorem prover
+LICENSE=MIT
+IUSE=gmp python_targets_python2_7
+REQUIRED_USE=|| ( python_targets_python2_7 )
+SRC_URI=http://dev.gentoo.org/~jlec/distfiles/z3-4.3.1.tar.xz
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://z3.codeplex.com/
+RDEPEND=python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)] gmp? ( dev-libs/gmp:0 )

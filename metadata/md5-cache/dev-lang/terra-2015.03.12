@@ -1,0 +1,13 @@
+_eclasses_=
+_md5_=3184160a1942dedb922611f398145399
+SLOT=0
+DEFINED_PHASES=install unpack
+EAPI=5
+DEPEND=sys-devel/clang dev-lang/luajit:2
+DESCRIPTION=A low-level counterpart to Lua
+LICENSE=MIT
+IUSE=test
+SRC_URI=https://github.com/zdevito/terra/archive/release-2015-03-12.tar.gz -> terra-2015.03.12.tar.gz http://luajit.org/download/LuaJIT-2.0.3.tar.gz
+KEYWORDS=~amd64
+HOMEPAGE=http://terralang.org/
+RDEPEND=sys-devel/clang dev-lang/luajit:2

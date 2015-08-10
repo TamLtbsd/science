@@ -1,0 +1,11 @@
+_eclasses_=
+_md5_=81fd719d1c6d2000eeca85fb3740f507
+SLOT=0
+DEFINED_PHASES=install
+EAPI=5
+DEPEND=virtual/pkgconfig
+DESCRIPTION=k-mer counter within reads for assemblies
+LICENSE=GPL-3+ BSD
+SRC_URI=http://www.cbcb.umd.edu/software/jellyfish/jellyfish-1.1.11.tar.gz http://www.cbcb.umd.edu/software/jellyfish/jellyfish-manual-1.1.pdf
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://www.cbcb.umd.edu/software/jellyfish

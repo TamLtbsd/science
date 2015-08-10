@@ -1,0 +1,11 @@
+_eclasses_=
+_md5_=414628a3a564b5f9a493d81bd227a99b
+SLOT=0
+DEFINED_PHASES=install
+EAPI=5
+DESCRIPTION=Combine FASTA contigs from a de novo assembly into scaffolds using a reference assembly
+LICENSE=GPL-3
+SRC_URI=http://sourceforge.net/projects/scaffold-b/files/scaffold_builder_v2.1.zip http://sourceforge.net/projects/scaffold-b/files/scaffold_builder_v2_help.doc http://downloads.sourceforge.net/project/scaffold-b/Manual_v2.1.pdf
+KEYWORDS=~amd64
+HOMEPAGE=http://sourceforge.net/projects/scaffold-b http://edwards.sdsu.edu/scaffold_builder
+RDEPEND=sci-biology/mummer dev-lang/python

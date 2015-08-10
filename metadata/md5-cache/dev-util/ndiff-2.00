@@ -1,0 +1,13 @@
+_eclasses_=
+_md5_=fced89f987da285586286b00492f776b
+SLOT=0
+DEFINED_PHASES=install
+EAPI=4
+DEPEND=dev-libs/gmp
+DESCRIPTION=A diff program that ignores small numeric differences
+LICENSE=GPL-2
+IUSE=doc
+SRC_URI=ftp://ftp.math.utah.edu/pub/misc/ndiff-2.00.tar.gz
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://www.math.utah.edu/~beebe/software/ndiff/
+RDEPEND=dev-libs/gmp

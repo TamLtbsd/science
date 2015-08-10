@@ -1,0 +1,10 @@
+_eclasses_=
+_md5_=8322a9a3ce38d7c5b840103f3e4516a4
+SLOT=0
+DEFINED_PHASES=install prepare
+EAPI=5
+DESCRIPTION=Genome Rearrangements Analysis under Parsimony and other Phylogenetic Algorithms
+LICENSE=GPL-2
+SRC_URI=http://www.cs.unm.edu/~moret/GRAPPA/GRAPPA20.tar.gz
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://www.cs.unm.edu/~moret/GRAPPA/

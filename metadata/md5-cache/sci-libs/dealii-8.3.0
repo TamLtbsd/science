@@ -1,0 +1,14 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	eutils	351a78113be5b393c09a2c948701ad36	cmake-utils	f474224ef49d530640a43a04ae94928e	flag-o-matic	2090c5a622458303e6bf68837ac6b96
+_md5_=ff7384967512c460aa02c7122b7f146d
+SLOT=0
+DEFINED_PHASES=compile configure install prepare test
+EAPI=5
+DEPEND=dev-libs/boost app-arch/bzip2 sys-libs/zlib arpack? ( sci-libs/arpack[mpi=] ) hdf5? ( sci-libs/hdf5[mpi=] ) lapack? ( virtual/lapack ) metis? ( >=sci-libs/parmetis-4 ) mpi? ( virtual/mpi ) muparser? ( dev-cpp/muParser ) netcdf? ( sci-libs/netcdf-cxx:0 ) opencascade? ( sci-libs/opencascade:* ) p4est? ( sci-libs/p4est[mpi] ) parameter_gui? ( dev-qt/qtgui:4 ) petsc? ( sci-mathematics/petsc[mpi=] ) sparse? ( sci-libs/umfpack ) tbb? ( dev-cpp/tbb ) trilinos? ( sci-libs/trilinos ) virtual/pkgconfig doc? ( app-doc/doxygen[dot] dev-lang/perl ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 )
+DESCRIPTION=Solving partial differential equations with the finite element method
+LICENSE=LGPL-2.1+
+IUSE=arpack cpu_flags_x86_avx cpu_flags_x86_sse2 c++11 +debug doc +examples hdf5 +lapack mesh_converter metis mpi muparser opencascade netcdf p4est parameter_gui petsc +sparse static-libs +tbb trilinos
+REQUIRED_USE=p4est? ( mpi ) trilinos? ( mpi )
+SRC_URI=https://github.com/dealii/dealii/archive/v8.3.0.tar.gz -> dealii-8.3.0.tar.gz doc? ( https://github.com/dealii/dealii/releases/download/v8.3.0/dealii-8.3.0-offline_documentation.tar.gz -> dealii-8.3.0-offline_documentation.tar.gz http://ganymed.iwr.uni-heidelberg.de/~maier/dealii/releases/dealii-8.3.0-offline_documentation.tar.gz -> dealii-8.3.0-offline_documentation.tar.gz )
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+HOMEPAGE=http://www.dealii.org/
+RDEPEND=dev-libs/boost app-arch/bzip2 sys-libs/zlib arpack? ( sci-libs/arpack[mpi=] ) hdf5? ( sci-libs/hdf5[mpi=] ) lapack? ( virtual/lapack ) metis? ( >=sci-libs/parmetis-4 ) mpi? ( virtual/mpi ) muparser? ( dev-cpp/muParser ) netcdf? ( sci-libs/netcdf-cxx:0 ) opencascade? ( sci-libs/opencascade:* ) p4est? ( sci-libs/p4est[mpi] ) parameter_gui? ( dev-qt/qtgui:4 ) petsc? ( sci-mathematics/petsc[mpi=] ) sparse? ( sci-libs/umfpack ) tbb? ( dev-cpp/tbb ) trilinos? ( sci-libs/trilinos )

@@ -1,0 +1,12 @@
+_eclasses_=
+_md5_=b57d3fa80b392e6d45bf0bb6c4f6cc63
+SLOT=0
+DEFINED_PHASES=configure postinst
+EAPI=5
+DEPEND=>=dev-libs/gmp-4.1-r1
+DESCRIPTION=C++ library for arithmetic and algebraic computations
+LICENSE=GPL-2
+SRC_URI=http://ljk.imag.fr/CASYS/LOGICIELS/givaro/Downloads/givaro-3.2.13.tar.gz
+KEYWORDS=~amd64 ~ppc ~x86 ~ppc64
+HOMEPAGE=http://ljk.imag.fr/CASYS/LOGICIELS/givaro/
+RDEPEND=>=dev-libs/gmp-4.1-r1

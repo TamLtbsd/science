@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	cmake-utils	f474224ef49d530640a43a04ae94928e	flag-o-matic	2090c5a622458303e6bf68837ac6b96	mercurial	6ac07cde03301514a5f9e4f13df3f55e	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	alternatives-2	b8a82faff2dac72e18c7976198090561	eutils	351a78113be5b393c09a2c948701ad36
+_md5_=2c68e7b0f066b3facd93760eb7c120f0
+SLOT=3
+DEFINED_PHASES=compile configure install postinst prepare prerm setup test unpack
+EAPI=5
+DEPEND=doc? ( app-doc/doxygen[dot,latex] ) test? ( adolc? ( sci-libs/adolc[sparse?] ) fftw? ( sci-libs/fftw:3.0 ) gmp? ( dev-libs/gmp:0 dev-libs/mpfr:0 ) metis? ( sci-libs/metis ) mkl? ( sci-libs/mkl ) pastix? ( sci-libs/pastix ) sparse? ( dev-cpp/sparsehash sci-libs/cholmod[metis?] sci-libs/spqr sci-libs/superlu sci-libs/umfpack ) ) dev-vcs/mercurial >=app-admin/eselect-1.4.4-r102 sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) fortran? ( virtual/fortran )
+DESCRIPTION=C++ template library for linear algebra
+LICENSE=MPL-2.0
+IUSE=adolc doc fortran fftw gmp metis mkl pastix sparse static-libs test
+HOMEPAGE=http://eigen.tuxfamily.org/
+RDEPEND=!dev-cpp/eigen:0 adolc? ( sci-libs/adolc[sparse?] ) fftw? ( sci-libs/fftw:3.0 ) gmp? ( dev-libs/gmp:0 dev-libs/mpfr:0 ) metis? ( sci-libs/metis ) mkl? ( sci-libs/mkl ) pastix? ( sci-libs/pastix ) sparse? ( dev-cpp/sparsehash sci-libs/cholmod[metis?] sci-libs/spqr sci-libs/superlu sci-libs/umfpack ) >=app-admin/eselect-1.4.4-r102 !app-admin/eselect-blas !app-admin/eselect-cblas !app-admin/eselect-lapack fortran? ( virtual/fortran )

@@ -1,0 +1,10 @@
+_eclasses_=git-2	1bb87192831f668cd20d93ffb1689c94
+_md5_=51bf9aecb406acaf5ee7e78dd54f3483
+SLOT=0
+DEFINED_PHASES=compile install prepare unpack
+EAPI=5
+DEPEND=dev-lang/R sci-libs/htslib dev-vcs/git dev-vcs/git
+DESCRIPTION=Population genetics analysis package
+LICENSE=GPL-2
+HOMEPAGE=http://www.popgen.dk/angsd
+RDEPEND=dev-lang/R sci-libs/htslib
