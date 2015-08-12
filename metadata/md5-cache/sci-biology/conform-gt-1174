@@ -1,0 +1,9 @@
+_eclasses_=
+_md5_=cbcac6c40f8f6a748fbe4a95c6d623a0
+SLOT=0
+DEFINED_PHASES=-
+EAPI=5
+DESCRIPTION=Modify your Variant Call Format file to be consistent with reference VCF
+LICENSE=Apache-2.0
+SRC_URI=http://faculty.washington.edu/browning/conform-gt/conform-gt.r1174.zip
+HOMEPAGE=http://faculty.washington.edu/browning/conform-gt.html

@@ -1,0 +1,12 @@
+_eclasses_=
+_md5_=bf0657291bfd14dc8c89d3552a83755c
+SLOT=0
+DEFINED_PHASES=install
+EAPI=4
+DEPEND=>=sys-infiniband/libibverbs-1.1.4
+DESCRIPTION=OpenIB userspace driver for RoCE
+LICENSE=GPL-2
+SRC_URI=http://support.systemfabricworks.com/downloads/rxe/librxe-1.0.0.tar.gz
+KEYWORDS=~amd64 ~x86 ~amd64-linux
+HOMEPAGE=http://www.openfabrics.org/
+RDEPEND=>=sys-infiniband/libibverbs-1.1.4 !sys-infiniband/openib-userspace

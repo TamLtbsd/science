@@ -1,0 +1,11 @@
+_eclasses_=
+_md5_=2ca0f1627119cf5cc4ece9dbeaa16ba9
+SLOT=0
+DEFINED_PHASES=postinst
+EAPI=5
+DEPEND=sci-biology/Jannovar-bin
+DESCRIPTION=Annotate VCF files from whole-exome sequencing (Jannovar, UCSC KnownGenes, hg19)
+LICENSE=GPL-3+
+SRC_URI=ftp://ftp.sanger.ac.uk/pub/resources/software/exomiser/downloads/exomiser/exomiser-cli-7.0.0.BETA-distribution.zip
+HOMEPAGE=http://www.sanger.ac.uk/resources/software/exomiser
+RDEPEND=sci-biology/Jannovar-bin

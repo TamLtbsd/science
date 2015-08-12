@@ -1,0 +1,12 @@
+_eclasses_=
+_md5_=fa5d82b7ea9ef1daa41a1348f93b0d81
+SLOT=0
+DEFINED_PHASES=compile configure install prepare
+EAPI=5
+DEPEND=sci-mathematics/coq
+DESCRIPTION=A floating-point formalization for the Coq system
+LICENSE=LGPL-3
+SRC_URI=https://gforge.inria.fr/frs/download.php/33502/flocq-2.3.0.tar.gz
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://flocq.gforge.inria.fr/
+RDEPEND=sci-mathematics/coq

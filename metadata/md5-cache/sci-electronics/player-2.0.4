@@ -1,0 +1,14 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	java-utils-2	7c8af272d218f7b7df22fd16bb0bfb63	versionator	99ae9d758cbe7cfed19170e7d48f5a9c	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	java-pkg-opt-2	4a567b4a22dd2dc61b77c056d29353a5	python-single-r1	626346d3c54afb66571061bbd4c53f25	eutils	351a78113be5b393c09a2c948701ad36	python-utils-r1	c595450196ccd7d3fac66424be096ffc
+_md5_=7639a074a7963dcc271f0790fd33174a
+SLOT=0
+DEFINED_PHASES=compile configure install preinst prepare setup
+EAPI=5
+DEPEND=virtual/jpeg boost? ( dev-libs/boost ) festival? ( app-accessibility/festival ) gtk? ( x11-libs/gtk+:2 ) glut? ( media-libs/freeglut ) gnome? ( >=gnome-base/libgnomecanvas-2.0 ) gsl? ( sci-libs/gsl ) ieee1394? ( sys-libs/libraw1394 media-libs/libdc1394 ) imagemagick? ( media-gfx/imagemagick ) java? ( virtual/jdk ) opengl? ( virtual/opengl ) openssl? ( dev-libs/openssl ) python? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_5(-),-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),python_single_target_python2_7(+)] ) sphinx2? ( app-accessibility/sphinx2 ) doc? ( app-doc/doxygen ) java? ( dev-lang/swig ) python? ( dev-lang/swig ) java? ( >=dev-java/java-config-2.2.0 )
+DESCRIPTION=A network server for robot control
+LICENSE=GPL-2
+IUSE=ieee1394 imagemagick sphinx2 test v4l wifi boost gnome gtk openssl festival opengl glut gsl java python doc elibc_FreeBSD java python_targets_python2_7
+REQUIRED_USE=python? ( python_targets_python2_7 )
+SRC_URI=mirror://sourceforge/playerstage/player-2.0.4.tar.bz2
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://playerstage.sourceforge.net/index.php?src=player
+RDEPEND=virtual/jpeg boost? ( dev-libs/boost ) festival? ( app-accessibility/festival ) gtk? ( x11-libs/gtk+:2 ) glut? ( media-libs/freeglut ) gnome? ( >=gnome-base/libgnomecanvas-2.0 ) gsl? ( sci-libs/gsl ) ieee1394? ( sys-libs/libraw1394 media-libs/libdc1394 ) imagemagick? ( media-gfx/imagemagick ) java? ( virtual/jdk ) opengl? ( virtual/opengl ) openssl? ( dev-libs/openssl ) python? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_5(-),-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),python_single_target_python2_7(+)] ) sphinx2? ( app-accessibility/sphinx2 ) java? ( >=dev-java/java-config-2.2.0 )

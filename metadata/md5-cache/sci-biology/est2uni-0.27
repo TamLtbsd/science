@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	webapp	2442891c368d310c1d3fe77d9c77fe5b	unpacker	1ca344bd9b922a7f8084a3fa02933b79	multiprocessing	d769539d9bace6eaca30af23bc2b4dde	eutils	351a78113be5b393c09a2c948701ad36	perl-module	1cfb38bf68a24c8394e41d2f53003146
+_md5_=79afb416ed78ef6f800ac5b0f5088735
+SLOT=0
+DEFINED_PHASES=compile configure install postinst prepare prerm setup test unpack
+EAPI=5
+DEPEND=dev-lang/perl:=[-build(-)] >=app-admin/webapp-config-1.50.15
+DESCRIPTION=Perl-based analysis pipeline including php-based web interface
+LICENSE=GPL-3
+IUSE=vhosts
+SRC_URI=http://cichlid.umd.edu/est2uni/est2uni_0.27.tar.gz ftp://ftp.ncbi.nih.gov/pub/UniVec/UniVec ftp://ftp.ncbi.nih.gov/pub/UniVec/UniVec_Core http://www.geneontology.org/ontology/gene_ontology.obo http://www.geneontology.org/doc/GO.terms_and_ids
+HOMEPAGE=http://cichlid.umd.edu/est2uni/download.php
+RDEPEND=>=dev-db/mysql-4.1 dev-lang/php:5.3 dev-perl/go-perl sci-biology/bioperl sci-biology/cap3-bin sci-biology/estscan sci-biology/exonerate <sci-biology/hmmer-3.0 sci-biology/lucy sci-biology/ncbi-tools sci-biology/phred sci-biology/repeatmasker sci-biology/seqclean sci-biology/tgicl www-servers/apache dev-lang/perl:=[-build(-)] >=app-admin/webapp-config-1.50.15

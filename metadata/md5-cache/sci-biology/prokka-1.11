@@ -1,0 +1,11 @@
+_eclasses_=
+_md5_=efd8b530b9db7db888620a8aeb6d62d3
+SLOT=0
+DEFINED_PHASES=-
+EAPI=5
+DESCRIPTION=Prokaryotic whole genome annotation pipeline
+LICENSE=GPL-2
+SRC_URI=http://www.vicbioinformatics.com/prokka-1.11.tar.gz
+KEYWORDS=~amd64
+HOMEPAGE=http://www.bioinformatics.net.au/software.prokka.shtml
+RDEPEND=sys-process/parallel sci-biology/bioperl sci-biology/prodigal sci-biology/ncbi-tools++ || ( sci-biology/ncbi-blast+ ) sci-biology/hmmer sci-biology/infernal sci-biology/exonerate sci-biology/barrnap

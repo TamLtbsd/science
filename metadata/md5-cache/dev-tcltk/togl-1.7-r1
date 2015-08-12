@@ -1,0 +1,14 @@
+_eclasses_=
+_md5_=8ba31e5a3200968aae807af63561cdf4
+SLOT=1.7
+DEFINED_PHASES=configure install
+EAPI=5
+DEPEND=dev-lang/tk:0 virtual/opengl
+DESCRIPTION=A Tk widget for OpenGL rendering
+LICENSE=BSD
+IUSE=debug +threads
+RESTRICT=test
+SRC_URI=mirror://sourceforge/togl/Togl-1.7.tar.gz
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://togl.sourceforge.net/
+RDEPEND=dev-lang/tk:0 virtual/opengl

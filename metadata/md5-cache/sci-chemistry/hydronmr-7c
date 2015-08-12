@@ -1,0 +1,11 @@
+_eclasses_=
+_md5_=1a4b96ace0a442e5ca04424a13dde6f5
+SLOT=0
+DEFINED_PHASES=install unpack
+EAPI=5
+DESCRIPTION=Calculation of NMR relaxation of small, quasirigid macromolecules
+LICENSE=all-rights-reserved
+IUSE=examples
+SRC_URI=http://leonardo.inf.um.es/macromol/programs/hydronmr/hydronmr7c2lnx.exe http://leonardo.inf.um.es/macromol/programs/hydronmr/fast-hydronmr7c2lnx.exe http://leonardo.inf.um.es/macromol/programs/hydronmr/hydronmr.pdf http://leonardo.inf.um.es/macromol/programs/hydronmr/hydronmr7c.pdf http://leonardo.inf.um.es/macromol/programs/hydronmr/fast-hydronmr-1.pdf http://leonardo.inf.um.es/macromol/programs/hydronmr/fast-hydronmr-2.pdf examples? ( http://leonardo.inf.um.es/macromol/programs/hydronmr/hydronmr.dat http://leonardo.inf.um.es/macromol/programs/hydronmr/6lyz.pdb http://leonardo.inf.um.es/macromol/programs/hydronmr/lysozyme31-nmr.res http://leonardo.inf.um.es/macromol/programs/hydronmr/lysozyme31-nmr.t12 http://leonardo.inf.um.es/macromol/programs/hydronmr/lysozyme31-nmr-pri.bea http://leonardo.inf.um.es/macromol/programs/hydronmr/lysozyme31-fast-nmr.res http://leonardo.inf.um.es/macromol/programs/hydronmr/lysozyme31-fast-nmr.t12 )
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+HOMEPAGE=http://leonardo.inf.um.es/macromol/programs/hydronmr/hydronmr.htm

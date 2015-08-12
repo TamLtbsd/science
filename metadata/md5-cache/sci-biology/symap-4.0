@@ -1,0 +1,12 @@
+_eclasses_=
+_md5_=cafd330dfc7d3e922b38394019c5213a
+SLOT=0
+DEFINED_PHASES=-
+EAPI=5
+DEPEND=sci-biology/blat sci-biology/mummer sci-biology/muscle
+DESCRIPTION=Synteny Mapping and Analysis Program between chromosomes, contigs and physical maps
+LICENSE=GPL-2
+RESTRICT=fetch
+SRC_URI=symap_40.tar.gz
+HOMEPAGE=http://www.agcol.arizona.edu/software/symap/
+RDEPEND=sci-biology/blat sci-biology/mummer sci-biology/muscle virtual/jre

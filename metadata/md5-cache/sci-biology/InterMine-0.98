@@ -1,0 +1,9 @@
+_eclasses_=
+_md5_=9e77c96cc8d02a8424331156c8c70abc
+SLOT=0
+DEFINED_PHASES=-
+EAPI=5
+DESCRIPTION=Biological data warehouse integrating complex data
+LICENSE=LGPL-2.1+
+KEYWORDS=~amd64
+HOMEPAGE=http://github.com/intermine/intermine

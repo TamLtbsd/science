@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	cmake-utils	f474224ef49d530640a43a04ae94928e	flag-o-matic	2090c5a622458303e6bf68837ac6b96	git-r3	1502b9838d043db47700b8120083e637	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	python-single-r1	626346d3c54afb66571061bbd4c53f25	eutils	351a78113be5b393c09a2c948701ad36	python-utils-r1	c595450196ccd7d3fac66424be096ffc
+_md5_=680cc7c0768d1980bbf6bd16196558a2
+SLOT=0
+DEFINED_PHASES=compile configure install prepare setup test unpack
+EAPI=5
+DEPEND=>=dev-libs/boost-1.51 dev-libs/libxml2 sci-libs/hdf5 >=sys-apps/hwloc-1.8 >=sys-libs/libunwind-1 sys-libs/zlib papi? ( dev-libs/papi ) perftools? ( >=dev-util/google-perftools-1.7.1 ) tbb? ( dev-cpp/tbb ) app-arch/p7zip virtual/pkgconfig test? ( dev-lang/python ) doc? ( >=dev-libs/boost-1.56.0-r1[tools] ) >=dev-vcs/git-1.8.2.1 sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) virtual/fortran
+DESCRIPTION=C++ runtime system for parallel and distributed applications
+LICENSE=Boost-1.0
+IUSE=doc examples jemalloc papi +perftools tbb test python_targets_python2_7
+REQUIRED_USE=test? ( python_targets_python2_7 )
+HOMEPAGE=http://stellar.cct.lsu.edu/tag/hpx/
+RDEPEND=>=dev-libs/boost-1.51 dev-libs/libxml2 sci-libs/hdf5 >=sys-apps/hwloc-1.8 >=sys-libs/libunwind-1 sys-libs/zlib papi? ( dev-libs/papi ) perftools? ( >=dev-util/google-perftools-1.7.1 ) tbb? ( dev-cpp/tbb ) virtual/fortran

@@ -1,0 +1,11 @@
+_eclasses_=unpacker	1ca344bd9b922a7f8084a3fa02933b79	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	git-r3	1502b9838d043db47700b8120083e637	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	autotools-utils	bf099a6e3dfeaf20a7a94504d8dd896	libtool	7f78cd7d403808a350c9ae23f5821fb4	autotools	8056957fdccf2b3cd6e282a4b4551d1a	multiprocessing	d769539d9bace6eaca30af23bc2b4dde	eutils	351a78113be5b393c09a2c948701ad36	perl-module	1cfb38bf68a24c8394e41d2f53003146
+_md5_=e70ad971e2a745cbf76aecf01174560
+SLOT=0
+DEFINED_PHASES=compile configure install prepare test unpack
+EAPI=5
+DEPEND=mpi? ( virtual/mpi ) dev-libs/boost qt4? ( dev-qt/qtcore:4[qt3support] dev-qt/qt3support:4 ) sci-biology/blat sci-biology/jellyfish dev-lang/perl:=[-build(-)] !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Genome assembly package live cvs sources
+LICENSE=Artistic
+IUSE=mpi qt4
+HOMEPAGE=http://sourceforge.net/projects/amos
+RDEPEND=mpi? ( virtual/mpi ) dev-libs/boost qt4? ( dev-qt/qtcore:4[qt3support] dev-qt/qt3support:4 ) sci-biology/blat sci-biology/jellyfish dev-perl/DBI dev-perl/Statistics-Descriptive sci-biology/mummer dev-lang/perl:=[-build(-)]

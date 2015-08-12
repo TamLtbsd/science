@@ -1,0 +1,11 @@
+_eclasses_=
+_md5_=17d198abc1d77e2a4aab099c02d3dc8f
+SLOT=0
+DEFINED_PHASES=-
+EAPI=5
+DEPEND=>=sci-misc/kotus-sanalista-1 dev-java/saxon sci-misc/sfst
+DESCRIPTION=Open morphology for Finnish language
+LICENSE=LGPL-3
+SRC_URI=http://download.gna.org/omorfi/omorfi-0.1-alpha.tar.bz2
+KEYWORDS=~x86
+HOMEPAGE=http://gna.org/projects/omorfi

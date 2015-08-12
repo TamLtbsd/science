@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	versionator	99ae9d758cbe7cfed19170e7d48f5a9c	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	cuda	5e306be76ac11f3468389ef2e4da10	eutils	351a78113be5b393c09a2c948701ad36
+_md5_=1a9a0c156bf72c94daf88ba80bfaddd9
+SLOT=0
+DEFINED_PHASES=configure install prepare
+EAPI=5
+DEPEND=virtual/mpi cuda? ( >=dev-util/nvidia-cuda-toolkit-4.0.0 )
+DESCRIPTION=An open source library that allows detailed logging of program execution for parallel applications
+LICENSE=vampir
+IUSE=cuda
+SRC_URI=http://wwwpub.zih.tu-dresden.de/~mlieber/dcount/dcount.php?package=gputrace&get=VampirTrace-5.14.4-gpu2.tar.gz
+KEYWORDS=~amd64
+HOMEPAGE=http://tu-dresden.de/die_tu_dresden/zentrale_einrichtungen/zih/forschung/projekte/vampirtrace/accelerator

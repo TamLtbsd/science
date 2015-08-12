@@ -1,0 +1,13 @@
+_eclasses_=
+_md5_=b6165e2f0e6809ee31c16e251293dae2
+SLOT=0
+DEFINED_PHASES=install prepare
+EAPI=5
+DESCRIPTION=Prediction of signal peptide cleavage sites in amino acid sequences
+LICENSE=signalp
+IUSE=gnuplot
+RESTRICT=fetch strip
+SRC_URI=signalp-3.0.Linux.tar.Z
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://www.cbs.dtu.dk/services/SignalP/
+RDEPEND=gnuplot? ( sci-visualization/gnuplot media-libs/netpbm )

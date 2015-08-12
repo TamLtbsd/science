@@ -1,0 +1,14 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	python-single-r1	626346d3c54afb66571061bbd4c53f25	eutils	351a78113be5b393c09a2c948701ad36	python-utils-r1	c595450196ccd7d3fac66424be096ffc
+_md5_=3636f46e274f86a5430d968cc0b5e938
+SLOT=0
+DEFINED_PHASES=compile install postinst prepare setup unpack
+EAPI=5
+DEPEND=sys-fs/sysfsutils python? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_5(-),-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),python_single_target_python2_7(+)] ) app-shells/tcsh mpi? ( virtual/mpi[fortran] ) doc? ( dev-texlive/texlive-latex dev-tex/latex2html ) virtual/fortran
+DESCRIPTION=Delivering High-Performance Computational Chemistry to Science
+LICENSE=ECL-2.0
+IUSE=blas mpi doc examples nwchem-tests openmp mrcc python python_targets_python2_7
+REQUIRED_USE=python? ( python_targets_python2_7 )
+SRC_URI=http://www.nwchem-sw.org/images/Nwchem-6.3.revision2-src.2013-10-17.tar.gz
+KEYWORDS=~x86 ~amd64
+HOMEPAGE=http://www.nwchem-sw.org/index.php/Main_Page
+RDEPEND=sys-fs/sysfsutils python? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_5(-),-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),python_single_target_python2_7(+)] ) virtual/fortran

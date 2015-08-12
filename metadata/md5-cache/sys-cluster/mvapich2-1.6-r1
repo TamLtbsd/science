@@ -1,0 +1,13 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	mpi	6f52363e5918c57f0b1f16596ca8ba84	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	eutils	351a78113be5b393c09a2c948701ad36
+_md5_=3ffba2aeba62d06e20a48601fe32be02
+SLOT=0
+DEFINED_PHASES=configure install postinst prepare setup
+EAPI=5
+DEPEND=sys-infiniband/libibverbs:= sys-infiniband/libibumad:= sys-infiniband/libibmad:= sys-infiniband/librdmacm:= virtual/fortran
+DESCRIPTION=MVAPICH2 MPI-over-infiniband package auto-configured for OpenIB
+LICENSE=BSD
+IUSE=debug fortran large-cluster medium-cluster romio threads
+SRC_URI=http://mvapich.cse.ohio-state.edu//download/mvapich2/mvapich2-1.6.tgz
+KEYWORDS=~x86 ~amd64
+HOMEPAGE=http://mvapich.cse.ohio-state.edu/
+RDEPEND=sys-infiniband/libibverbs:= sys-infiniband/libibumad:= sys-infiniband/libibmad:= sys-infiniband/librdmacm:= virtual/fortran

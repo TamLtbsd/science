@@ -1,0 +1,11 @@
+_eclasses_=
+_md5_=b98eb2024768bf2841bdf020162d43df
+SLOT=0
+DEFINED_PHASES=-
+EAPI=5
+DESCRIPTION=Yet Another Short Read Assembler aligning to a reference using LASTZ
+LICENSE=GPL-2
+SRC_URI=http://www.bx.psu.edu/miller_lab/dist/YASRA-2.33.tar.gz
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+HOMEPAGE=http://www.bx.psu.edu/miller_lab/
+RDEPEND=sci-biology/lastz

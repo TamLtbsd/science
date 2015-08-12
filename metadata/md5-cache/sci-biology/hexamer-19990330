@@ -1,0 +1,10 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6
+_md5_=2c2d2f203b691a82362a45053931d26f
+SLOT=0
+DEFINED_PHASES=install prepare
+EAPI=5
+DESCRIPTION=Predict CDS using 6mers without deriving information from base composition
+LICENSE=all-rights-reserved
+SRC_URI=ftp://ftp.sanger.ac.uk/pub/users/rd/hexamer.tar.gz -> hexamer-19990330.tar.gz
+KEYWORDS=~amd64
+HOMEPAGE=http://www.sanger.ac.uk/resources/software

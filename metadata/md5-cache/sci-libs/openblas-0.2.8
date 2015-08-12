@@ -1,0 +1,13 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	alternatives-2	b8a82faff2dac72e18c7976198090561	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	eutils	351a78113be5b393c09a2c948701ad36
+_md5_=f2f4da68e02738b613a9cb958f370c40
+SLOT=0
+DEFINED_PHASES=compile configure install postinst prerm setup test unpack
+EAPI=5
+DEPEND=>=app-admin/eselect-1.4.4-r102 virtual/fortran
+DESCRIPTION=Optimized BLAS library based on GotoBLAS2
+LICENSE=BSD
+IUSE=int64 dynamic openmp static-libs threads
+SRC_URI=http://github.com/xianyi/OpenBLAS/tarball/v0.2.8 -> openblas-0.2.8.tar.gz
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux ~x86-macos ~ppc-macos ~x64-macos
+HOMEPAGE=http://xianyi.github.com/OpenBLAS/
+RDEPEND=>=app-admin/eselect-1.4.4-r102 !app-admin/eselect-blas !app-admin/eselect-cblas !app-admin/eselect-lapack virtual/fortran

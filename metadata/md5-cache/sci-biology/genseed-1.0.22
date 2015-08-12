@@ -1,0 +1,11 @@
+_eclasses_=
+_md5_=fe0231ed3129163ed73d060f7d326cf6
+SLOT=0
+DEFINED_PHASES=install postinst
+EAPI=5
+DEPEND=sci-biology/cap3-bin dev-lang/perl sci-biology/ncbi-tools
+DESCRIPTION=Seed-driven progressive assembly program using legacy NCBI blast, CAP3, and optionally cross_match
+LICENSE=GPL-3
+SRC_URI=http://www.coccidia.icb.usp.br/genseed/download/genseed-1.0.22.tar.gz
+KEYWORDS=~x86 ~amd64
+HOMEPAGE=http://www.coccidia.icb.usp.br/genseed/

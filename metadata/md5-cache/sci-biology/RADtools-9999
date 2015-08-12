@@ -1,0 +1,10 @@
+_eclasses_=git-2	1bb87192831f668cd20d93ffb1689c94
+_md5_=d43eba2e25bbceca1e1fef23bfcb8b01
+SLOT=0
+DEFINED_PHASES=install unpack
+EAPI=5
+DEPEND=>=dev-lang/perl-5.10 dev-perl/Parallel-ForkManager dev-vcs/git
+DESCRIPTION=Tools for processing RAD Sequencing Illumina reads
+LICENSE=GPL-3
+HOMEPAGE=https://www.wiki.ed.ac.uk/display/RADSequencing/Home
+RDEPEND=>=dev-lang/perl-5.10 dev-perl/Parallel-ForkManager

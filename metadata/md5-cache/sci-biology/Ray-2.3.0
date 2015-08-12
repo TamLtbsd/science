@@ -1,0 +1,12 @@
+_eclasses_=
+_md5_=ce30cf6293f7137b643b04234dc17123
+SLOT=0
+DEFINED_PHASES=install prepare
+EAPI=5
+DEPEND=virtual/mpi
+DESCRIPTION=Assembler for metagenomes, genomes and transcriptomes (untested) using parallel MPI
+LICENSE=LGPL-3 GPL-3
+SRC_URI=http://sourceforge.net/projects/denovoassembler/files/Ray-2.3.0.tar.bz2
+KEYWORDS=~amd64
+HOMEPAGE=http://denovoassembler.sourceforge.net/
+RDEPEND=virtual/mpi sys-cluster/osc-mpiexec

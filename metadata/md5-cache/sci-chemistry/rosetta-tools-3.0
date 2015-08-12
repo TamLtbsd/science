@@ -1,0 +1,12 @@
+_eclasses_=
+_md5_=aa3c31f2fee09901fe0db6eee8c7ac1c
+SLOT=0
+DEFINED_PHASES=install
+EAPI=5
+DESCRIPTION=Additional scripts for rosetta
+LICENSE=BSD
+RESTRICT=fetch
+SRC_URI=BioTools-3.0.tgz
+KEYWORDS=~amd64 ~x86
+HOMEPAGE=http://www.rosettacommons.org/ http://dylans-biotools.sourceforge.net/
+RDEPEND=dev-lang/perl

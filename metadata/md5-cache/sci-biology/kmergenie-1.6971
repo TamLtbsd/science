@@ -1,0 +1,12 @@
+_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	eutils	351a78113be5b393c09a2c948701ad36
+_md5_=f2c81ca945bc6b089e8bd53c00f852a8
+SLOT=0
+DEFINED_PHASES=compile install prepare
+EAPI=5
+DEPEND=dev-python/docopt dev-lang/R
+DESCRIPTION=Estimate best k-mer length to be used in novo assemblies (default set during compilation is 121)
+LICENSE=CeCILL-1.1
+SRC_URI=http://kmergenie.bx.psu.edu/kmergenie-1.6971.tar.gz
+KEYWORDS=~amd64
+HOMEPAGE=http://kmergenie.bx.psu.edu/
+RDEPEND=dev-python/docopt dev-lang/R
