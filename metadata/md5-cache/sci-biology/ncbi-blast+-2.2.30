@@ -1,14 +1,14 @@
-_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	python-single-r1	626346d3c54afb66571061bbd4c53f25	eutils	351a78113be5b393c09a2c948701ad36	python-utils-r1	c595450196ccd7d3fac66424be096ffc
-_md5_=a84bc7be0f1c6a39f516756e25c7f397
-SLOT=0
 DEFINED_PHASES=compile configure install postinst prepare setup
-EAPI=5
 DEPEND=!sci-biology/ncbi-tools++ !sci-biology/sra_sdk berkdb? ( sys-libs/db:4.3[cxx] ) boost? ( dev-libs/boost ) curl? ( net-misc/curl ) sqlite? ( dev-db/sqlite:0 ) sqlite3? ( dev-db/sqlite:3 ) mysql? ( virtual/mysql ) fltk? ( x11-libs/fltk ) opengl? ( virtual/opengl media-libs/glew ) mesa? ( media-libs/mesa[osmesa] ) glut? ( media-libs/freeglut ) freetype? ( media-libs/freetype ) fastcgi? ( www-apache/mod_fastcgi ) gnutls? ( net-libs/gnutls ) python? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_5(-),-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),python_single_target_python2_7(+)] ) cppunit? ( dev-util/cppunit ) icu? ( dev-libs/icu ) expat? ( dev-libs/expat ) sablotron? ( app-text/sablotron ) xml? ( dev-libs/libxml2 ) xslt? ( dev-libs/libxslt ) xerces? ( dev-libs/xerces-c ) xalan? ( dev-libs/xalan-c ) muparser? ( dev-cpp/muParser ) hdf5? ( sci-libs/hdf5[cxx] ) gif? ( media-libs/giflib ) jpeg? ( virtual/jpeg:0= ) png? ( media-libs/libpng:0= ) tiff? ( media-libs/tiff:0= ) xpm? ( x11-libs/libXpm ) dev-libs/lzo app-arch/bzip2 dev-libs/libpcre
 DESCRIPTION=A subset of NCBI C++ Toolkit containing just the NCBI BLAST+
-LICENSE=public-domain
-IUSE=debug static-libs static threads pch test wxwidgets odbc berkdb boost bzip2 cppunit curl expat fastcgi fltk freetype gif glut gnutls hdf5 icu jpeg lzo mesa mysql muparser opengl pcre png python sablotron sqlite sqlite3 tiff xerces xalan xml xpm xslt X python_targets_python2_7
-REQUIRED_USE=python_targets_python2_7
-SRC_URI=ftp://ftp.ncbi.nih.gov/blast/executables/blast+/2.2.30/ncbi-blast-2.2.30+-src.tar.gz
-KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+EAPI=5
 HOMEPAGE=http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=toolkit
+IUSE=debug static-libs static threads pch test wxwidgets odbc berkdb boost bzip2 cppunit curl expat fastcgi fltk freetype gif glut gnutls hdf5 icu jpeg lzo mesa mysql muparser opengl pcre png python sablotron sqlite sqlite3 tiff xerces xalan xml xpm xslt X python_targets_python2_7
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+LICENSE=public-domain
 RDEPEND=!sci-biology/ncbi-tools++ !sci-biology/sra_sdk berkdb? ( sys-libs/db:4.3[cxx] ) boost? ( dev-libs/boost ) curl? ( net-misc/curl ) sqlite? ( dev-db/sqlite:0 ) sqlite3? ( dev-db/sqlite:3 ) mysql? ( virtual/mysql ) fltk? ( x11-libs/fltk ) opengl? ( virtual/opengl media-libs/glew ) mesa? ( media-libs/mesa[osmesa] ) glut? ( media-libs/freeglut ) freetype? ( media-libs/freetype ) fastcgi? ( www-apache/mod_fastcgi ) gnutls? ( net-libs/gnutls ) python? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_5(-),-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),python_single_target_python2_7(+)] ) cppunit? ( dev-util/cppunit ) icu? ( dev-libs/icu ) expat? ( dev-libs/expat ) sablotron? ( app-text/sablotron ) xml? ( dev-libs/libxml2 ) xslt? ( dev-libs/libxslt ) xerces? ( dev-libs/xerces-c ) xalan? ( dev-libs/xalan-c ) muparser? ( dev-cpp/muParser ) hdf5? ( sci-libs/hdf5[cxx] ) gif? ( media-libs/giflib ) jpeg? ( virtual/jpeg:0= ) png? ( media-libs/libpng:0= ) tiff? ( media-libs/tiff:0= ) xpm? ( x11-libs/libXpm ) dev-libs/lzo app-arch/bzip2 dev-libs/libpcre
+REQUIRED_USE=python_targets_python2_7
+SLOT=0
+SRC_URI=ftp://ftp.ncbi.nih.gov/blast/executables/blast+/2.2.30/ncbi-blast-2.2.30+-src.tar.gz
+_eclasses_=eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	python-single-r1	3b63e63ae2b19314bc2a8704f8b09437	python-utils-r1	39c6b012a0512678e698e712b5b7ecc2	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
+_md5_=a84bc7be0f1c6a39f516756e25c7f397

@@ -1,14 +1,14 @@
-_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	flag-o-matic	2090c5a622458303e6bf68837ac6b96	python-any-r1	fdd97a8376ac7d4e15c8e254b06915fd	versionator	99ae9d758cbe7cfed19170e7d48f5a9c	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	eutils	351a78113be5b393c09a2c948701ad36	python-utils-r1	c595450196ccd7d3fac66424be096ffc
-_md5_=b5d16adfbbbe98676ebf479c37275df2
-SLOT=0
 DEFINED_PHASES=configure install postinst prepare setup
-EAPI=5
 DEPEND=virtual/blas virtual/lapack afterimage? ( media-libs/libafterimage ) boost? ( dev-libs/boost ) fftw? ( sci-libs/fftw[mpi?] ) hdf5? ( sci-libs/hdf5[mpi?] ) hypre? ( >=sci-libs/hypre-2.8.0b[mpi?] ) mpi? ( virtual/mpi[cxx?,fortran?] ) mumps? ( sci-libs/mumps[mpi?] sci-libs/scalapack ) scotch? ( sci-libs/scotch[mpi?] ) sparse? ( sci-libs/suitesparse >=sci-libs/cholmod-1.7.0 ) superlu? ( sci-libs/superlu ) X? ( x11-libs/libX11 ) || ( >=dev-lang/python-2.7.5-r2:2.7 ) virtual/pkgconfig dev-util/cmake virtual/fortran
 DESCRIPTION=Portable, Extensible Toolkit for Scientific Computation
-LICENSE=petsc
-IUSE=afterimage boost complex-scalars cxx debug doc fftw fortran hdf5 hypre mpi mumps scotch sparse superlu threads X
-REQUIRED_USE=afterimage? ( X ) hdf5? ( mpi ) hypre? ( cxx mpi ) mumps? ( mpi scotch ) scotch? ( mpi ) ^^ ( hypre superlu )
-SRC_URI=http://ftp.mcs.anl.gov/pub/petsc/release-snapshots/petsc-3.6.0.tar.gz
-KEYWORDS=~x86 ~amd64
+EAPI=5
 HOMEPAGE=http://www.mcs.anl.gov/petsc/
+IUSE=afterimage boost complex-scalars cxx debug doc fftw fortran hdf5 hypre mpi mumps scotch sparse superlu threads X
+KEYWORDS=~x86 ~amd64
+LICENSE=petsc
 RDEPEND=virtual/blas virtual/lapack afterimage? ( media-libs/libafterimage ) boost? ( dev-libs/boost ) fftw? ( sci-libs/fftw[mpi?] ) hdf5? ( sci-libs/hdf5[mpi?] ) hypre? ( >=sci-libs/hypre-2.8.0b[mpi?] ) mpi? ( virtual/mpi[cxx?,fortran?] ) mumps? ( sci-libs/mumps[mpi?] sci-libs/scalapack ) scotch? ( sci-libs/scotch[mpi?] ) sparse? ( sci-libs/suitesparse >=sci-libs/cholmod-1.7.0 ) superlu? ( sci-libs/superlu ) X? ( x11-libs/libX11 ) virtual/fortran
+REQUIRED_USE=afterimage? ( X ) hdf5? ( mpi ) hypre? ( cxx mpi ) mumps? ( mpi scotch ) scotch? ( mpi ) ^^ ( hypre superlu )
+SLOT=0
+SRC_URI=http://ftp.mcs.anl.gov/pub/petsc/release-snapshots/petsc-3.6.0.tar.gz
+_eclasses_=eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	python-any-r1	22fd4ff5f65f020695315a5127524a91	python-utils-r1	39c6b012a0512678e698e712b5b7ecc2	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=b5d16adfbbbe98676ebf479c37275df2
