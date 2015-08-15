@@ -410,7 +410,7 @@ sci-biology/tigr-assembler 2.0: A whole-genome shotgun assembler from TIGR
 sci-biology/tigr-closure 20080106: TIGR closure tools for the assembly/finishing stage of DNA sequencing projects
 sci-biology/tigr-foundation-libs 2.0-r1: TIGR Foundation for C++
 sci-biology/tmhmm 2.0c: Prediction of transmembrane helices in proteins
-sci-biology/tophat 2.0.12 2.0.13 2.0.14: Python-based splice junction mapper for RNA-Seq reads using bowtie/bowtie2
+sci-biology/tophat 2.0.12 2.0.13 2.0.14 2.1.0: Python-based splice junction mapper for RNA-Seq reads using bowtie/bowtie2
 sci-biology/trans-abyss 1.4.8: Analyze and combine multiple assemblies from abyss
 sci-biology/trf 4.07b: Tandem Repeats Finder
 sci-biology/trim_galore 0.4.0: Perl wrapper around Cutadapt and FastQC to adapter and quality trimming
