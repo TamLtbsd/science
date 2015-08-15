@@ -742,7 +742,7 @@ sci-physics/looptools 2.8 2.9 2.10 2.11 2.12: Tools for evaluation of scalar and
 sci-physics/mc-tester 1.25.0: A universal tool for comparisons of Monte Carlo predictions in High Energy Physics
 sci-physics/openmx 3.6 3.7.8: Material eXplorer using DFT, NC pseudopotentials, and pseudo-atomic localized basis functions
 sci-physics/qcl 0.6.3-r1 0.6.4: Quantum Computation Language with an emulator of a quantum computer
-sci-physics/rivet 2.1.1 2.1.2: Toolkit for validation of Monte Carlo HEP event generators
+sci-physics/rivet 2.1.1 2.1.2 2.3.0: Toolkit for validation of Monte Carlo HEP event generators
 sci-physics/root 9999: C++ data analysis framework and interpreter from CERN
 sci-physics/tauola 1.1.3 1.1.4 1.1.5 9999: tau decay Monte Carlo generator
 sci-physics/thepeg 1.8.3-r1 1.9.0-r2 1.9.1-r1 1.9.2: Toolkit for High Energy Physics Event Generation
