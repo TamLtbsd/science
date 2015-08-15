@@ -1,14 +1,13 @@
-_eclasses_=
-_md5_=e58c8fcbbefef2456f246be6b46bcb41
-SLOT=0
 DEFINED_PHASES=configure install prepare
-EAPI=4
 DEPEND=X? ( x11-libs/motif )
 DESCRIPTION=Clustering software for microarray analysis
-LICENSE=Eisen
-IUSE=X
-RESTRICT=fetch
-SRC_URI=cluster-1.50.tar.gz
-KEYWORDS=~amd64 ~x86
+EAPI=4
 HOMEPAGE=http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/software/cluster/software.htm#ctv
+IUSE=X
+KEYWORDS=~amd64 ~x86
+LICENSE=Eisen
 RDEPEND=!>=media-gfx/graphviz-2.28.0 X? ( x11-misc/xdg-utils app-text/mupdf )
+RESTRICT=fetch
+SLOT=0
+SRC_URI=cluster-1.50.tar.gz
+_md5_=e58c8fcbbefef2456f246be6b46bcb41

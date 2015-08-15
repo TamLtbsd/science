@@ -1,9 +1,8 @@
-_eclasses_=
-_md5_=3ba3aea50ab39a537ace14c8a94879c0
-SLOT=0
 DEFINED_PHASES=-
-EAPI=5
 DESCRIPTION=Atlas Whole Genome Assembly Suite
-LICENSE=ATLAS
-SRC_URI=https://www.hgsc.bcm.edu/sites/default/files/software/Atlas/atlas-src.tgz
+EAPI=5
 HOMEPAGE=https://www.hgsc.bcm.edu/software/atlas-whole-genome-assembly-suite
+LICENSE=ATLAS
+SLOT=0
+SRC_URI=https://www.hgsc.bcm.edu/sites/default/files/software/Atlas/atlas-src.tgz
+_md5_=3ba3aea50ab39a537ace14c8a94879c0

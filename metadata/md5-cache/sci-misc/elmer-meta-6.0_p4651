@@ -1,10 +1,9 @@
-_eclasses_=
-_md5_=bc004bc21ab999d35541ed802da2a7bb
-SLOT=0
 DEFINED_PHASES=postinst
-EAPI=5
 DEPEND=~sci-libs/matc-6.0_p4651 ~sci-misc/elmer-elmergrid-6.0_p4651 ~sci-misc/elmer-meshgen2d-6.0_p4651 ~sci-libs/elmer-eio-6.0_p4651 ~sci-libs/elmer-hutiter-6.0_p4651 ~sci-misc/elmer-fem-6.0_p4651 ~sci-misc/elmer-post-6.0_p4651 ~sci-misc/elmer-front-6.0_p4651
 DESCRIPTION=Collection of finite element programs, libraries, and visualization tools
-LICENSE=GPL-2
-KEYWORDS=~amd64 ~x86
+EAPI=5
 HOMEPAGE=http://www.csc.fi/english/pages/elmer
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+SLOT=0
+_md5_=bc004bc21ab999d35541ed802da2a7bb

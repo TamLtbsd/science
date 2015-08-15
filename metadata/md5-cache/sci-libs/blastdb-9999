@@ -1,10 +1,9 @@
-_eclasses_=
-_md5_=f3755940d071cb81ce118786b1de3705
-SLOT=0
 DEFINED_PHASES=unpack
-EAPI=5
 DEPEND=sci-biology/ncbi-tools++
 DESCRIPTION=The BLAST NR database
+EAPI=5
+HOMEPAGE=http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=ProgSelectionGuide
 LICENSE=all-rights-reserved
 RESTRICT=binchecks strip
-HOMEPAGE=http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=ProgSelectionGuide
+SLOT=0
+_md5_=f3755940d071cb81ce118786b1de3705

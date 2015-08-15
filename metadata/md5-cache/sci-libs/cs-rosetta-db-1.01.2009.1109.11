@@ -1,11 +1,11 @@
-_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	2090c5a622458303e6bf68837ac6b96
-_md5_=9bff487098d239a4466398d4b4c6807f
-SLOT=0
 DEFINED_PHASES=install prepare unpack
-EAPI=5
 DESCRIPTION=System for chemical shifts based protein structure prediction using ROSETTA
+EAPI=5
+HOMEPAGE=http://spin.niddk.nih.gov/bax/software/CSROSETTA/
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 LICENSE=all-rights-reserved
 RESTRICT=binchecks mirror strip
+SLOT=0
 SRC_URI=http://spin.niddk.nih.gov/bax/software/CSROSETTA/PDBH.tar.Z -> cs-rosetta-db-1.01.2009.1109.11-PDBH.tar.Z http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/PDBH.hyb.tar.gz -> cs-rosetta-db-1.01.2009.1109.11-PDBH.hyb.tar.gz http://spin.niddk.nih.gov/bax/software/CSROSETTA/CS.tar.Z -> cs-rosetta-db-1.01.2009.1109.11-CS.tar.Z http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/CS.hyb.tar.gz -> cs-rosetta-db-1.01.2009.1109.11-CS.hyb.tar.gz http://spin.niddk.nih.gov/bax/software/CSROSETTA/ANGLESS.tar.Z -> cs-rosetta-db-1.01.2009.1109.11-ANGLESS.tar.Z http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/ANGLESS.hyb.tar.gz -> cs-rosetta-db-1.01.2009.1109.11-ANGLESS.hyb.tar.gz http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/vall.dat.apr24.gz -> cs-rosetta-db-1.01.2009.1109.11-vall.dat.apr24.gz
-KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
-HOMEPAGE=http://spin.niddk.nih.gov/bax/software/CSROSETTA/
+_eclasses_=eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
+_md5_=9bff487098d239a4466398d4b4c6807f

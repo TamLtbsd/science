@@ -1,11 +1,10 @@
-_eclasses_=
-_md5_=17a5121b2022c2a09ec61a6ddbdd9b8c
-SLOT=0
 DEFINED_PHASES=install prepare
-EAPI=5
 DESCRIPTION=GUI application written in Perl to design primers for standard PCR, bisulphite PCR and Real-time PCR
-LICENSE=GPL-2
-SRC_URI=mirror://sourceforge/perlprimer/perlprimer-1.1.21.tar.bz2
-KEYWORDS=~amd64 ~x86
+EAPI=5
 HOMEPAGE=http://perlprimer.sourceforge.net/
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
 RDEPEND=dev-perl/perl-tk dev-perl/libwww-perl >=sci-biology/rebase-904
+SLOT=0
+SRC_URI=mirror://sourceforge/perlprimer/perlprimer-1.1.21.tar.bz2
+_md5_=17a5121b2022c2a09ec61a6ddbdd9b8c

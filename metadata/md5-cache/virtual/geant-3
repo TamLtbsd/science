@@ -1,8 +1,7 @@
-_eclasses_=
-_md5_=3cf05b4e8adcaa399b25df3e0c0648ac
-SLOT=3
 DEFINED_PHASES=-
-EAPI=5
 DESCRIPTION=Virtual for Geant-3
+EAPI=5
 KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 RDEPEND=|| ( sci-physics/geant:3 sci-physics/geant-vmc:3 )
+SLOT=3
+_md5_=3cf05b4e8adcaa399b25df3e0c0648ac

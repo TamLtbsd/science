@@ -1,12 +1,11 @@
-_eclasses_=
-_md5_=d7fafd029e368493d85a44bbc7cc1902
-SLOT=0
 DEFINED_PHASES=configure
-EAPI=5
 DEPEND==sci-biology/jellyfish-2.1.4
 DESCRIPTION=Illumina reads error corrector
-LICENSE=GPL-3
-SRC_URI=ftp://ftp.genome.umd.edu/pub/QuorUM/quorum-1.0.0.tar.gz
-KEYWORDS=~amd64
+EAPI=5
 HOMEPAGE=http://www.genome.umd.edu/quorum.html
+KEYWORDS=~amd64
+LICENSE=GPL-3
 RDEPEND==sci-biology/jellyfish-2.1.4
+SLOT=0
+SRC_URI=ftp://ftp.genome.umd.edu/pub/QuorUM/quorum-1.0.0.tar.gz
+_md5_=d7fafd029e368493d85a44bbc7cc1902

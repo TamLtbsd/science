@@ -1,9 +1,8 @@
-_eclasses_=
-_md5_=769695193d35505a1f528debcedf4a41
-SLOT=0
 DEFINED_PHASES=-
-EAPI=5
 DESCRIPTION=Virtual for ScaLAPACK implementation
+EAPI=5
 IUSE=doc
 KEYWORDS=~amd64 ~x86 ~amd64-linux
 RDEPEND=|| ( >=sci-libs/scalapack-2.0 >=sci-libs/mkl-10.3 ) doc? ( >=app-doc/scalapack-docs-2.0 )
+SLOT=0
+_md5_=769695193d35505a1f528debcedf4a41

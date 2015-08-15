@@ -1,13 +1,13 @@
-_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	alternatives-2	b8a82faff2dac72e18c7976198090561	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	eutils	351a78113be5b393c09a2c948701ad36
-_md5_=a303a7a920f22090ab5a35c7db3f66b0
-SLOT=0
 DEFINED_PHASES=compile configure install postinst prepare prerm test
-EAPI=5
 DEPEND=virtual/fortran >=app-admin/eselect-1.4.4-r102
 DESCRIPTION=Fast implementations of the Basic Linear Algebra Subroutines
-LICENSE=BSD
-IUSE=+incblas int64 dynamic openmp static-libs threads
-SRC_URI=http://dev.gentoo.org/~bicatali/GotoBLAS2-1.13_bsd.tar.gz
-KEYWORDS=~amd64 ~x86 ~x86-macos ~ppc-macos ~x64-macos
+EAPI=5
 HOMEPAGE=http://www.tacc.utexas.edu/tacc-projects/gotoblas2/
+IUSE=+incblas int64 dynamic openmp static-libs threads
+KEYWORDS=~amd64 ~x86 ~x86-macos ~ppc-macos ~x64-macos
+LICENSE=BSD
 RDEPEND=virtual/fortran >=app-admin/eselect-1.4.4-r102 !app-admin/eselect-blas !app-admin/eselect-cblas !app-admin/eselect-lapack
+SLOT=0
+SRC_URI=http://dev.gentoo.org/~bicatali/GotoBLAS2-1.13_bsd.tar.gz
+_eclasses_=alternatives-2	b8a82faff2dac72e18c7976198090561	eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
+_md5_=a303a7a920f22090ab5a35c7db3f66b0

@@ -1,10 +1,9 @@
-_eclasses_=
-_md5_=2b4ca3e8bfc4ead4c0cabe1ca602347c
-SLOT=0
 DEFINED_PHASES=compile install prepare test
-EAPI=3
 DESCRIPTION=A whole-genome shotgun assembler from TIGR
-LICENSE=Artistic
-SRC_URI=ftp://ftp.tigr.org/pub/software/assembler/TIGR_Assembler_v2.tar.gz
-KEYWORDS=~amd64 ~x86
+EAPI=3
 HOMEPAGE=http://www.tigr.org/software/assembler/
+KEYWORDS=~amd64 ~x86
+LICENSE=Artistic
+SLOT=0
+SRC_URI=ftp://ftp.tigr.org/pub/software/assembler/TIGR_Assembler_v2.tar.gz
+_md5_=2b4ca3e8bfc4ead4c0cabe1ca602347c

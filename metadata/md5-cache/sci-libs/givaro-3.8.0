@@ -1,12 +1,11 @@
-_eclasses_=
-_md5_=619e8d0b2701543fcc41e3f0cd11d05a
-SLOT=0
 DEFINED_PHASES=configure
-EAPI=5
 DEPEND=>=dev-libs/gmp-4.1-r1
 DESCRIPTION=C++ library for arithmetic and algebraic computations
-LICENSE=CeCILL-B
-SRC_URI=https://forge.imag.fr/frs/download.php/592/givaro-3.8.0.tar.gz
-KEYWORDS=~amd64 ~ppc ~x86 ~ppc64
+EAPI=5
 HOMEPAGE=http://ljk.imag.fr/CASYS/LOGICIELS/givaro/
+KEYWORDS=~amd64 ~ppc ~x86 ~ppc64
+LICENSE=CeCILL-B
 RDEPEND=>=dev-libs/gmp-4.1-r1
+SLOT=0
+SRC_URI=https://forge.imag.fr/frs/download.php/592/givaro-3.8.0.tar.gz
+_md5_=619e8d0b2701543fcc41e3f0cd11d05a

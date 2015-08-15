@@ -1,10 +1,9 @@
-_eclasses_=
-_md5_=504ce69f5ea2898e333ba64feafcfbb5
-SLOT=0
 DEFINED_PHASES=install
-EAPI=5
 DESCRIPTION=Perl wrapper around Cutadapt and FastQC to adapter and quality trimming
-LICENSE=GPL-3
-SRC_URI=http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/trim_galore_v0.4.0.zip
+EAPI=5
 HOMEPAGE=http://www.bioinformatics.babraham.ac.uk/projects/trim_galore
+LICENSE=GPL-3
 RDEPEND=dev-lang/perl sci-biology/cutadapt sci-biology/fastqc
+SLOT=0
+SRC_URI=http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/trim_galore_v0.4.0.zip
+_md5_=504ce69f5ea2898e333ba64feafcfbb5

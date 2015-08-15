@@ -1,10 +1,9 @@
-_eclasses_=
-_md5_=c669361a2b893483ab24c4a6c9593e69
-SLOT=0
 DEFINED_PHASES=install unpack
-EAPI=5
 DESCRIPTION=The X Window-System-based Visual/Integrated Environment for Workstations - binary package
-LICENSE=XVIEW
-IUSE=static-libs
-SRC_URI=mirror://debian/pool/main/x/xview/xviewg_3.2p1.4-28.1_i386.deb
+EAPI=5
 HOMEPAGE=http://physionet.caregroup.harvard.edu/physiotools/xview/
+IUSE=static-libs
+LICENSE=XVIEW
+SLOT=0
+SRC_URI=mirror://debian/pool/main/x/xview/xviewg_3.2p1.4-28.1_i386.deb
+_md5_=c669361a2b893483ab24c4a6c9593e69

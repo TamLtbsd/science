@@ -1,10 +1,9 @@
-_eclasses_=
-_md5_=e86382e5dd672391f1d8d5eb915e45e0
-SLOT=0
 DEFINED_PHASES=configure
-EAPI=5
 DESCRIPTION=Some dependency for transdecoder
-LICENSE=BSD-BroadInstitute
-SRC_URI=http://downloads.sourceforge.net/project/transdecoder/TransDecoder_r20140704.tar.gz
-KEYWORDS=~amd64
+EAPI=5
 HOMEPAGE=http://sourceforge.net/projects/transdecoder/
+KEYWORDS=~amd64
+LICENSE=BSD-BroadInstitute
+SLOT=0
+SRC_URI=http://downloads.sourceforge.net/project/transdecoder/TransDecoder_r20140704.tar.gz
+_md5_=e86382e5dd672391f1d8d5eb915e45e0

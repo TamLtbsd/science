@@ -1,11 +1,10 @@
-_eclasses_=
-_md5_=2aef857a451b595fa8976665a4f0e4d0
-SLOT=0
 DEFINED_PHASES=install
-EAPI=3
 DESCRIPTION=Adaptor and MID removal / trimming tool, also for Illumina-oriented paired-end reads
-LICENSE=Artistic
-SRC_URI=http://sourceforge.net/projects/skewer/files/Binaries/skewer-0.1.104-linux-x86_64 http://sourceforge.net/projects/skewer/files/Scripts/srna-scripts-0.1.2.tar.gz
-KEYWORDS=~amd64
+EAPI=3
 HOMEPAGE=http://sourceforge.net/projects/skewer
+KEYWORDS=~amd64
+LICENSE=Artistic
 RDEPEND=dev-lang/perl
+SLOT=0
+SRC_URI=http://sourceforge.net/projects/skewer/files/Binaries/skewer-0.1.104-linux-x86_64 http://sourceforge.net/projects/skewer/files/Scripts/srna-scripts-0.1.2.tar.gz
+_md5_=2aef857a451b595fa8976665a4f0e4d0

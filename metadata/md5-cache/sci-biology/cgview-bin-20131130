@@ -1,12 +1,12 @@
-_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	java-pkg-2	bb9b8157d2a348d9ec42ce34a107fe0d	java-utils-2	7c8af272d218f7b7df22fd16bb0bfb63	versionator	99ae9d758cbe7cfed19170e7d48f5a9c	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	unpacker	1ca344bd9b922a7f8084a3fa02933b79	multiprocessing	d769539d9bace6eaca30af23bc2b4dde	eutils	351a78113be5b393c09a2c948701ad36	perl-module	1cfb38bf68a24c8394e41d2f53003146
-_md5_=19bb3d1676dc2bbab929e8168932f4fc
-SLOT=0
 DEFINED_PHASES=compile install preinst prepare setup test unpack
-EAPI=5
 DEPEND=>=dev-lang/perl-5.8.8 >=sci-biology/ncbi-tools-2.2.15 >=virtual/jre-1.4.2:* dev-java/xerces:2 dev-java/batik dev-java/commons-lang:2.1 >=media-gfx/imagemagick-6 >=sci-biology/bioperl-1.4.0 >=dev-java/java-config-2.2.0 dev-lang/perl:=[-build(-)]
 DESCRIPTION=CGView Comparison Tool to compare genome sequences graphically (aka CCT)
-LICENSE=GPL-2
-IUSE=elibc_FreeBSD
-SRC_URI=http://www.ualberta.ca/~stothard/downloads/cgview_comparison_tool.zip
+EAPI=5
 HOMEPAGE=http://stothard.afns.ualberta.ca/downloads/CCT
+IUSE=elibc_FreeBSD
+LICENSE=GPL-2
 RDEPEND=>=dev-lang/perl-5.8.8 >=sci-biology/ncbi-tools-2.2.15 >=virtual/jre-1.4.2:* dev-java/xerces:2 dev-java/batik dev-java/commons-lang:2.1 >=media-gfx/imagemagick-6 >=sci-biology/bioperl-1.4.0 >=dev-java/java-config-2.2.0 dev-lang/perl:=[-build(-)]
+SLOT=0
+SRC_URI=http://www.ualberta.ca/~stothard/downloads/cgview_comparison_tool.zip
+_eclasses_=eutils	351a78113be5b393c09a2c948701ad36	java-pkg-2	bb9b8157d2a348d9ec42ce34a107fe0d	java-utils-2	7c8af272d218f7b7df22fd16bb0bfb63	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	multiprocessing	d769539d9bace6eaca30af23bc2b4dde	perl-module	1cfb38bf68a24c8394e41d2f53003146	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	unpacker	1ca344bd9b922a7f8084a3fa02933b79	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=19bb3d1676dc2bbab929e8168932f4fc

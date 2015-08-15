@@ -1,14 +1,14 @@
-_eclasses_=toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	alternatives-2	b8a82faff2dac72e18c7976198090561	eutils	351a78113be5b393c09a2c948701ad36
-_md5_=735e18829c2f89d2be5c5cbcc191d881
-SLOT=0
 DEFINED_PHASES=install postinst prerm setup test unpack
-EAPI=5
 DEPEND=>=app-admin/eselect-1.4.4-r102 virtual/fortran
 DESCRIPTION=AMD Core Math Library for amd64 CPUs
-LICENSE=ACML
-IUSE=doc examples cpu_flags_x86_fma4 gfortran ifort int64 open64 openmp pgi static-libs test
-RESTRICT=fetch strip mirror
-SRC_URI=amd64? ( gfortran? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-gfortran-64bit.tgz int64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-gfortran-64bit-int64.tgz ) ) ifort? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-ifort-64bit.tgz int64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-ifort-64bit-int64.tgz ) ) open64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-open64-64bit.tgz int64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-open64-64bit-int64.tgz ) ) pgi? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-pgi-64bit.tgz int64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-pgi-64bit-int64.tgz ) ) !gfortran? ( !ifort? ( !open64? ( !pgi? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-gfortran-64bit.tgz int64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-gfortran-64bit-int64.tgz ) ) ) ) ) )
-KEYWORDS=-* ~amd64 ~amd64-linux
+EAPI=5
 HOMEPAGE=http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources/
+IUSE=doc examples cpu_flags_x86_fma4 gfortran ifort int64 open64 openmp pgi static-libs test
+KEYWORDS=-* ~amd64 ~amd64-linux
+LICENSE=ACML
 RDEPEND=>=app-admin/eselect-1.4.4-r102 !app-admin/eselect-blas !app-admin/eselect-cblas !app-admin/eselect-lapack virtual/fortran
+RESTRICT=fetch strip mirror
+SLOT=0
+SRC_URI=amd64? ( gfortran? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-gfortran-64bit.tgz int64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-gfortran-64bit-int64.tgz ) ) ifort? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-ifort-64bit.tgz int64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-ifort-64bit-int64.tgz ) ) open64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-open64-64bit.tgz int64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-open64-64bit-int64.tgz ) ) pgi? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-pgi-64bit.tgz int64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-pgi-64bit-int64.tgz ) ) !gfortran? ( !ifort? ( !open64? ( !pgi? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-gfortran-64bit.tgz int64? ( http://developer.amd.com/tools-and-sdks/cpu-development/amd-core-math-library-acml/acml-downloads-resources//acml-5-3-1-gfortran-64bit-int64.tgz ) ) ) ) ) )
+_eclasses_=alternatives-2	b8a82faff2dac72e18c7976198090561	eutils	351a78113be5b393c09a2c948701ad36	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=735e18829c2f89d2be5c5cbcc191d881
