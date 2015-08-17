@@ -10,4 +10,4 @@ RDEPEND=hdf5? ( sci-libs/cgnslib[hdf5] ) !hdf5? ( sci-libs/cgnslib[-hdf5] ) tcl?
 SLOT=0
 SRC_URI=mirror://sourceforge/cgns/cgnstools-2-5-4.tar.gz
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=667ae1f8c6e064a908295f68ce88d6cb
+_md5_=8c3ae14ad314d31668569907328b5114

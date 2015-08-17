@@ -6,4 +6,4 @@ KEYWORDS=-* ~amd64 ~x86 ~amd64-linux ~x86-linux
 LICENSE=GPL-2
 SLOT=0
 SRC_URI=amd64? ( http://ftp.jach.hawaii.edu/starlink/hikianalia/starlink-hikianalia-Linux-64bit.tar.gz ) x86? ( http://ftp.jach.hawaii.edu/starlink/hikianalia/starlink-hikianalia-Linux-32bit.tar.gz )
-_md5_=e58394c3db92fb11c52c2f58de59ad80
+_md5_=02256222df63e127cc1bc394fbe82395

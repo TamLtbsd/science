@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=dev-lang/gdl sci-astronomy/idlastro
 SLOT=0
 SRC_URI=mirror://sourceforge/healpix_idl/Healpix_3.11/Healpix_3.11_2013Apr24.tar.gz
-_md5_=4b41e40b54c9751c2ef194f54875cc8f
+_md5_=29d1e91cf6e31db8f11347a280e2e384

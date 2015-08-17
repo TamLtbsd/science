@@ -7,4 +7,4 @@ LICENSE=tmhmm
 RESTRICT=fetch
 SLOT=0
 SRC_URI=tmhmm-2.0c.Linux.tar.gz
-_md5_=8cb2aaab786e16c5415f8c4bc5e77b17
+_md5_=5f3177611499a0ada11342e72306e2e2

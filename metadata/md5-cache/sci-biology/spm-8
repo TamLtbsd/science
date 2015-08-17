@@ -8,4 +8,4 @@ LICENSE=GPL-2+
 RDEPEND=>=sci-mathematics/octave-3.6.4
 SLOT=0
 SRC_URI=http://www.fil.ion.ucl.ac.uk/spm/download/restricted/idyll/spm8.zip
-_md5_=d75d290d640114cd7b9cf8e2586440d6
+_md5_=4aa255ddc052a8581d27377842372ae9

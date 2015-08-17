@@ -9,5 +9,5 @@ LICENSE=BSD
 RDEPEND=sys-infiniband/libibverbs:= sys-infiniband/libibumad:= sys-infiniband/libibmad:= sys-infiniband/librdmacm:= virtual/fortran
 SLOT=0
 SRC_URI=http://mvapich.cse.ohio-state.edu//download/mvapich2/mvapich2-1.6.tgz
-_eclasses_=eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	mpi	6f52363e5918c57f0b1f16596ca8ba84	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=3ffba2aeba62d06e20a48601fe32be02
+_eclasses_=eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	mpi	c69a201a2f1d45d39942c057d982de71	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
+_md5_=79232348dbe25306fd6f1b4f76208877

@@ -6,4 +6,4 @@ KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 LICENSE=BSD
 SLOT=0
 SRC_URI=http://dev.gentoo.org/~bicatali/distfiles/scalapack-docs-2.0.tar.bz2
-_md5_=6059f6ae4c595dfcb1bf7a9cec1f4502
+_md5_=8071cd829ac2fb1aa4d9ff7e89d143a1

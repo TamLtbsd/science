@@ -5,4 +5,4 @@ HOMEPAGE=https://www.hgsc.bcm.edu/software/atlas-whole-genome-assembly-suite
 LICENSE=ATLAS
 SLOT=0
 SRC_URI=https://www.hgsc.bcm.edu/sites/default/files/software/Atlas/atlas-src.tgz
-_md5_=3ba3aea50ab39a537ace14c8a94879c0
+_md5_=691079ccba7303add8d5a924389a2c69

@@ -7,4 +7,4 @@ LICENSE=all-rights-reserved
 RESTRICT=strip binchecks
 SLOT=0
 SRC_URI=http://research.chemistry.ohio-state.edu/bruschweiler/files/2013/09/nmr1.tar -> amber99sbnmr-0_pre130901.tar
-_md5_=5168d0298872fef98fed44c88eaa6b35
+_md5_=ce51f2601cadd0600659bbb0d99a9dfc

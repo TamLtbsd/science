@@ -8,4 +8,4 @@ LICENSE=GPL-3
 RDEPEND=sci-libs/libmaus
 SLOT=0
 SRC_URI=https://github.com/gt1/biobambam/archive/0.0.183-release-20141208165400.tar.gz
-_md5_=a5e488415ad7a8868fff927156e8699c
+_md5_=68be641cbc40b9db2270c26b4f9ba6a2

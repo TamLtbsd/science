@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=dev-lang/tk dev-texlive/texlive-metapost
 SLOT=0
 SRC_URI=http://stud4.tuwien.ac.at/~e0225855/finomaton/finomaton-1.0.tar.gz
-_md5_=0d560085ebb4a5216bb91883a595898b
+_md5_=4e2a0a553cb28d5da13cf44447dde49d

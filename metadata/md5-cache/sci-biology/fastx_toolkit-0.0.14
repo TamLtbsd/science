@@ -9,4 +9,4 @@ RDEPEND=dev-perl/PerlIO-gzip dev-perl/GDGraph sys-apps/sed sci-visualization/gnu
 SLOT=0
 SRC_URI=https://github.com/agordon/fastx_toolkit/releases/download/0.0.14/fastx_toolkit-0.0.14.tar.bz2
 _eclasses_=autotools	8056957fdccf2b3cd6e282a4b4551d1a	libtool	7f78cd7d403808a350c9ae23f5821fb4	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=2bec5555f3109455b5cc0f5ade7aa1e8
+_md5_=40e1f1547109b2bd648fd6a54be2d3c0

@@ -10,4 +10,4 @@ RDEPEND=x11-libs/gtk+:2 dev-libs/glib:2 x11-libs/pango media-libs/libpng virtual
 SLOT=0
 SRC_URI=http://www-drfmc.cea.fr/sp2m/L_Sim/V_Sim/download/v_sim-3.6.0.tar.bz2
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=ee6e7fdff0e0b05a79359231466ba095
+_md5_=3eae4b68509c2e9e3ee7d18226910efc

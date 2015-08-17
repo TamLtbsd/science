@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=sys-libs/libtermcap-compat sys-libs/readline
 SLOT=0
 SRC_URI=http://dingo.sbs.arizona.edu/~mhulden/foma-0.9.14alpha.tar.gz
-_md5_=2f3e52539092dbb79a7bc7e53fff61ac
+_md5_=086fce05b1e93d5276d4df903624287d

@@ -7,4 +7,4 @@ LICENSE=GPL-3
 SLOT=0
 SRC_URI=https://github.com/alexdobin/STAR/archive/STAR_2.4.1c.tar.gz
 _eclasses_=multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=0020b01153a46f575a959058ffdea6fe
+_md5_=4331497a62d7023651df6e58eff72b6f

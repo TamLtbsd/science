@@ -7,4 +7,4 @@ LICENSE=Artistic
 SLOT=0
 SRC_URI=ftp://ftp.cbcb.umd.edu/pub/software/autoEditor/autoEditor-1.20.tar.gz
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=b12c9723707aff76a80e800a0fc765fa
+_md5_=385116a97b76251113f0f904ee11b8f1

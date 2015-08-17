@@ -4,4 +4,4 @@ EAPI=5
 KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 RDEPEND=|| ( >=sci-libs/cblas-reference-20110218 sci-libs/openblas >=sci-libs/gsl-1.15-r3[-cblas-external] >=sci-libs/gotoblas2-1.13 >=sci-libs/atlas-3.9.34 >=sci-libs/mkl-10.3 )
 SLOT=0
-_md5_=f3c26f94673506a9e72e20740a9730aa
+_md5_=db03c8c2a6bac15954b3ccaff01b2a1e

@@ -6,4 +6,4 @@ KEYWORDS=~amd64
 LICENSE=GPL-3
 SLOT=0
 SRC_URI=http://genome.gsc.riken.jp/osc/english/software/src/tagdust.tgz
-_md5_=d55ed5699c6e9c49d99915dc94ec1cf9
+_md5_=4349be592092a6ffa440f5b2a20f60cc

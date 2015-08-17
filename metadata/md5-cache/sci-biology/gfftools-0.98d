@@ -6,4 +6,4 @@ KEYWORDS=~amd64
 LICENSE=GPL-2
 SLOT=0
 SRC_URI=ftp://genome.imim.es/pub/gff_tools/gff2ps/gff2ps_v0.98d.gz http://genome.imim.es/software/gfftools/gff2ps_docs/manual/MANUAL_GFF2PS_v0.96.ps.gz
-_md5_=3153c42ab569a8b4fb674f4d0e3095e1
+_md5_=aa49ca2786f987f5c521f464eb8ab507

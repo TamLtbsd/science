@@ -10,4 +10,4 @@ RDEPEND=virtual/jpeg:0= png? ( media-libs/libpng:0= ) ssl? ( dev-libs/openssl:= 
 SLOT=0
 SRC_URI=http://dicom.offis.de/download/dcmtk/release/dcmtk-3.6.0.tar.gz https://raw.githubusercontent.com/gentoo-science/sci/master/patches/07_doxygen.patch
 _eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=2870c946b27332c9785bc1fef1518a43
+_md5_=706f6d4857687f419cdc1819318d8142

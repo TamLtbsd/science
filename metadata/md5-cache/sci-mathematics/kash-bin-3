@@ -6,4 +6,4 @@ KEYWORDS=~x86 ~amd64 ~x86-linux ~amd64-linux
 LICENSE=kash
 SLOT=0
 SRC_URI=ftp://ftp.math.tu-berlin.de/pub/algebra/Kant/Kash_3/KASH3-Linux-i686-2008-07-31.tar.bz2 ftp://ftp.math.tu-berlin.de/pub/algebra/Kant/Kash_3/KASH3-lib-archindep-2008-07-31.tar.bz2
-_md5_=b5322bda9a33c6e914f81c0892c9532d
+_md5_=b27eac39c5bc03bbc42289c04ee8622a

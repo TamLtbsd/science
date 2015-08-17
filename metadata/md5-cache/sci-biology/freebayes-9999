@@ -7,4 +7,4 @@ LICENSE=MIT
 RDEPEND=sci-biology/bamtools sci-biology/samtools
 SLOT=0
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	git-2	1bb87192831f668cd20d93ffb1689c94	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=6f1bf56038df6d17a08d6821a5196020
+_md5_=834f979773c510b1c377db2347056e6d

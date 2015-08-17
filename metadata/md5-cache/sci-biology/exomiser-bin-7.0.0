@@ -7,4 +7,4 @@ LICENSE=GPL-3+
 RDEPEND=sci-biology/Jannovar-bin
 SLOT=0
 SRC_URI=ftp://ftp.sanger.ac.uk/pub/resources/software/exomiser/downloads/exomiser/exomiser-cli-7.0.0.BETA-distribution.zip
-_md5_=2ca0f1627119cf5cc4ece9dbeaa16ba9
+_md5_=bdacb7a9bc32f547a8eaf885edd6c3d5

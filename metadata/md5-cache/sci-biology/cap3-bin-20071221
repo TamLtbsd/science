@@ -6,4 +6,4 @@ KEYWORDS=~x86 ~amd64
 LICENSE=Artistic
 SLOT=0
 SRC_URI=x86? ( http://seq.cs.iastate.edu/CAP3/cap3.linux.tar ) amd64? ( http://seq.cs.iastate.edu/CAP3/cap3.linux.i686_xeon64.tar )
-_md5_=a7c384518ac74c1f91bd8b50d67342dc
+_md5_=2348efda05b9b8933ae4576777bb3c77

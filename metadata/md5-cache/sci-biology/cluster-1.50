@@ -10,4 +10,4 @@ RDEPEND=!>=media-gfx/graphviz-2.28.0 X? ( x11-misc/xdg-utils app-text/mupdf )
 RESTRICT=fetch
 SLOT=0
 SRC_URI=cluster-1.50.tar.gz
-_md5_=e58c8fcbbefef2456f246be6b46bcb41
+_md5_=22b7e1108520303016a26c637c70de39

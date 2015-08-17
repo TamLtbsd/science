@@ -9,4 +9,4 @@ RDEPEND=sci-libs/ccp4-libs sci-libs/mmdb virtual/fortran
 SLOT=0
 SRC_URI=http://xray.bmc.uu.se/markh/usf/usf_distribution_kit.tar.gz -> usf-tools-9999.tar.gz http://dev.gentoo.org/~jlec/distfiles/usf-tools-autotools-001.tar.xz
 _eclasses_=autotools	8056957fdccf2b3cd6e282a4b4551d1a	autotools-utils	0bf099a6e3dfeaf20a7a94504d8dd896	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	libtool	7f78cd7d403808a350c9ae23f5821fb4	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=e3904cfc5c138e9ce81417e1276ff6b1
+_md5_=0305ac62d1c0080c56fab28882a79bb0

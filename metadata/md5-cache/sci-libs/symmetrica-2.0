@@ -7,4 +7,4 @@ KEYWORDS=~amd64 ~ppc ~x86 ~ppc64
 LICENSE=MIT
 SLOT=0
 SRC_URI=http://www.neu.uni-bayreuth.de/de/Uni_Bayreuth/Fakultaeten/1_Mathematik_Physik_und_Informatik/Fachgruppe_Informatik/prof_diskrete_algorithmen/en/research/SYMMETRICA/SYM2_0_tar.gz -> symmetrica-2.0.tar.gz
-_md5_=d37a5efebb64b7344d371a5b0a8dd66b
+_md5_=82f2f86e5668bcf905cc874fe086af7c

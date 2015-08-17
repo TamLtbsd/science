@@ -7,4 +7,4 @@ LICENSE=GPL-2
 RDEPEND=dev-perl/perl-tk dev-perl/libwww-perl >=sci-biology/rebase-904
 SLOT=0
 SRC_URI=mirror://sourceforge/perlprimer/perlprimer-1.1.21.tar.bz2
-_md5_=17a5121b2022c2a09ec61a6ddbdd9b8c
+_md5_=4742a81ad5f5779b0c2b54ca46c83b09

@@ -10,4 +10,4 @@ RESTRICT=fetch
 SLOT=0
 SRC_URI=consed-bin-20-sources.tar.gz consed-bin-20-linux.tar.gz
 _eclasses_=multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=d073783d1d1878592f757b81e57011e8
+_md5_=6edf29db65117654bba8b2a2acd1a4ca

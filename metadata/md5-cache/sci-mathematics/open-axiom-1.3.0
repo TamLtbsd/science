@@ -9,4 +9,4 @@ LICENSE=BSD
 RDEPEND=X? ( x11-libs/libXpm )
 SLOT=0
 SRC_URI=mirror://sourceforge/open-axiom/open-axiom-1.3.0.tar.bz2
-_md5_=d5fb60e38781f4bc38d02e898b5f159b
+_md5_=6e97021d47c99eca8d7fc53a062bb4ce

@@ -4,4 +4,4 @@ EAPI=5
 KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 RDEPEND=|| ( sci-physics/geant:3 sci-physics/geant-vmc:3 )
 SLOT=3
-_md5_=3cf05b4e8adcaa399b25df3e0c0648ac
+_md5_=c95efecd032998a03d1d42c9f41c73e0

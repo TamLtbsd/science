@@ -10,4 +10,4 @@ RDEPEND=x11-libs/libXt !x11-terms/terminator app-shells/tcsh dev-perl/Log-Log4pe
 SLOT=0
 SRC_URI=http://sourceforge.net/projects/wgs-assembler/files/wgs-assembler/wgs-8.3/wgs-8.3rc2.tar.bz2
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	python	06d7be3e54573292f012e3cc433d8297	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=fe1f6d19b63b5064f633500e9ef48d51
+_md5_=74cfb5fa4952efcbaf5ec023ff5ec268

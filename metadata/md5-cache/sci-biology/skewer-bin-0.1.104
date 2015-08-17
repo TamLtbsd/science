@@ -7,4 +7,4 @@ LICENSE=Artistic
 RDEPEND=dev-lang/perl
 SLOT=0
 SRC_URI=http://sourceforge.net/projects/skewer/files/Binaries/skewer-0.1.104-linux-x86_64 http://sourceforge.net/projects/skewer/files/Scripts/srna-scripts-0.1.2.tar.gz
-_md5_=2aef857a451b595fa8976665a4f0e4d0
+_md5_=a8da5f28aeb26fc02d3a9bc7fd7ac4d4

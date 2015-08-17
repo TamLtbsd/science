@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=sys-libs/libtermcap-compat sys-libs/readline
 SLOT=0
 SRC_URI=http://foma.googlecode.com/files/foma-0.9.16alpha.tar.gz
-_md5_=40a7f84bab904056417b60bc9253b5d1
+_md5_=395eaf44fe61502a1c558d518050b25c

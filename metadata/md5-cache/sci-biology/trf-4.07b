@@ -8,4 +8,4 @@ RESTRICT=mirror bindist
 SLOT=0
 SRC_URI=http://tandem.bu.edu/trf/downloads/trf404.linux http://tandem.bu.edu/trf/trf.unix.help.html http://tandem.bu.edu/trf/trf.definitions.html http://tandem.bu.edu/trf/trf.whatnew.html
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=8f1e906e63cd2c596dfa72f3be9e2836
+_md5_=390ceaea77691c5d01d2d1196b8a46cb

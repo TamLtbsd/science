@@ -9,4 +9,4 @@ LICENSE=GPL-2
 RDEPEND=x11-libs/fltk:1 media-libs/libpng app-text/htmldoc
 SLOT=0
 SRC_URI=mirror://sourceforge/burrtools/burrtools-0.5.2.tar.gz doc? ( mirror://sourceforge/burrtools/burrtools-0.5.2-A4.pdf )
-_md5_=61a27ce3ea1b84ea1dfdebb4e69310c1
+_md5_=68b99e3d3d303c958b4ad6ae1edb1e2f

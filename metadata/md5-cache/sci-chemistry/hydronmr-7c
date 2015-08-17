@@ -7,4 +7,4 @@ KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 LICENSE=all-rights-reserved
 SLOT=0
 SRC_URI=http://leonardo.inf.um.es/macromol/programs/hydronmr/hydronmr7c2lnx.exe http://leonardo.inf.um.es/macromol/programs/hydronmr/fast-hydronmr7c2lnx.exe http://leonardo.inf.um.es/macromol/programs/hydronmr/hydronmr.pdf http://leonardo.inf.um.es/macromol/programs/hydronmr/hydronmr7c.pdf http://leonardo.inf.um.es/macromol/programs/hydronmr/fast-hydronmr-1.pdf http://leonardo.inf.um.es/macromol/programs/hydronmr/fast-hydronmr-2.pdf examples? ( http://leonardo.inf.um.es/macromol/programs/hydronmr/hydronmr.dat http://leonardo.inf.um.es/macromol/programs/hydronmr/6lyz.pdb http://leonardo.inf.um.es/macromol/programs/hydronmr/lysozyme31-nmr.res http://leonardo.inf.um.es/macromol/programs/hydronmr/lysozyme31-nmr.t12 http://leonardo.inf.um.es/macromol/programs/hydronmr/lysozyme31-nmr-pri.bea http://leonardo.inf.um.es/macromol/programs/hydronmr/lysozyme31-fast-nmr.res http://leonardo.inf.um.es/macromol/programs/hydronmr/lysozyme31-fast-nmr.t12 )
-_md5_=1a4b96ace0a442e5ca04424a13dde6f5
+_md5_=a77d4db5f5cc17a46570b9ab434eb55b

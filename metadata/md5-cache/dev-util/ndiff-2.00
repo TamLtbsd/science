@@ -9,4 +9,4 @@ LICENSE=GPL-2
 RDEPEND=dev-libs/gmp
 SLOT=0
 SRC_URI=ftp://ftp.math.utah.edu/pub/misc/ndiff-2.00.tar.gz
-_md5_=fced89f987da285586286b00492f776b
+_md5_=ed7de93c30c5774754deb50e44902dc1

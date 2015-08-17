@@ -7,4 +7,4 @@ LICENSE=all-rights-reserved
 RESTRICT=strip binchecks
 SLOT=0
 SRC_URI=http://research.chemistry.ohio-state.edu/bruschweiler/files/2013/09/cmap.itp_.tar -> amber99sb_phipsi-0_pre130901.tar
-_md5_=6b8e3488a1e42bda4d73db2c64fce185
+_md5_=86a1fb03c66845e3ad005287037f6456

@@ -6,4 +6,4 @@ KEYWORDS=~amd64
 LICENSE=LGPL-3
 SLOT=0
 SRC_URI=http://ampliconnoise.googlecode.com/files/AmpliconNoiseV1.27.tar.gz http://ampliconnoise.googlecode.com/files/TutorialV1.22.tar.gz http://ampliconnoise.googlecode.com/files/DiversityEstimates.tar.gz
-_md5_=86c05597eb6f609192d3a1f29f6de9ad
+_md5_=0af1a901308c215f554255cf0913f5b9

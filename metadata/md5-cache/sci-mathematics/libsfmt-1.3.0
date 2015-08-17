@@ -7,4 +7,4 @@ KEYWORDS=~amd64 ~x86
 LICENSE=BSD
 SLOT=0
 SRC_URI=http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/SFMT/VERSIONS/ARCHIVES/libsfmt-1.3.0.tar.bz2
-_md5_=75192d98333e00fa156d6b645cf97cc5
+_md5_=90c7f6e777cfe487d095ad9124c9b30c

@@ -7,4 +7,4 @@ LICENSE=GPL-2
 RDEPEND=dev-lang/R sci-libs/htslib
 SLOT=0
 _eclasses_=git-2	1bb87192831f668cd20d93ffb1689c94
-_md5_=51bf9aecb406acaf5ee7e78dd54f3483
+_md5_=87b4b25220b3a3634744676bab3ee13a

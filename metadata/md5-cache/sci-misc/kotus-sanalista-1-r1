@@ -7,4 +7,4 @@ KEYWORDS=~x86
 LICENSE=GPL-3
 SLOT=0
 SRC_URI=http://download.gna.org/omorfi/kotus-sanalista-v1-r1.tar.bz2
-_md5_=d64a570daed7a274bcc9563a8546f79f
+_md5_=f4e7a22836e2ee8e785099e5e62bfff9

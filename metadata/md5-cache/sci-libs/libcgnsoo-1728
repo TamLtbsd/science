@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=sci-libs/cgnslib
 SLOT=0
 SRC_URI=http://ppa.launchpad.net/cae-team/ppa/ubuntu/pool/main/libc/libcgnsoo-3.0/libcgnsoo-3.0_1728.orig.tar.gz
-_md5_=4ddfc98f9895c2cd4af3ec25bfecacea
+_md5_=1da0c0bffb36590af6c7968563c2a914

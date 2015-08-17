@@ -7,4 +7,4 @@ KEYWORDS=~x86 ~amd64
 LICENSE=GPL-3
 SLOT=0
 SRC_URI=http://www.coccidia.icb.usp.br/genseed/download/genseed-1.0.22.tar.gz
-_md5_=fe0231ed3129163ed73d060f7d326cf6
+_md5_=6afe1a35d0232e5c464c3d56d9530c63

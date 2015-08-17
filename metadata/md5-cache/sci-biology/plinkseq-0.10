@@ -9,4 +9,4 @@ RDEPEND=sys-libs/zlib
 SLOT=0
 SRC_URI=http://psychgen.u.hpc.mssm.edu/plinkseq_downloads/plinkseq-src-latest.tgz -> plinkseq-0.10.tgz
 _eclasses_=multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=ee33eeaa35876c887522f53a0c3114af
+_md5_=a6e8f7e18634683822634e0569c9c5d8

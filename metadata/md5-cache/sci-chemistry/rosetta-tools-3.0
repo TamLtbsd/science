@@ -8,4 +8,4 @@ RDEPEND=dev-lang/perl
 RESTRICT=fetch
 SLOT=0
 SRC_URI=BioTools-3.0.tgz
-_md5_=aa3c31f2fee09901fe0db6eee8c7ac1c
+_md5_=00f16e7d6b4eb65feea924aad684a49b

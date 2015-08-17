@@ -8,4 +8,4 @@ LICENSE=GPL-2
 RDEPEND=>=dev-libs/gmp-4.1-r1
 SLOT=0
 SRC_URI=http://ljk.imag.fr/CASYS/LOGICIELS/givaro/Downloads/givaro-3.2.13.tar.gz
-_md5_=b57d3fa80b392e6d45bf0bb6c4f6cc63
+_md5_=87c03d42af4ed4aec6e4937ec5a98121

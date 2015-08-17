@@ -6,4 +6,4 @@ KEYWORDS=~amd64 ~x86 ~amd64-linux
 RDEPEND=|| ( >=sci-libs/lapack-reference-3.4 >=sci-libs/atlas-3.10.1[lapack] >=sci-libs/mkl-11.0 >=sci-libs/acml-5.3 ) doc? ( >=app-doc/lapack-docs-3.3 )
 SLOT=0
 _eclasses_=multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=739ce723192cf7d394391aa064e35c1d
+_md5_=a373756c701fe48205a14d4b8bb5993a

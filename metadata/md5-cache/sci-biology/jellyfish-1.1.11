@@ -7,4 +7,4 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3+ BSD
 SLOT=0
 SRC_URI=http://www.cbcb.umd.edu/software/jellyfish/jellyfish-1.1.11.tar.gz http://www.cbcb.umd.edu/software/jellyfish/jellyfish-manual-1.1.pdf
-_md5_=81fd719d1c6d2000eeca85fb3740f507
+_md5_=501d668e2d22f415b2c7f91eb0d501fd

@@ -8,4 +8,4 @@ RDEPEND=x11-libs/motif:2.2[abi_x86_32(-)] x11-libs/libX11[abi_x86_32(-)] x11-lib
 RESTRICT=fetch splitdebug
 SLOT=0
 SRC_URI=MODULE2.tar.gz
-_md5_=de4f15f437a4f640ef1a188564c38a25
+_md5_=ce0a6429e7bf394b391be55e5c3d9183

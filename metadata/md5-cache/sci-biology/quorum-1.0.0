@@ -8,4 +8,4 @@ LICENSE=GPL-3
 RDEPEND==sci-biology/jellyfish-2.1.4
 SLOT=0
 SRC_URI=ftp://ftp.genome.umd.edu/pub/QuorUM/quorum-1.0.0.tar.gz
-_md5_=d7fafd029e368493d85a44bbc7cc1902
+_md5_=751e117e50e666e0f35dd731fced4904

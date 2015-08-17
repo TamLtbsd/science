@@ -10,4 +10,4 @@ RDEPEND=sci-physics/root:=[pythia6] !sci-physics/geant:3 virtual/fortran
 SLOT=3
 SRC_URI=ftp://root.cern.ch/root/vmc/geant321+_vmc.1.15a.tar.gz
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=cc50f014f4f919d3c68c3543e762cbbe
+_md5_=44269032eac1d6e51d24bb886d10bdee

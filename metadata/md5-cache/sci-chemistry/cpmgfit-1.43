@@ -9,4 +9,4 @@ RDEPEND=sci-libs/blas-reference =sys-devel/gcc-4.1* virtual/fortran
 SLOT=0
 SRC_URI=http://biochemistry.hs.columbia.edu/labs/palmer/software/cpmgfit.linux.tar.gz -> cpmgfit-1.43.tar.gz
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=edb46abb3422b6e03931a7260b36ffe7
+_md5_=d7e6c8510c5a699548dfdb5122fca0fb

@@ -4,4 +4,4 @@ EAPI=5
 KEYWORDS=~amd64 ~x86 ~amd64-linux
 RDEPEND=|| ( >=sci-libs/lapacke-reference-1.0 >=sci-libs/mkl-10.3 )
 SLOT=0
-_md5_=1874a59ae315c5ca6d7b02dcdf86f3af
+_md5_=87c3a6743053abb8c962ab5db89eee74

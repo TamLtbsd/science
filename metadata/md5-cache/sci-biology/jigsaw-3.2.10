@@ -5,4 +5,4 @@ HOMEPAGE=http://www.cbcb.umd.edu/software/jigsaw
 LICENSE=Artistic
 SLOT=0
 SRC_URI=http://cbcb.umd.edu/software/jigsaw/jigsaw-3.2.10.tar.gz
-_md5_=7950aa49ed68613b3c7ea7898e9d4560
+_md5_=11d259cf11765448a0557400eb1d93d6

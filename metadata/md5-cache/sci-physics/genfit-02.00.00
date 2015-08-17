@@ -10,4 +10,4 @@ RDEPEND=sci-physics/root:= dev-libs/boost:=
 SLOT=0
 SRC_URI=http://dev.gentoo.org/~jlec/distfiles/genfit-code-1688-tags-v02-00-00.zip
 _eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	02090c5a622458303e6bf68837ac6b96	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=da2cfda7e6bed9f298da7c0da304c443
+_md5_=b228cbdb555a98198470aeb8c620d5f0

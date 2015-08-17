@@ -7,4 +7,4 @@ LICENSE=all-rights-reserved
 RESTRICT=strip binchecks
 SLOT=0
 SRC_URI=http://research.chemistry.ohio-state.edu/bruschweiler/files/2013/09/nmr1-ildn.tar -> amber99sbnmr-ildn-0_pre130901.tar
-_md5_=63506ac8e0c9dbc0ca96cbff9dffd56a
+_md5_=9224756b4270a31c5356857ada7df9c4

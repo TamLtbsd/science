@@ -6,4 +6,4 @@ IUSE=static-libs
 LICENSE=XVIEW
 SLOT=0
 SRC_URI=mirror://debian/pool/main/x/xview/xviewg_3.2p1.4-28.1_i386.deb
-_md5_=c669361a2b893483ab24c4a6c9593e69
+_md5_=52e6bf52cfe9a10c74ebd0bd479afc41

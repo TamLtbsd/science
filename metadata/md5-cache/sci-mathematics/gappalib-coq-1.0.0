@@ -8,4 +8,4 @@ LICENSE=LGPL-2
 RDEPEND=sci-mathematics/gappa sci-mathematics/coq sci-mathematics/flocq
 SLOT=0
 SRC_URI=http://gforge.inria.fr/frs/download.php/32743/gappalib-coq-1.0.0.tar.gz
-_md5_=5304508ea647baf854732d0c7ce50015
+_md5_=15894b804b1712c3144d6995feb1e15f

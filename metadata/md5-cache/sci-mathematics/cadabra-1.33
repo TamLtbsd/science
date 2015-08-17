@@ -10,4 +10,4 @@ RDEPEND=sci-libs/modglue sci-mathematics/lie dev-libs/gmp[cxx] dev-libs/libpcre 
 SLOT=0
 SRC_URI=http://cadabra.phi-sci.com/cadabra-1.33.tar.gz
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	texlive-common	9f53e0e2b52b33a0fa6b470fbcb05fb9	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=d2262133cd1f8624dbab453c3173a53c
+_md5_=2c341919841cac376bad7b8698e30d37
