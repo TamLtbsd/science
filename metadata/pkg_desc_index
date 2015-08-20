@@ -373,7 +373,7 @@ sci-biology/roche454ace2caf 20100812: Convert from ace to gap4 (of staden v1.x),
 sci-biology/ruffus 9999: Python module to support computational pipelines
 sci-biology/rum 2.0.5.5: RNA-Seq Unified Mapper (digital normalization)
 sci-biology/sabre 9999: Barcode demultiplexing and trimming tool for Illumina FastQ files
-sci-biology/salmon 0.3.2 9999: Transcript-level quantification from RNA-seq reads using lightweight alignments
+sci-biology/salmon 0.3.2 0.4.2 9999: Transcript-level quantification from RNA-seq reads using lightweight alignments
 sci-biology/samstat 20130708: Show statistics of BAM/SAM (error profiles, nucleotide composition, base quals, len. distribution)
 sci-biology/samtools 1.0-r2 1.1-r1 1.2-r1: Utilities for SAM (Sequence Alignment/Map), a format for large nucleotide sequence alignments
 sci-biology/scaffold_builder 20131122: Combine FASTA contigs from a de novo assembly into scaffolds using a reference assembly
@@ -449,7 +449,7 @@ sci-chemistry/erkale 9999: Quantum chemistry program for atoms and molecules
 sci-chemistry/freeon 9999: An experimental suite of programs for linear scaling quantum chemistry
 sci-chemistry/gamess 20120501.1 20130501.1: A powerful quantum chemistry package
 sci-chemistry/gnome-chemistry-utils 0.14.2-r1 9999: Programs and library containing GTK widgets and C++ classes related to chemistry
-sci-chemistry/gromacs 4.6.9999 5.0.9999 9999: The ultimate molecular dynamics simulation package
+sci-chemistry/gromacs 4.6.9999 5.0.9999 5.1.9999 9999: The ultimate molecular dynamics simulation package
 sci-chemistry/hydronmr 7c: Calculation of NMR relaxation of small, quasirigid macromolecules
 sci-chemistry/jana2000 20071218: The crystallographic computing system
 sci-chemistry/jligand 1.0.19: Java interface which allows links descriptions to be created
