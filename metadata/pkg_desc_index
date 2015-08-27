@@ -96,6 +96,7 @@ dev-python/inference 0.4: Collection of Python modules for statistical inference
 dev-python/instant 1.2.0 1.3.0 1.4.0: Instant inlining of C and C++ code in Python
 dev-python/jupyter-nbgrader 9999: A system for assigning and grading notebooks
 dev-python/jupyter-nbviewer 9999: Nbconvert as a webservice (rendering ipynb to static HTML)
+dev-python/line_profiler 1.0 9999: Line-by-line profiling for Python
 dev-python/matlab_wrapper 0.9.6 9999: MATLAB wrapper for Python
 dev-python/matplotlib2tikz 0.1.0 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
 dev-python/meshpy 2013.1.2 2014.1: Quality triangular and tetrahedral mesh generation for Python
@@ -140,7 +141,7 @@ dev-util/nvidia-cuda-toolkit 7.5.7: NVIDIA CUDA Toolkit (compiler and friends)
 dev-util/smartgit 6.5.6: Git client with support for GitHub Pull Requests+Comments, SVN and Mercurial
 media-gfx/PhiloGL 1.4.3: WebGL Framework for Data Vis, Creative Coding and Game Development
 media-gfx/brlcad 7.22.0 7.24.0 7.24.2 9999: Constructive solid geometry modeling system
-media-gfx/librecad 1.0.3 1.0.4 2.0.7 9999: Generic 2D CAD program
+media-gfx/librecad 1.0.3 1.0.4 2.0.7 2.0.8 9999: Generic 2D CAD program
 media-libs/OpenMOIV 1.0.3a: Object-oriented 3D toolkit that facilitates the rendering and interaction of chemical systems.
 media-libs/avbin-bin 7: A thin wrapper around FFmpeg
 media-libs/libgfx 1.1.0: The purpose of this library is to simplify the creation of computer graphics software
@@ -550,7 +551,7 @@ sci-libs/amber99sb_phipsi 0_pre130901: AMBER99SB PHI PSI table (Lindorff-Larsen 
 sci-libs/amber99sbnmr 0_pre130901: AMBER99SBnmr1 force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amdlibm 3.1: Optimized libm replacement from AMD for x86_64 architectures
-sci-libs/armadillo 4.650.4 5.100.2 5.200.2-r1: Streamlined C++ linear algebra library
+sci-libs/armadillo 4.650.4 5.100.2 5.200.2-r1 5.400.2: Streamlined C++ linear algebra library
 sci-libs/arrayfire 0.9999 3.0_beta 9999: A general purpose GPU library.
 sci-libs/asl 0.1.5 9999: Advanced Simulation Library - multiphysics simulation software package
 sci-libs/atlas 3.10.1-r1 3.10.1-r2: Automatically Tuned Linear Algebra Software
@@ -638,7 +639,7 @@ sci-libs/superlu_dist 3.3: MPI distributed sparse LU factorization library
 sci-libs/superlu_mt 2.1: Multithreaded sparse LU factorization library
 sci-libs/symmetrica 2.0 2.0-r1: A collection of routine to handle a variety of topics
 sci-libs/tmglib 3.4.2 3.5.0: Test Matrix Generator library for LAPACK
-sci-libs/trilinos 11.10.2 11.12.1-r1 11.14.1-r1 12.0.1: Scientific library collection for large scale problems
+sci-libs/trilinos 11.10.2 11.12.1-r1 11.14.1-r1 12.0.1 12.2.1: Scientific library collection for large scale problems
 sci-libs/votca-tools 9999: Votca tools library
 sci-libs/vxl 9999: C++ computer vision research libraries
 sci-libs/wannier90 1.2-r3 2.0.0 2.0.1: Calculates maximally localized Wannier functions (MLWFs)
