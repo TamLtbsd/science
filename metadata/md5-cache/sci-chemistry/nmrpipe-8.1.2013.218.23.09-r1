@@ -5,9 +5,9 @@ EAPI=5
 HOMEPAGE=http://spin.niddk.nih.gov/bax/software/NMRPipe/
 IUSE=test
 LICENSE=nmrpipe
-RDEPEND=app-shells/tcsh app-editors/nedit dev-lang/tk dev-tcltk/blt media-fonts/font-sun-misc !sci-chemistry/sparta+ !sci-chemistry/talos+ sys-libs/ncurses x11-apps/xset || ( x11-libs/xview x11-libs/xview-bin ) !prefix? ( >=x11-libs/libX11-1.6.2[abi_x86_32(-)] ) prefix? ( dev-util/patchelf )
+RDEPEND=app-shells/tcsh app-editors/nedit dev-lang/tk dev-tcltk/blt media-fonts/font-sun-misc !sci-chemistry/sparta+ !sci-chemistry/talos+ || ( sys-libs/ncurses:0/5 sys-libs/ncurses:5/5 ) x11-apps/xset || ( x11-libs/xview x11-libs/xview-bin ) !prefix? ( >=x11-libs/libX11-1.6.2[abi_x86_32(-)] ) prefix? ( dev-util/patchelf )
 RESTRICT=strip
 SLOT=0
 SRC_URI=http://spin.niddk.nih.gov/NMRPipe/install/download/install.com http://spin.niddk.nih.gov/NMRPipe/install/download/binval.com http://spin.niddk.nih.gov/NMRPipe/install/download/NMRPipeX.tZ http://spin.niddk.nih.gov/NMRPipe/install/download/talos.tZ http://spin.niddk.nih.gov/NMRPipe/install/download/dyn.tZ
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	virtualx	7d550983f9b6adb3e7091f4090ddae2f
-_md5_=08d5fd3f541b00b35fff5f5b62111978
+_md5_=fc8831690035f44ffa618de3c8873b37
