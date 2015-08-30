@@ -356,7 +356,7 @@ sci-physics/geant-vmc:g4root - Build G4Root (interface for GEANT4 simulation wit
 sci-physics/geant-vmc:geant3 - Build with Geant4 G3toG4 library
 sci-physics/geant-vmc:mtroot - Build MTRoot (provides ROOT IO manager classes with multi-threading support)
 sci-physics/geant-vmc:vgm - Enable the Virtual Geometry Model (sci-physics/vgm)
-sci-physics/herwig++:c++0x - Build Herwig++ using the C++11 standard. Experimental feature, not for production use.
+sci-physics/herwig++:c++11 - Build Herwig++ using the C++11 standard. Experimental feature, not for production use.
 sci-physics/herwig++:fastjet - Adds support for sci-physics/fastjet
 sci-physics/hoomd-blue:cuda - Enable cuda non-bonded kernels
 sci-physics/mc-tester:hepmc - Compile sci-physics/hepmc interface
@@ -369,14 +369,12 @@ sci-physics/root:pythia8 - Build the interface for sci-physics/pythia version 8.
 sci-physics/root:xrootd - Build the interface for net-libs/xrootd
 sci-physics/tauola:hepmc - Compile sci-physics/hepmc interface
 sci-physics/tauola:tau-spinner - Compile with TauSpinner library
-sci-physics/thepeg:c++0x - Build ThePEG using the C++11 standard. Experimental feature, not for production use.
 sci-physics/thepeg:fastjet - Adds support for sci-physics/fastjet
 sci-physics/thepeg:hepmc - Adds support for High Energy Physics Monte Carlo Generators sci-physics/hepmc
 sci-physics/thepeg:lhapdf - Adds support for sci-physics/lhapdf
 sci-physics/thepeg:rivet - Adds support for sci-physics/rivet
 sci-physics/vgm:geant4 - Enable interaction with Geant4(sci-physics/geant:4)
 sci-physics/vgm:root - Enable interactions with ROOT (sci-physics/root)
-sci-physics/yoda:c++11 - Build using the C++11 standard
 sci-physics/yoda:root - Adds support for sci-physics/root
 sci-visualization/gnuplot:bitmap - Enable dot-matrix printers and pbm terminal
 sci-visualization/gnuplot:compat - Enable backwards compatibility with version 4 syntax
