@@ -1,6 +1,6 @@
 # Copyright 1999-2015 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
+# $Id$
 
 EAPI=5
 PYTHON_COMPAT=( python2_7 python{3_3,3_4} )
@@ -23,7 +23,6 @@ SLOT="0"
 IUSE="test"
 
 RDEPEND="
-	dev-python/ipython[${PYTHON_USEDEP}]
 	dev-python/ipykernel[${PYTHON_USEDEP}]
 	dev-python/jupyter_client[${PYTHON_USEDEP}]
 	"
@@ -39,6 +38,7 @@ DEPEND="${RDEPEND}
 	dev-python/pygments[${PYTHON_USEDEP}]
 	>=dev-python/pyzmq-13[${PYTHON_USEDEP}]
 	"
+PDEPEND="dev-python/ipython[${PYTHON_USEDEP}]"
 
 python_test() {
 	nosetests --with-coverage --cover-package qtconsole qtconsole || die
