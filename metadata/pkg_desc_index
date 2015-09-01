@@ -99,11 +99,9 @@ dev-python/ipyparallel 4.0.0-r1 9999: Interactive Parallel Computing with IPytho
 dev-python/ipython 4.0.0-r1: Advanced interactive shell for Python
 dev-python/ipython_genutils 0.1.0 9999: Vestigial utilities from IPython
 dev-python/ipywidgets 4.0.2 9999: IPython HTML widgets for Jupyter
-dev-python/jupyter-nbgrader 9999: A system for assigning and grading notebooks
-dev-python/jupyter-nbviewer 9999: Nbconvert as a webservice (rendering ipynb to static HTML)
 dev-python/jupyter_client 4.0.0 9999: Jupyter protocol implementation and client libraries
-dev-python/jupyter_console 4.0.0 9999: A terminal-based console frontend for Jupyter kernels
-dev-python/jupyter_core 4.0.2 9999: Core common functionality of Jupyter projects
+dev-python/jupyter_console 4.0.1 9999: A terminal-based console frontend for Jupyter kernels
+dev-python/jupyter_core 4.0.4 9999: Core common functionality of Jupyter projects
 dev-python/line_profiler 1.0 9999: Line-by-line profiling for Python
 dev-python/matlab_wrapper 0.9.6 9999: MATLAB wrapper for Python
 dev-python/matplotlib2tikz 0.1.0 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
@@ -111,8 +109,9 @@ dev-python/meshpy 2013.1.2 2014.1: Quality triangular and tetrahedral mesh gener
 dev-python/montage-wrapper 0.9.7: Python wrapper for the Montage mosaicking toolkit
 dev-python/nbconvert 4.0.0 9999: Converting Jupyter Notebooks
 dev-python/nbformat 4.0.0 9999: Reference implementation of the Jupyter Notebook format
+dev-python/nbviewer 9999: Nbconvert as a webservice (rendering ipynb to static HTML)
 dev-python/newrelic 2.44.0.36 2.50.0.39: New Relic Python Agent
-dev-python/notebook 4.0.1 9999: Jupyter Interactive Notebook
+dev-python/notebook 4.0.4 9999: Jupyter Interactive Notebook
 dev-python/nvidia-ml-py 6.340.0 7.346.0: Python Bindings for the NVIDIA Management Library
 dev-python/omniorbpy 3.4: A robust high-performance CORBA ORB for Python
 dev-python/opal-client 2.4.1: Python Opal Web Service Client
