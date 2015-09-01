@@ -42,6 +42,10 @@ dev-libs/libflatarray:cuda - Enables plugins for NVIDIA GPUs (e.g. CUDAAllocator
 dev-ml/mlgmpidl:mpfr - Add support for dev-libs/mpfr
 dev-ml/zarith:mpir - Use sci-libs/mpir for arbitrary precision integer arithmetic
 dev-python/ffnet:matplotlib - Use matplotlib for drawing
+dev-python/ipython:matplotlib - Add support for dev-python/matplotlib
+dev-python/ipython:mongodb - Enable support for MongoDB via dev-python/pymongo
+dev-python/ipython:nbconvert - Enable support for converting notebooks to various formats using app-text/pandoc
+dev-python/ipython:notebook - Install requirements for the web notebook based on www-servers/tornado
 dev-python/pyhdf:szip - Allow to use sci-libs/szip for SZIP compression method in SDsetcompress()
 dev-python/ufl:scipy - Adds support for evaluating Bessel functions using dev-python/scipy
 dev-tex/pythontex:highlighting - PLEASE FIX MY DESCRIPTION
@@ -56,8 +60,8 @@ dev-util/nvidia-cuda-toolkit:debugger - Installs the CUDA debugger.
 dev-util/nvidia-cuda-toolkit:eclipse - Install the dev-util/eclipse-sdk plugins
 dev-util/nvidia-cuda-toolkit:profiler - Installs the NVIDIA CUDA visual profiler.
 media-gfx/brlcad:benchmarks - Run benchmarks during test phase (need test option enabled)
-media-gfx/librecad:3d - Use 3D vectors
-media-gfx/librecad:tools - Build additional tool programs
+media-gfx/librecad:3d - Require all 2D coordinates stored as 3D
+media-gfx/librecad:tools - Build additional tool programs: tff2lff
 sci-astronomy/astrometry:extra - Add extra tools, specifically for plots
 sci-astronomy/mosstack:opencl - Enables OpenCL support and pulls in pyopencl. This makes some operations much faster but requires specific hardware and drivers.
 sci-astronomy/mosstack:qt4 - Pulls in PyQt4. Program works on command line interface without it but for GUI the library is required.
