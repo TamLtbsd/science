@@ -108,11 +108,11 @@ dev-python/matlab_wrapper 0.9.6 9999: MATLAB wrapper for Python
 dev-python/matplotlib2tikz 0.1.0 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
 dev-python/meshpy 2013.1.2 2014.1: Quality triangular and tetrahedral mesh generation for Python
 dev-python/montage-wrapper 0.9.7: Python wrapper for the Montage mosaicking toolkit
-dev-python/nbconvert 4.0.0 9999: Converting Jupyter Notebooks
+dev-python/nbconvert 4.0.0-r1 9999: Converting Jupyter Notebooks
 dev-python/nbformat 4.0.0 9999: Reference implementation of the Jupyter Notebook format
 dev-python/nbviewer 9999: Nbconvert as a webservice (rendering ipynb to static HTML)
 dev-python/newrelic 2.44.0.36 2.50.0.39: New Relic Python Agent
-dev-python/notebook 4.0.4-r1 9999: Jupyter Interactive Notebook
+dev-python/notebook 4.0.4-r2 9999: Jupyter Interactive Notebook
 dev-python/nvidia-ml-py 6.340.0 7.346.0: Python Bindings for the NVIDIA Management Library
 dev-python/omniorbpy 3.4: A robust high-performance CORBA ORB for Python
 dev-python/opal-client 2.4.1: Python Opal Web Service Client
@@ -134,7 +134,7 @@ dev-python/pythoncgns 2009.10.30: Python language bindings for the CGNS library
 dev-python/pythonocc 0.5: Python Interface to OpenCASCADE CAD library
 dev-python/pythonqt 2.1 9999: A dynamic Python binding for the Qt framework
 dev-python/pywcsgrid2 9999: Custom Matplotlib Axes class for displaying astronomical fits images
-dev-python/qtconsole 4.0.1 9999: Qt-based console for Jupyter with support for rich media output
+dev-python/qtconsole 4.0.1-r1 9999: Qt-based console for Jupyter with support for rich media output
 dev-python/simplepam 0.1.5 9999: A pure python interface to the PAM library
 dev-python/specutils 9999: Affiliated package for 1D spectral operations
 dev-python/testpath 0.2 9999: Test utilities for code working with files and commands
@@ -257,7 +257,7 @@ sci-biology/bamtools 9999: A programmer's API and an end-user's toolkit for hand
 sci-biology/barnacle 1.0.3: Check de novo assembly for chimeric contigs/transcripts
 sci-biology/barrnap 0.3 0.4: Predict Bacterial and Archaeal rRNA genes and output in GFF3 format
 sci-biology/bcftools 1.2: Utilities for variant calling and manipulating VCF and BCF files
-sci-biology/beagle 4.0: Genotype calling, genotype phasing, imputation of ungenotyped markers, identity-by-descent segment detection
+sci-biology/beagle 4.0: Genotype calling/phasing, imputation of ungenotyped markers, identity-by-descent segment detection
 sci-biology/beaglecall 20101115: Simultaneous genotype calling and haplotype phasing for unrelated individuals
 sci-biology/bedtools 2.22.1: Tools for manipulation and analysis of BED, GFF/GTF, VCF, and SAM/BAM file formats
 sci-biology/biobambam 0.0.183: Tools for bam file processing
@@ -580,7 +580,7 @@ sci-libs/cblas-reference 20110218 20110218-r1: C wrapper interface to the F77 re
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib
 sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools.
 sci-libs/clblas 2.4-r1 9999: A software library containing BLAS routines for OpenCL
-sci-libs/clfft 0.9999 2.4-r1 9999: A software library containing FFT functions written in OpenCL
+sci-libs/clfft 0.9999 2.4-r1 2.6.1 9999: A software library containing FFT functions written in OpenCL
 sci-libs/clrng 9999: A library for uniform random number generation in OpenCL
 sci-libs/cs-rosetta-db 1.01.2009.1109.11: System for chemical shifts based protein structure prediction using ROSETTA
 sci-libs/dcmtk 3.6.0: OFFIS DICOM image files library and tools
