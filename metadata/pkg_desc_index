@@ -437,6 +437,7 @@ sci-biology/ugene 1.13.3 1.16.1: A free open-source cross-platform bioinformatic
 sci-biology/vague-bin 1.0.5: GUI for Velvet de novo assembler
 sci-biology/velvetk 20120606: Estimate the best k-mer size to use for your Velvet de novo assembly
 sci-biology/wcd 0.6.3: EST sequence clustering by either of: d2 function, edit distance, common word heuristics
+sci-biology/weblogo 2.8.2: seqlogo: generate consensus sequence logo figures
 sci-biology/wgs-assembler 8.2 8.3_rc2: De novo whole-genome shotgun DNA sequence assembler also known as Celera Assembler and CABOG
 sci-biology/wise 2.4.1: Genewise, promoterwise: align protein HMMs to DNA for CDS predictions
 sci-biology/zmsort 110625: Merge-sort utility for compressed alignment files, with multi-file output
