@@ -149,7 +149,7 @@ dev-util/amdapp 2.9 2.9.1 3.0_beta: AMD Accelerated Parallel Processing (APP) SD
 dev-util/f90cache 0.94 0.95: a compiler cache for fortran
 dev-util/ndiff 2.00: A diff program that ignores small numeric differences
 dev-util/numdiff 5.8.1: Compares putatively similar files, ignoring small numeric differences and formats
-dev-util/nvidia-cuda-sdk 7.5.7 7.5.18: NVIDIA CUDA Software Development Kit
+dev-util/nvidia-cuda-gdk 340.29 346.46 352.07: NVIDIA GPU Deployment Kit
 dev-util/smartgit 6.5.6: Git client with support for GitHub Pull Requests+Comments, SVN and Mercurial
 media-gfx/PhiloGL 1.4.3: WebGL Framework for Data Vis, Creative Coding and Game Development
 media-gfx/brlcad 7.22.0 7.24.0 7.24.2 9999: Constructive solid geometry modeling system
