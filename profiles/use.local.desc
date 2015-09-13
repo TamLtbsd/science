@@ -164,6 +164,7 @@ sci-libs/cblas-reference:int64 - Build the 64 bits integer library
 sci-libs/clblas:client - Build a command line clBLAS client program.
 sci-libs/clblas:ktest - A command line tool for testing single clBLAS kernel.
 sci-libs/clblas:performance - Copy performance scripts that can measure and graph performance.
+sci-libs/clfft:client - Build a command line clFFT client program.
 sci-libs/clrng:client - Build a command line clRNG client program.
 sci-libs/dealii:arpack - Adds support for ARPACK (sci-libs/arpack)
 sci-libs/dealii:c++11 - Compile the library with -std=c++11

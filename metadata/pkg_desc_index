@@ -149,7 +149,7 @@ dev-util/amdapp 2.9 2.9.1 3.0_beta: AMD Accelerated Parallel Processing (APP) SD
 dev-util/f90cache 0.94 0.95: a compiler cache for fortran
 dev-util/ndiff 2.00: A diff program that ignores small numeric differences
 dev-util/numdiff 5.8.1: Compares putatively similar files, ignoring small numeric differences and formats
-dev-util/nvidia-cuda-gdk 340.29 346.46 352.07: NVIDIA GPU Deployment Kit
+dev-util/nvidia-cuda-gdk 340.29 346.46 352.07 352.39: NVIDIA GPU Deployment Kit
 dev-util/smartgit 6.5.6: Git client with support for GitHub Pull Requests+Comments, SVN and Mercurial
 media-gfx/PhiloGL 1.4.3: WebGL Framework for Data Vis, Creative Coding and Game Development
 media-gfx/brlcad 7.22.0 7.24.0 7.24.2 9999: Constructive solid geometry modeling system
@@ -565,8 +565,8 @@ sci-libs/amber99sb_phipsi 0_pre130901: AMBER99SB PHI PSI table (Lindorff-Larsen 
 sci-libs/amber99sbnmr 0_pre130901: AMBER99SBnmr1 force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amdlibm 3.1: Optimized libm replacement from AMD for x86_64 architectures
-sci-libs/armadillo 4.650.4 5.100.2 5.200.2-r1 5.400.2 5.500.2: Streamlined C++ linear algebra library
-sci-libs/arrayfire 3.0_beta 3.0.2 9999: A general purpose GPU library.
+sci-libs/armadillo 4.650.4 5.400.2 5.500.2: Streamlined C++ linear algebra library
+sci-libs/arrayfire 3.0_beta 3.0.2 3.1.0 9999: A general purpose GPU library.
 sci-libs/asl 0.1.5 9999: Advanced Simulation Library - multiphysics simulation software package
 sci-libs/atlas 3.10.1-r1 3.10.1-r2: Automatically Tuned Linear Algebra Software
 sci-libs/bigdft-abi 1.0.4-r3: A DFT electronic structure code using a wavelet basis set
@@ -578,7 +578,7 @@ sci-libs/calculix-cgx 2.7-r1: A Free Software Three-Dimensional Structural Finit
 sci-libs/cblas-reference 20110218 20110218-r1: C wrapper interface to the F77 reference BLAS implementation
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib
 sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools.
-sci-libs/clblas 2.4-r1 9999: A software library containing BLAS routines for OpenCL
+sci-libs/clblas 2.4-r1 2.6 9999: A software library containing BLAS routines for OpenCL
 sci-libs/clfft 0.9999 2.4-r1 2.6.1 9999: A software library containing FFT functions written in OpenCL
 sci-libs/clrng 9999: A library for uniform random number generation in OpenCL
 sci-libs/cs-rosetta-db 1.01.2009.1109.11: System for chemical shifts based protein structure prediction using ROSETTA
@@ -645,6 +645,7 @@ sci-libs/pg2plplot 0.2.0 0.3.1: Assist the transition from PGPlot to PLplot in F
 sci-libs/plasma 2.5.2 2.6.0: Parallel Linear Algebra for Scalable Multi-core Architecture
 sci-libs/pmx 9999: Python library to read PDB, GRO or Gromacs XTC files
 sci-libs/pydicom 0.9.8 0.9.9 9999: A pure python package for parsing DICOM files
+sci-libs/rdkit 2015.03.1 9999: Cheminformatics and machine-learning software written in C++ and Python
 sci-libs/scalapack 2.0.2-r1: Subset of LAPACK routines redesigned for heterogenous computing
 sci-libs/scikits_image 9999: Image processing routines for SciPy
 sci-libs/spglib 1.6.0: Spglib is a C library for finding and handling crystal symmetries
