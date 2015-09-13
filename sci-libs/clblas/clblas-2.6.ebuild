@@ -1,41 +1,41 @@
 # Copyright 1999-2015 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: $
+# $Id$
 
 EAPI=5
 
-inherit cmake-utils
+PYTHON_COMPAT=( python2_7 )
 
-MY_PN="clFFT"
+inherit cmake-utils python-single-r1
 
-DESCRIPTION="A software library containing FFT functions written in OpenCL"
-HOMEPAGE="https://github.com/clMathLibraries/clFFT"
+MY_PN="clBLAS"
+
+DESCRIPTION="A software library containing BLAS routines for OpenCL"
+HOMEPAGE="https://github.com/clMathLibraries/clBLAS"
 SRC_URI="https://github.com/clMathLibraries/${MY_PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 KEYWORDS="~amd64"
 S="${WORKDIR}/${MY_PN}-${PV}/src"
 
 LICENSE="Apache-2.0"
 SLOT="0"
-IUSE="+client examples test"
+IUSE="+client examples +ktest performance test"
 
 RDEPEND="
 	>=sys-devel/gcc-4.6:*
 	virtual/opencl
-	dev-libs/boost"
+	|| ( >=dev-util/amdapp-2.9 dev-util/intel-ocl-sdk )
+	dev-libs/boost
+	performance? ( ${PYTHON_DEPS} )
+	"
 DEPEND="${RDEPEND}"
 #	test? (
-#		dev-cpp/gtest
-#		sci-libs/fftw:3.0
+#		>=dev-cpp/gtest-1.6.0
+#		>=sci-libs/acml-6.1.0.3
 #	)"
 
 # The tests only get compiled to an executable named Test, which is not recogniozed by cmake.
 # Therefore src_test() won't execute any test.
 RESTRICT="test"
-
-PATCHES=(
-	"${FILESDIR}/${P}"-Install-cmake-configuration-to-lib-cmake-clFFT.patch
-	"${FILESDIR}/${P}"-Install-examples-to-share-clFFT-examples.patch
-)
 
 pkg_pretend() {
 	if [[ ${MERGE_TYPE} != binary ]]; then
@@ -48,7 +48,9 @@ pkg_pretend() {
 src_configure() {
 	local mycmakeargs=(
 		$(cmake-utils_use_build client CLIENT)
-		$(cmake-utils_use_build examples EXAMPLES)
+		$(cmake-utils_use_build examples SAMPLE)
+		$(cmake-utils_use_build ktest KTEST)
+		$(cmake-utils_use_build performance PERFORMANCE)
 		$(cmake-utils_use_build test TEST)
 	)
 	cmake-utils_src_configure
