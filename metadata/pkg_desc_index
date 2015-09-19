@@ -103,7 +103,7 @@ dev-python/ipywidgets 4.0.2-r1 9999: IPython HTML widgets for Jupyter
 dev-python/jupyter 1.0.0: Jupyter metapackage. Install all the Jupyter components in one go.
 dev-python/jupyter_client 4.0.0 9999: Jupyter protocol implementation and client libraries
 dev-python/jupyter_console 4.0.2 9999: A terminal-based console frontend for Jupyter kernels
-dev-python/jupyter_core 4.0.4-r1 9999: Core common functionality of Jupyter projects
+dev-python/jupyter_core 4.0.4-r1 4.0.6 9999: Core common functionality of Jupyter projects
 dev-python/line_profiler 1.0 9999: Line-by-line profiling for Python
 dev-python/matlab_wrapper 0.9.6 9999: MATLAB wrapper for Python
 dev-python/matplotlib2tikz 0.1.0 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
@@ -567,7 +567,7 @@ sci-libs/amber99sbnmr 0_pre130901: AMBER99SBnmr1 force field (Lindorff-Larsen et
 sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amdlibm 3.1: Optimized libm replacement from AMD for x86_64 architectures
 sci-libs/armadillo 4.650.4 5.400.2 5.500.2: Streamlined C++ linear algebra library
-sci-libs/arrayfire 3.0_beta 3.0.2 3.1.0 3.1.1-r1 9999: A general purpose GPU library.
+sci-libs/arrayfire 3.1.1-r1 9999: A general purpose GPU library.
 sci-libs/asl 0.1.5 9999: Advanced Simulation Library - multiphysics simulation software package
 sci-libs/atlas 3.10.1-r1 3.10.1-r2: Automatically Tuned Linear Algebra Software
 sci-libs/bigdft-abi 1.0.4-r3: A DFT electronic structure code using a wavelet basis set
