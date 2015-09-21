@@ -127,7 +127,7 @@ dev-python/pynomo 0.2.2: PyNomo is a program to create nomographs (nomograms) us
 dev-python/pysolar 0.5: Collection of Python libraries for simulating the irradiation by the sun
 dev-python/pysparse 1.1.1-r1: Sparse linear algebra extension for Python
 dev-python/python-ivi 0.14.9 9999: Python-based interpretation of the Interchangeable Virtual Instrument standard
-dev-python/python-vxi11 0.7 9999: Provides a pure Python VXI-11 driver for controlling instruments over Ethernet
+dev-python/python-vxi11 0.7 0.8 9999: Provides a pure Python VXI-11 driver for controlling instruments over Ethernet
 dev-python/pythoncgns 2009.10.30: Python language bindings for the CGNS library
 dev-python/pythonocc 0.5: Python Interface to OpenCASCADE CAD library
 dev-python/pythonqt 2.1 9999: A dynamic Python binding for the Qt framework
@@ -555,7 +555,7 @@ sci-libs/amber99sb_phipsi 0_pre130901: AMBER99SB PHI PSI table (Lindorff-Larsen 
 sci-libs/amber99sbnmr 0_pre130901: AMBER99SBnmr1 force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amdlibm 3.1: Optimized libm replacement from AMD for x86_64 architectures
-sci-libs/armadillo 4.650.4 5.400.2 5.500.2: Streamlined C++ linear algebra library
+sci-libs/armadillo 4.650.4 5.400.2 5.500.2 5.600.2: Streamlined C++ linear algebra library
 sci-libs/arrayfire 3.1.1-r2 9999: A general purpose GPU library.
 sci-libs/asl 0.1.5 9999: Advanced Simulation Library - multiphysics simulation software package
 sci-libs/atlas 3.10.1-r1 3.10.1-r2: Automatically Tuned Linear Algebra Software
@@ -654,7 +654,7 @@ sci-mathematics/Macaulay2 9999: Research tool for commutative algebra and algebr
 sci-mathematics/Oid 4.0: An interactive, extensible software system for experimenting with matroids
 sci-mathematics/acl2 7.1: Industrial strength theorem prover
 sci-mathematics/alt-ergo 0.95.2: Alt-Ergo is an automatic theorem prover
-sci-mathematics/apron 0.9.10 0.9.10-r1: Library for static analysis of the numerical variables of a program by Abstract Interpretation
+sci-mathematics/apron 0.9.10-r1: Static analysis of the numerical variables of a program by Abstract Interpretation
 sci-mathematics/aribas 1.63: Interpreter for big integer and multi-precision floating point arithmetic
 sci-mathematics/axiom 201408: Axiom is a general purpose Computer Algebra system
 sci-mathematics/burrtools 0.5.2-r1: Program to solve assembly and interlocking puzzles
@@ -668,7 +668,7 @@ sci-mathematics/frama-c 20140301: Framework for analysis of source codes written
 sci-mathematics/freefem++ 3.8: Solve PDEs using FEM on 2d and 3d domains
 sci-mathematics/gambit 0.2010.09.01: Gambit: Software Tools for Game Theory
 sci-mathematics/gap 4.4.12: System for computational discrete algebra
-sci-mathematics/gappa 1.1.1: A tool to help verifying and proving properties on floating-point or fixed-point arithmetic
+sci-mathematics/gappa 1.1.1: Verifying and proving properties on floating-point or fixed-point arithmetic
 sci-mathematics/gappalib-coq 1.0.0: Allows the certificates Gappa generates to be imported by the Coq
 sci-mathematics/giac 1.1.0: A free C++ CAS (Computer Algebra System) library and its interfaces
 sci-mathematics/htk 3.4.1: Toolkit for building and manipulating hidden Markov models
@@ -715,16 +715,6 @@ sci-misc/opennlp-maxent 2.4.0: Maximum entropy model implementation for opennlp.
 sci-misc/opennlp-tools 1.3.0: Natural Language Programming API and tool suite
 sci-misc/praat 5.1.00 5.1.15: Speech analysis and synthesis
 sci-misc/pywordnet 2.0.1: Python bindings for wordnet
-sci-misc/salome-component 5.1.3 5.1.4: The Open Source Integration Platform for Numerical Simulation - COMPONENT Component
-sci-misc/salome-geom 5.1.3 5.1.4: SALOME : The Open Source Integration Platform for Numerical Simulation. GEOM component
-sci-misc/salome-gui 5.1.3 5.1.4: The Open Source Integration Platform for Numerical Simulation - GUI component
-sci-misc/salome-kernel 5.1.3 5.1.4: The Open Source Integration Platform for Numerical Simulation - KERNEL Component
-sci-misc/salome-med 5.1.3 5.1.4: The Open Source Integration Platform for Numerical Simulation - MED Component
-sci-misc/salome-meta 5.1.3 5.1.4: SALOME : The Open Source Integration Platform for Numerical Simulation
-sci-misc/salome-pycalculator 5.1.3 5.1.4: SALOME : The Open Source Integration Platform for Numerical Simulation. PYCALCULATOR Component
-sci-misc/salome-smesh 5.1.3 5.1.4: SALOME : The Open Source Integration Platform for Numerical Simulation. SMESH Component
-sci-misc/salome-visu 5.1.3 5.1.4: SALOME : The Open Source Integration Platform for Numerical Simulation. VISU Component
-sci-misc/salome-yacs 5.1.3 5.1.4: The Open Source Integration Platform for Numerical Simulation - YACS component
 sci-misc/sfst 1.4.2 1.4.6g: Uni Stuttgart Finite State Transducer tools
 sci-misc/simx 0.2 9999: a library for developing parallel, discrete-event simulations in Python
 sci-misc/stanford-parser 1.6: Stanfords statistical natural language parsers

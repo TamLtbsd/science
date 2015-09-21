@@ -269,7 +269,6 @@ sci-libs/trilinos:yaml - Add support for yaml (dev-cpp-yaml)
 sci-libs/xblas:int64 - Build the 64 bits integer library
 sci-mathematics/Macaulay2:optimization - Disable to build with -O0 for debugging.
 sci-mathematics/acl2:books - build community books, the canonical collection of open-source libraries
-sci-mathematics/apron:ppl - Add support for dev-libs/ppl
 sci-mathematics/dolfin:cgal - Adds support for geometric algorithms with sci-mathematics/cgal
 sci-mathematics/dolfin:cholmod - Adds support for sparse Cholesky factorization with sci-libs/cholmod
 sci-mathematics/dolfin:parmetis - Adds support for parallel graph partitioning with sci-libs/parmetis
@@ -315,9 +314,6 @@ sci-misc/hfst:openfst - Add optional support for openfst backend library (sci-mi
 sci-misc/hfst:sfst - Add optional support for sfst backend library (sci-misc/sfst)
 sci-misc/hfst:xml - Include parsers for grammars and formats that require XML support
 sci-misc/opennlp-tools:models - Automatically generated description for models
-sci-misc/salome-kernel:numpy - Enable support for dev-python/numpy
-sci-misc/salome-med:metis - Add support for metis
-sci-misc/salome-med:scotch - Add support for scotch
 sci-physics/abinit:atompaw - Enable support for atompaw, a Projector Augmented Waves atomic data generator
 sci-physics/abinit:bigdft - Enable support for BigDFT, DFT package using wavelet basis set
 sci-physics/abinit:cuda - Enable support for nVidia CUDA
