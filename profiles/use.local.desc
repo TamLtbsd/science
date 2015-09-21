@@ -264,7 +264,6 @@ sci-libs/trilinos:superlu - Add support for superlu (sci-libs/superlu)
 sci-libs/trilinos:taucs - Add support for taucs (sci-libs/taucs)
 sci-libs/trilinos:tbb - Add support for threading building blocks library (dev-cpp/tbb)
 sci-libs/trilinos:tvmet - Add support for tvmet (dev-libs/tvmet)
-sci-libs/trilinos:umfpack - Add support for umfpack (sci-libs/umfpack)
 sci-libs/trilinos:yaml - Add support for yaml (dev-cpp-yaml)
 sci-libs/xblas:int64 - Build the 64 bits integer library
 sci-mathematics/Macaulay2:optimization - Disable to build with -O0 for debugging.

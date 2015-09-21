@@ -28,7 +28,7 @@ dev-java/jhealpix 3.11: Hierarchical Equal Area isoLatitude Pixelization of a sp
 dev-java/jlatexmath 1.0.3: A Java API to render LaTeX
 dev-java/jlatexmath-fop 1.0.3: jlatexmath plugin for dev-java/fop
 dev-java/jogl 1.1.1a 2.0_rc8-r1 2.1.4 2.2.4: Java(TM) Binding fot the OpenGL(TM) API
-dev-java/jrosetta 1.0.2 1.0.4: Provides a common base for graphical component to build a graphical console.
+dev-java/jrosetta 1.0.4: Common base for graphical component to build a graphical console
 dev-java/netcdf 4.2: Java Common Data Model (CDM) interface to to netCDF files
 dev-java/scirenderer 1.1.0: A rendering library based on JoGL
 dev-lang/berkeley_upc 2.16.2 2.18.0 2.18.2 2.20.0: The Berkeley UPC Runtime/driver
@@ -201,7 +201,7 @@ sci-biology/CONTIGuator 2.7: Speed up bacterial genome assemblies by artemis and
 sci-biology/EBARDenovo 1.2.2: Transcriptome de novo assembler with chimera detection
 sci-biology/ESTate 0.5: ORF finding despite frameshifts, EST clustering
 sci-biology/FLASH 1.2.9: Merge paired-end mates from fragments that are shorter than twice the read length
-sci-biology/Gambit 0.4.145: Display genomic alignments from BAM files with annotations from BED, GFF, GFF3, VCF formats
+sci-biology/Gambit 0.4.145: Genomic alignments from BAM files with annotations from BED, GFF, GFF3, VCF formats
 sci-biology/HTSeq 0.6.1: Use SAM/BAM/Bowtie/FASTA/Q/GFF/GTF files in python, count reads, genomic intervals
 sci-biology/ICC 2.0.1: Error corrector for Roche/454 and IonTorrent data
 sci-biology/IMAGE 2.4.1: Iterative Mapping and Assembly for Gap Elimination
@@ -222,7 +222,7 @@ sci-biology/Ray 2.3.0: Assembler for metagenomes, genomes and transcriptomes (un
 sci-biology/SEECER 0.1.3-r1: SEquencing Error Corrector for RNA-Seq reads
 sci-biology/SSAKE 3.8.2: Short-read trimmer, assembler, scaffolder in PERL using the 3'-most k-mers
 sci-biology/STAR 2.4.1c 9999: STAR aligner: align RNA-seq reads to reference genome uncompressed suffix arrays
-sci-biology/SolexaQA 2.2: Analyze and trim single-end and paired-end reads, show quality statistics in figures
+sci-biology/SolexaQA 2.2: Analyze and trim single-end and paired-end reads, show quality statistics
 sci-biology/StarORF 9999: Java-based utility to show ORFs in a sequence
 sci-biology/TransDecoder 2.0.1: Extract ORF/CDS regions from FASTA sequences
 sci-biology/Trinotate 2.0.1: Annotation and analysis pipeline for de novo assembled transcriptomes
@@ -232,7 +232,7 @@ sci-biology/YASRA 2.33: Yet Another Short Read Assembler aligning to a reference
 sci-biology/abacas 1.3.1: Order and orientate DNA contigs even via 6-frame protein alignments, design primers for gap closing
 sci-biology/abyss 1.3.3-r1 1.3.4-r1 1.3.6-r1: Assembly By Short Sequences - a de novo, parallel, paired-end sequence assembler
 sci-biology/aghermann 1.0.3 1.0.3-r1 1.0.4 1.0.5: A sleep-research experiment manager, EDF viewer & Achermann's Process S model runner
-sci-biology/align_to_scf 1.06: Provide data to staden to view trace information at a given position missing from Roche .ace files
+sci-biology/align_to_scf 1.06: View trace information at a given position missing from Roche .ace files
 sci-biology/amos 3.1.0-r2 9999: Genome assembly package live cvs sources
 sci-biology/ampliconnoise 1.27: Noise removal from pyrosequenced amplicons
 sci-biology/angsd 9999: Population genetics analysis package
@@ -267,7 +267,7 @@ sci-biology/caftools 2.0.2: Manipulate CAF files and convert to GAP4 format (not
 sci-biology/cap3-bin 20071221: CAP3 is for small-scale assembly of EST sequences with or without quality value
 sci-biology/cd-hit 4.6.1: Clustering Database at High Identity with Tolerance
 sci-biology/cd-hit-auxtools 0.5: Additional cd-hit itools: read-linker, cd-hit-lap and cd-hit-dup
-sci-biology/cdbfasta 0.1: A FASTA record indexing/retrievieng utility, a part of TIGR Gene Indices project tools
+sci-biology/cdbfasta 0.1: FASTA record indexing/retrievieng utility, a part of TIGR Gene Indices project tools
 sci-biology/cegma 2.5: Predict genes in a genome and use them for training to find all genes
 sci-biology/cgview-bin 20131130: CGView Comparison Tool to compare genome sequences graphically (aka CCT)
 sci-biology/clover 2011.10.24: Cis-eLement OVERrepresentation: Detection of functional DNA motifs
@@ -428,7 +428,7 @@ sci-biology/vague-bin 1.0.5: GUI for Velvet de novo assembler
 sci-biology/velvetk 20120606: Estimate the best k-mer size to use for your Velvet de novo assembly
 sci-biology/wcd 0.6.3: EST sequence clustering by either of: d2 function, edit distance, common word heuristics
 sci-biology/weblogo 2.8.2: generate consensus sequence logo figures
-sci-biology/wgs-assembler 8.2 8.3_rc2: De novo whole-genome shotgun DNA sequence assembler also known as Celera Assembler and CABOG
+sci-biology/wgs-assembler 8.3_rc2: De novo whole-genome shotgun DNA sequence assembler (Celera Assembler and CABOG)
 sci-biology/wise 2.4.1: Genewise, promoterwise: align protein HMMs to DNA for CDS predictions
 sci-biology/zmsort 110625: Merge-sort utility for compressed alignment files, with multi-file output
 sci-chemistry/GromacsWrapper 9999: Python framework for Gromacs
