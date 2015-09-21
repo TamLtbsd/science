@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile install postinst prepare setup
 DEPEND=x11-libs/libX11 virtual/fortran x11-proto/xproto sys-apps/gawk virtual/fortran
 DESCRIPTION=The crystallographic computing system
-EAPI=4
-HOMEPAGE=http://www-xray.fzu.cz/jana/jana.html
+EAPI=5
+HOMEPAGE=http://jana.fzu.cz/
 KEYWORDS=~amd64 ~x86
 LICENSE=freedist
 RDEPEND=x11-libs/libX11 virtual/fortran virtual/fortran
 SLOT=0
-SRC_URI=ftp://ftp.fzu.cz/pub/cryst/beta2000/jana2000.tar.gz
+SRC_URI=http://www-xray.fzu.cz/jana/download/final2000/jana2000.tar.gz
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=3b6571b83f3809e423627661a968e2c2
+_md5_=0956b6d0b80a24b85c8b969239e0a0e4

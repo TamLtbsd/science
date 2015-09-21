@@ -1,9 +1,0 @@
-DEFINED_PHASES=compile install prepare test
-DESCRIPTION=A whole-genome shotgun assembler from TIGR
-EAPI=3
-HOMEPAGE=http://www.tigr.org/software/assembler/
-KEYWORDS=~amd64 ~x86
-LICENSE=Artistic
-SLOT=0
-SRC_URI=ftp://ftp.tigr.org/pub/software/assembler/TIGR_Assembler_v2.tar.gz
-_md5_=200d6a13706a4b196ab903be3e13c56a

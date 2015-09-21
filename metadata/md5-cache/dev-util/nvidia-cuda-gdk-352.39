@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile install unpack
-DEPEND=>=dev-util/nvidia-cuda-toolkit-7.5 media-libs/freeglut examples? ( >=x11-drivers/nvidia-drivers-352.39[uvm] )
+DEPEND=>=dev-util/nvidia-cuda-toolkit-7.5 media-libs/freeglut examples? ( >=x11-drivers/nvidia-drivers-352.39[uvm] ) nvvs? ( >=x11-drivers/nvidia-drivers-352.39[uvm] <x11-drivers/nvidia-drivers-355.00[uvm] )
 DESCRIPTION=NVIDIA GPU Deployment Kit
 EAPI=5
 HOMEPAGE=http://developer.nvidia.com/cuda
 IUSE=+healthmon +nvml +doc examples +nvvs
 KEYWORDS=-* ~amd64
 LICENSE=NVIDIA-gdk
-RDEPEND=>=dev-util/nvidia-cuda-toolkit-7.5 media-libs/freeglut examples? ( >=x11-drivers/nvidia-drivers-352.39[uvm] )
+RDEPEND=>=dev-util/nvidia-cuda-toolkit-7.5 media-libs/freeglut examples? ( >=x11-drivers/nvidia-drivers-352.39[uvm] ) nvvs? ( >=x11-drivers/nvidia-drivers-352.39[uvm] <x11-drivers/nvidia-drivers-355.00[uvm] )
 SLOT=0
 SRC_URI=http://developer.download.nvidia.com/compute/cuda/7.5/Prod/local_installers/cuda_352_39_gdk_linux.run
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	portability	3a50b3ec310b86914f98babecc8f89c6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	unpacker	1ca344bd9b922a7f8084a3fa02933b79	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=d4f987b357b9254486dcb84d5620eb18
+_md5_=ebc283350026214f28f5a04b03d661dd
