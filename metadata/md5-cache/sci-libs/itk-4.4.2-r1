@@ -1,14 +1,14 @@
 DEFINED_PHASES=compile configure install prepare pretend setup test
-DEPEND=sci-libs/hdf5[cxx] virtual/jpeg media-libs/libpng media-libs/tiff:0 sys-libs/zlib fftw? ( sci-libs/fftw:3.0 ) vtkglue? ( sci-libs/vtk ) python? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_5(-),-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),python_single_target_python2_7(+)] >=dev-lang/swig-2.0 >=dev-cpp/gccxml-0.9.0_pre20120309 ) doc? ( app-doc/doxygen ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 )
+DEPEND=sci-libs/hdf5[cxx] virtual/jpeg:0= media-libs/libpng:0= media-libs/tiff:0= sys-libs/zlib fftw? ( sci-libs/fftw:3.0 ) vtkglue? ( sci-libs/vtk ) python? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_5(-),-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),python_single_target_python2_7(+)] >=dev-lang/swig-2.0:0 >=dev-cpp/gccxml-0.9.0_pre20120309 ) doc? ( app-doc/doxygen ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 )
 DESCRIPTION=NLM Insight Segmentation and Registration Toolkit
 EAPI=5
 HOMEPAGE=http://www.itk.org
 IUSE=debug doc examples fftw itkv3compat python review cpu_flags_x86_sse2 test vtkglue python_targets_python2_7
 KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 LICENSE=Apache-2.0
-RDEPEND=sci-libs/hdf5[cxx] virtual/jpeg media-libs/libpng media-libs/tiff:0 sys-libs/zlib fftw? ( sci-libs/fftw:3.0 ) vtkglue? ( sci-libs/vtk )
+RDEPEND=sci-libs/hdf5[cxx] virtual/jpeg:0= media-libs/libpng:0= media-libs/tiff:0= sys-libs/zlib fftw? ( sci-libs/fftw:3.0 ) vtkglue? ( sci-libs/vtk )
 RESTRICT=primaryuri
 SLOT=0
 SRC_URI=mirror://sourceforge/itk/InsightToolkit-4.4.2.tar.gz doc? ( mirror://sourceforge/itk/DoxygenInsightToolkit-4.4.0.tar.gz )
 _eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	python-single-r1	612c783d1a1a182ad7ea4f2eb0b79e86	python-utils-r1	39c6b012a0512678e698e712b5b7ecc2	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=5759f6ab45aba82a82dc472b421509fb
+_md5_=47c83c5c0634d3f066583cfaccead5c2

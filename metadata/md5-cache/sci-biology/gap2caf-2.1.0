@@ -1,12 +1,12 @@
 DEFINED_PHASES=configure install prepare
-DEPEND=sci-biology/staden >=dev-lang/tcl-8.5 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEPEND=sci-biology/staden >=dev-lang/tcl-8.5:0= !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DESCRIPTION=GAP4 file format to CAF v2 format converter for genomic assembly data
 EAPI=5
 HOMEPAGE=http://www.sanger.ac.uk/resources/software/caf/
 KEYWORDS=~amd64 ~x86
 LICENSE=GRL staden
-RDEPEND=sci-biology/staden >=dev-lang/tcl-8.5
+RDEPEND=sci-biology/staden >=dev-lang/tcl-8.5:0=
 SLOT=0
 SRC_URI=ftp://ftp.sanger.ac.uk/pub/PRODUCTION_SOFTWARE/src/gap2caf-2.1.0.tar.gz http://downloads.sourceforge.net/staden/staden-2.0.0b8.tar.gz
 _eclasses_=autotools	7d16e72a943b4803ca9691b2ecf89216	eutils	351a78113be5b393c09a2c948701ad36	libtool	7f78cd7d403808a350c9ae23f5821fb4	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=22b16c9eb7bf9191ff4c73de03892cbd
+_md5_=5901156034db13d6d96967ca0432fcee

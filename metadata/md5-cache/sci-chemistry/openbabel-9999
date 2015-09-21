@@ -1,12 +1,12 @@
 DEFINED_PHASES=compile configure install prepare setup test unpack
-DEPEND=dev-cpp/eigen dev-libs/libxml2:2 !sci-chemistry/babel sci-libs/inchi sys-libs/zlib wxwidgets? ( x11-libs/wxGTK:2.8[X] ) >=dev-util/cmake-2.4.8 doc? ( app-doc/doxygen ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) >=dev-vcs/git-1.8.2.1
+DEPEND=dev-cpp/eigen:3 dev-libs/libxml2:2 !sci-chemistry/babel sci-libs/inchi sys-libs/zlib wxwidgets? ( x11-libs/wxGTK:2.8[X] ) >=dev-util/cmake-2.4.8 doc? ( app-doc/doxygen ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) >=dev-vcs/git-1.8.2.1
 DESCRIPTION=Interconverts file formats used in molecular modeling
 EAPI=5
 HOMEPAGE=http://openbabel.sourceforge.net/
 IUSE=doc java openmp perl python ruby test wxwidgets
 LICENSE=GPL-2
 PDEPEND=java? ( sci-chemistry/openbabel-java ) perl? ( sci-chemistry/openbabel-perl ) python? ( sci-chemistry/openbabel-python ) ruby? ( sci-chemistry/openbabel-ruby )
-RDEPEND=dev-cpp/eigen dev-libs/libxml2:2 !sci-chemistry/babel sci-libs/inchi sys-libs/zlib wxwidgets? ( x11-libs/wxGTK:2.8[X] )
+RDEPEND=dev-cpp/eigen:3 dev-libs/libxml2:2 !sci-chemistry/babel sci-libs/inchi sys-libs/zlib wxwidgets? ( x11-libs/wxGTK:2.8[X] )
 SLOT=0
 _eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-r3	1502b9838d043db47700b8120083e637	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	wxwidgets	e0c7fd61275cea7156be4143ba8c673a
-_md5_=392fa8b7be984c5f0beda40c377aca1c
+_md5_=744ad5461b098f98f1258b803d5c73f4

@@ -1,14 +1,14 @@
 DEFINED_PHASES=compile configure install prepare setup test
-DEPEND=virtual/fortran X? ( x11-libs/fltk:1 ) blas? ( virtual/blas virtual/lapack sci-libs/fftw:3.0 ) cgns? ( sci-libs/cgnslib ) jpeg? ( virtual/jpeg ) lua? ( dev-lang/lua ) med? ( >=sci-libs/med-2.3.4 ) opencascade? ( sci-libs/opencascade ) png? ( media-libs/libpng ) petsc? ( <=sci-mathematics/petsc-3.4.2 ) zlib? ( sys-libs/zlib ) mpi? ( virtual/mpi[cxx] ) taucs? ( sci-libs/taucs ) virtual/pkgconfig dev-util/cmake doc? ( virtual/latex-base ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) virtual/fortran
-DESCRIPTION=A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities
+DEPEND=virtual/fortran X? ( x11-libs/fltk:1 ) blas? ( virtual/blas virtual/lapack sci-libs/fftw:3.0 ) cgns? ( sci-libs/cgnslib ) jpeg? ( virtual/jpeg:0= ) lua? ( dev-lang/lua:0 ) med? ( >=sci-libs/med-2.3.4 ) opencascade? ( sci-libs/opencascade:* ) png? ( media-libs/libpng:0= ) petsc? ( <=sci-mathematics/petsc-3.4.2 ) zlib? ( sys-libs/zlib ) mpi? ( virtual/mpi[cxx] ) taucs? ( sci-libs/taucs ) virtual/pkgconfig dev-util/cmake doc? ( virtual/latex-base ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) virtual/fortran
+DESCRIPTION=A three-dimensional finite element mesh generator
 EAPI=5
 HOMEPAGE=http://www.geuz.org/gmsh/
 IUSE=blas cgns chaco doc examples jpeg lua med metis mpi netgen opencascade petsc png taucs tetgen X zlib
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3 free-noncomm
-RDEPEND=virtual/fortran X? ( x11-libs/fltk:1 ) blas? ( virtual/blas virtual/lapack sci-libs/fftw:3.0 ) cgns? ( sci-libs/cgnslib ) jpeg? ( virtual/jpeg ) lua? ( dev-lang/lua ) med? ( >=sci-libs/med-2.3.4 ) opencascade? ( sci-libs/opencascade ) png? ( media-libs/libpng ) petsc? ( <=sci-mathematics/petsc-3.4.2 ) zlib? ( sys-libs/zlib ) mpi? ( virtual/mpi[cxx] ) taucs? ( sci-libs/taucs ) virtual/fortran
+RDEPEND=virtual/fortran X? ( x11-libs/fltk:1 ) blas? ( virtual/blas virtual/lapack sci-libs/fftw:3.0 ) cgns? ( sci-libs/cgnslib ) jpeg? ( virtual/jpeg:0= ) lua? ( dev-lang/lua:0 ) med? ( >=sci-libs/med-2.3.4 ) opencascade? ( sci-libs/opencascade:* ) png? ( media-libs/libpng:0= ) petsc? ( <=sci-mathematics/petsc-3.4.2 ) zlib? ( sys-libs/zlib ) mpi? ( virtual/mpi[cxx] ) taucs? ( sci-libs/taucs ) virtual/fortran
 REQUIRED_USE=taucs? ( || ( metis ) )
 SLOT=0
 SRC_URI=http://www.geuz.org/gmsh/src/gmsh-2.8.5-source.tgz
 _eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=bbb1f2289a6fffd9201f08b991237411
+_md5_=3aad04f8743b442be6e56783b63d9218
