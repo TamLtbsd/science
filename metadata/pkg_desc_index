@@ -41,7 +41,6 @@ dev-lang/pgi 13.5: PGI compiler suite
 dev-lang/terra 2015.03.12: A low-level counterpart to Lua
 dev-lang/vtune 13.1.10.298370 13.1.12.305106 13.1.13.313935 13.1.17.353306 15.1.380310 15.2.393444 15.3.403110: Intel VTune Amplifier XE
 dev-libs/asmjit 1.0_beta4: complete x86/x64 JIT-Assembler for C++ language
-dev-libs/boost 1.56.0-r2: Boost Libraries for C++
 dev-libs/boost-compute 0.4-r1 9999: A header-only C++ Computing Library for OpenCL
 dev-libs/fortrancl 0.1_alpha3: OpenCL interface for Fortran 90
 dev-libs/libconfig 9999: Libconfig is a simple library for manipulating structured configuration files
@@ -428,7 +427,7 @@ sci-biology/ugene 1.13.3 1.16.1: A free open-source cross-platform bioinformatic
 sci-biology/vague-bin 1.0.5: GUI for Velvet de novo assembler
 sci-biology/velvetk 20120606: Estimate the best k-mer size to use for your Velvet de novo assembly
 sci-biology/wcd 0.6.3: EST sequence clustering by either of: d2 function, edit distance, common word heuristics
-sci-biology/weblogo 2.8.2: seqlogo: generate consensus sequence logo figures
+sci-biology/weblogo 2.8.2: generate consensus sequence logo figures
 sci-biology/wgs-assembler 8.2 8.3_rc2: De novo whole-genome shotgun DNA sequence assembler also known as Celera Assembler and CABOG
 sci-biology/wise 2.4.1: Genewise, promoterwise: align protein HMMs to DNA for CDS predictions
 sci-biology/zmsort 110625: Merge-sort utility for compressed alignment files, with multi-file output
@@ -570,7 +569,7 @@ sci-libs/cblas-reference 20110218 20110218-r1: C wrapper interface to the F77 re
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib
 sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools.
 sci-libs/clblas 2.4-r1 2.6 9999: A software library containing BLAS routines for OpenCL
-sci-libs/clfft 0.9999 2.4-r1 2.6.1 9999: A software library containing FFT functions written in OpenCL
+sci-libs/clfft 2.6.1 9999: Library containing FFT functions written in OpenCL
 sci-libs/clrng 9999: A library for uniform random number generation in OpenCL
 sci-libs/cs-rosetta-db 1.01.2009.1109.11: System for chemical shifts based protein structure prediction using ROSETTA
 sci-libs/dcmtk 3.6.0: OFFIS DICOM image files library and tools
