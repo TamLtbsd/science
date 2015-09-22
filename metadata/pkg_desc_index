@@ -401,7 +401,7 @@ sci-biology/smalt-bin 0.7.4: Pairwise sequence alignment mapping DNA reads onto 
 sci-biology/snap 20131129: HMM-based prokaryotic and eukaryotic gene prediction tool
 sci-biology/snphylo 20140701: Pipeline to generate phylogenetic tree from SNP data
 sci-biology/spm 8 12: Analysis of brain imaging data sequences for Octave or Matlab
-sci-biology/sra_sdk 2.1.6 2.1.9 2.2.2a: NCBI Sequence Read Archive (SRA) sratoolkit
+sci-biology/sra_sdk 2.2.2a: NCBI Sequence Read Archive (SRA) sratoolkit
 sci-biology/ssaha2-bin 2.5.5: SSAHA2: Sequence Search and Alignment by Hashing Algorithm
 sci-biology/stacks 1.16: Analyze Restriction enzyme data, draw gen. maps, population genomics (RAD-seq Illumina sequencing)
 sci-biology/staden 2.0.0_beta9 9999: DNA sequence assembly (gap4, gap5), editing and analysis tools (Spin)
@@ -658,7 +658,7 @@ sci-mathematics/apron 0.9.10-r1: Static analysis of the numerical variables of a
 sci-mathematics/aribas 1.63: Interpreter for big integer and multi-precision floating point arithmetic
 sci-mathematics/axiom 201408: Axiom is a general purpose Computer Algebra system
 sci-mathematics/burrtools 0.5.2-r1: Program to solve assembly and interlocking puzzles
-sci-mathematics/cadabra 1.33 1.39: Field-theory motivated computer algebra system
+sci-mathematics/cadabra 1.39: Field-theory motivated computer algebra system
 sci-mathematics/cdfplayer 10.0.2: Player for Wolfram CDF
 sci-mathematics/cipi 1.0: Computing information projections iteratively
 sci-mathematics/dolfin 0.9.9: C++/Python interface of FEniCS
@@ -681,7 +681,6 @@ sci-mathematics/ltl2ba 1.1: Fast LTL to Buechi Automata Translation
 sci-mathematics/mdp 3.3 9999: Modular data processing framework for python
 sci-mathematics/netgen 4.9.13 5.0.0: NETGEN is an automatic 3d tetrahedral mesh generator
 sci-mathematics/open-axiom 1.4.2: Symbolic and algebraic computations system
-sci-mathematics/pest 12.2: Model-independent Parameter ESTimation for calibration and predictive uncertainty analysis
 sci-mathematics/petsc 3.4.2 3.5.3 3.6.0: Portable, Extensible Toolkit for Scientific Computation
 sci-mathematics/pff 8.4: Library for reasoning about floating point numbers in coq
 sci-mathematics/pulp 1.5.6: Create MPS/LP files, call solvers, and present results

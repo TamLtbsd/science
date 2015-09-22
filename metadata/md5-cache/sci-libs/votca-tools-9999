@@ -1,11 +1,11 @@
 DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=fftw? ( sci-libs/fftw:3.0 ) dev-libs/expat gsl? ( sci-libs/gsl ) dev-libs/boost:= sqlite? ( dev-db/sqlite:3 ) doc? ( || ( <app-doc/doxygen-1.7.6.1[-nodot] >=app-doc/doxygen-1.7.6.1[dot] ) ) >=app-text/txt2tags-2.5 virtual/pkgconfig dev-util/ninja >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) dev-vcs/mercurial
+DEPEND=dev-libs/boost:= dev-libs/expat fftw? ( sci-libs/fftw:3.0 ) gsl? ( sci-libs/gsl ) sqlite? ( dev-db/sqlite:3 ) doc? ( >=app-doc/doxygen-1.7.6.1[dot] ) >=app-text/txt2tags-2.5 virtual/pkgconfig dev-util/ninja >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) dev-vcs/mercurial
 DESCRIPTION=Votca tools library
 EAPI=5
 HOMEPAGE=http://www.votca.org
 IUSE=doc +fftw +gsl sqlite
 LICENSE=Apache-2.0
-RDEPEND=fftw? ( sci-libs/fftw:3.0 ) dev-libs/expat gsl? ( sci-libs/gsl ) dev-libs/boost:= sqlite? ( dev-db/sqlite:3 )
+RDEPEND=dev-libs/boost:= dev-libs/expat fftw? ( sci-libs/fftw:3.0 ) gsl? ( sci-libs/gsl ) sqlite? ( dev-db/sqlite:3 )
 SLOT=0
 _eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	mercurial	6ac07cde03301514a5f9e4f13df3f55e	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=ae6214cd5978c9671d388d90e692174b
+_md5_=cfc1d532774ceb92c209ade4bdeeec1f
