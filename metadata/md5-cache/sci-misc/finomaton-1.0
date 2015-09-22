@@ -1,11 +1,11 @@
 DEFINED_PHASES=install
 DESCRIPTION=Simple tcl/tk script to draw finite state automata
 EAPI=5
-HOMEPAGE=http://stud4.tuwien.ac.at/~e0225855/finomaton/finomaton.html
+HOMEPAGE=https://www.ctan.org/pkg/finomaton
 IUSE=examples
-KEYWORDS=~x86
+KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=dev-lang/tk dev-texlive/texlive-metapost
+RDEPEND=dev-lang/tk:0 dev-texlive/texlive-metapost
 SLOT=0
-SRC_URI=http://stud4.tuwien.ac.at/~e0225855/finomaton/finomaton-1.0.tar.gz
-_md5_=4e2a0a553cb28d5da13cf44447dde49d
+SRC_URI=http://mirrors.ctan.org/graphics/finomaton.zip
+_md5_=137e3c07023078ec194447a86a43e843

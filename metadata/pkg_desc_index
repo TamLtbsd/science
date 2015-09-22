@@ -110,7 +110,7 @@ dev-python/nbconvert 4.0.0-r1 9999: Converting Jupyter Notebooks
 dev-python/nbformat 4.0.0 9999: Reference implementation of the Jupyter Notebook format
 dev-python/nbviewer 9999: Nbconvert as a webservice (rendering ipynb to static HTML)
 dev-python/newrelic 2.44.0.36 2.50.0.39: New Relic Python Agent
-dev-python/notebook 4.0.4-r3 9999: Jupyter Interactive Notebook
+dev-python/notebook 4.0.4-r3 4.0.5 9999: Jupyter Interactive Notebook
 dev-python/nvidia-ml-py 6.340.0 7.346.0: Python Bindings for the NVIDIA Management Library
 dev-python/omniorbpy 3.4: A robust high-performance CORBA ORB for Python
 dev-python/opal-client 2.4.1: Python Opal Web Service Client
@@ -711,8 +711,7 @@ sci-misc/nltk 2.0.4: Natural language processing tool collection
 sci-misc/omorfi 0.1_alpha: Open morphology for Finnish language
 sci-misc/openfst 1.3.4 1.4.1: Finite State Transducer tools by Google et al.
 sci-misc/opennlp-maxent 2.4.0: Maximum entropy model implementation for opennlp.
-sci-misc/opennlp-tools 1.3.0: Natural Language Programming API and tool suite
-sci-misc/praat 5.1.00 5.1.15: Speech analysis and synthesis
+sci-misc/praat 5.4.19: Speech analysis and synthesis
 sci-misc/pywordnet 2.0.1: Python bindings for wordnet
 sci-misc/sfst 1.4.2 1.4.6g: Uni Stuttgart Finite State Transducer tools
 sci-misc/simx 0.2 9999: a library for developing parallel, discrete-event simulations in Python
@@ -720,7 +719,6 @@ sci-misc/stanford-parser 1.6: Stanfords statistical natural language parsers
 sci-misc/stanford-tagger 20060521: Stanfords log linear POS taggers
 sci-physics/abinit 7.4.2-r1 7.6.4-r1 7.10.4: Find total energy, charge density and electronic structure using density functional theory
 sci-physics/atompaw 3.0.1.9-r1 4.0.0.10: PAW atomic data generator
-sci-physics/atompaw2abinit 3.3.0-r1: Abinit AtomPAW atomic data convertor
 sci-physics/bigdft 1.7.1 1.7.6: A DFT electronic structure code using a wavelet basis set
 sci-physics/clip 4.0.0_beta2: Interactive program for evaluation of Laue diffraction patterns
 sci-physics/elk 1.4.22 2.1.25: All-electron full-potential linearised augmented-plane wave (FP-LAPW)
@@ -740,7 +738,6 @@ sci-physics/root 9999: C++ data analysis framework and interpreter from CERN
 sci-physics/tauola 1.1.3 1.1.4 1.1.5 9999: tau decay Monte Carlo generator
 sci-physics/vgm 3.06 9999: Virtual Geometry Model for High Energy Physics Experiments
 sci-physics/yoda 1.0.6: Yet more Objects for (High Energy Physics) Data Analysis
-sci-visualization/ferret-bin 6.6.4: Analysis Tool for Gridded and Non-Gridded Data
 sci-visualization/forge 3.1 9999: High Performance Visualizations for ArrayFire
 sci-visualization/gnuplot 5.0.9999 5.1.9999: Command-line driven interactive plotting program
 sci-visualization/mantid 3.3.0: Utilities for processing and plotting neutron scattering data
@@ -768,7 +765,6 @@ sys-cluster/openmpi 1.6.5 1.7.3 1.8.4-r99 1.8.8: A high-performance message pass
 sys-cluster/ovis 3.0.1: Tool for statistical analysis of large data sets
 sys-cluster/pyslice 1.7: Templating system for parametric modeling
 sys-devel/gdebugger 6.2.438: OpenCL and OpenGL debugger and memory analyzer
-sys-infiniband/librxe 1.0.0: OpenIB userspace driver for RoCE
 virtual/blacs 1.1: Virtual for BLACS implementation
 virtual/blas 2.1-r1 2.1-r2 2.1-r3: Virtual for FORTRAN 77 BLAS implementation
 virtual/cblas 2.0 2.0-r1 2.0-r2 2.0-r3: Virtual for BLAS C implementation
