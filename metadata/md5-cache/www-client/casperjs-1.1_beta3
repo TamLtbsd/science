@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install
+DEPEND=<www-client/phantomjs-2.0.0
+DESCRIPTION=Navigation scripting & testing utility for PhantomJS and SlimerJS
+EAPI=5
+HOMEPAGE=http://casperjs.org/
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=<www-client/phantomjs-2.0.0
+SLOT=0
+SRC_URI=https://github.com/n1k0/casperjs/archive/1.1-beta3.tar.gz -> casperjs-1.1_beta3.tar.gz
+_md5_=acd125af6610c98d0768b6ee719a57b5

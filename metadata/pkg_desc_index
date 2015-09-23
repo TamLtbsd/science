@@ -383,7 +383,7 @@ sci-biology/sabre 9999: Barcode demultiplexing and trimming tool for Illumina Fa
 sci-biology/salmon 0.3.2 0.4.2 9999: Transcript-level quantification from RNA-seq reads using lightweight alignments
 sci-biology/samstat 20130708: Show statistics of BAM/SAM (error profiles, nucleotide composition, base quals, len. distribution)
 sci-biology/samtools 1.0-r2 1.1-r1 1.2-r1: Utilities for SAM (Sequence Alignment/Map), a format for large nucleotide sequence alignments
-sci-biology/scaffold_builder 20131122: Combine FASTA contigs from a de novo assembly into scaffolds using a reference assembly
+sci-biology/scaffold_builder 20131122-r1: Combine FASTA contigs from a de novo assembly into scaffolds using a reference assembly
 sci-biology/scan_for_matches 20121220: Pattern search through DNA sequences (aka patscan)
 sci-biology/sclust 0.1: seeded clustering tool by processing pairwise alignments from TIGR Gene Indices project tools
 sci-biology/screed 0.7.1: A short read database
@@ -774,6 +774,7 @@ virtual/lapacke 1.0 3.5: Virtual for LAPACK C implementation
 virtual/mpi 2.0-r3 2.0-r4: Virtual for Message Passing Interface (MPI) v2.0 implementation
 virtual/perl-encoding-warnings 0.11: Virtual for encoding-warnings
 virtual/scalapack 2.0: Virtual for ScaLAPACK implementation
+www-client/casperjs 1.1_beta3: Navigation scripting & testing utility for PhantomJS and SlimerJS
 x11-libs/agg 2.5-r3: High quality rendering engine library for C++
 x11-libs/tr 1.3: An OpenGL utility library for doing tiled rendering
 x11-libs/xview 3.2-r8: The X Window-System-based Visual/Integrated Environment for Workstations
