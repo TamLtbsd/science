@@ -10,4 +10,4 @@ RDEPEND=media-libs/libpng:0 sys-libs/zlib >=sci-libs/tnt-3 sci-libs/jama <dev-la
 SLOT=0
 SRC_URI=mirror://sourceforge/brlcad/brlcad-7.24.0.tar.gz
 _eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	java-pkg-2	bb9b8157d2a348d9ec42ce34a107fe0d	java-utils-2	c7374d201551e4fb8552994ef210e0f7	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=d39d223a92e1e5f88906c344d9f09a48
+_md5_=16de58571fef607e0ee180b880809fcb

@@ -10,4 +10,4 @@ RESTRICT=fetch
 SLOT=0
 SRC_URI=consed-29-sources.tar.gz consed-29-linux.tar.gz
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=1319990adee9aa8f2fe599e658a81ecf
+_md5_=6834dfb45e77ca65a55ba7ad1426db73

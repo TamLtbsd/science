@@ -8,4 +8,4 @@ LICENSE=freedist HPND
 RDEPEND=X? ( x11-libs/motif:0 )
 SLOT=0
 SRC_URI=http://www.ill.eu/sites/fullprof/downloads/FullProf_Suite_April2013_Lin.tgz
-_md5_=6c36fe9aaba7e0e3b277317ccdd8d2e8
+_md5_=3e72203ac5d626d86925b624e936dfb5

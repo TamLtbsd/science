@@ -22,7 +22,7 @@ dev-java/fits 1.11.0-r1: Java library for FITS input/output
 dev-java/flexdock 1.1.1 1.2.4: A Java docking framework for use in cross-platform Swing applications
 dev-java/gluegen 1_p20080421 2.0_rc8 2.1.4 2.2.4: Automatically generate the JNI code necessary to call C libraries
 dev-java/hdf-java 2.9: Java interface to the HDF5 library
-dev-java/jeuclid-core 3.1.9-r1: Core module of MathML rendering solution.
+dev-java/jeuclid-core 3.1.9-r1: Core module of MathML rendering solution
 dev-java/jgraphx 1.4.1.0 1.8.0.6 2.5.0.3: Open-source graph component for Java
 dev-java/jhealpix 3.11: Hierarchical Equal Area isoLatitude Pixelization of a sphere - Java
 dev-java/jlatexmath 1.0.3: A Java API to render LaTeX
@@ -62,9 +62,9 @@ dev-perl/DBIx-DBStag 0.12: Relational Database to Hierarchical (Stag/XML) Mappin
 dev-perl/Lab-Instrument 2.01: Interface to an instrument via GPIB, serial bus or ethernet
 dev-perl/Lab-Tools 1.4: Tools for use with dev-perl/Lab-Instrument
 dev-perl/Lab-VISA 2.06: Perl interface to National Instrument's VISA library
-dev-perl/Log-Cabin 0.06: Partial implementation of Log::Log4perl with reduced disk IO.
+dev-perl/Log-Cabin 0.06: Partial implementation of Log::Log4perl with reduced disk IO
 dev-perl/Text-ParseWords 3.27: Parse strings containing shell-style quoting
-dev-perl/Time-Progress 1.7: Elapsed and estimated finish time reporting.
+dev-perl/Time-Progress 1.7: Elapsed and estimated finish time reporting
 dev-perl/go-db-perl 0.04: Gene Ontology Database perl API
 dev-perl/go-perl 0.13: GO::Parser parses all GO files formats and types
 dev-perl/opal-client 1.9.2: Perl Opal Web Service Client
@@ -97,7 +97,7 @@ dev-python/ipyparallel 4.0.0-r1 4.0.2 9999: Interactive Parallel Computing with 
 dev-python/ipython 4.0.0-r2: Advanced interactive shell for Python
 dev-python/ipython_genutils 0.1.0 9999: Vestigial utilities from IPython
 dev-python/ipywidgets 4.0.2-r1 4.0.3 9999: IPython HTML widgets for Jupyter
-dev-python/jupyter 1.0.0: Jupyter metapackage. Install all the Jupyter components in one go.
+dev-python/jupyter 1.0.0: Jupyter metapackage. Install all the Jupyter components in one go
 dev-python/jupyter_client 4.0.0 9999: Jupyter protocol implementation and client libraries
 dev-python/jupyter_console 4.0.2 9999: A terminal-based console frontend for Jupyter kernels
 dev-python/jupyter_core 4.0.4-r1 4.0.6 9999: Core common functionality of Jupyter projects
@@ -152,7 +152,7 @@ dev-util/smartgit 6.5.6: Git client with support for GitHub Pull Requests+Commen
 media-gfx/PhiloGL 1.4.3: WebGL Framework for Data Vis, Creative Coding and Game Development
 media-gfx/brlcad 7.22.0 7.24.0 7.24.2 9999: Constructive solid geometry modeling system
 media-gfx/librecad 1.0.3 1.0.4 2.0.7 2.0.8 9999: Generic 2D CAD program
-media-libs/OpenMOIV 1.0.3a: Object-oriented 3D toolkit that facilitates the rendering and interaction of chemical systems.
+media-libs/OpenMOIV 1.0.3a: Object-oriented 3D toolkit that facilitates the rendering and interaction of chemical systems
 media-libs/avbin-bin 7: A thin wrapper around FFmpeg
 media-libs/libgfx 1.1.0: The purpose of this library is to simplify the creation of computer graphics software
 net-ftp/bbftp-client 3.2.1: Secure file transfer software with its own transfer protocol optimized for files larger than 2GB
@@ -227,7 +227,7 @@ sci-biology/StarORF 9999: Java-based utility to show ORFs in a sequence
 sci-biology/TransDecoder 2.0.1: Extract ORF/CDS regions from FASTA sequences
 sci-biology/Trinotate 2.0.1: Annotation and analysis pipeline for de novo assembled transcriptomes
 sci-biology/VarScan 2.3.7: Variant detection (germline, multi-sample, somatic mut., som. cp nr alterations (CNA)), SNP calls
-sci-biology/VelvetOptimiser 2.2.5: Optimise three primary parameter options (K, -exp_cov, -cov_cutoff) for Velvet sequence assembler.
+sci-biology/VelvetOptimiser 2.2.5: Optimise three primary parameter options (K, -exp_cov, -cov_cutoff) for Velvet sequence assembler
 sci-biology/YASRA 2.33: Yet Another Short Read Assembler aligning to a reference using LASTZ
 sci-biology/abacas 1.3.1: Order and orientate DNA contigs even via 6-frame protein alignments, design primers for gap closing
 sci-biology/abyss 1.3.3-r1 1.3.4-r1 1.3.6-r1: Assembly By Short Sequences - a de novo, parallel, paired-end sequence assembler
@@ -237,7 +237,7 @@ sci-biology/amos 3.1.0-r2 9999: Genome assembly package live cvs sources
 sci-biology/ampliconnoise 1.27: Noise removal from pyrosequenced amplicons
 sci-biology/angsd 9999: Population genetics analysis package
 sci-biology/ants 9999: Advanced Normalitazion Tools for neuroimaging
-sci-biology/apollo 9999: Apollo genome editor is Java-based application for browsing and annotation of genomic sequences.
+sci-biology/apollo 9999: Apollo genome editor is Java-based application for browsing and annotation of genomic sequences
 sci-biology/argo 1.0.24: Production tool for visualizing and manually annotating whole genomes
 sci-biology/argo-bin 1.0.31 2.0.3: Visualization and manually annotating whole genomes
 sci-biology/artemis 9999: DNA sequence viewer/annotation (Artemis) and comparison (ACT) tool
@@ -330,7 +330,7 @@ sci-biology/lighter 9999: NGS reads corrector
 sci-biology/lucy 1.20: DNA sequence quality and vector trimming tool
 sci-biology/maker 2.31.8: A genome annotation viewer and pipeline for small eukaryota and prokaryota
 sci-biology/manatee-igs 2.23.1: IGS-modified version of the genome annotation tool using Chado database schema
-sci-biology/manatee-jcvi 2.4.3: genome annotation tool: view, modify, and store annotation for prokaryotic and eukaryotic genomes.
+sci-biology/manatee-jcvi 2.4.3: genome annotation tool: view, modify, and store annotation for prokaryotic and eukaryotic genomes
 sci-biology/mavid 2.0.4: Multiple alignment of large DNA sequences
 sci-biology/merlin 1.1.2: Statistical analysis of gene flow in pedigrees
 sci-biology/metaseq 0.5.3: Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data
@@ -409,7 +409,7 @@ sci-biology/subread 1.4.6: NGS suite for read mapping, analysis of mapped reads,
 sci-biology/swissknife 1.70: Perl library of modules to manipulate SwissProt flatfiles
 sci-biology/symap 4.0: Synteny Mapping and Analysis Program between chromosomes, contigs and physical maps
 sci-biology/tablet 1.14.04.10 9999: Viewer of next generation sequence assemblies and alignments
-sci-biology/tablet-bin 1.14.10.21: Viewer of next generation sequence assemblies and alignments.
+sci-biology/tablet-bin 1.14.10.21: Viewer of next generation sequence assemblies and alignments
 sci-biology/tagdust 20101028: Trim multimers of various primers/adapter from Illumina datasets
 sci-biology/tclust 110625: Transitive closure clustering tool with overlap filtering options
 sci-biology/tgicl 2.1: TIGR perl scripts for clustering large EST/mRNAs datasets and aceconv, mgblast and pvmsx binaries
@@ -532,15 +532,15 @@ sci-chemistry/votca-csgapps 9999: Extra applications for votca-csg
 sci-chemistry/xplor-nih 2.38: Structure determination program which builds on the X-PLOR program
 sci-electronics/minipro 9999: A free and open TL866XX programmer
 sci-electronics/player 2.0.4: A network server for robot control
-sci-electronics/stage 2.0.3: 2D multiple-robot simulator.
+sci-electronics/stage 2.0.3: 2D multiple-robot simulator
 sci-electronics/tnt 1.2.2: MoM 2.5 D stripline simulator
-sci-geosciences/pydap 3.1 3.1.1: Data Access Protocol client and server.
+sci-geosciences/pydap 3.1 3.1.1: Data Access Protocol client and server
 sci-geosciences/pydap_handlers_cdms 0.2.0.1: CDMS handler for Pydap server that supports netCDF, HDF, GrADS/GRIB, or PCMDI DRS
 sci-geosciences/pydap_handlers_csv 0.1.1: Comma Separated Values (CSV) handler for Pydap server
-sci-geosciences/pydap_handlers_hdf5 0.1.7: HDF5 file handler for Pydap Data Access Protocol server.
-sci-geosciences/pydap_handlers_nca 0.1.3: Aggregated NetCDF handler for Pydap Data Access Protocol server.
-sci-geosciences/pydap_handlers_netcdf 0.6.4: NetCDF handler for Pydap Data Access Protocol server.
-sci-geosciences/pydap_handlers_proxy 0.1.1: Proxy handler for Pydap server that can serve data from other web sites.
+sci-geosciences/pydap_handlers_hdf5 0.1.7: HDF5 file handler for Pydap Data Access Protocol server
+sci-geosciences/pydap_handlers_nca 0.1.3: Aggregated NetCDF handler for Pydap Data Access Protocol server
+sci-geosciences/pydap_handlers_netcdf 0.6.4: NetCDF handler for Pydap Data Access Protocol server
+sci-geosciences/pydap_handlers_proxy 0.1.1: Proxy handler for Pydap server that can serve data from other web sites
 sci-geosciences/pydap_handlers_sql 0.3.0: SQL handler for Pydap server that allows serving data from SQL databases
 sci-geosciences/pydap_handlers_sqlite 0.1.0: Handler for Pydap server that allows serving data from SQLite files
 sci-geosciences/pydap_responses_kml 0.4.6: KML responses for Pydap Data Access Protocol server
@@ -556,7 +556,7 @@ sci-libs/amber99sbnmr 0_pre130901: AMBER99SBnmr1 force field (Lindorff-Larsen et
 sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amdlibm 3.1: Optimized libm replacement from AMD for x86_64 architectures
 sci-libs/armadillo 4.650.4 5.400.2 5.500.2 5.600.2: Streamlined C++ linear algebra library
-sci-libs/arrayfire 3.1.1-r2 9999: A general purpose GPU library.
+sci-libs/arrayfire 3.1.1-r2 9999: A general purpose GPU library
 sci-libs/asl 0.1.5 9999: Advanced Simulation Library - multiphysics simulation software package
 sci-libs/atlas 3.10.1-r1 3.10.1-r2: Automatically Tuned Linear Algebra Software
 sci-libs/bigdft-abi 1.0.4-r3: A DFT electronic structure code using a wavelet basis set
@@ -567,7 +567,7 @@ sci-libs/calculix-ccx 2.7-r1 2.8_p2: A Free Software Three-Dimensional Structura
 sci-libs/calculix-cgx 2.7-r1: A Free Software Three-Dimensional Structural Finite Element Program
 sci-libs/cblas-reference 20110218 20110218-r1: C wrapper interface to the F77 reference BLAS implementation
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib
-sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools.
+sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools
 sci-libs/clblas 2.4-r1 2.6 9999: A software library containing BLAS routines for OpenCL
 sci-libs/clfft 2.6.1 9999: Library containing FFT functions written in OpenCL
 sci-libs/clrng 9999: A library for uniform random number generation in OpenCL
@@ -709,8 +709,8 @@ sci-misc/kotus-sanalista 1-r1: Finnish dictionary word list
 sci-misc/mitlm 0.4.1: A set of tools designed for the efficient estimation of statistical n-gram language models
 sci-misc/nltk 2.0.4: Natural language processing tool collection
 sci-misc/omorfi 0.1_alpha: Open morphology for Finnish language
-sci-misc/openfst 1.3.4 1.4.1: Finite State Transducer tools by Google et al.
-sci-misc/opennlp-maxent 2.4.0: Maximum entropy model implementation for opennlp.
+sci-misc/openfst 1.3.4 1.4.1: Finite State Transducer tools by Google et al
+sci-misc/opennlp-maxent 2.4.0: Maximum entropy model implementation for opennlp
 sci-misc/praat 5.4.19: Speech analysis and synthesis
 sci-misc/pywordnet 2.0.1: Python bindings for wordnet
 sci-misc/sfst 1.4.2 1.4.6g: Uni Stuttgart Finite State Transducer tools
@@ -742,7 +742,7 @@ sci-visualization/forge 3.1 9999: High Performance Visualizations for ArrayFire
 sci-visualization/gnuplot 5.0.9999 5.1.9999: Command-line driven interactive plotting program
 sci-visualization/mantid 3.3.0: Utilities for processing and plotting neutron scattering data
 sci-visualization/mayavi 4.4.0 4.4.2: Enthought Tool Suite: Scientific data 3-dimensional visualizer
-sci-visualization/nodemon 0.3.5: Distributed visualization tool for monitoring system resource utilization.
+sci-visualization/nodemon 0.3.5: Distributed visualization tool for monitoring system resource utilization
 sci-visualization/v_sim 3.6.0: Displays atomic structures such as crystals, gain boudaries, molecules
 sci-visualization/vtkPOFFReader 300: Parallelized reader for OpenFOAM(R) file format for use with ParaView/VTK
 sci-visualization/yt 2.6 9999: Astrophysical Simulation Analysis and Vizualization package

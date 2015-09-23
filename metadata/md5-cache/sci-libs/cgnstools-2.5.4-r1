@@ -1,6 +1,6 @@
 DEFINED_PHASES=configure prepare
 DEPEND=hdf5? ( sci-libs/cgnslib[hdf5] ) !hdf5? ( sci-libs/cgnslib[-hdf5] ) tcl? ( dev-lang/tcl:0= ) tk? ( dev-lang/tk:0= )
-DESCRIPTION=The CFD General Notation System (CGNS) tools.
+DESCRIPTION=The CFD General Notation System (CGNS) tools
 EAPI=5
 HOMEPAGE=http://www.cgns.org/
 IUSE=hdf5 tcl tk X
@@ -10,4 +10,4 @@ RDEPEND=hdf5? ( sci-libs/cgnslib[hdf5] ) !hdf5? ( sci-libs/cgnslib[-hdf5] ) tcl?
 SLOT=0
 SRC_URI=mirror://sourceforge/cgns/cgnstools-2-5-4.tar.gz
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=731f8c7fdc22936a5c81af32e57a2871
+_md5_=b2181832f71ad09f632ecc9988bfabb7
