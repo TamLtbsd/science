@@ -1,7 +1,7 @@
 DEFINED_PHASES=compile install postinst postrm prepare
 DEPEND=emacs? ( virtual/emacs )
 DESCRIPTION=Interpreter for big integer and multi-precision floating point arithmetic
-EAPI=4
+EAPI=5
 HOMEPAGE=http://www.mathematik.uni-muenchen.de/~forster/sw/aribas.html
 IUSE=doc emacs examples
 KEYWORDS=~x86
@@ -10,4 +10,4 @@ RDEPEND=emacs? ( virtual/emacs )
 SLOT=0
 SRC_URI=ftp://ftp.mathematik.uni-muenchen.de/pub/forster/aribas/UNIX_LINUX/aribas-1.63.tar.gz
 _eclasses_=elisp-common	73c48c11ad6a6494eda0d0cca848c8fa	eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=970dbab93ab41bea5146782af74936fe
+_md5_=827274a52c6d9bf5d2ed837a6fd39702

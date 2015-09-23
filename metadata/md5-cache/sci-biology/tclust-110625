@@ -1,10 +1,10 @@
 DEFINED_PHASES=install prepare
 DESCRIPTION=Transitive closure clustering tool with overlap filtering options
-EAPI=4
+EAPI=5
 HOMEPAGE=http://compbio.dfci.harvard.edu/tgi/software/
 KEYWORDS=~amd64 ~x86
 LICENSE=Artistic
 SLOT=0
 SRC_URI=ftp://occams.dfci.harvard.edu/pub/bio/tgi/software/tgicl/tclust.tar.gz -> tclust-110625.tar.gz ftp://occams.dfci.harvard.edu/pub/bio/tgi/software/tgicl/gclib.tar.gz -> gclib-110625.tar.gz
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=33d490b81ea9f9fcf3954f92c43f3a2d
+_md5_=9d87d58dc514e5baa4a8eb8def704ea3

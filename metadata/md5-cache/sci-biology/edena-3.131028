@@ -7,4 +7,4 @@ LICENSE=GPL-3
 SLOT=0
 SRC_URI=http://www.genomic.ch/edena/EdenaV3.131028.tar.gz
 _eclasses_=multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=40fa545f485dde8557facb675a9cec55
+_md5_=45132bc255c584ba2e81d9c1eeebb93d

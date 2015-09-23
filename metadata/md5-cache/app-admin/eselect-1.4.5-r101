@@ -11,4 +11,4 @@ RDEPEND=!app-admin/eselect-news sys-apps/sed || ( sys-apps/coreutils sys-freebsd
 SLOT=0
 SRC_URI=http://dev.gentoo.org/~ulm/eselect/eselect-1.4.5.tar.xz
 _eclasses_=autotools	7d16e72a943b4803ca9691b2ecf89216	bash-completion-r1	b1fc4d30333bb528c8abb4332bb70ea6	eutils	351a78113be5b393c09a2c948701ad36	libtool	7f78cd7d403808a350c9ae23f5821fb4	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=2423a647e322513b59e0e188a5bc6acf
+_md5_=6f5283d17c0aea6b6d0af71527655af6

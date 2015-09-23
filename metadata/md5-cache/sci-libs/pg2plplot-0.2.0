@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile configure install prepare setup test
-DEPEND=virtual/fortran sci-libs/plplot[fortran] sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) virtual/fortran
+DEPEND=sci-libs/plplot[fortran] sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) virtual/fortran
 DESCRIPTION=Assist the transition from PGPlot to PLplot in Fortran programs
-EAPI=4
+EAPI=5
 HOMEPAGE=http://pg2plplot.sourceforge.net
 IUSE=X png postscript static-libs
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
-RDEPEND=virtual/fortran sci-libs/plplot[fortran] sci-libs/plplot[fortran,X?] png? ( sci-libs/plplot[cairo] ) postscript? ( sci-libs/plplot[cairo] ) virtual/fortran
+RDEPEND=sci-libs/plplot[fortran] sci-libs/plplot[fortran,X?] png? ( sci-libs/plplot[cairo] ) postscript? ( sci-libs/plplot[cairo] ) virtual/fortran
 SLOT=0
 SRC_URI=mirror://sourceforge/pg2plplot/pg2plplot-0.2.0.tar.gz
 _eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=06698fd40780e9749d10fd29b260059b
+_md5_=92b62fff3a12750c19029439e64ff97c

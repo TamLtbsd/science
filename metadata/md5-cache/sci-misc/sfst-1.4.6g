@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile install prepare
-DEPEND=sys-libs/readline sys-devel/bison sys-devel/flex sys-apps/sed emacs? ( virtual/emacs )
+DEPEND=sys-libs/readline:0= emacs? ( virtual/emacs ) sys-devel/bison sys-devel/flex
 DESCRIPTION=Uni Stuttgart Finite State Transducer tools
-EAPI=4
+EAPI=5
 HOMEPAGE=http://www.ims.uni-stuttgart.de/projekte/gramotron/SOFTWARE/SFST.html
 IUSE=emacs vim-syntax
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=sys-libs/readline
+RDEPEND=sys-libs/readline:0= emacs? ( virtual/emacs )
 SLOT=0
 SRC_URI=ftp://ftp.ims.uni-stuttgart.de/pub/corpora/SFST/SFST-1.4.6g.tar.gz vim-syntax? ( ftp://ftp.ims.uni-stuttgart.de/pub/corpora/SFST/vim-mode.tar.gz ) emacs? ( http://www.cis.uni-muenchen.de/~wastl/emacs/sfst.el )
 _eclasses_=elisp-common	73c48c11ad6a6494eda0d0cca848c8fa	eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=5c077b24de016a3fa50d4642357c5eba
+_md5_=1564b1d37bf34e8c542458c6bbb84237

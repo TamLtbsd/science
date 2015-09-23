@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile install prepare
-DEPEND=dev-libs/libf2c virtual/blas virtual/cblas virtual/lapack gtk? ( x11-libs/gtk+:1 ) tk? ( dev-lang/tk ) virtual/pkgconfig
+DEPEND=dev-libs/libf2c virtual/blas virtual/cblas virtual/lapack gtk? ( x11-libs/gtk+:1 ) tk? ( dev-lang/tk:0= ) virtual/pkgconfig
 DESCRIPTION=General-purpose software package for simulation virtually all kinds of solid-state NMR experiments
-EAPI=4
+EAPI=5
 HOMEPAGE=http://bionmr.chem.au.dk/bionmr/software/index.php
 IUSE=gtk threads tk
 KEYWORDS=~amd64 ~x86 ~amd64-linux
 LICENSE=GPL-2
-RDEPEND=dev-libs/libf2c virtual/blas virtual/cblas virtual/lapack gtk? ( x11-libs/gtk+:1 ) tk? ( dev-lang/tk )
+RDEPEND=dev-libs/libf2c virtual/blas virtual/cblas virtual/lapack gtk? ( x11-libs/gtk+:1 ) tk? ( dev-lang/tk:0= )
 SLOT=0
 SRC_URI=http://www.bionmr.chem.au.dk/download/simpson/3.1/simpson-source-3.1.2.tbz2
 _eclasses_=eutils	351a78113be5b393c09a2c948701ad36	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	prefix	e7f2b9c6e57342e5d25eac22fce23062	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
-_md5_=646d143279c76e6efef8a2475753b1eb
+_md5_=eb777694e27379201e8e376e219de4a3
