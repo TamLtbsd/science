@@ -8,5 +8,5 @@ LICENSE=LGPL-2.1+
 RDEPEND=dev-libs/boost app-arch/bzip2 sys-libs/zlib arpack? ( sci-libs/arpack[mpi=] ) hdf5? ( sci-libs/hdf5[mpi=] ) lapack? ( virtual/lapack ) metis? ( >=sci-libs/parmetis-4 ) mpi? ( virtual/mpi ) muparser? ( dev-cpp/muParser ) netcdf? ( sci-libs/netcdf-cxx:0 ) opencascade? ( sci-libs/opencascade:* ) p4est? ( sci-libs/p4est[mpi] ) parameter_gui? ( dev-qt/qtgui:4 ) petsc? ( sci-mathematics/petsc[mpi=] ) sparse? ( sci-libs/umfpack ) tbb? ( dev-cpp/tbb ) trilinos? ( sci-libs/trilinos )
 REQUIRED_USE=p4est? ( mpi ) trilinos? ( mpi )
 SLOT=0
-_eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	351a78113be5b393c09a2c948701ad36	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-r3	1502b9838d043db47700b8120083e637	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	4b8d3388c0a6e798504e20ba30b49361
+_eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	95613dd6157fb4a3b225eafdc56bd441	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-r3	1502b9838d043db47700b8120083e637	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
 _md5_=3ad39073b6f583d3266e43e1a194e573
