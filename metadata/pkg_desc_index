@@ -147,7 +147,7 @@ dev-tcltk/togl 1.7-r1: A Tk widget for OpenGL rendering
 dev-tex/pythontex 0.14-r1 9999: Fast Access to Python from within LaTeX
 dev-util/VampirTrace 5.14.3 5.14.4: An open source library that allows detailed logging of program execution for parallel applications
 dev-util/amdapp 2.9 2.9.1 3.0_beta: AMD Accelerated Parallel Processing (APP) SDK
-dev-util/f90cache 0.94 0.95: a compiler cache for fortran
+dev-util/f90cache 0.94 0.95 0.96: a compiler cache for fortran
 dev-util/ndiff 2.00: A diff program that ignores small numeric differences
 dev-util/numdiff 5.8.1: Compares putatively similar files, ignoring small numeric differences and formats
 dev-util/nvidia-cuda-gdk 340.29 346.46 352.07 352.39: NVIDIA GPU Deployment Kit
