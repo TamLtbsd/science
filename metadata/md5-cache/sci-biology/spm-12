@@ -7,5 +7,5 @@ KEYWORDS=~amd64
 LICENSE=GPL-2+
 RDEPEND=>=sci-mathematics/octave-3.8
 SLOT=0
-SRC_URI=http://www.fil.ion.ucl.ac.uk/spm/download/restricted/eldorado/spm12.zip
-_md5_=0928df283a3aa9f31ab51aee3add040c
+SRC_URI=http://www.fil.ion.ucl.ac.uk/spm/download/restricted/eldorado/spm12.0.zip
+_md5_=9e8047e3b9b5d1f8b50a75ac02c52e41
