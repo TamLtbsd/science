@@ -9,5 +9,5 @@ LICENSE=BSD
 RDEPEND=virtual/fortran >=app-admin/eselect-1.4.4-r102 !app-admin/eselect-blas !app-admin/eselect-cblas !app-admin/eselect-lapack
 SLOT=0
 SRC_URI=http://dev.gentoo.org/~bicatali/GotoBLAS2-1.13_bsd.tar.gz
-_eclasses_=alternatives-2	5f51ffee10b48f15a0d320afa004bcd2	eutils	95613dd6157fb4a3b225eafdc56bd441	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
+_eclasses_=alternatives-2	5f51ffee10b48f15a0d320afa004bcd2	eutils	43da5163ba106e87d22d2e7d6d67537f	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
 _md5_=f2247403954f70753202e41b1ccbb171

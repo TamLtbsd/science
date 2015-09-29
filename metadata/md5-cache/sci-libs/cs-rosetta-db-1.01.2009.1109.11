@@ -7,5 +7,5 @@ LICENSE=all-rights-reserved
 RESTRICT=binchecks mirror strip
 SLOT=0
 SRC_URI=http://spin.niddk.nih.gov/bax/software/CSROSETTA/PDBH.tar.Z -> cs-rosetta-db-1.01.2009.1109.11-PDBH.tar.Z http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/PDBH.hyb.tar.gz -> cs-rosetta-db-1.01.2009.1109.11-PDBH.hyb.tar.gz http://spin.niddk.nih.gov/bax/software/CSROSETTA/CS.tar.Z -> cs-rosetta-db-1.01.2009.1109.11-CS.tar.Z http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/CS.hyb.tar.gz -> cs-rosetta-db-1.01.2009.1109.11-CS.hyb.tar.gz http://spin.niddk.nih.gov/bax/software/CSROSETTA/ANGLESS.tar.Z -> cs-rosetta-db-1.01.2009.1109.11-ANGLESS.tar.Z http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/ANGLESS.hyb.tar.gz -> cs-rosetta-db-1.01.2009.1109.11-ANGLESS.hyb.tar.gz http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/vall.dat.apr24.gz -> cs-rosetta-db-1.01.2009.1109.11-vall.dat.apr24.gz
-_eclasses_=eutils	95613dd6157fb4a3b225eafdc56bd441	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
+_eclasses_=eutils	43da5163ba106e87d22d2e7d6d67537f	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
 _md5_=b9cf9d326af7d7c5c5532b3f69c66f3b
