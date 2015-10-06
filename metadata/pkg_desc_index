@@ -110,7 +110,7 @@ dev-python/metakernel_bash 0.11.3-r1: A Bash kernel for Jupyter/IPython
 dev-python/metakernel_python 0.11.3-r1: A Python kernel for Jupyter/IPython
 dev-python/montage-wrapper 0.9.7: Python wrapper for the Montage mosaicking toolkit
 dev-python/nbconvert 4.0.0-r1 9999: Converting Jupyter Notebooks
-dev-python/nbformat 4.0.0 9999: Reference implementation of the Jupyter Notebook format
+dev-python/nbformat 4.0.0 4.0.1 9999: Reference implementation of the Jupyter Notebook format
 dev-python/nbviewer 9999: Nbconvert as a webservice (rendering ipynb to static HTML)
 dev-python/newrelic 2.44.0.36 2.50.0.39: New Relic Python Agent
 dev-python/notebook 4.0.4-r3 4.0.5 9999: Jupyter Interactive Notebook
@@ -644,6 +644,7 @@ sci-libs/spglib 1.6.0: Spglib is a C library for finding and handling crystal sy
 sci-libs/starparse 9999: Library for parsing NMR star files (peak-list format) and CIF files
 sci-libs/superlu_dist 3.3: MPI distributed sparse LU factorization library
 sci-libs/superlu_mt 2.1: Multithreaded sparse LU factorization library
+sci-libs/symengine 0.1.0 9999: Fast symbolic manipulation library, written in C++
 sci-libs/symmetrica 2.0 2.0-r1: A collection of routine to handle a variety of topics
 sci-libs/tmglib 3.4.2 3.5.0: Test Matrix Generator library for LAPACK
 sci-libs/trilinos 11.10.2 11.12.1-r1 11.14.1-r1 12.0.1 12.2.1: Scientific library collection for large scale problems
