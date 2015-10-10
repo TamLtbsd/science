@@ -104,6 +104,7 @@ dev-python/jupyter_core 4.0.4-r1 4.0.6 9999: Core common functionality of Jupyte
 dev-python/line_profiler 1.0 9999: Line-by-line profiling for Python
 dev-python/matlab_wrapper 0.9.6 9999: MATLAB wrapper for Python
 dev-python/matplotlib2tikz 0.1.0 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
+dev-python/matrix2latex 1.0.0 9999: A tool to create LaTeX tables from python lists and arrays
 dev-python/meshpy 2013.1.2 2014.1: Quality triangular and tetrahedral mesh generation for Python
 dev-python/metakernel 0.11.0 0.11.2: Metakernel for Jupyter
 dev-python/metakernel_bash 0.11.3-r1: A Bash kernel for Jupyter/IPython
@@ -442,7 +443,7 @@ sci-chemistry/ball 9999: Biochemical Algorithms Library
 sci-chemistry/burrow-owl 9999: Visualize multidimensional nuclear magnetic resonance (NMR) spectra
 sci-chemistry/camshift 1.35.0: Structure based prediction of protein chemical shifts
 sci-chemistry/chemBuild 1.0.2 1.0.3 1.0.4: Graphical tool to construct chemical compound definitions for NMR
-sci-chemistry/chimera-bin 1.9: An extensible Molecular Modelling System
+sci-chemistry/chimera-bin 1.9 1.10.2: An extensible Molecular Modelling System
 sci-chemistry/chooch 5.0.2-r1: a program that will automatically determine values of the anomalous scattering factors
 sci-chemistry/cnsface 0.0.12: GUI for the Crystallography and NMR System
 sci-chemistry/concoord 2.1 2.1.2: Method to generate protein conformations around a known structure based on geometric restrictions
@@ -499,7 +500,7 @@ sci-chemistry/module2 0_pre20140717: Residual dipolar coupling and residual chem
 sci-chemistry/mtz2hkl 0.3: Intended to facilitate the transition from refmac5 refinement to shelxh or shelxl refinement
 sci-chemistry/mtz2sca 0.3: Converts CCP4 mtz-files containing anomalous data to Scalepack format
 sci-chemistry/nMOLDYN 3.0.10: nMOLDYN is an interactive analysis program for Molecular Dynamics simulations
-sci-chemistry/nmrpipe 8.1.2013.218.23.09-r1: Spectral visualisation, analysis and Fourier processing
+sci-chemistry/nmrpipe 8.6.2015.271.07.19: Spectral visualisation, analysis and Fourier processing
 sci-chemistry/nmrview 5.2.2-r3: Visualisation and analysis of processed NMR data
 sci-chemistry/nwchem 6.3_p2-r1 6.5_p26243-r7: Delivering High-Performance Computational Chemistry to Science
 sci-chemistry/openbabel 9999: Interconverts file formats used in molecular modeling
