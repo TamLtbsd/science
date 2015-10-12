@@ -246,7 +246,7 @@ sci-biology/argo 1.0.24: Production tool for visualizing and manually annotating
 sci-biology/argo-bin 1.0.31 2.0.3: Visualization and manually annotating whole genomes
 sci-biology/artemis 9999: DNA sequence viewer/annotation (Artemis) and comparison (ACT) tool
 sci-biology/artemis-bin 16.0.11: DNA sequence viewer, annotation (Artemis) and comparison (ACT) tool
-sci-biology/atsas 2.6.0: Biological Small Angle Scattering
+sci-biology/atsas 2.6.0 2.7.0: Biological Small Angle Scattering
 sci-biology/augustus 3.1: Eukaryotic gene predictor
 sci-biology/autoeditor 1.20: Automatic correct of discrepancies in multiple sequence alignments
 sci-biology/bambino 1.02 1.06: display SAM/BAM files and for SNP/indel detection, report coverage in .wig files
