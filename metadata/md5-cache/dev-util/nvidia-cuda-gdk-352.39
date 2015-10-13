@@ -9,5 +9,5 @@ LICENSE=NVIDIA-gdk
 RDEPEND=>=dev-util/nvidia-cuda-toolkit-7.5 media-libs/freeglut examples? ( >=x11-drivers/nvidia-drivers-352.39[uvm] ) nvvs? ( >=x11-drivers/nvidia-drivers-352.39[uvm] <x11-drivers/nvidia-drivers-355.00[uvm] )
 SLOT=0
 SRC_URI=http://developer.download.nvidia.com/compute/cuda/7.5/Prod/local_installers/cuda_352_39_gdk_linux.run
-_eclasses_=eutils	43da5163ba106e87d22d2e7d6d67537f	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	portability	3a50b3ec310b86914f98babecc8f89c6	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d	unpacker	1d149d9bda7723e740cfd28118f27813	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=eutils	43da5163ba106e87d22d2e7d6d67537f	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	portability	3a50b3ec310b86914f98babecc8f89c6	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	unpacker	1d149d9bda7723e740cfd28118f27813	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=90cbc907f9a6aeba19ae4c730ed7d687
