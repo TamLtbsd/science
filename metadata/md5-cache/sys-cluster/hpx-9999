@@ -8,5 +8,5 @@ LICENSE=Boost-1.0
 RDEPEND=>=dev-libs/boost-1.51 dev-libs/libxml2 sci-libs/hdf5 >=sys-apps/hwloc-1.8 >=sys-libs/libunwind-1 sys-libs/zlib papi? ( dev-libs/papi ) perftools? ( >=dev-util/google-perftools-1.7.1 ) tbb? ( dev-cpp/tbb ) virtual/fortran
 REQUIRED_USE=test? ( python_targets_python2_7 )
 SLOT=0
-_eclasses_=cmake-utils	f474224ef49d530640a43a04ae94928e	eutils	43da5163ba106e87d22d2e7d6d67537f	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	git-r3	1502b9838d043db47700b8120083e637	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	python-single-r1	612c783d1a1a182ad7ea4f2eb0b79e86	python-utils-r1	9c405693f1f355a718700c5cffffd9e5	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=cmake-utils	ed6fe5316459777893d5a8b929faec18	eutils	43da5163ba106e87d22d2e7d6d67537f	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	git-r3	1502b9838d043db47700b8120083e637	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	python-single-r1	612c783d1a1a182ad7ea4f2eb0b79e86	python-utils-r1	9c405693f1f355a718700c5cffffd9e5	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=edd397ca118e13a6d69ee70c5eb9cd38
