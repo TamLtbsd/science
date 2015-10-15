@@ -263,7 +263,6 @@ sci-biology/biopieces 0.51 9999: Toolkit to find and trim adaptors, plot read le
 sci-biology/bismark 0.13.0: A tool to map bisulfite converted sequence reads and determine cytosine methylation states
 sci-biology/blasr 9999: The PacBio long read aligner
 sci-biology/blue 1.1.2 1.1.3: Error corrector for Illummina and Roche/454 able to also fix insertions and deletions
-sci-biology/bowtie 1.1.1 1.1.2 2.2.3 2.2.5 2.2.6: Short read aligner supporting gaps, matches to N nucleotides, no end-to-end requirement
 sci-biology/brat 1.2.4: Bisulfite-treated Reads Analysis Tool
 sci-biology/breakdancer 9999: Genome-wide detection of structural variants from next generation paired-end sequencing reads
 sci-biology/bx-python 0.7.2 9999: Library for rapid implementation of genome scale analyses
@@ -676,6 +675,7 @@ sci-mathematics/gap 4.4.12: System for computational discrete algebra
 sci-mathematics/gappa 1.1.1: Verifying and proving properties on floating-point or fixed-point arithmetic
 sci-mathematics/gappalib-coq 1.0.0: Allows the certificates Gappa generates to be imported by the Coq
 sci-mathematics/giac 1.1.0: A free C++ CAS (Computer Algebra System) library and its interfaces
+sci-mathematics/gismo 0.8.1: C++ library for geometric design and numerical simulation
 sci-mathematics/htk 3.4.1: Toolkit for building and manipulating hidden Markov models
 sci-mathematics/kash-bin 3: software package for algebraic number theory
 sci-mathematics/kayali 0.3.2: Qt front-end for Computer Algebra System mainly maxima
