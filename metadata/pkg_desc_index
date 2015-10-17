@@ -138,6 +138,7 @@ dev-python/pythonqt 2.1 9999: A dynamic Python binding for the Qt framework
 dev-python/pywcsgrid2 9999: Custom Matplotlib Axes class for displaying astronomical fits images
 dev-python/qtconsole 4.0.1-r1 4.1.0 9999: Qt-based console for Jupyter with support for rich media output
 dev-python/simplepam 0.1.5 9999: A pure python interface to the PAM library
+dev-python/snakemake 3.4.2: Make-like task language
 dev-python/specutils 9999: Affiliated package for 1D spectral operations
 dev-python/testpath 0.2 9999: Test utilities for code working with files and commands
 dev-python/traitlets 4.0.0 9999: A configuration system for Python applications
