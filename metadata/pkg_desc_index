@@ -104,7 +104,7 @@ dev-python/jupyter_core 4.0.4-r1 4.0.6 9999: Core common functionality of Jupyte
 dev-python/line_profiler 1.0 9999: Line-by-line profiling for Python
 dev-python/matlab_wrapper 0.9.6 9999: MATLAB wrapper for Python
 dev-python/matplotlib-venn 0.11 9999: Routines for plotting area-weighted two- and three-circle venn diagrams
-dev-python/matplotlib2tikz 0.1.0 0.2.0 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
+dev-python/matplotlib2tikz 0.1.0 0.2.0 0.2.4 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
 dev-python/matrix2latex 1.0.0 9999: A tool to create LaTeX tables from python lists and arrays
 dev-python/meshpy 2013.1.2 2014.1: Quality triangular and tetrahedral mesh generation for Python
 dev-python/metakernel 0.11.0 0.11.2: Metakernel for Jupyter
