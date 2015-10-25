@@ -141,6 +141,7 @@ dev-python/qtconsole 4.0.1-r1 4.1.0 9999: Qt-based console for Jupyter with supp
 dev-python/simplepam 0.1.5 9999: A pure python interface to the PAM library
 dev-python/snakemake 3.4.2: Make-like task language
 dev-python/specutils 9999: Affiliated package for 1D spectral operations
+dev-python/symengine 9999: Python wrappers to the symengine C++ library
 dev-python/testpath 0.2 9999: Test utilities for code working with files and commands
 dev-python/traitlets 4.0.0 9999: A configuration system for Python applications
 dev-python/ufl 0.5.4 1.3.0 1.4.0: Domain specific language for declaration of FE discretizations of variational forms
@@ -150,6 +151,8 @@ dev-tcltk/togl 1.7-r1: A Tk widget for OpenGL rendering
 dev-tex/pythontex 0.14-r1 9999: Fast Access to Python from within LaTeX
 dev-util/VampirTrace 5.14.3 5.14.4: An open source library that allows detailed logging of program execution for parallel applications
 dev-util/amdapp 2.9 2.9.1 3.0_beta: AMD Accelerated Parallel Processing (APP) SDK
+dev-util/emscripten 1.34.11: LLVM-to-JavaScript Compiler
+dev-util/emscripten-fastcomp 1.34.11: Emscripten LLVM backend - Fastcomp is the default compiler core for Emscripten
 dev-util/f90cache 0.94 0.95 0.96: a compiler cache for fortran
 dev-util/ndiff 2.00: A diff program that ignores small numeric differences
 dev-util/numdiff 5.8.1: Compares putatively similar files, ignoring small numeric differences and formats
