@@ -96,7 +96,7 @@ dev-python/ipykernel 4.0.3 4.1.1 9999: IPython Kernel for Jupyter
 dev-python/ipyparallel 4.0.0-r1 4.0.2-r1 9999: Interactive Parallel Computing with IPython
 dev-python/ipython 4.0.0-r2: Advanced interactive shell for Python
 dev-python/ipython_genutils 0.1.0 9999: Vestigial utilities from IPython
-dev-python/ipywidgets 4.0.2-r1 4.0.3 4.1.0 9999: IPython HTML widgets for Jupyter
+dev-python/ipywidgets 4.0.2-r1 4.0.3 4.1.0 4.1.1 9999: IPython HTML widgets for Jupyter
 dev-python/jupyter 1.0.0: Jupyter metapackage. Install all the Jupyter components in one go
 dev-python/jupyter_client 4.0.0 4.1.1 9999: Jupyter protocol implementation and client libraries
 dev-python/jupyter_console 4.0.3 9999: A terminal-based console frontend for Jupyter kernels
