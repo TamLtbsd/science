@@ -213,7 +213,7 @@ sci-biology/FLASH 1.2.9: Merge paired-end mates from fragments that are shorter 
 sci-biology/Gambit 0.4.145: Genomic alignments from BAM files with annotations from BED, GFF, GFF3, VCF formats
 sci-biology/HTSeq 0.6.1: Use SAM/BAM/Bowtie/FASTA/Q/GFF/GTF files in python, count reads, genomic intervals
 sci-biology/ICC 2.0.1: Error corrector for Roche/454 and IonTorrent data
-sci-biology/IMAGE 2.4.1: Iterative Mapping and Assembly for Gap Elimination
+sci-biology/IMAGE 2.4.1: Iterative Mapping and Assembly for Gap Elimination using paired-end Illumina
 sci-biology/InterMine 0.98: Biological data warehouse integrating complex data
 sci-biology/Jannovar-bin 20150503: Exome annotation tool
 sci-biology/KaKs_Calculator 1.2: Calculate nonsynonymous (Ka) and synonymous (Ks) substitution rates
