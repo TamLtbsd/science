@@ -93,7 +93,7 @@ dev-python/imageutils 9999: Image processing utilities for Astropy
 dev-python/inference 0.4: Collection of Python modules for statistical inference
 dev-python/instant 1.2.0 1.3.0 1.4.0: Instant inlining of C and C++ code in Python
 dev-python/ipykernel 4.0.3 4.1.1 9999: IPython Kernel for Jupyter
-dev-python/ipyparallel 4.0.0-r1 4.0.2-r1 9999: Interactive Parallel Computing with IPython
+dev-python/ipyparallel 4.0.0-r1 4.0.2-r1 4.1.0 9999: Interactive Parallel Computing with IPython
 dev-python/ipython 4.0.0-r2: Advanced interactive shell for Python
 dev-python/ipython_genutils 0.1.0 9999: Vestigial utilities from IPython
 dev-python/ipywidgets 4.0.2-r1 4.0.3 4.1.0 4.1.1 9999: IPython HTML widgets for Jupyter
