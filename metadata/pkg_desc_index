@@ -151,8 +151,8 @@ dev-tcltk/togl 1.7-r1: A Tk widget for OpenGL rendering
 dev-tex/pythontex 0.14-r1 9999: Fast Access to Python from within LaTeX
 dev-util/VampirTrace 5.14.3 5.14.4: An open source library that allows detailed logging of program execution for parallel applications
 dev-util/amdapp 2.9 2.9.1 3.0_beta: AMD Accelerated Parallel Processing (APP) SDK
-dev-util/emscripten 1.34.11: LLVM-to-JavaScript Compiler
-dev-util/emscripten-fastcomp 1.34.11: Emscripten LLVM backend - Fastcomp is the default compiler core for Emscripten
+dev-util/emscripten 1.34.11 1.35.2: LLVM-to-JavaScript Compiler
+dev-util/emscripten-fastcomp 1.34.11 1.35.2: Emscripten LLVM backend - Fastcomp is the default compiler core for Emscripten
 dev-util/f90cache 0.94 0.95 0.96: a compiler cache for fortran
 dev-util/ndiff 2.00: A diff program that ignores small numeric differences
 dev-util/numdiff 5.8.1: Compares putatively similar files, ignoring small numeric differences and formats
