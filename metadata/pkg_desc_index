@@ -111,7 +111,7 @@ dev-python/metakernel 0.11.0 0.11.2: Metakernel for Jupyter
 dev-python/metakernel_bash 0.11.3-r1: A Bash kernel for Jupyter/IPython
 dev-python/metakernel_python 0.11.3-r1: A Python kernel for Jupyter/IPython
 dev-python/montage-wrapper 0.9.7: Python wrapper for the Montage mosaicking toolkit
-dev-python/nbconvert 4.0.0-r1 9999: Converting Jupyter Notebooks
+dev-python/nbconvert 4.0.0-r1 4.1.0 9999: Converting Jupyter Notebooks
 dev-python/nbformat 4.0.0 4.0.1 9999: Reference implementation of the Jupyter Notebook format
 dev-python/nbviewer 9999: Nbconvert as a webservice (rendering ipynb to static HTML)
 dev-python/newrelic 2.44.0.36 2.50.0.39: New Relic Python Agent
