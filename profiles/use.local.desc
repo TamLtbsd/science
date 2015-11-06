@@ -241,6 +241,7 @@ sci-libs/parmetis:int64 - Build the 64 bits integer library (needed for > 2^31 v
 sci-libs/pastix:int64 - Build the 64 bits integer library
 sci-libs/pastix:starpu - Build and link with dev-libs/starpu
 sci-libs/scikits_image:freeimage - Enable support for image i/o via media-libs/freeimage
+sci-libs/scikits_image:pyamg - Enable support for algebraic solvers via dev-python/pyamg
 sci-libs/symengine:boost - Add support for boost (dev-libs/boost)
 sci-libs/trilinos:adolc - Add support for adolc (sci-libs/adolc)
 sci-libs/trilinos:arprec - Add support for arprec (sci-libs/arprec)
