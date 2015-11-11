@@ -9,5 +9,5 @@ LICENSE=CeCILL-C
 RDEPEND=sci-libs/scotch:0=[int64?,mpi?] sys-apps/hwloc:0= virtual/blas mpi? ( virtual/mpi ) starpu? ( dev-libs/starpu:0= ) virtual/fortran
 SLOT=0
 SRC_URI=https://gforge.inria.fr/frs/download.php/33558/pastix_release_bugfix9_351ef60.tar.bz2
-_eclasses_=eutils	43da5163ba106e87d22d2e7d6d67537f	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	8644194de7be04932084752fb1327080	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=0cbf8c000698735a7643d585bac78f6a
