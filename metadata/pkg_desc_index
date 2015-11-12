@@ -520,7 +520,6 @@ sci-chemistry/pesto 9999: Potential Energy Surface Tools
 sci-chemistry/phenix-bin 1.9.1692 1.10.2155: Python-based Hierarchical ENvironment for Integrated Xtallography
 sci-chemistry/polygon 0612: shows qualitatively if some models parameters are over- or under-refined
 sci-chemistry/pymol 9999: A Python-extensible molecular graphics system
-sci-chemistry/pymol-apbs-plugin 9999: APBS plugin for pymol
 sci-chemistry/pymol-plugins-ezviz 1.0.2005-r1: Assistance tool for the difficult to understand user interface of PyMOL
 sci-chemistry/pymol-plugins-psico 9999: Pymol ScrIpt COllection
 sci-chemistry/pyquante 1.6.3-r1 1.6.4: Quantum chemistry package written in Python
