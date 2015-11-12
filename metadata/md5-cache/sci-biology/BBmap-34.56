@@ -4,9 +4,10 @@ DESCRIPTION=Short read aligner, K-mer-based error-correction and normalization, 
 EAPI=5
 HOMEPAGE=http://sourceforge.net/projects/bbmap/
 IUSE=elibc_FreeBSD elibc_FreeBSD
+KEYWORDS=~amd64
 LICENSE=BSD
 RDEPEND=sys-cluster/openmpi[java] >=virtual/jdk-1.7:* dev-java/ant-core >=virtual/jre-1.7:* >=dev-java/java-config-2.2.0
 SLOT=0
 SRC_URI=http://sourceforge.net/projects/bbmap/files/BBMap_34.56.tar.gz
 _eclasses_=eutils	8644194de7be04932084752fb1327080	java-ant-2	7c5d0c274d390745f5033754a319f515	java-pkg-2	b02dc1e46b3648e467b5fbdf7857cf28	java-utils-2	a96633177f44ee992b3fce360d1c4f16	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=a7da589da4ebd01207d8c509cb00ce5d
+_md5_=adca6c147dc22fae839f1751bb66b8d4
