@@ -8,4 +8,5 @@ LICENSE=GPL-3
 RDEPEND=sci-libs/gsl sci-biology/seqan sci-biology/jellyfish
 SLOT=0
 SRC_URI=http://sb.cs.cmu.edu/seecer/downloads/SEECER-0.1.3.tar.gz http://sb.cs.cmu.edu/seecer/downloads/manual.pdf -> SEECER-manual.pdf
-_md5_=624ac551ec7f766fc667991bb4851bf7
+_eclasses_=eutils	8644194de7be04932084752fb1327080	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=35ea59994fb589f0edc5fbefbb4bc15d
