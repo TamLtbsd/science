@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=sci-libs/modglue sci-mathematics/lie dev-libs/gmp[cxx] dev-libs/libpcre X? ( x11-libs/gtk+:2 dev-cpp/gtkmm:2.4 dev-cpp/pangomm:1.4 app-text/dvipng ) virtual/latex-base dev-texlive/texlive-latexrecommended
 SLOT=0
 SRC_URI=http://cadabra.phi-sci.com/cadabra-1.39.tar.gz
-_eclasses_=eutils	8644194de7be04932084752fb1327080	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	texlive-common	cf8d3d36261adafe564b821b75b34a05	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	f813d23e417656bf3917483643165d5a	multilib	3972ca401cf7dbb430df9995f5d8d580	texlive-common	cf8d3d36261adafe564b821b75b34a05	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=76447c1621ba55c046ca22d5b769d495
