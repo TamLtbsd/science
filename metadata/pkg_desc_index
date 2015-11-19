@@ -307,7 +307,7 @@ sci-biology/exonerate-gff3 9999: exonerate-2.2.0 with patches to add GFF3 format
 sci-biology/fastdnaml 1.2.2_p10: Maximum likelihood phylogenetic tree builder for DNA sequences
 sci-biology/fastqc 0.11.3: Perl-based wrapper around java apps to quality control FASTA/FASTQ sequence files
 sci-biology/fastx_toolkit 0.0.14: Tools for Short Read FASTA/FASTQ file processing
-sci-biology/ffindex 0.9.9.3: Simple index/database for huge amounts of small files
+sci-biology/ffindex 0.9.9.6: Simple index/database for huge amounts of small files
 sci-biology/flexbar 2.4: Barcode, MID tag and adapter sequence removal
 sci-biology/freebayes 9999: Bayesian gen. variant detector to find small polymorphisms: SNPs, indels, MNPs and complex events
 sci-biology/fsa 1.15.7: Distance-based probabilistic multiple sequence alignment algorithm for DNA/RNA/protein
