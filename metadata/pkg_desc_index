@@ -325,6 +325,7 @@ sci-biology/gffutils 0.8.3: GFF and GTF file manipulation and interconversion
 sci-biology/glean 1.0.1: Merge various gene prediction into one (unsupervised learning system)
 sci-biology/grappa 2.0: Genome Rearrangements Analysis under Parsimony and other Phylogenetic Algorithms
 sci-biology/hexamer 19990330: Predict CDS using 6mers without deriving information from base composition
+sci-biology/hmmer 3.1_beta2: Sequence analysis using profile hidden Markov models
 sci-biology/hydra-sv 0.5.3: Detection of structural variation breakpoints in unique and duplicated genomic regions
 sci-biology/igv 2.3.47 2.3.52: Integrative Genomics Viewer
 sci-biology/inGAP-bin 3.0.1: Detect SNPs and indels from Next-gen sequences using a Bayesian algorithm

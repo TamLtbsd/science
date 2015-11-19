@@ -67,6 +67,7 @@ sci-biology/discrover:rmathlib - Link to the standalone Rmathlib for statistical
 sci-biology/estscan:icc - Undocumented USE
 sci-biology/estscan:ifc - Undocumented USE
 sci-biology/exonerate-gff3:utils - Unknown
+sci-biology/hmmer:pvm - Add support for parallel virtual machine (sys-cluster/pvm)
 sci-biology/ncbi-blast+:boost - Undocumented USE
 sci-biology/ncbi-blast+:cppunit - Undocumented USE
 sci-biology/ncbi-blast+:freetype - Undocumented USE
