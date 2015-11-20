@@ -385,6 +385,7 @@ sci-biology/pysurfer 0.4 0.6 9999: Python based program for visualization of dat
 sci-biology/quast 2.3: Compare quality of multiple genome assemblies to each other
 sci-biology/quicktree 1.1-r1: Rapid reconstruction of phylogenies by the Neighbor-Joining method
 sci-biology/quorum 0.2.1 1.0.0: Illumina reads error corrector
+sci-biology/repeatmasker-libraries 20150807: A special version of RepBase used by RepeatMasker
 sci-biology/reptile 1.1: Illumina read corrector
 sci-biology/rnaplex 0.2: RNA-RNA interaction search
 sci-biology/roche454ace2caf 20100812: Convert from ace to gap4 (of staden v1.x), not needed to convert ace for gap5 of staden v2
