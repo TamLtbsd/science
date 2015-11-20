@@ -716,7 +716,7 @@ sci-misc/foma 0.9.14_alpha 0.9.16_alpha: Finite state toolkit compatible with Xe
 sci-misc/hfst 2.2 3.0.2 3.3.12: Helsinki Finite State Transducer API and tools
 sci-misc/irstlm 5.80.08: A tool for the estimation, representation, and computation of statistical language models
 sci-misc/jwnl 1.3_rc3: Java interface to WordNet dictionary data
-sci-misc/kaldi 0_p20150709: A toolkit for speech recognition
+sci-misc/kaldi 0_p20150709 0_p20151106: A toolkit for speech recognition
 sci-misc/kotus-sanalista 1-r1: Finnish dictionary word list
 sci-misc/mitlm 0.4.1: A set of tools designed for the efficient estimation of statistical n-gram language models
 sci-misc/nltk 2.0.4: Natural language processing tool collection
