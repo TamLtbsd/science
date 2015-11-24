@@ -8,5 +8,5 @@ RDEPEND=sci-biology/vcftools sci-libs/gsl sci-libs/htslib dev-lang/perl dev-lang
 SLOT=0
 SRC_URI=http://sourceforge.net/projects/cortexassembler/files/cortex_var/latest/CORTEX_release_v1.0.5.21.tgz http://cortexassembler.sourceforge.net/cortex_var_user_manual.pdf
 _eclass_exported_funcs=src_unpack:unpacker src_prepare:- src_compile:- src_install:-
-_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	d769539d9bace6eaca30af23bc2b4dde	perl-module	1cfb38bf68a24c8394e41d2f53003146	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	unpacker	1d149d9bda7723e740cfd28118f27813
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	e32940a7b2a9992ad217eccddb84d548	perl-module	1cfb38bf68a24c8394e41d2f53003146	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	unpacker	1d149d9bda7723e740cfd28118f27813
 _md5_=47dfd7d4a716c4afea0c7aa3a25c7216
