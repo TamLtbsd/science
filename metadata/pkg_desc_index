@@ -616,6 +616,7 @@ sci-libs/libsc 1.0 1.1: Support for parallel scientific applications
 sci-libs/libspatialindex 1.8.5: General framework for developing spatial indices
 sci-libs/libsufr 0.5.4 0.6.3 0.6.4: LIBrary of Some Useful Fortran Routines
 sci-libs/libxc 2.1.2 2.2.2: A library of exchange-correlation functionals for use in DFT
+sci-libs/lmfit 5.1: 
 sci-libs/lwpr 1.2.5: The Locally Weighted Projection Regression Library
 sci-libs/matc 6.0_p4651 8.0 9999: Finite element programs, libraries, and visualization tools - math C library
 sci-libs/med 2.3.6: Modeling and Exchange of Data library
