@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Astronomical data processing software suite
+EAPI=5
+HOMEPAGE=http://starlink.jach.hawaii.edu/starlink
+KEYWORDS=-* ~amd64 ~x86 ~amd64-linux ~x86-linux
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=amd64? ( http://ftp.jach.hawaii.edu/starlink/hikianalia/starlink-hikianalia-Linux-64bit.tar.gz ) x86? ( http://ftp.jach.hawaii.edu/starlink/hikianalia/starlink-hikianalia-Linux-32bit.tar.gz )
+_eclass_exported_funcs=src_install:-
+_md5_=02256222df63e127cc1bc394fbe82395

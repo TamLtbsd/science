@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=Combine results from external gene predictors into final gene models
+EAPI=5
+HOMEPAGE=http://www.cbcb.umd.edu/software/jigsaw
+LICENSE=Artistic
+SLOT=0
+SRC_URI=http://cbcb.umd.edu/software/jigsaw/jigsaw-3.2.10.tar.gz
+_eclass_exported_funcs=-
+_md5_=11d259cf11765448a0557400eb1d93d6

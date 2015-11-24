@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=sci-biology/blat sci-libs/lemon >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Extend partial transcripts with sequence from other reads or genomic contigs
+EAPI=5
+HOMEPAGE=https://github.com/baoe/BRANCH
+LICENSE=Artistic-2
+RDEPEND=sci-biology/blat sci-libs/lemon
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_compile:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	git-r3	b00a846f415f26e5b66e5c44c7dc87dc	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=afdc0a029bf687d56db5591f718391ae

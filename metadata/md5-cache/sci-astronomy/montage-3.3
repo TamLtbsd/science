@@ -1,0 +1,12 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=Astronomical image mosaic engine
+EAPI=5
+HOMEPAGE=http://montage.ipac.caltech.edu/
+IUSE=doc mpi
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+LICENSE=Montage
+SLOT=0
+SRC_URI=http://montage.ipac.caltech.edu/download/Montage_v3.3.tar.gz doc? ( http://montage.ipac.caltech.edu/docs/docs.tar.gz -> montage-docs.tar.gz )
+_eclass_exported_funcs=src_prepare:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=7566602aef02f11f4d1e39007cdc89c9

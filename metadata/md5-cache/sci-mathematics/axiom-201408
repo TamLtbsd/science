@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=dev-libs/gmp:0= x11-libs/libXaw app-text/dvipdfm dev-texlive/texlive-pstricks sys-apps/debianutils sys-process/procps virtual/latex-base
+DESCRIPTION=Axiom is a general purpose Computer Algebra system
+EAPI=5
+HOMEPAGE=http://axiom.axiom-developer.org/
+LICENSE=BSD-2
+RDEPEND=dev-libs/gmp:0= x11-libs/libXaw
+RESTRICT=strip
+SLOT=0
+SRC_URI=http://axiom.axiom-developer.org/axiom-website/downloads/axiom-aug2014-src.tgz
+_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=53274d532fefc3e61d60ffc25cc9cbe9

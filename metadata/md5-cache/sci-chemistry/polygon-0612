@@ -1,0 +1,13 @@
+DEFINED_PHASES=install prepare unpack
+DEPEND=app-arch/unzip
+DESCRIPTION=shows qualitatively if some models parameters are over- or under-refined
+EAPI=5
+HOMEPAGE=http://www-ibmc.u-strasbg.fr/arn/Site_UPR9002/Polygon/Polygon.html
+KEYWORDS=~amd64 ~x86
+LICENSE=all-rights-reserved
+RDEPEND=dev-lang/tcl
+SLOT=0
+SRC_URI=http://www-ibmc.u-strasbg.fr/arn/Site_UPR9002/Polygon/polygon0612.tcl http://www-ibmc.u-strasbg.fr/arn/Site_UPR9002/Polygon/pdb_2009-04-29_ord.zip
+_eclass_exported_funcs=src_unpack:- src_prepare:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=e92a443c6326a334c45bc38a98ed9804

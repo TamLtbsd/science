@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install prepare setup test
+DEPEND=virtual/blas virtual/lapack sci-libs/fftw:3.0[mpi?,openmp?] mpi? ( virtual/mpi ) virtual/pkgconfig
+DESCRIPTION=Material eXplorer using DFT, NC pseudopotentials, and pseudo-atomic localized basis functions
+EAPI=5
+HOMEPAGE=http://www.openmx-square.org/
+IUSE=-debug mpi openmp test
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=virtual/blas virtual/lapack sci-libs/fftw:3.0[mpi?,openmp?] mpi? ( virtual/mpi )
+SLOT=0
+SRC_URI=http://www.openmx-square.org/openmx3.6.tar.gz http://www.openmx-square.org/bugfixed/11Nov14/patch3.6.1.tar.gz
+_eclass_exported_funcs=pkg_setup:- src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=eb60b1191a6a738339dcb7dbdea0b167

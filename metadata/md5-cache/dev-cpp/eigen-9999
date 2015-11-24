@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install postinst prepare prerm setup test unpack
+DEPEND=doc? ( app-doc/doxygen[dot,latex] ) test? ( adolc? ( sci-libs/adolc[sparse?] ) fftw? ( sci-libs/fftw:3.0 ) gmp? ( dev-libs/gmp:0 dev-libs/mpfr:0 ) metis? ( sci-libs/metis ) mkl? ( sci-libs/mkl ) pastix? ( sci-libs/pastix ) sparse? ( dev-cpp/sparsehash sci-libs/cholmod[metis?] sci-libs/spqr sci-libs/superlu sci-libs/umfpack ) ) dev-vcs/mercurial >=app-admin/eselect-1.4.4-r102 sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) fortran? ( virtual/fortran )
+DESCRIPTION=C++ template library for linear algebra
+EAPI=5
+HOMEPAGE=http://eigen.tuxfamily.org/
+IUSE=adolc doc fortran fftw gmp metis mkl pastix sparse static-libs test
+LICENSE=MPL-2.0
+RDEPEND=!dev-cpp/eigen:0 adolc? ( sci-libs/adolc[sparse?] ) fftw? ( sci-libs/fftw:3.0 ) gmp? ( dev-libs/gmp:0 dev-libs/mpfr:0 ) metis? ( sci-libs/metis ) mkl? ( sci-libs/mkl ) pastix? ( sci-libs/pastix ) sparse? ( dev-cpp/sparsehash sci-libs/cholmod[metis?] sci-libs/spqr sci-libs/superlu sci-libs/umfpack ) >=app-admin/eselect-1.4.4-r102 !app-admin/eselect-blas !app-admin/eselect-cblas !app-admin/eselect-lapack fortran? ( virtual/fortran )
+SLOT=3
+_eclass_exported_funcs=pkg_prerm:alternatives-2 pkg_postinst:alternatives-2 pkg_setup:fortran-2 src_unpack:mercurial src_prepare:- src_configure:- src_compile:- src_test:cmake-utils src_install:-
+_eclasses_=alternatives-2	5f51ffee10b48f15a0d320afa004bcd2	cmake-utils	f16fa5681153277df51f001deaf17ff8	eutils	f20548a2f7b0128068388cd2ec26708a	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	mercurial	6ac07cde03301514a5f9e4f13df3f55e	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=e3000e83e4c90c96e5a011ded1546446

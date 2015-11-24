@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Library for biobambam
+EAPI=5
+HOMEPAGE=https://github.com/gt1/libmaus
+KEYWORDS=~x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://github.com/gt1/libmaus/archive/0.0.185-release-20141201090944.tar.gz
+_eclass_exported_funcs=-
+_md5_=299c26368bee7d16e1258a6185556dc5

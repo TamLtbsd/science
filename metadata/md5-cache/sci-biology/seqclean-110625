@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=dev-lang/perl sci-biology/ncbi-tools
+DESCRIPTION=Trimpoly and mdust for trimming and validation of ESTs/DNA sequences
+EAPI=5
+HOMEPAGE=http://compbio.dfci.harvard.edu/tgi/software/
+KEYWORDS=~amd64 ~x86
+LICENSE=Artistic
+RDEPEND=dev-lang/perl sci-biology/ncbi-tools
+SLOT=0
+SRC_URI=ftp://occams.dfci.harvard.edu/pub/bio/tgi/software/seqclean/seqcl_scripts.tar.gz -> seqcl_scripts-110625.tar.gz ftp://occams.dfci.harvard.edu/pub/bio/tgi/software/seqclean/mdust.tar.gz -> mdust-110625.tar.gz ftp://occams.dfci.harvard.edu/pub/bio/tgi/software/seqclean/trimpoly.tar.gz -> trimpoly-110625.tar.gz
+_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=3eae012731bd42b7521adb965f27d3d1

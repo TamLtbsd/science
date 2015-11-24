@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=Convert from ace to gap4 (of staden v1.x), not needed to convert ace for gap5 of staden v2
+EAPI=5
+HOMEPAGE=http://genome.imb-jena.de/software/roche454ace2caf
+KEYWORDS=~amd64 ~x86
+LICENSE=FLI-Jena
+RDEPEND=sci-biology/align_to_scf sci-biology/sff_dump sci-biology/caftools sci-biology/staden dev-lang/perl app-shells/ksh
+SLOT=0
+SRC_URI=http://genome.imb-jena.de/software/roche454ace2caf/download/src/roche454ace2gap-2010-12-08.tgz
+_eclass_exported_funcs=src_install:-
+_md5_=39aec3f734326596ed9e92584632e0dd

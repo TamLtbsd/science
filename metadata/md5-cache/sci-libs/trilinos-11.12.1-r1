@@ -1,0 +1,15 @@
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=virtual/blas virtual/lapack virtual/mpi adolc? ( sci-libs/adolc ) arprec? ( sci-libs/arprec ) boost? ( dev-libs/boost ) clp? ( sci-libs/coinor-clp ) cuda? ( >=dev-util/nvidia-cuda-toolkit-3.2 ) eigen? ( dev-cpp/eigen:3 ) gtest? ( dev-cpp/gtest ) hdf5? ( sci-libs/hdf5[mpi] ) hypre? ( sci-libs/hypre ) hwloc? ( sys-apps/hwloc ) mkl? ( sci-libs/mkl ) metis? ( || ( sci-libs/parmetis sci-libs/metis ) ) mumps? ( sci-libs/mumps ) netcdf? ( sci-libs/netcdf ) petsc? ( sci-mathematics/petsc ) qd? ( sci-libs/qd ) qt4? ( dev-qt/qtgui:4 ) scalapack? ( virtual/scalapack ) scotch? ( sci-libs/scotch ) sparse? ( sci-libs/cxsparse sci-libs/umfpack ) superlu? ( sci-libs/superlu ) taucs? ( sci-libs/taucs ) tbb? ( dev-cpp/tbb ) tvmet? ( dev-libs/tvmet ) yaml? ( dev-cpp/yaml-cpp ) zlib? ( sys-libs/zlib ) virtual/pkgconfig sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 )
+DESCRIPTION=Scientific library collection for large scale problems
+EAPI=5
+HOMEPAGE=http://trilinos.sandia.gov/
+IUSE=adolc arprec boost clp cppunit cuda eigen glpk gtest hdf5 hwloc hypre metis mkl mumps netcdf petsc qd qt4 scalapack scotch sparse superlu taucs tbb test threads tvmet yaml zlib
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+LICENSE=BSD LGPL-2.1
+RDEPEND=virtual/blas virtual/lapack virtual/mpi adolc? ( sci-libs/adolc ) arprec? ( sci-libs/arprec ) boost? ( dev-libs/boost ) clp? ( sci-libs/coinor-clp ) cuda? ( >=dev-util/nvidia-cuda-toolkit-3.2 ) eigen? ( dev-cpp/eigen:3 ) gtest? ( dev-cpp/gtest ) hdf5? ( sci-libs/hdf5[mpi] ) hypre? ( sci-libs/hypre ) hwloc? ( sys-apps/hwloc ) mkl? ( sci-libs/mkl ) metis? ( || ( sci-libs/parmetis sci-libs/metis ) ) mumps? ( sci-libs/mumps ) netcdf? ( sci-libs/netcdf ) petsc? ( sci-mathematics/petsc ) qd? ( sci-libs/qd ) qt4? ( dev-qt/qtgui:4 ) scalapack? ( virtual/scalapack ) scotch? ( sci-libs/scotch ) sparse? ( sci-libs/cxsparse sci-libs/umfpack ) superlu? ( sci-libs/superlu ) taucs? ( sci-libs/taucs ) tbb? ( dev-cpp/tbb ) tvmet? ( dev-libs/tvmet ) yaml? ( dev-cpp/yaml-cpp ) zlib? ( sys-libs/zlib )
+RESTRICT=test
+SLOT=0
+SRC_URI=http://trilinos.org/oldsite/download/files/trilinos-11.12.1-Source.tar.gz
+_eclass_exported_funcs=src_prepare:- src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
+_eclasses_=cmake-utils	f16fa5681153277df51f001deaf17ff8	eutils	f20548a2f7b0128068388cd2ec26708a	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=185b11bb5f86674ce4b52c0162b54527

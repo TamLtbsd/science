@@ -1,796 +1,796 @@
-app-admin/eselect 1.4.5-r101 9999: 
-app-benchmarks/btl 9999: 
-app-benchmarks/numbench 0.2 9999: 
-app-doc/blacs-docs 1.1: 
-app-doc/blas-docs 3.3: 
-app-doc/lapack-docs 3.3-r1: 
-app-doc/root-docs 9999: 
-app-doc/scalapack-docs 2.0: 
-app-forensics/vine 1.0: 
-app-portage/g-octave 9999: 
-app-text/dgs 0.5.10-r2: 
-app-vim/vim-gromacs 9999: 
-dev-cpp/eigen 3.2.2 3.2.4 9999: 
-dev-cpp/growler 0.3.8.2: 
-dev-cpp/growler-arch 0.3.7.1: 
-dev-cpp/growler-core 0.3.7: 
-dev-cpp/growler-link 0.3.7: 
-dev-cpp/growler-math 0.3.4.1: 
-dev-cpp/growler-thread 0.3.4: 
-dev-cpp/icnc 9999: 
-dev-java/fits 1.11.0-r1: 
-dev-java/flexdock 1.1.1 1.2.4: 
-dev-java/gluegen 1_p20080421 2.0_rc8 2.1.4 2.2.4: 
-dev-java/hdf-java 2.9: 
-dev-java/jeuclid-core 3.1.9-r1: 
-dev-java/jgraphx 1.4.1.0 1.8.0.6 2.5.0.3: 
-dev-java/jhealpix 3.11: 
-dev-java/jlatexmath 1.0.3: 
-dev-java/jlatexmath-fop 1.0.3: 
-dev-java/jogl 1.1.1a 2.0_rc8-r1 2.1.4 2.2.4: 
-dev-java/jrosetta 1.0.4: 
-dev-java/netcdf 4.2: 
-dev-java/scirenderer 1.1.0: 
-dev-lang/berkeley_upc 2.16.2 2.18.0 2.18.2 2.20.0: 
-dev-lang/berkeley_upc_translator 2.16.2 2.18.0 2.18.2: 
-dev-lang/conceptual 1.4: 
-dev-lang/ispc 9999: 
-dev-lang/julia 9999: 
-dev-lang/path64 9999: 
-dev-lang/pgi 13.5: 
-dev-lang/terra 2015.03.12: 
-dev-lang/vtune 13.1.10.298370 13.1.12.305106 13.1.13.313935 13.1.17.353306 15.1.380310 15.2.393444 15.3.403110: 
-dev-libs/asmjit 1.0_beta4: 
-dev-libs/boost-compute 0.4-r1 9999: 
-dev-libs/fortrancl 0.1_alpha3: 
-dev-libs/libconfig 9999: 
-dev-libs/libcuda 9999: 
-dev-libs/libflatarray 9999: 
-dev-libs/libgdev 9999: 
-dev-libs/libunzip 5.52: 
-dev-libs/mxml 2.9: 
-dev-libs/simclist 1.6: 
-dev-libs/utf8proc 1.1.6 1.2-r1: 
-dev-ml/gsl-ocaml 1.10.2: 
-dev-ml/lacaml 7.0.3: 
-dev-ml/mlgmpidl 1.1: 
-dev-ml/zarith 1.2.1: 
-dev-perl/BTLib 0.19: 
-dev-perl/Bio-BigFile 1.07: 
-dev-perl/Bio-DB-Das-Chado 0.34: 
-dev-perl/DBIx-DBStag 0.12: 
-dev-perl/Lab-Instrument 2.01: 
-dev-perl/Lab-Tools 1.4: 
-dev-perl/Lab-VISA 2.06: 
-dev-perl/Log-Cabin 0.06: 
-dev-perl/Text-ParseWords 3.27: 
-dev-perl/Time-Progress 1.7: 
-dev-perl/go-db-perl 0.04: 
-dev-perl/go-perl 0.13: 
-dev-perl/opal-client 1.9.2: 
-dev-python/Forthon 0.8.13: 
-dev-python/GOGrapher 9999: 
-dev-python/RecSQL 9999: 
-dev-python/arrayfire-python 3.0.20150914 3.1.20151111 9999: 
-dev-python/astlib 0.7.0: 
-dev-python/astropy 9999: 
-dev-python/astropy-helpers 9999: 
-dev-python/astropysics 9999: 
-dev-python/astroquery 0.2 9999: 
-dev-python/brewer2mpl 1.4.1 9999: 
-dev-python/ccdproc 0.2 0.2.1 9999: 
-dev-python/coards 1.0.5: 
-dev-python/coords 0.37: 
-dev-python/cosmocalc 0.1.2-r1: 
-dev-python/dimensionful 9999: 
-dev-python/emcee 1.2.0 2.0.0: 
-dev-python/ffc 1.2.0 1.3.0 1.4.0: 
-dev-python/ffnet 0.7.1: 
-dev-python/fiat 1.1 1.3.0 1.4.0: 
-dev-python/future 0.15.2: 
-dev-python/gammapy 0.1 9999: 
-dev-python/healpy 1.7.4: 
-dev-python/imageutils 9999: 
-dev-python/inference 0.4: 
-dev-python/instant 1.2.0 1.3.0 1.4.0: 
-dev-python/ipykernel 4.0.3 4.1.1 9999: 
-dev-python/ipyparallel 4.0.0-r1 4.0.2-r1 4.1.0 9999: 
-dev-python/ipython 4.0.0-r2: 
-dev-python/ipython_genutils 0.1.0 9999: 
-dev-python/ipywidgets 4.0.2-r1 4.0.3 4.1.0 4.1.1 9999: 
-dev-python/jupyter 1.0.0: 
-dev-python/jupyter_client 4.0.0 4.1.1 9999: 
-dev-python/jupyter_console 4.0.3 9999: 
-dev-python/jupyter_core 4.0.4-r1 4.0.6 9999: 
-dev-python/matlab_wrapper 0.9.6 9999: 
-dev-python/matplotlib-venn 0.11 9999: 
-dev-python/matplotlib2tikz 0.2.4 0.4.0 9999: 
-dev-python/matrix2latex 1.0.0 9999: 
-dev-python/meshpy 2013.1.2 2014.1: 
-dev-python/metakernel 0.11.0 0.11.2 0.11.3: 
-dev-python/metakernel_bash 0.11.3-r1: 
-dev-python/metakernel_python 0.11.3-r1: 
-dev-python/montage-wrapper 0.9.7: 
-dev-python/nbconvert 4.0.0-r1 4.1.0 9999: 
-dev-python/nbformat 4.0.0 4.0.1 9999: 
-dev-python/nbviewer 9999: 
-dev-python/newrelic 2.44.0.36 2.50.0.39: 
-dev-python/notebook 4.0.4-r3 4.0.6 9999: 
-dev-python/nvidia-ml-py 6.340.0 7.346.0 7.352.0: 
-dev-python/omniorbpy 3.4: 
-dev-python/opal-client 2.4.1: 
-dev-python/pamela 0.2.1 9999: 
-dev-python/photutils 9999: 
-dev-python/pickleshare 0.5 9999: 
-dev-python/prettyplotlib 0.1.7 9999: 
-dev-python/psubprocess 0.1.2: 
-dev-python/ptyprocess 9999: 
-dev-python/pyfftw 0.9.2 9999: 
-dev-python/pyhdf 0.8.3: 
-dev-python/pylibconfig2 0.2.4 9999: 
-dev-python/pymvpa 0.4.4: 
-dev-python/pynomo 0.2.2: 
-dev-python/pysolar 0.5: 
-dev-python/pysparse 1.1.1-r1: 
-dev-python/python-ivi 0.14.9 9999: 
-dev-python/python-vxi11 0.7 0.8 9999: 
-dev-python/pythoncgns 2009.10.30: 
-dev-python/pythonocc 0.5: 
-dev-python/pythonqt 2.1 9999: 
-dev-python/pywcsgrid2 9999: 
-dev-python/qtconsole 4.0.1-r1 4.1.0 9999: 
-dev-python/snakemake 3.4.2: 
-dev-python/specutils 9999: 
-dev-python/symengine 9999: 
-dev-python/testpath 0.2 9999: 
-dev-python/traitlets 4.0.0 9999: 
-dev-python/ufl 0.5.4 1.3.0 1.4.0: 
-dev-python/viper 1.0.1: 
-dev-tcltk/img_rotate 1.1: 
-dev-tcltk/togl 1.7-r1: 
-dev-tex/pythontex 0.14-r1 9999: 
-dev-util/VampirTrace 5.14.3 5.14.4: 
-dev-util/amdapp 2.9 2.9.1 3.0_beta: 
-dev-util/emscripten 1.34.11 1.35.2: 
-dev-util/emscripten-fastcomp 1.34.11 1.35.2: 
-dev-util/f90cache 0.94 0.95 0.96: 
-dev-util/ndiff 2.00: 
-dev-util/numdiff 5.8.1: 
-dev-util/nvidia-cuda-gdk 340.29 346.46 352.07 352.39: 
-dev-util/smartgit 6.5.6: 
-media-gfx/PhiloGL 1.4.3: 
-media-gfx/brlcad 7.22.0 7.24.0 7.24.2 9999: 
-media-gfx/librecad 1.0.3 1.0.4 2.0.7 2.0.8 9999: 
-media-libs/OpenMOIV 1.0.3a: 
-media-libs/avbin-bin 7: 
-media-libs/libgfx 1.1.0: 
-net-ftp/bbftp-client 3.2.1: 
-net-ftp/bbftp-server 3.2.1: 
-net-misc/bbscp 1.0.6: 
-perl-core/encoding-warnings 0.11: 
-sci-astronomy/astrometry 0.43: 
-sci-astronomy/bpz 1.99.3: 
-sci-astronomy/casapy-bin 4.2.1.29047.001_p1 4.2.2.30986_p1 4.4.0: 
-sci-astronomy/chealpix 3.11.2: 
-sci-astronomy/eazy 1.00: 
-sci-astronomy/eye 9999: 
-sci-astronomy/galfit-bin 3.0.5: 
-sci-astronomy/healpix_cxx 3.11.2: 
-sci-astronomy/healpix_idl 3.11: 
-sci-astronomy/lephare 2.2: 
-sci-astronomy/libthesky 0.3.2: 
-sci-astronomy/missfits 2.8.0 9999: 
-sci-astronomy/montage 3.3: 
-sci-astronomy/mosstack 0.6.1 0.6.1-r1: 
-sci-astronomy/psfex 3.9.1 3.17.0 9999: 
-sci-astronomy/scamp 1.7.0-r2 9999: 
-sci-astronomy/sextractor 2.8.6-r1 2.19.5 9999: 
-sci-astronomy/skymaker 3.10.5 9999: 
-sci-astronomy/starlink-bin 20130413: 
-sci-astronomy/stiff 2.4.0 9999: 
-sci-astronomy/stilts 2.5.1: 
-sci-astronomy/stuff 1.26.0 9999: 
-sci-astronomy/swarp 2.38.0 9999: 
-sci-astronomy/topcat 4.0.1: 
-sci-astronomy/weightwatcher 1.12 9999: 
-sci-astronomy/zebra 1.01: 
-sci-astronomy/zpeg 5.23: 
-sci-biology/AlignGraph 9999: 
-sci-biology/Atlas 2005: 
-sci-biology/Atlas-Link 0.01: 
-sci-biology/Atlas2 1.4.3: 
-sci-biology/Atlas_GapFill 2.2: 
-sci-biology/BBmap 34.97 35.68: 
-sci-biology/BG7 9999: 
-sci-biology/BRAKER 20150330: 
-sci-biology/BRANCH 9999: 
-sci-biology/BamView 1.2.11: 
-sci-biology/BlastToSam 9999: 
-sci-biology/CONTIGuator 2.7: 
-sci-biology/EBARDenovo 1.2.2: 
-sci-biology/ESTate 0.5: 
-sci-biology/FLASH 1.2.9: 
-sci-biology/Gambit 0.4.145: 
-sci-biology/HTSeq 0.6.1: 
-sci-biology/ICC 2.0.1: 
-sci-biology/IMAGE 2.4.1: 
-sci-biology/InterMine 0.98: 
-sci-biology/Jannovar-bin 20150503: 
-sci-biology/KaKs_Calculator 1.2: 
-sci-biology/MaSuRCA 2.3.2b: 
-sci-biology/MagicViewer 1.2.1: 
-sci-biology/MeV 4.8.1: 
-sci-biology/MochiView 1.45: 
-sci-biology/NGSTools 2.0.5: 
-sci-biology/OBO-Edit 2.1.0 2.1.1.6: 
-sci-biology/ONTO-PERL 1.41: 
-sci-biology/ORFcor 20130507: 
-sci-biology/RADtools 1.2.4 9999: 
-sci-biology/RSeQC 2.6.1: 
-sci-biology/Ray 2.3.0: 
-sci-biology/Rcorrector 9999: 
-sci-biology/SEECER 0.1.3-r2: 
-sci-biology/SSAKE 3.8.2: 
-sci-biology/STAR 2.4.1c 9999: 
-sci-biology/SolexaQA 2.2: 
-sci-biology/StarORF 9999: 
-sci-biology/TransDecoder 2.0.1: 
-sci-biology/Trinotate 2.0.1: 
-sci-biology/VarScan 2.3.7: 
-sci-biology/VelvetOptimiser 2.2.5: 
-sci-biology/YASRA 2.33: 
-sci-biology/abacas 1.3.1: 
-sci-biology/abyss 1.3.3-r1 1.3.4-r1 1.3.6-r1: 
-sci-biology/aghermann 1.0.3 1.0.3-r1 1.0.4 1.0.5: 
-sci-biology/align_to_scf 1.06: 
-sci-biology/amos 3.1.0-r2 9999: 
-sci-biology/ampliconnoise 1.27: 
-sci-biology/angsd 9999: 
-sci-biology/ants 9999: 
-sci-biology/apollo 9999: 
-sci-biology/argo 1.0.24: 
-sci-biology/argo-bin 1.0.31 2.0.3: 
-sci-biology/artemis 9999: 
-sci-biology/artemis-bin 16.0.11: 
-sci-biology/atsas 2.6.0 2.7.0: 
-sci-biology/augustus 3.1: 
-sci-biology/autoeditor 1.20: 
-sci-biology/bambino 1.02 1.06: 
-sci-biology/bambus 2.33: 
-sci-biology/bamtools 9999: 
-sci-biology/barnacle 1.0.3: 
-sci-biology/barrnap 0.3 0.4: 
-sci-biology/bcftools 1.2: 
-sci-biology/beagle 4.0: 
-sci-biology/beaglecall 20101115: 
-sci-biology/bedtools 2.22.1: 
-sci-biology/biobambam 0.0.183: 
-sci-biology/biopieces 0.51 9999: 
-sci-biology/bismark 0.13.0: 
-sci-biology/blasr 9999: 
-sci-biology/blue 1.1.2 1.1.3: 
-sci-biology/brat 1.2.4: 
-sci-biology/breakdancer 9999: 
-sci-biology/bru2nii 9999: 
-sci-biology/bx-python 0.7.2 9999: 
-sci-biology/caftools 2.0.2: 
-sci-biology/cap3-bin 20071221: 
-sci-biology/cd-hit 4.6.1: 
-sci-biology/cd-hit-auxtools 0.5: 
-sci-biology/cdbfasta 0.1: 
-sci-biology/cegma 2.5: 
-sci-biology/cgview-bin 20131130: 
-sci-biology/clover 2011.10.24: 
-sci-biology/cluster 1.50-r1: 
-sci-biology/clview 0.1: 
-sci-biology/cnrun 2.0.2: 
-sci-biology/codonw 1.4.4-r2: 
-sci-biology/conform-gt 1174: 
-sci-biology/conifer 0.2.2: 
-sci-biology/consed 29: 
-sci-biology/consed2gap 20050520: 
-sci-biology/coral 1.4: 
-sci-biology/cortex_var 1.0.5.21: 
-sci-biology/cutadapt 1.2.1 1.4.1 1.5 9999: 
-sci-biology/dawg 1.1.2: 
-sci-biology/dcmstack 9999: 
-sci-biology/discrover 1.6.0 9999: 
-sci-biology/ePCR 2.3.12: 
-sci-biology/edena 3.131028: 
-sci-biology/epga 9999: 
-sci-biology/erpin 5.5b: 
-sci-biology/est2assembly 1.08 9999: 
-sci-biology/estscan 3.0.3: 
-sci-biology/eval 2.2.8: 
-sci-biology/exomiser-bin 7.0.0: 
-sci-biology/exonerate-gff3 9999: 
-sci-biology/fastdnaml 1.2.2_p10: 
-sci-biology/fastqc 0.11.3: 
-sci-biology/fastx_toolkit 0.0.14: 
-sci-biology/ffindex 0.9.9.6: 
-sci-biology/flexbar 2.4: 
-sci-biology/freebayes 9999: 
-sci-biology/fsa 1.15.7: 
-sci-biology/fsl 5.0.8: 
-sci-biology/gap2caf 2.1.0: 
-sci-biology/gbench 2.3.2: 
-sci-biology/gbrowse 2.39 2.45 2.48: 
-sci-biology/geneid 1.4.4: 
-sci-biology/genepop 4.2.1: 
-sci-biology/generecon 1.2.1-r1: 
-sci-biology/genomeview-bin 2450: 
-sci-biology/genseed 1.0.22: 
-sci-biology/gfftools 0.98d: 
-sci-biology/gffutils 0.8.3: 
-sci-biology/glean 1.0.1: 
-sci-biology/grappa 2.0: 
-sci-biology/hexamer 19990330: 
-sci-biology/hmmer 3.1_beta2: 
-sci-biology/hydra-sv 0.5.3: 
-sci-biology/igv 2.3.47 2.3.52: 
-sci-biology/inGAP-bin 3.0.1: 
-sci-biology/jellyfish 1.1.11 2.1.3 2.1.4: 
-sci-biology/jigsaw 3.2.10: 
-sci-biology/jtreeview 1.1.6.4: 
-sci-biology/kallisto 0.42.1 9999: 
-sci-biology/khmer 0.8 1.0.1 9999: 
-sci-biology/kmergenie 1.6971: 
-sci-biology/lastz 1.03.66: 
-sci-biology/libgtextutils 0.6.1: 
-sci-biology/lighter 9999: 
-sci-biology/lucy 1.20: 
-sci-biology/maker 2.31.8: 
-sci-biology/manatee-igs 2.23.1: 
-sci-biology/manatee-jcvi 2.4.3: 
-sci-biology/mavid 2.0.4: 
-sci-biology/merlin 1.1.2: 
-sci-biology/metaseq 0.5.3: 
-sci-biology/mgblast 0.1: 
-sci-biology/minced 9999: 
-sci-biology/mip-scaffolder 0.6: 
-sci-biology/mira 4.9.5: 
-sci-biology/miranda 3.3a: 
-sci-biology/mne-python 0.7 9999: 
-sci-biology/mosaik 2.2.3 9999: 
-sci-biology/mreps 2.5: 
-sci-biology/mrfast 2.6.0.1: 
-sci-biology/mrsfast 2.6.0.4: 
-sci-biology/ncbi-blast+ 2.2.30 2.2.31: 
-sci-biology/ncbi-tools++ 12.0.0: 
-sci-biology/nesoni 0.128: 
-sci-biology/ngs_backbone 1.4.0 9999: 
-sci-biology/ngsview 0.91: 
-sci-biology/nrcl 110625: 
-sci-biology/pairagon 1.1: 
-sci-biology/parafly 20130121: 
-sci-biology/pb-honey 14.1.15: 
-sci-biology/pb-jelly 14.9.9: 
-sci-biology/perlprimer 1.1.21: 
-sci-biology/phusion 2.1c: 
-sci-biology/pileup 0.6: 
-sci-biology/plinkseq 0.10: 
-sci-biology/polyphen 2.2.2: 
-sci-biology/primerD 1.0.0: 
-sci-biology/proda 1.0: 
-sci-biology/prokka 1.11: 
-sci-biology/prot4EST 3.1b: 
-sci-biology/psx 0.1: 
-sci-biology/psychopy 1.78.00 9999: 
-sci-biology/pvmsx 0.1: 
-sci-biology/pybedtools 0.6.9: 
-sci-biology/pybrain 9999: 
-sci-biology/pyfaidx 0.3.8: 
-sci-biology/pysam 0.6-r2 0.7.5 0.8.3: 
-sci-biology/pysurfer 0.4 0.6 9999: 
-sci-biology/quast 2.3: 
-sci-biology/quicktree 1.1-r1: 
-sci-biology/quorum 0.2.1 1.0.0: 
-sci-biology/repeatmasker-libraries 20150807: 
-sci-biology/reptile 1.1: 
-sci-biology/rnaplex 0.2: 
-sci-biology/roche454ace2caf 20100812: 
-sci-biology/ruffus 9999: 
-sci-biology/rum 2.0.5.5: 
-sci-biology/sabre 9999: 
-sci-biology/salmon 0.3.2 0.4.2 9999: 
-sci-biology/samstat 20130708: 
-sci-biology/samtools 1.0-r2 1.1-r1 1.2-r1: 
-sci-biology/scaffold_builder 20131122-r1: 
-sci-biology/scan_for_matches 20121220: 
-sci-biology/sclust 0.1: 
-sci-biology/screed 0.7.1: 
-sci-biology/scythe 0.992: 
-sci-biology/seqclean 110625: 
-sci-biology/seqtools 4.34.5: 
-sci-biology/sequin 20121202: 
-sci-biology/sff_dump 1.04: 
-sci-biology/sga 9999: 
-sci-biology/sgp2 1.1: 
-sci-biology/sickle 1.33 9999: 
-sci-biology/signalp 3.0: 
-sci-biology/skewer-bin 0.1.104: 
-sci-biology/smalt-bin 0.7.4: 
-sci-biology/snap 20131129: 
-sci-biology/snphylo 20140701: 
-sci-biology/spm 8 12 12_p6470: 
-sci-biology/sra_sdk 2.2.2a: 
-sci-biology/ssaha2-bin 2.5.5: 
-sci-biology/stacks 1.16: 
-sci-biology/staden 2.0.0_beta9 9999: 
-sci-biology/subread 1.4.6: 
-sci-biology/swissknife 1.70: 
-sci-biology/symap 4.0: 
-sci-biology/tablet 1.14.04.10 9999: 
-sci-biology/tablet-bin 1.14.10.21: 
-sci-biology/tagdust 20101028: 
-sci-biology/tclust 110625: 
-sci-biology/tgicl 2.1: 
-sci-biology/tigr-foundation-libs 2.0-r1: 
-sci-biology/tmhmm 2.0c: 
-sci-biology/tophat 2.0.12 2.0.13 2.0.14 2.1.0: 
-sci-biology/trans-abyss 1.4.8: 
-sci-biology/trf 4.07b: 
-sci-biology/trim_galore 0.4.0: 
-sci-biology/trimmomatic 0.32: 
-sci-biology/trinityrnaseq 2.0.6 2.1.1: 
-sci-biology/trowel 0.1.4.1: 
-sci-biology/twinscan 4.1.2-r1: 
-sci-biology/ugene 1.13.3 1.16.1: 
-sci-biology/vague-bin 1.0.5: 
-sci-biology/velvetk 20120606: 
-sci-biology/wcd 0.6.3: 
-sci-biology/weblogo 2.8.2: 
-sci-biology/wgs-assembler 8.3_rc2: 
-sci-biology/wise 2.4.1: 
-sci-biology/zmsort 110625: 
-sci-chemistry/GromacsWrapper 9999: 
-sci-chemistry/NMRdyn 3.2.5: 
-sci-chemistry/ambertools 12_p38: 
-sci-chemistry/avogadro2 0.7.2: 
-sci-chemistry/ball 9999: 
-sci-chemistry/burrow-owl 9999: 
-sci-chemistry/camshift 1.35.0: 
-sci-chemistry/chemBuild 1.0.2 1.0.3 1.0.4: 
-sci-chemistry/chimera-bin 1.9 1.10.2: 
-sci-chemistry/chooch 5.0.2-r1: 
-sci-chemistry/cnsface 0.0.12: 
-sci-chemistry/concoord 2.1 2.1.2: 
-sci-chemistry/coot 9999: 
-sci-chemistry/cpmgfit 1.43: 
-sci-chemistry/cs-rosetta 1.01.2009.1109.11: 
-sci-chemistry/curvefit 1.40: 
-sci-chemistry/dl_poly 1.9 4.05: 
-sci-chemistry/drawxtl 45 55: 
-sci-chemistry/dssp2pdb 0.03: 
-sci-chemistry/erkale 9999: 
-sci-chemistry/freeon 9999: 
-sci-chemistry/gamess 20130501.1: 
-sci-chemistry/gnome-chemistry-utils 0.14.2-r1 9999: 
-sci-chemistry/gromacs 4.6.9999 5.0.9999 5.1.9999 9999: 
-sci-chemistry/hydronmr 7c: 
-sci-chemistry/jana2000 20071218: 
-sci-chemistry/jligand 1.0.40: 
-sci-chemistry/ligplot+ 1.4: 
-sci-chemistry/mage 6.44.060606: 
-sci-chemistry/mddnmr 2.4-r1: 
-sci-chemistry/mdsctk 1.2.0: 
-sci-chemistry/mgltools 1.5.6: 
-sci-chemistry/mgltools-autodocktools 1.5.6: 
-sci-chemistry/mgltools-bhtree 1.5.6: 
-sci-chemistry/mgltools-cadd 1.5.6: 
-sci-chemistry/mgltools-cmolkit 1.5.6: 
-sci-chemistry/mgltools-dejavu 1.5.6-r1: 
-sci-chemistry/mgltools-geomutils 1.5.6: 
-sci-chemistry/mgltools-gle 1.5.6: 
-sci-chemistry/mgltools-mglutil 1.5.6-r1: 
-sci-chemistry/mgltools-molkit 1.5.6: 
-sci-chemistry/mgltools-networkeditor 1.5.6: 
-sci-chemistry/mgltools-opengltk 1.5.6: 
-sci-chemistry/mgltools-pmv 1.5.6: 
-sci-chemistry/mgltools-pyautodock 1.5.6: 
-sci-chemistry/mgltools-pybabel 1.5.6: 
-sci-chemistry/mgltools-pyglf 1.5.6: 
-sci-chemistry/mgltools-qslimlib 1.5.6: 
-sci-chemistry/mgltools-scenario2 1.5.6: 
-sci-chemistry/mgltools-sff 1.5.6: 
-sci-chemistry/mgltools-support 1.5.6: 
-sci-chemistry/mgltools-symserv 1.5.6: 
-sci-chemistry/mgltools-utpackages 1.5.6: 
-sci-chemistry/mgltools-viewer-framework 1.5.6: 
-sci-chemistry/mgltools-vision 1.5.6: 
-sci-chemistry/mgltools-visionlib 1.5.6: 
-sci-chemistry/mgltools-volume 1.5.6: 
-sci-chemistry/mgltools-webservices 1.5.6: 
-sci-chemistry/mics 1.00.2011.327.12.00: 
-sci-chemistry/modelfree 4.20: 
-sci-chemistry/modeller 9.12-r3: 
-sci-chemistry/module2 0_pre20140717: 
-sci-chemistry/mtz2hkl 0.3: 
-sci-chemistry/mtz2sca 0.3: 
-sci-chemistry/nMOLDYN 3.0.10: 
-sci-chemistry/nmrpipe 8.6.2015.271.07.19-r1: 
-sci-chemistry/nmrview 5.2.2-r3: 
-sci-chemistry/nwchem 6.3_p2-r1 6.5_p26243-r7: 
-sci-chemistry/openbabel 9999: 
-sci-chemistry/openbabel-java 9999: 
-sci-chemistry/openbabel-perl 9999: 
-sci-chemistry/openbabel-python 9999: 
-sci-chemistry/openbabel-ruby 9999: 
-sci-chemistry/pales-bin 0_pre140717: 
-sci-chemistry/panav 0.20130730: 
-sci-chemistry/pesto 9999: 
-sci-chemistry/phenix-bin 1.9.1692 1.10.2155: 
-sci-chemistry/polygon 0612: 
-sci-chemistry/pymol 9999: 
-sci-chemistry/pymol-plugins-ezviz 1.0.2005-r1: 
-sci-chemistry/pymol-plugins-psico 9999: 
-sci-chemistry/pyquante 1.6.3-r1 1.6.4: 
-sci-chemistry/redcat 3: 
-sci-chemistry/rosetta 3.4: 
-sci-chemistry/rosetta-tools 3.0: 
-sci-chemistry/shiftx 1.1: 
-sci-chemistry/shiftx2 1.07_p20120106: 
-sci-chemistry/simpson 3.0.1 3.1.0 3.1.2: 
-sci-chemistry/smmp 3.0.5: 
-sci-chemistry/specView 1.0.2 1.0.3 1.0.3_p2 1.0.4: 
-sci-chemistry/ssp 09.11: 
-sci-chemistry/talosn 4.01.2013.148.15.55-r3 4.12.2015.147.15.40: 
-sci-chemistry/trajng 0.6.1: 
-sci-chemistry/unio 2.0.3-r1: 
-sci-chemistry/usf-tools 9999: 
-sci-chemistry/votca-csg 9999: 
-sci-chemistry/votca-csgapps 9999: 
-sci-chemistry/xplor-nih 2.38: 
-sci-electronics/minipro 9999: 
-sci-electronics/player 2.0.4: 
-sci-electronics/stage 2.0.3: 
-sci-electronics/tnt 1.2.2: 
-sci-geosciences/pydap 3.1 3.1.1: 
-sci-geosciences/pydap_handlers_cdms 0.2.0.1: 
-sci-geosciences/pydap_handlers_csv 0.1.1: 
-sci-geosciences/pydap_handlers_hdf5 0.1.7: 
-sci-geosciences/pydap_handlers_nca 0.1.3: 
-sci-geosciences/pydap_handlers_netcdf 0.6.4: 
-sci-geosciences/pydap_handlers_proxy 0.1.1: 
-sci-geosciences/pydap_handlers_sql 0.3.0: 
-sci-geosciences/pydap_handlers_sqlite 0.1.0: 
-sci-geosciences/pydap_responses_kml 0.4.6: 
-sci-geosciences/pydap_responses_matlab 0.2.1: 
-sci-geosciences/pydap_responses_netcdf 0.1.4.1: 
-sci-geosciences/pydap_responses_wms 0.5.4: 
-sci-geosciences/pydap_responses_xls 0.1.2: 
-sci-geosciences/qgis 9999: 
-sci-libs/Cgraph 2.04: 
-sci-libs/acml 5.3.1 6.1.0.31: 
-sci-libs/amber99sb_phipsi 0_pre130901: 
-sci-libs/amber99sbnmr 0_pre130901: 
-sci-libs/amber99sbnmr-ildn 0_pre130901: 
-sci-libs/amdlibm 3.1: 
-sci-libs/armadillo 4.650.4 5.600.2 6.200.3: 
-sci-libs/arrayfire 3.1.1-r2 3.1.2 3.1.3 9999: 
-sci-libs/asl 0.1.5 9999: 
-sci-libs/atlas 3.10.1-r1 3.10.1-r2: 
-sci-libs/bigdft-abi 1.0.4-r3: 
-sci-libs/blas-reference 20131116 20131116-r1 99999999: 
-sci-libs/blastdb 9999: 
-sci-libs/bloom 9999: 
-sci-libs/calculix-ccx 2.7-r1 2.8_p2: 
-sci-libs/calculix-cgx 2.7-r1: 
-sci-libs/cblas-reference 20110218 20110218-r1: 
-sci-libs/ccif 0.3.20111209: 
-sci-libs/cgnstools 2.5.4-r1: 
-sci-libs/clblas 2.4-r1 2.6 9999: 
-sci-libs/clfft 2.6.1 2.8 9999: 
-sci-libs/clrng 9999: 
-sci-libs/cs-rosetta-db 1.01.2009.1109.11: 
-sci-libs/dcmtk 3.6.0: 
-sci-libs/dealii 8.1.0-r2 8.2.1-r1 8.3.0 9999: 
-sci-libs/elmer-eio 6.0_p4651 9999: 
-sci-libs/elmer-hutiter 6.0_p4651 9999: 
-sci-libs/etsf_io 1.0.3-r2 1.0.4-r1: 
-sci-libs/factory 3.1.1-r2: 
-sci-libs/fdlibm 5.3: 
-sci-libs/fftw 9999: 
-sci-libs/fgsl 0.9.4: 
-sci-libs/fox 4.1.2-r2: 
-sci-libs/framewave 1.3.1: 
-sci-libs/geom 5.1.2.7: 
-sci-libs/ghmm 9999: 
-sci-libs/givaro 3.2.13 3.3.0 3.8.0: 
-sci-libs/gmsh 2.8.5: 
-sci-libs/gotoblas2 1.13: 
-sci-libs/gsl 1.16-r2: 
-sci-libs/iml 1.0.3-r2 1.0.4: 
-sci-libs/itk 4.4.2 4.4.2-r1 4.5.1: 
-sci-libs/jhdf5 14.12.1: 
-sci-libs/k3match 1.1: 
-sci-libs/lapack-reference 3.4.2 3.5.0 9999: 
-sci-libs/lapacke-reference 3.4.2 3.5.0 9999: 
-sci-libs/lapackpp 2.5.4: 
-sci-libs/libcgnsoo 1728: 
-sci-libs/libfac 3.1.1: 
-sci-libs/libgeodecomp 9999: 
-sci-libs/libmatheval 1.1.10: 
-sci-libs/libmaus 0.0.185: 
-sci-libs/libsc 1.0 1.1: 
-sci-libs/libspatialindex 1.8.5: 
-sci-libs/libsufr 0.5.4 0.6.3 0.6.4: 
-sci-libs/libxc 2.1.2 2.2.2: 
+app-admin/eselect 1.4.5-r101 9999: Gentoo's multi-purpose configuration and management tool
+app-benchmarks/btl 9999: Bench Template Library
+app-benchmarks/numbench 0.2 9999: Automated benchmarks suite
+app-doc/blacs-docs 1.1: Documentation reference for BLACS implementations
+app-doc/blas-docs 3.3: Documentation reference and man pages for blas implementations
+app-doc/lapack-docs 3.3-r1: Documentation reference and man pages for LAPACK implementations
+app-doc/root-docs 9999: Documentation for ROOT Data Analysis Framework
+app-doc/scalapack-docs 2.0: Documentation reference and man pages for ScaLAPACK implementations
+app-forensics/vine 1.0: The BitBlaze Static Analysis Component
+app-portage/g-octave 9999: A tool that generates and installs ebuilds for Octave-Forge
+app-text/dgs 0.5.10-r2: A Ghostscript based Display Postscript (DPS) server
+app-vim/vim-gromacs 9999: vim plugin: Gromacs file syntax highlighting and some macros
+dev-cpp/eigen 3.2.2 3.2.4 9999: C++ template library for linear algebra
+dev-cpp/growler 0.3.8.2: Distributed object architecture and environment
+dev-cpp/growler-arch 0.3.7.1: Growler libraries and utilities
+dev-cpp/growler-core 0.3.7: General-purpose classes and functionality
+dev-cpp/growler-link 0.3.7: The lowest-level Growler library
+dev-cpp/growler-math 0.3.4.1: Math-related classes and functionality
+dev-cpp/growler-thread 0.3.4: Pthread wrapper library
+dev-cpp/icnc 9999: Intel Concurrent Collections for C++ - Parallelism without the Pain
+dev-java/fits 1.11.0-r1: Java library for FITS input/output
+dev-java/flexdock 1.1.1 1.2.4: A Java docking framework for use in cross-platform Swing applications
+dev-java/gluegen 1_p20080421 2.0_rc8 2.1.4 2.2.4: Automatically generate the JNI code necessary to call C libraries
+dev-java/hdf-java 2.9: Java interface to the HDF5 library
+dev-java/jeuclid-core 3.1.9-r1: Core module of MathML rendering solution
+dev-java/jgraphx 1.4.1.0 1.8.0.6 2.5.0.3: Open-source graph component for Java
+dev-java/jhealpix 3.11: Hierarchical Equal Area isoLatitude Pixelization of a sphere - Java
+dev-java/jlatexmath 1.0.3: A Java API to render LaTeX
+dev-java/jlatexmath-fop 1.0.3: jlatexmath plugin for dev-java/fop
+dev-java/jogl 1.1.1a 2.0_rc8-r1 2.1.4 2.2.4: Java(TM) Binding fot the OpenGL(TM) API
+dev-java/jrosetta 1.0.4: Common base for graphical component to build a graphical console
+dev-java/netcdf 4.2: Java Common Data Model (CDM) interface to to netCDF files
+dev-java/scirenderer 1.1.0: A rendering library based on JoGL
+dev-lang/berkeley_upc 2.16.2 2.18.0 2.18.2 2.20.0: The Berkeley UPC Runtime/driver
+dev-lang/berkeley_upc_translator 2.16.2 2.18.0 2.18.2: The Berkeley UPC-to-C translator
+dev-lang/conceptual 1.4: A Network Correctness and Performance Testing Language
+dev-lang/ispc 9999: Intel SPMD Program Compiler
+dev-lang/julia 9999: High-performance programming language for technical computing
+dev-lang/path64 9999: Path64 Compiler Suite Community Edition
+dev-lang/pgi 13.5: PGI compiler suite
+dev-lang/terra 2015.03.12: A low-level counterpart to Lua
+dev-lang/vtune 13.1.10.298370 13.1.12.305106 13.1.13.313935 13.1.17.353306 15.1.380310 15.2.393444 15.3.403110: Intel VTune Amplifier XE
+dev-libs/asmjit 1.0_beta4: complete x86/x64 JIT-Assembler for C++ language
+dev-libs/boost-compute 0.4-r1 9999: A header-only C++ Computing Library for OpenCL
+dev-libs/fortrancl 0.1_alpha3: OpenCL interface for Fortran 90
+dev-libs/libconfig 9999: Libconfig is a simple library for manipulating structured configuration files
+dev-libs/libcuda 9999: Gdev is open-source GPGPU runtime
+dev-libs/libflatarray 9999: Struct of arrays library with object oriented interface for C++
+dev-libs/libgdev 9999: Gdev is open-source GPGPU runtime
+dev-libs/libunzip 5.52: libunzip.so
+dev-libs/mxml 2.9: Mini-XML: A lightweight ANSI C XML library
+dev-libs/simclist 1.6: SimCList is a high quality C (C++ embeddable) library for handling lists
+dev-libs/utf8proc 1.1.6 1.2-r1: library for processing UTF-8 encoded Unicode strings
+dev-ml/gsl-ocaml 1.10.2: OCaml bindings for the GSL library
+dev-ml/lacaml 7.0.3: BLAS/LAPACK interface for OCaml
+dev-ml/mlgmpidl 1.1: OCaml interface to the GMP and MPFR libraries
+dev-ml/zarith 1.2.1: The Zarith library implements arithmetic and logical operations over arbitrary-precision integers
+dev-perl/BTLib 0.19: Perl part of the estscan package
+dev-perl/Bio-BigFile 1.07: BigWig and BigBed file perl-based interface for Gbrowse-2
+dev-perl/Bio-DB-Das-Chado 0.34: A Chado database interface for Gbrowse-2
+dev-perl/DBIx-DBStag 0.12: Relational Database to Hierarchical (Stag/XML) Mapping
+dev-perl/Lab-Instrument 2.01: Interface to an instrument via GPIB, serial bus or ethernet
+dev-perl/Lab-Tools 1.4: Tools for use with dev-perl/Lab-Instrument
+dev-perl/Lab-VISA 2.06: Perl interface to National Instrument's VISA library
+dev-perl/Log-Cabin 0.06: Partial implementation of Log::Log4perl with reduced disk IO
+dev-perl/Text-ParseWords 3.27: Parse strings containing shell-style quoting
+dev-perl/Time-Progress 1.7: Elapsed and estimated finish time reporting
+dev-perl/go-db-perl 0.04: Gene Ontology Database perl API
+dev-perl/go-perl 0.13: GO::Parser parses all GO files formats and types
+dev-perl/opal-client 1.9.2: Perl Opal Web Service Client
+dev-python/Forthon 0.8.13: Python interface generator for Fortran based codes
+dev-python/GOGrapher 9999: A Gene Ontology Programming Library
+dev-python/RecSQL 9999: Simple SQL analysis of python records
+dev-python/arrayfire-python 3.0.20150914 3.1.20151111 9999: Python bindings for ArrayFire
+dev-python/astlib 0.7.0: Python astronomy modules for image and coordinate manipulation
+dev-python/astropy 9999: Core functionality for performing astrophysics with Python
+dev-python/astropy-helpers 9999: Helpers for Astropy and Affiliated packages
+dev-python/astropysics 9999: General purpose python library for professional astronomers/astrophysicists
+dev-python/astroquery 0.2 9999: A collection of packages to access online astronomical resources
+dev-python/brewer2mpl 1.4.1 9999: Connect colorbrewer2.org color maps to Python and matplotlib
+dev-python/ccdproc 0.2 0.2.1 9999: Astropy affiliated package for reducing optical/IR CCD data
+dev-python/coards 1.0.5: Converts COARDS between time specification and a Python datetime object
+dev-python/coords 0.37: Managing astronomical coordinate systems
+dev-python/cosmocalc 0.1.2-r1: Simple cosmology python module
+dev-python/dimensionful 9999: A simple library for making your data dimensionful
+dev-python/emcee 1.2.0 2.0.0: Python ensemble sampling toolkit for affine-invariant MCMC
+dev-python/ffc 1.2.0 1.3.0 1.4.0: Compiler for multilinear forms by generating C or C++ code for the evaluation of a multilinear form
+dev-python/ffnet 0.7.1: Feed-forward neural network for python
+dev-python/fiat 1.1 1.3.0 1.4.0: Generation of arbitrary order instances of the Lagrange elements on lines, triangles, and tetrahedra
+dev-python/future 0.15.2: Clean single-source support for Python 3 and 2
+dev-python/gammapy 0.1 9999: A Python package for gamma-ray astronomy
+dev-python/healpy 1.7.4: Python wrapper for healpix
+dev-python/imageutils 9999: Image processing utilities for Astropy
+dev-python/inference 0.4: Collection of Python modules for statistical inference
+dev-python/instant 1.2.0 1.3.0 1.4.0: Instant inlining of C and C++ code in Python
+dev-python/ipykernel 4.0.3 4.1.1 9999: IPython Kernel for Jupyter
+dev-python/ipyparallel 4.0.0-r1 4.0.2-r1 4.1.0 9999: Interactive Parallel Computing with IPython
+dev-python/ipython 4.0.0-r2: Advanced interactive shell for Python
+dev-python/ipython_genutils 0.1.0 9999: Vestigial utilities from IPython
+dev-python/ipywidgets 4.0.2-r1 4.0.3 4.1.0 4.1.1 9999: IPython HTML widgets for Jupyter
+dev-python/jupyter 1.0.0: Jupyter metapackage. Install all the Jupyter components in one go
+dev-python/jupyter_client 4.0.0 4.1.1 9999: Jupyter protocol implementation and client libraries
+dev-python/jupyter_console 4.0.3 9999: A terminal-based console frontend for Jupyter kernels
+dev-python/jupyter_core 4.0.4-r1 4.0.6 9999: Core common functionality of Jupyter projects
+dev-python/matlab_wrapper 0.9.6 9999: MATLAB wrapper for Python
+dev-python/matplotlib-venn 0.11 9999: Routines for plotting area-weighted two- and three-circle venn diagrams
+dev-python/matplotlib2tikz 0.2.4 0.4.0 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
+dev-python/matrix2latex 1.0.0 9999: A tool to create LaTeX tables from python lists and arrays
+dev-python/meshpy 2013.1.2 2014.1: Quality triangular and tetrahedral mesh generation for Python
+dev-python/metakernel 0.11.0 0.11.2 0.11.3: Metakernel for Jupyter
+dev-python/metakernel_bash 0.11.3-r1: A Bash kernel for Jupyter/IPython
+dev-python/metakernel_python 0.11.3-r1: A Python kernel for Jupyter/IPython
+dev-python/montage-wrapper 0.9.7: Python wrapper for the Montage mosaicking toolkit
+dev-python/nbconvert 4.0.0-r1 4.1.0 9999: Converting Jupyter Notebooks
+dev-python/nbformat 4.0.0 4.0.1 9999: Reference implementation of the Jupyter Notebook format
+dev-python/nbviewer 9999: Nbconvert as a webservice (rendering ipynb to static HTML)
+dev-python/newrelic 2.44.0.36 2.50.0.39: New Relic Python Agent
+dev-python/notebook 4.0.4-r3 4.0.6 9999: Jupyter Interactive Notebook
+dev-python/nvidia-ml-py 6.340.0 7.346.0 7.352.0: Python Bindings for the NVIDIA Management Library
+dev-python/omniorbpy 3.4: A robust high-performance CORBA ORB for Python
+dev-python/opal-client 2.4.1: Python Opal Web Service Client
+dev-python/pamela 0.2.1 9999: PAM interface using ctypes
+dev-python/photutils 9999: Affiliated package for image photometry utilities
+dev-python/pickleshare 0.5 9999: A small 'shelve' like datastore with concurrency support
+dev-python/prettyplotlib 0.1.7 9999: Painlessly create beautiful matplotlib plots
+dev-python/psubprocess 0.1.2: Execute tasks in parallel
+dev-python/ptyprocess 9999: Run a subprocess in a pseudo terminal
+dev-python/pyfftw 0.9.2 9999: FFTW wrapper for python
+dev-python/pyhdf 0.8.3: Python interface to NCSA HDF4 library
+dev-python/pylibconfig2 0.2.4 9999: Pure python library for libconfig syntax
+dev-python/pymvpa 0.4.4: Multivariate pattern analysis with Python
+dev-python/pynomo 0.2.2: PyNomo is a program to create nomographs (nomograms) using Python interpreter
+dev-python/pysolar 0.5: Collection of Python libraries for simulating the irradiation by the sun
+dev-python/pysparse 1.1.1-r1: Sparse linear algebra extension for Python
+dev-python/python-ivi 0.14.9 9999: Python-based interpretation of the Interchangeable Virtual Instrument standard
+dev-python/python-vxi11 0.7 0.8 9999: Provides a pure Python VXI-11 driver for controlling instruments over Ethernet
+dev-python/pythoncgns 2009.10.30: Python language bindings for the CGNS library
+dev-python/pythonocc 0.5: Python Interface to OpenCASCADE CAD library
+dev-python/pythonqt 2.1 9999: A dynamic Python binding for the Qt framework
+dev-python/pywcsgrid2 9999: Custom Matplotlib Axes class for displaying astronomical fits images
+dev-python/qtconsole 4.0.1-r1 4.1.0 9999: Qt-based console for Jupyter with support for rich media output
+dev-python/snakemake 3.4.2: Make-like task language
+dev-python/specutils 9999: Affiliated package for 1D spectral operations
+dev-python/symengine 9999: Python wrappers to the symengine C++ library
+dev-python/testpath 0.2 9999: Test utilities for code working with files and commands
+dev-python/traitlets 4.0.0 9999: A configuration system for Python applications
+dev-python/ufl 0.5.4 1.3.0 1.4.0: Domain specific language for declaration of FE discretizations of variational forms
+dev-python/viper 1.0.1: Minimalistic scientific plotter and run-time visualization module
+dev-tcltk/img_rotate 1.1: Image rotation package
+dev-tcltk/togl 1.7-r1: A Tk widget for OpenGL rendering
+dev-tex/pythontex 0.14-r1 9999: Fast Access to Python from within LaTeX
+dev-util/VampirTrace 5.14.3 5.14.4: An open source library that allows detailed logging of program execution for parallel applications
+dev-util/amdapp 2.9 2.9.1 3.0_beta: AMD Accelerated Parallel Processing (APP) SDK
+dev-util/emscripten 1.34.11 1.35.2: LLVM-to-JavaScript Compiler
+dev-util/emscripten-fastcomp 1.34.11 1.35.2: Emscripten LLVM backend - Fastcomp is the default compiler core for Emscripten
+dev-util/f90cache 0.94 0.95 0.96: a compiler cache for fortran
+dev-util/ndiff 2.00: A diff program that ignores small numeric differences
+dev-util/numdiff 5.8.1: Compares putatively similar files, ignoring small numeric differences and formats
+dev-util/nvidia-cuda-gdk 340.29 346.46 352.07 352.39: NVIDIA GPU Deployment Kit
+dev-util/smartgit 6.5.6: Git client with support for GitHub Pull Requests+Comments, SVN and Mercurial
+media-gfx/PhiloGL 1.4.3: WebGL Framework for Data Vis, Creative Coding and Game Development
+media-gfx/brlcad 7.22.0 7.24.0 7.24.2 9999: Constructive solid geometry modeling system
+media-gfx/librecad 1.0.3 1.0.4 2.0.7 2.0.8 9999: Generic 2D CAD program
+media-libs/OpenMOIV 1.0.3a: Object-oriented 3D toolkit that facilitates the rendering and interaction of chemical systems
+media-libs/avbin-bin 7: A thin wrapper around FFmpeg
+media-libs/libgfx 1.1.0: The purpose of this library is to simplify the creation of computer graphics software
+net-ftp/bbftp-client 3.2.1: Secure file transfer software with its own transfer protocol optimized for files larger than 2GB
+net-ftp/bbftp-server 3.2.1: Secure file transfer software with its own transfer protocol optimized for files larger than 2GB
+net-misc/bbscp 1.0.6: SCP-like interface to bbFTP
+perl-core/encoding-warnings 0.11: Warn on implicit encoding conversions
+sci-astronomy/astrometry 0.43: Automated astrometric calibration programs and service
+sci-astronomy/bpz 1.99.3: Bayesian Photometric Redshifts
+sci-astronomy/casapy-bin 4.2.1.29047.001_p1 4.2.2.30986_p1 4.4.0: Software package to calibrate, image, and analyze radioastronomical data
+sci-astronomy/chealpix 3.11.2: Hierarchical Equal Area isoLatitude Pixelization of a sphere - C Library
+sci-astronomy/eazy 1.00: Photometric redshift estimator for galaxies
+sci-astronomy/eye 9999: Enhance astronomical object extraction with neural network filters
+sci-astronomy/galfit-bin 3.0.5: Galaxy morphology fitting program
+sci-astronomy/healpix_cxx 3.11.2: Hierarchical Equal Area isoLatitude Pixelization of a sphere - C++
+sci-astronomy/healpix_idl 3.11: Hierarchical Equal Area isoLatitude Pixelization of a sphere - IDL routines
+sci-astronomy/lephare 2.2: Photometric Analysis for Redshift Estimate for galaxies
+sci-astronomy/libthesky 0.3.2: Fortran library to compute positions of celestial bodies
+sci-astronomy/missfits 2.8.0 9999: Performs basic maintenance and packaging tasks on FITS files
+sci-astronomy/montage 3.3: Astronomical image mosaic engine
+sci-astronomy/mosstack 0.6.1 0.6.1-r1: Stacking software for astronomical images
+sci-astronomy/psfex 3.9.1 3.17.0 9999: Extracts models of the Point Spread Function from FITS images
+sci-astronomy/scamp 1.7.0-r2 9999: Astrometric and photometric solutions for astronomical images
+sci-astronomy/sextractor 2.8.6-r1 2.19.5 9999: Extract catalogs of sources from astronomical FITS images
+sci-astronomy/skymaker 3.10.5 9999: Program that simulates astronomical images
+sci-astronomy/starlink-bin 20130413: Astronomical data processing software suite
+sci-astronomy/stiff 2.4.0 9999: Converts astronomical FITS images to the TIFF format
+sci-astronomy/stilts 2.5.1: Command line tools to process astronomical tables
+sci-astronomy/stuff 1.26.0 9999: Tool for automatic generation of astronomical catalogs
+sci-astronomy/swarp 2.38.0 9999: Resample and coadd astronomical FITS images
+sci-astronomy/topcat 4.0.1: Interactive graphical viewer and editor for astronomical tables
+sci-astronomy/weightwatcher 1.12 9999: Combine weight maps and polygon for astronomical images weighting
+sci-astronomy/zebra 1.01: Galaxy redhift Bayesian analyzer
+sci-astronomy/zpeg 5.23: Galaxy photometric redshifts from evolutionary synthesis
+sci-biology/AlignGraph 9999: Asssemble contigs/scaffolds using related reference sequence
+sci-biology/Atlas 2005: Atlas Whole Genome Assembly Suite
+sci-biology/Atlas-Link 0.01: Links and orients genome sequence contigs using mate-pair information or superscaffolds .agp files
+sci-biology/Atlas2 1.4.3: Variant analysis tools (true SNPs, insertions, deletions) from whole exome capture sequencing (WECS)
+sci-biology/Atlas_GapFill 2.2: Close gaps using BWA-identified reads and reassemble
+sci-biology/BBmap 34.97 35.68: Short read aligner, K-mer-based error-correction and normalization, FASTA/Q conversion
+sci-biology/BG7 9999: A standalone bacterial genome annotation system using blastn from ncbi-tools++ for gene prediction
+sci-biology/BRAKER 20150330: Gene prediction based on RNA-Seq using GeneMark-ET and AUGUSTUS
+sci-biology/BRANCH 9999: Extend partial transcripts with sequence from other reads or genomic contigs
+sci-biology/BamView 1.2.11: Display read alignments in BAM files, is a part of Artemis
+sci-biology/BlastToSam 9999: Convert NCBI BLAST output to SAM format
+sci-biology/CONTIGuator 2.7: Speed up bacterial genome assemblies by artemis and compare chromosome regions
+sci-biology/EBARDenovo 1.2.2: Transcriptome de novo assembler with chimera detection
+sci-biology/ESTate 0.5: ORF finding despite frameshifts, EST clustering
+sci-biology/FLASH 1.2.9: Merge paired-end mates from fragments that are shorter than twice the read length
+sci-biology/Gambit 0.4.145: Genomic alignments from BAM files with annotations from BED, GFF, GFF3, VCF formats
+sci-biology/HTSeq 0.6.1: Use SAM/BAM/Bowtie/FASTA/Q/GFF/GTF files in python, count reads, genomic intervals
+sci-biology/ICC 2.0.1: Error corrector for Roche/454 and IonTorrent data
+sci-biology/IMAGE 2.4.1: Iterative Mapping and Assembly for Gap Elimination using paired-end Illumina
+sci-biology/InterMine 0.98: Biological data warehouse integrating complex data
+sci-biology/Jannovar-bin 20150503: Exome annotation tool
+sci-biology/KaKs_Calculator 1.2: Calculate nonsynonymous (Ka) and synonymous (Ks) substitution rates
+sci-biology/MaSuRCA 2.3.2b: Assembler to combine Sanger, Roche 454 and Illumina Solexa reads
+sci-biology/MagicViewer 1.2.1: Display short reads alignment, identify the genetic variation + associate with reference annotation
+sci-biology/MeV 4.8.1: Multiple experiment Viewer for genomic data analysis
+sci-biology/MochiView 1.45: Genome browser and analysis
+sci-biology/NGSTools 2.0.5: Next Generation Sequencing Eclipse Plugin (CNV and indel discovery), aka NGSEP
+sci-biology/OBO-Edit 2.1.0 2.1.1.6: Java-based editor optimized for the OBO biological ontology file format
+sci-biology/ONTO-PERL 1.41: Manipulates OBO- and OWL-formatted ontologies (like the Gene Ontology)
+sci-biology/ORFcor 20130507: Automated editor of protein-coding sequences
+sci-biology/RADtools 1.2.4 9999: Tools for processing RAD Sequencing Illumina reads
+sci-biology/RSeQC 2.6.1: Utilities for RNA-seq data quality control
+sci-biology/Ray 2.3.0: Assembler for metagenomes, genomes and transcriptomes (untested) using parallel MPI
+sci-biology/Rcorrector 9999: Error correction for Illumina RNA-seq reads
+sci-biology/SEECER 0.1.3-r2: SEquencing Error Corrector for RNA-Seq reads
+sci-biology/SSAKE 3.8.2: Short-read trimmer, assembler, scaffolder in PERL using the 3'-most k-mers
+sci-biology/STAR 2.4.1c 9999: STAR aligner: align RNA-seq reads to reference genome uncompressed suffix arrays
+sci-biology/SolexaQA 2.2: Analyze and trim single-end and paired-end reads, show quality statistics
+sci-biology/StarORF 9999: Java-based utility to show ORFs in a sequence
+sci-biology/TransDecoder 2.0.1: Extract ORF/CDS regions from FASTA sequences
+sci-biology/Trinotate 2.0.1: Annotation and analysis pipeline for de novo assembled transcriptomes
+sci-biology/VarScan 2.3.7: Variant detection (germline, multi-sample, somatic mut., som. cp nr alterations (CNA)), SNP calls
+sci-biology/VelvetOptimiser 2.2.5: Optimise three primary parameter options (K, -exp_cov, -cov_cutoff) for Velvet sequence assembler
+sci-biology/YASRA 2.33: Yet Another Short Read Assembler aligning to a reference using LASTZ
+sci-biology/abacas 1.3.1: Order and orientate DNA contigs even via 6-frame protein alignments, design primers for gap closing
+sci-biology/abyss 1.3.3-r1 1.3.4-r1 1.3.6-r1: Assembly By Short Sequences - a de novo, parallel, paired-end sequence assembler
+sci-biology/aghermann 1.0.3 1.0.3-r1 1.0.4 1.0.5: A sleep-research experiment manager, EDF viewer & Achermann's Process S model runner
+sci-biology/align_to_scf 1.06: View trace information at a given position missing from Roche .ace files
+sci-biology/amos 3.1.0-r2 9999: Genome assembly package live cvs sources
+sci-biology/ampliconnoise 1.27: Noise removal from pyrosequenced amplicons
+sci-biology/angsd 9999: Population genetics analysis package
+sci-biology/ants 9999: Advanced Normalitazion Tools for neuroimaging
+sci-biology/apollo 9999: Apollo genome editor is Java-based application for browsing and annotation of genomic sequences
+sci-biology/argo 1.0.24: Production tool for visualizing and manually annotating whole genomes
+sci-biology/argo-bin 1.0.31 2.0.3: Visualization and manually annotating whole genomes
+sci-biology/artemis 9999: DNA sequence viewer/annotation (Artemis) and comparison (ACT) tool
+sci-biology/artemis-bin 16.0.11: DNA sequence viewer, annotation (Artemis) and comparison (ACT) tool
+sci-biology/atsas 2.6.0 2.7.0: Biological Small Angle Scattering
+sci-biology/augustus 3.1: Eukaryotic gene predictor
+sci-biology/autoeditor 1.20: Automatic correct of discrepancies in multiple sequence alignments
+sci-biology/bambino 1.02 1.06: display SAM/BAM files and for SNP/indel detection, report coverage in .wig files
+sci-biology/bambus 2.33: Scaffolding Polymorphic Genomes and Metagenomes, a part of AMOS bundle
+sci-biology/bamtools 9999: A programmer's API and an end-user's toolkit for handling BAM files
+sci-biology/barnacle 1.0.3: Check de novo assembly for chimeric contigs/transcripts
+sci-biology/barrnap 0.3 0.4: Predict Bacterial and Archaeal rRNA genes and output in GFF3 format
+sci-biology/bcftools 1.2: Utilities for variant calling and manipulating VCF and BCF files
+sci-biology/beagle 4.0: Genotype calling/phasing, imputation of ungenotyped markers, identity-by-descent segment detection
+sci-biology/beaglecall 20101115: Simultaneous genotype calling and haplotype phasing for unrelated individuals
+sci-biology/bedtools 2.22.1: Tools for manipulation and analysis of BED, GFF/GTF, VCF, and SAM/BAM file formats
+sci-biology/biobambam 0.0.183: Tools for bam file processing
+sci-biology/biopieces 0.51 9999: Toolkit to find and trim adaptors, plot read lengths, qualities, map reads and submit to GenBank
+sci-biology/bismark 0.13.0: A tool to map bisulfite converted sequence reads and determine cytosine methylation states
+sci-biology/blasr 9999: The PacBio long read aligner
+sci-biology/blue 1.1.2 1.1.3: Error corrector for Illummina and Roche/454 able to also fix insertions and deletions
+sci-biology/brat 1.2.4: Bisulfite-treated Reads Analysis Tool
+sci-biology/breakdancer 9999: Genome-wide detection of structural variants from next generation paired-end sequencing reads
+sci-biology/bru2nii 9999: Converts Bruker ParaVision MRI data to the NIfTI file format
+sci-biology/bx-python 0.7.2 9999: Library for rapid implementation of genome scale analyses
+sci-biology/caftools 2.0.2: Manipulate CAF files and convert to GAP4 format (not GAP5), ACE, PHRAP
+sci-biology/cap3-bin 20071221: CAP3 is for small-scale assembly of EST sequences with or without quality value
+sci-biology/cd-hit 4.6.1: Clustering Database at High Identity with Tolerance
+sci-biology/cd-hit-auxtools 0.5: Additional cd-hit itools: read-linker, cd-hit-lap and cd-hit-dup
+sci-biology/cdbfasta 0.1: FASTA record indexing/retrievieng utility, a part of TIGR Gene Indices project tools
+sci-biology/cegma 2.5: Predict genes in a genome and use them for training to find all genes
+sci-biology/cgview-bin 20131130: CGView Comparison Tool to compare genome sequences graphically (aka CCT)
+sci-biology/clover 2011.10.24: Cis-eLement OVERrepresentation: Detection of functional DNA motifs
+sci-biology/cluster 1.50-r1: Clustering software for microarray analysis
+sci-biology/clview 0.1: clview is an assembly .ace file viewer from TIGR Gene Indices project tools
+sci-biology/cnrun 2.0.2: A NeuroML-enabled, neuronal network simulator w/ conductance- and rate-based HH neurons
+sci-biology/codonw 1.4.4-r2: Multivariate statistical analysis of codon and amino acid usage
+sci-biology/conform-gt 1174: Modify your Variant Call Format file to be consistent with reference VCF
+sci-biology/conifer 0.2.2: Copy Number Inference/Variants (CNV) from exome reads
+sci-biology/consed 29: A genome sequence finishing program
+sci-biology/consed2gap 20050520: Convert whole CONSED dataset to a GAP4 project
+sci-biology/coral 1.4: Error corrector for Illumina and Roche/454 reads using multiple alignment info
+sci-biology/cortex_var 1.0.5.21: Assemble and compare genotype variants (variant discovery without reference sequence)
+sci-biology/cutadapt 1.2.1 1.4.1 1.5 9999: Remove adapter sequences from high-throughput sequencing data
+sci-biology/dawg 1.1.2: DNA Assembly With Gaps: Phylogenetic aligner for sequence evolution simulation
+sci-biology/dcmstack 9999: DICOM to Nifti coversion
+sci-biology/discrover 1.6.0 9999: A sequence motif discovery tool that uses discriminative learning
+sci-biology/ePCR 2.3.12: Search for sub-sequences matching PCR primers
+sci-biology/edena 3.131028: De novo short read assembler
+sci-biology/epga 9999: De novo assembler using distribution of reads and insert size
+sci-biology/erpin 5.5b: Easy RNA Profile IdentificatioN, an RNA motif search program
+sci-biology/est2assembly 1.08 9999: EST assembly and annotation pipeline for chado/gbrowse2 display
+sci-biology/estscan 3.0.3: Prediction of coding regions in DNA/RNA sequences
+sci-biology/eval 2.2.8: Validate, compare and draw summary statistics for GTF files
+sci-biology/exomiser-bin 7.0.0: Annotate VCF files from whole-exome sequencing (Jannovar, UCSC KnownGenes, hg19)
+sci-biology/exonerate-gff3 9999: exonerate-2.2.0 with patches to add GFF3 formatted output
+sci-biology/fastdnaml 1.2.2_p10: Maximum likelihood phylogenetic tree builder for DNA sequences
+sci-biology/fastqc 0.11.3: Perl-based wrapper around java apps to quality control FASTA/FASTQ sequence files
+sci-biology/fastx_toolkit 0.0.14: Tools for Short Read FASTA/FASTQ file processing
+sci-biology/ffindex 0.9.9.6: Simple index/database for huge amounts of small files
+sci-biology/flexbar 2.4: Barcode, MID tag and adapter sequence removal
+sci-biology/freebayes 9999: Bayesian gen. variant detector to find small polymorphisms: SNPs, indels, MNPs and complex events
+sci-biology/fsa 1.15.7: Distance-based probabilistic multiple sequence alignment algorithm for DNA/RNA/protein
+sci-biology/fsl 5.0.8: Analysis of functional, structural, and diffusion MRI brain imaging data
+sci-biology/gap2caf 2.1.0: GAP4 file format to CAF v2 format converter for genomic assembly data
+sci-biology/gbench 2.3.2: View and analyze genome sequences
+sci-biology/gbrowse 2.39 2.45 2.48: Display of genomic annotations on interactive web pages
+sci-biology/geneid 1.4.4: An ab initio exon/gene finding program
+sci-biology/genepop 4.2.1: Population genetics analysis
+sci-biology/generecon 1.2.1-r1: Disequilibrium gene mapping based on coalescent theory using Bayesian Markov Chain MC methods
+sci-biology/genomeview-bin 2450: Genome browser and annotation tool
+sci-biology/genseed 1.0.22: Seed-driven progressive assembly program using legacy NCBI blast, CAP3, and optionally cross_match
+sci-biology/gfftools 0.98d: gff2ps can render features annotated in GFF file format into PostScript figures
+sci-biology/gffutils 0.8.3: GFF and GTF file manipulation and interconversion
+sci-biology/glean 1.0.1: Merge various gene prediction into one (unsupervised learning system)
+sci-biology/grappa 2.0: Genome Rearrangements Analysis under Parsimony and other Phylogenetic Algorithms
+sci-biology/hexamer 19990330: Predict CDS using 6mers without deriving information from base composition
+sci-biology/hmmer 3.1_beta2: Sequence analysis using profile hidden Markov models
+sci-biology/hydra-sv 0.5.3: Detection of structural variation breakpoints in unique and duplicated genomic regions
+sci-biology/igv 2.3.47 2.3.52: Integrative Genomics Viewer
+sci-biology/inGAP-bin 3.0.1: Detect SNPs and indels from Next-gen sequences using a Bayesian algorithm
+sci-biology/jellyfish 1.1.11 2.1.3 2.1.4: k-mer counter within reads for assemblies
+sci-biology/jigsaw 3.2.10: Combine results from external gene predictors into final gene models
+sci-biology/jtreeview 1.1.6.4: Viewer for Microarray Data in PCL or CDT formats
+sci-biology/kallisto 0.42.1 9999: Near-optimal RNA-Seq quantification
+sci-biology/khmer 0.8 1.0.1 9999: In-memory K-mer counting in DNA/RNA/protein sequences
+sci-biology/kmergenie 1.6971: Estimate best k-mer length to be used in novo assemblies (default set during compilation is 121)
+sci-biology/lastz 1.03.66: A pairwise DNA sequence aligner (also chromosome to chromosome), a BLASTZ replacement
+sci-biology/libgtextutils 0.6.1: Gordon Text utils Library
+sci-biology/lighter 9999: NGS reads corrector
+sci-biology/lucy 1.20: DNA sequence quality and vector trimming tool
+sci-biology/maker 2.31.8: A genome annotation viewer and pipeline for small eukaryota and prokaryota
+sci-biology/manatee-igs 2.23.1: IGS-modified version of the genome annotation tool using Chado database schema
+sci-biology/manatee-jcvi 2.4.3: genome annotation tool: view, modify, and store annotation for prokaryotic and eukaryotic genomes
+sci-biology/mavid 2.0.4: Multiple alignment of large DNA sequences
+sci-biology/merlin 1.1.2: Statistical analysis of gene flow in pedigrees
+sci-biology/metaseq 0.5.3: Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data
+sci-biology/mgblast 0.1: Customized version of megablast from TIGR Gene Indices project used by tgicl and gicl utilities
+sci-biology/minced 9999: Short Palindromic Repeat finder tool (for CRISPRs)
+sci-biology/mip-scaffolder 0.6: Scaffold contigs using ABI Solid or Illumina mate pair info
+sci-biology/mira 4.9.5: Whole Genome Shotgun and EST Sequence Assembler for Sanger, 454 and Solexa / Illumina
+sci-biology/miranda 3.3a: An algorithm for finding genomic targets for microRNAs
+sci-biology/mne-python 0.7 9999: Python package for MEG and EEG data analysis
+sci-biology/mosaik 2.2.3 9999: A reference-guided aligner for next-generation sequencing technologies
+sci-biology/mreps 2.5: Identification of serial/tandem repeats in DNA sequences
+sci-biology/mrfast 2.6.0.1: Micro Read Fast Alignment Search Tool
+sci-biology/mrsfast 2.6.0.4: Micro Read Fast Alignment Search Tool
+sci-biology/ncbi-blast+ 2.2.30 2.2.31: A subset of NCBI C++ Toolkit containing just the NCBI BLAST+
+sci-biology/ncbi-tools++ 12.0.0: NCBI C++ Toolkit, including NCBI BLAST+
+sci-biology/nesoni 0.128: Analysis package for next-generation sequencing data and prepare for IGV display
+sci-biology/ngs_backbone 1.4.0 9999: Assembly and annotation pipeline with web interface for EST/chromosomal sequences
+sci-biology/ngsview 0.91: Display, edit next-gen sequence alignment (BED, BLAST, Eland, mapview processed MAQ, Corona formats)
+sci-biology/nrcl 110625: Containment clustering and layout utility for processing pairwise alignments
+sci-biology/pairagon 1.1: HMM-based cDNA to genome aligner
+sci-biology/parafly 20130121: Some dependency for transdecoder
+sci-biology/pb-honey 14.1.15: Structural variant identification (SNV) using long reads (over 10kbp)
+sci-biology/pb-jelly 14.9.9: Close gaps using PacBio RS or 454 FLX+ reads
+sci-biology/perlprimer 1.1.21: GUI application written in Perl to design primers for standard PCR, bisulphite PCR and Real-time PCR
+sci-biology/phusion 2.1c: Whole genome shotgun assembler using phrap (for Sanger-based reads)
+sci-biology/pileup 0.6: SSAHA2-based pipeline to align reads into format also understood by samtools, maq
+sci-biology/plinkseq 0.10: C/C++ library for working with human genetic variation data
+sci-biology/polyphen 2.2.2: Predict effect of aminoacid substitution on human protein function
+sci-biology/primerD 1.0.0: Design degenerate primers
+sci-biology/proda 1.0: Multiple alignment of protein sequences with repeated and shuffled elements
+sci-biology/prokka 1.11: Prokaryotic whole genome annotation pipeline
+sci-biology/prot4EST 3.1b: Predict proteins from EST sequences overcoming errors in ORFs
+sci-biology/psx 0.1: parallel multi-FASTA file processing tool from TIGR Gene Indices project tools
+sci-biology/psychopy 1.78.00 9999: Python experimental psychology toolkit
+sci-biology/pvmsx 0.1: Parallel multi-FASTA file processing tool
+sci-biology/pybedtools 0.6.9: Wrapper for Aaron Quinlan's BEDtools, plus other useful methods for working
+sci-biology/pybrain 9999: The Python Machine Learning Library
+sci-biology/pyfaidx 0.3.8: Efficient pythonic random access to fasta subsequences
+sci-biology/pysam 0.6-r2 0.7.5 0.8.3: Python interface for the SAM/BAM sequence alignment and mapping format
+sci-biology/pysurfer 0.4 0.6 9999: Python based program for visualization of data from Freesurfer
+sci-biology/quast 2.3: Compare quality of multiple genome assemblies to each other
+sci-biology/quicktree 1.1-r1: Rapid reconstruction of phylogenies by the Neighbor-Joining method
+sci-biology/quorum 0.2.1 1.0.0: Illumina reads error corrector
+sci-biology/repeatmasker-libraries 20150807: A special version of RepBase used by RepeatMasker
+sci-biology/reptile 1.1: Illumina read corrector
+sci-biology/rnaplex 0.2: RNA-RNA interaction search
+sci-biology/roche454ace2caf 20100812: Convert from ace to gap4 (of staden v1.x), not needed to convert ace for gap5 of staden v2
+sci-biology/ruffus 9999: Python module to support computational pipelines
+sci-biology/rum 2.0.5.5: RNA-Seq Unified Mapper (digital normalization)
+sci-biology/sabre 9999: Barcode demultiplexing and trimming tool for Illumina FastQ files
+sci-biology/salmon 0.3.2 0.4.2 9999: Transcript-level quantification from RNA-seq reads using lightweight alignments
+sci-biology/samstat 20130708: Show statistics of BAM/SAM (error profiles, nucleotide composition, base quals, len. distribution)
+sci-biology/samtools 1.0-r2 1.1-r1 1.2-r1: Utilities for SAM (Sequence Alignment/Map), a format for large nucleotide sequence alignments
+sci-biology/scaffold_builder 20131122-r1: Combine FASTA contigs from a de novo assembly into scaffolds using a reference assembly
+sci-biology/scan_for_matches 20121220: Pattern search through DNA sequences (aka patscan)
+sci-biology/sclust 0.1: seeded clustering tool by processing pairwise alignments from TIGR Gene Indices project tools
+sci-biology/screed 0.7.1: A short read database
+sci-biology/scythe 0.992: Bayesian adapter trimmer for Illumina/Solexa
+sci-biology/seqclean 110625: Trimpoly and mdust for trimming and validation of ESTs/DNA sequences
+sci-biology/seqtools 4.34.5: Display alignments and GFF files, matrix dot plots (blixem, dotter, belvu)
+sci-biology/sequin 20121202: A tool to facilitate submission of data to the GenBank, EMBL, and DDBJ sequence databases
+sci-biology/sff_dump 1.04: Convert Roche SFF files to FASTA file format
+sci-biology/sga 9999: String Graph Assembler for short-read assemblies
+sci-biology/sgp2 1.1: Find ORFs by comparing two genomic/EST sequences using tblastx and geneid ab initio predictions
+sci-biology/sickle 1.33 9999: Windowed adaptive quality-based trimming tool for FASTQ data from Illumina/Solexa
+sci-biology/signalp 3.0: Prediction of signal peptide cleavage sites in amino acid sequences
+sci-biology/skewer-bin 0.1.104: Adaptor and MID removal / trimming tool, also for Illumina-oriented paired-end reads
+sci-biology/smalt-bin 0.7.4: Pairwise sequence alignment mapping DNA reads onto genomic reference, better over SSAHA2
+sci-biology/snap 20131129: HMM-based prokaryotic and eukaryotic gene prediction tool
+sci-biology/snphylo 20140701: Pipeline to generate phylogenetic tree from SNP data
+sci-biology/spm 8 12 12_p6470: Analysis of brain imaging data sequences for Octave or Matlab
+sci-biology/sra_sdk 2.2.2a: NCBI Sequence Read Archive (SRA) sratoolkit
+sci-biology/ssaha2-bin 2.5.5: SSAHA2: Sequence Search and Alignment by Hashing Algorithm
+sci-biology/stacks 1.16: Analyze Restriction enzyme data, draw gen. maps, population genomics (RAD-seq Illumina sequencing)
+sci-biology/staden 2.0.0_beta9 9999: DNA sequence assembly (gap4, gap5), editing and analysis tools (Spin)
+sci-biology/subread 1.4.6: NGS suite for read mapping, analysis of mapped reads, summary of exon/intron/gene counts
+sci-biology/swissknife 1.70: Perl library of modules to manipulate SwissProt flatfiles
+sci-biology/symap 4.0: Synteny Mapping and Analysis Program between chromosomes, contigs and physical maps
+sci-biology/tablet 1.14.04.10 9999: Viewer of next generation sequence assemblies and alignments
+sci-biology/tablet-bin 1.14.10.21: Viewer of next generation sequence assemblies and alignments
+sci-biology/tagdust 20101028: Trim multimers of various primers/adapter from Illumina datasets
+sci-biology/tclust 110625: Transitive closure clustering tool with overlap filtering options
+sci-biology/tgicl 2.1: TIGR perl scripts for clustering large EST/mRNAs datasets and aceconv, mgblast and pvmsx binaries
+sci-biology/tigr-foundation-libs 2.0-r1: TIGR Foundation for C++
+sci-biology/tmhmm 2.0c: Prediction of transmembrane helices in proteins
+sci-biology/tophat 2.0.12 2.0.13 2.0.14 2.1.0: Python-based splice junction mapper for RNA-Seq reads using bowtie/bowtie2
+sci-biology/trans-abyss 1.4.8: Analyze and combine multiple assemblies from abyss
+sci-biology/trf 4.07b: Tandem Repeats Finder
+sci-biology/trim_galore 0.4.0: Perl wrapper around Cutadapt and FastQC to adapter and quality trimming
+sci-biology/trimmomatic 0.32: Illumina adapter trimming tool
+sci-biology/trinityrnaseq 2.0.6 2.1.1: Transcriptome assembler for RNA-seq reads
+sci-biology/trowel 0.1.4.1: Error corrector for genomic Illumina FASTQ reads using QUALs and not coverage info
+sci-biology/twinscan 4.1.2-r1: iscan (aka twinscan and N-SCAN) and wrapper around Pairagon: A gene structure prediction pipeline
+sci-biology/ugene 1.13.3 1.16.1: A free open-source cross-platform bioinformatics software
+sci-biology/vague-bin 1.0.5: GUI for Velvet de novo assembler
+sci-biology/velvetk 20120606: Estimate the best k-mer size to use for your Velvet de novo assembly
+sci-biology/wcd 0.6.3: EST sequence clustering by either of: d2 function, edit distance, common word heuristics
+sci-biology/weblogo 2.8.2: generate consensus sequence logo figures
+sci-biology/wgs-assembler 8.3_rc2: De novo whole-genome shotgun DNA sequence assembler (Celera Assembler and CABOG)
+sci-biology/wise 2.4.1: Genewise, promoterwise: align protein HMMs to DNA for CDS predictions
+sci-biology/zmsort 110625: Merge-sort utility for compressed alignment files, with multi-file output
+sci-chemistry/GromacsWrapper 9999: Python framework for Gromacs
+sci-chemistry/NMRdyn 3.2.5: NMR relaxation studies of protein association
+sci-chemistry/ambertools 12_p38: A suite for carrying out complete molecular mechanics investigations
+sci-chemistry/avogadro2 0.7.2: Advanced molecule editor and visualizer 2
+sci-chemistry/ball 9999: Biochemical Algorithms Library
+sci-chemistry/burrow-owl 9999: Visualize multidimensional nuclear magnetic resonance (NMR) spectra
+sci-chemistry/camshift 1.35.0: Structure based prediction of protein chemical shifts
+sci-chemistry/chemBuild 1.0.2 1.0.3 1.0.4: Graphical tool to construct chemical compound definitions for NMR
+sci-chemistry/chimera-bin 1.9 1.10.2: An extensible Molecular Modelling System
+sci-chemistry/chooch 5.0.2-r1: a program that will automatically determine values of the anomalous scattering factors
+sci-chemistry/cnsface 0.0.12: GUI for the Crystallography and NMR System
+sci-chemistry/concoord 2.1 2.1.2: Method to generate protein conformations around a known structure based on geometric restrictions
+sci-chemistry/coot 9999: Crystallographic Object-Oriented Toolkit for model building, completion and validation
+sci-chemistry/cpmgfit 1.43: non-linear least squares fitting of CPMG relaxation dispersion curves
+sci-chemistry/cs-rosetta 1.01.2009.1109.11: System for chemical shifts based protein structure prediction using ROSETTA
+sci-chemistry/curvefit 1.40: Linear and non-linear least squares fitting
+sci-chemistry/dl_poly 1.9 4.05: a general purpose molecular dynamics simulation package
+sci-chemistry/drawxtl 45 55: Crystal structure drawings from structural data
+sci-chemistry/dssp2pdb 0.03: convert dssp to pdb
+sci-chemistry/erkale 9999: Quantum chemistry program for atoms and molecules
+sci-chemistry/freeon 9999: An experimental suite of programs for linear scaling quantum chemistry
+sci-chemistry/gamess 20130501.1: A powerful quantum chemistry package
+sci-chemistry/gnome-chemistry-utils 0.14.2-r1 9999: Programs and library containing GTK widgets and C++ classes related to chemistry
+sci-chemistry/gromacs 4.6.9999 5.0.9999 5.1.9999 9999: The ultimate molecular dynamics simulation package
+sci-chemistry/hydronmr 7c: Calculation of NMR relaxation of small, quasirigid macromolecules
+sci-chemistry/jana2000 20071218: The crystallographic computing system
+sci-chemistry/jligand 1.0.40: Java interface which allows links descriptions to be created
+sci-chemistry/ligplot+ 1.4: GUI-based version of LIGPLOT
+sci-chemistry/mage 6.44.060606: Mage is a 3D vector display program which shows 'kinemage' graphics
+sci-chemistry/mddnmr 2.4-r1: Program for processing of non-uniformly sampled (NUS) multidimensional NMR spectra
+sci-chemistry/mdsctk 1.2.0: Molecular Dynamics Spectral Clustering Toolkit
+sci-chemistry/mgltools 1.5.6: Software to visualization and analysis of molecular structures
+sci-chemistry/mgltools-autodocktools 1.5.6: MGLTools Plugin -- AutoDockTools
+sci-chemistry/mgltools-bhtree 1.5.6: MGLTools Plugin -- bhtree
+sci-chemistry/mgltools-cadd 1.5.6: MGLTools Plugin -- CADD
+sci-chemistry/mgltools-cmolkit 1.5.6: MGLTools Plugin -- cMolKit
+sci-chemistry/mgltools-dejavu 1.5.6-r1: MGLTools Plugin -- DejaVu
+sci-chemistry/mgltools-geomutils 1.5.6: MGLTools Plugin -- geomutils
+sci-chemistry/mgltools-gle 1.5.6: MGLTools Plugin -- gle
+sci-chemistry/mgltools-mglutil 1.5.6-r1: MGLTools Plugin -- mglutil
+sci-chemistry/mgltools-molkit 1.5.6: MGLTools Plugin -- MolKit
+sci-chemistry/mgltools-networkeditor 1.5.6: MGLTools Plugin -- NetworkEditor
+sci-chemistry/mgltools-opengltk 1.5.6: MGLTools Plugin -- opengltk
+sci-chemistry/mgltools-pmv 1.5.6: MGLTools Plugin -- Pmv
+sci-chemistry/mgltools-pyautodock 1.5.6: MGLTools Plugin -- PyAutoDock
+sci-chemistry/mgltools-pybabel 1.5.6: MGLTools Plugin -- PyBabel
+sci-chemistry/mgltools-pyglf 1.5.6: MGLTools Plugin -- pyglf
+sci-chemistry/mgltools-qslimlib 1.5.6: MGLTools Plugin -- QSlimLib
+sci-chemistry/mgltools-scenario2 1.5.6: MGLTools Plugin -- Scenario2
+sci-chemistry/mgltools-sff 1.5.6: MGLTools Plugin -- sff
+sci-chemistry/mgltools-support 1.5.6: MGLTools Plugin -- Support
+sci-chemistry/mgltools-symserv 1.5.6: MGLTools Plugin -- symserv
+sci-chemistry/mgltools-utpackages 1.5.6: MGLTools Plugin -- UTpackages
+sci-chemistry/mgltools-viewer-framework 1.5.6: MGLTools Plugin -- ViewerFramework
+sci-chemistry/mgltools-vision 1.5.6: MGLTools Plugin -- Vision
+sci-chemistry/mgltools-visionlib 1.5.6: MGLTools Plugin -- VisionLibraries
+sci-chemistry/mgltools-volume 1.5.6: MGLTools Plugin -- Volume
+sci-chemistry/mgltools-webservices 1.5.6: MGLTools Plugin -- WebServices
+sci-chemistry/mics 1.00.2011.327.12.00: Prediction of Protein Structural Motifs from NMR Chemical Shifts
+sci-chemistry/modelfree 4.20: A program for optimizing Lipari-Szabo model free parameters to heteronuclear relaxation data
+sci-chemistry/modeller 9.12-r3: Homology or comparative modeling of protein three-dimensional structures
+sci-chemistry/module2 0_pre20140717: Residual dipolar coupling and residual chemical shift analysis software
+sci-chemistry/mtz2hkl 0.3: Intended to facilitate the transition from refmac5 refinement to shelxh or shelxl refinement
+sci-chemistry/mtz2sca 0.3: Converts CCP4 mtz-files containing anomalous data to Scalepack format
+sci-chemistry/nMOLDYN 3.0.10: nMOLDYN is an interactive analysis program for Molecular Dynamics simulations
+sci-chemistry/nmrpipe 8.6.2015.271.07.19-r1: Spectral visualisation, analysis and Fourier processing
+sci-chemistry/nmrview 5.2.2-r3: Visualisation and analysis of processed NMR data
+sci-chemistry/nwchem 6.3_p2-r1 6.5_p26243-r7: Delivering High-Performance Computational Chemistry to Science
+sci-chemistry/openbabel 9999: Interconverts file formats used in molecular modeling
+sci-chemistry/openbabel-java 9999: Java bindings for OpenBabel
+sci-chemistry/openbabel-perl 9999: Perl bindings for OpenBabel
+sci-chemistry/openbabel-python 9999: Python bindings for OpenBabel (including Pybel)
+sci-chemistry/openbabel-ruby 9999: Ruby bindings for OpenBabel
+sci-chemistry/pales-bin 0_pre140717: Prediction of alignment from structure
+sci-chemistry/panav 0.20130730: Probabilistic approach for validating protein NMR chemical shift assignments
+sci-chemistry/pesto 9999: Potential Energy Surface Tools
+sci-chemistry/phenix-bin 1.9.1692 1.10.2155: Python-based Hierarchical ENvironment for Integrated Xtallography
+sci-chemistry/polygon 0612: shows qualitatively if some models parameters are over- or under-refined
+sci-chemistry/pymol 9999: A Python-extensible molecular graphics system
+sci-chemistry/pymol-plugins-ezviz 1.0.2005-r1: Assistance tool for the difficult to understand user interface of PyMOL
+sci-chemistry/pymol-plugins-psico 9999: Pymol ScrIpt COllection
+sci-chemistry/pyquante 1.6.3-r1 1.6.4: Quantum chemistry package written in Python
+sci-chemistry/redcat 3: Analysis of residual dipolar couplings (RDCs) for structure validation and elucidation
+sci-chemistry/rosetta 3.4: Prediction and design of protein structures, folding mechanisms, and protein-protein interactions
+sci-chemistry/rosetta-tools 3.0: Additional scripts for rosetta
+sci-chemistry/shiftx 1.1: Prediction of 1H, 13C and 15N chemical shifts for proteins
+sci-chemistry/shiftx2 1.07_p20120106: Predicts both the backbone and side chain 1H, 13C and 15N chemical shifts for proteins
+sci-chemistry/simpson 3.0.1 3.1.0 3.1.2: General-purpose software package for simulation virtually all kinds of solid-state NMR experiments
+sci-chemistry/smmp 3.0.5: Simple Molecular Mechanics for Proteins
+sci-chemistry/specView 1.0.2 1.0.3 1.0.3_p2 1.0.4: Fast way to visualise NMR spectrum and peak data
+sci-chemistry/ssp 09.11: Secondary structure propensities
+sci-chemistry/talosn 4.01.2013.148.15.55-r3 4.12.2015.147.15.40: Prediction of Protein Backbone and Sidechain Torsion Angles from NMR Chemical Shifts
+sci-chemistry/trajng 0.6.1: TrajNG - Trajectory compression library
+sci-chemistry/unio 2.0.3-r1: Automated NMR Data Analysis
+sci-chemistry/usf-tools 9999: The USF program suite
+sci-chemistry/votca-csg 9999: Votca coarse-graining engine
+sci-chemistry/votca-csgapps 9999: Extra applications for votca-csg
+sci-chemistry/xplor-nih 2.38: Structure determination program which builds on the X-PLOR program
+sci-electronics/minipro 9999: A free and open TL866XX programmer
+sci-electronics/player 2.0.4: A network server for robot control
+sci-electronics/stage 2.0.3: 2D multiple-robot simulator
+sci-electronics/tnt 1.2.2: MoM 2.5 D stripline simulator
+sci-geosciences/pydap 3.1 3.1.1: Data Access Protocol client and server
+sci-geosciences/pydap_handlers_cdms 0.2.0.1: CDMS handler for Pydap server that supports netCDF, HDF, GrADS/GRIB, or PCMDI DRS
+sci-geosciences/pydap_handlers_csv 0.1.1: Comma Separated Values (CSV) handler for Pydap server
+sci-geosciences/pydap_handlers_hdf5 0.1.7: HDF5 file handler for Pydap Data Access Protocol server
+sci-geosciences/pydap_handlers_nca 0.1.3: Aggregated NetCDF handler for Pydap Data Access Protocol server
+sci-geosciences/pydap_handlers_netcdf 0.6.4: NetCDF handler for Pydap Data Access Protocol server
+sci-geosciences/pydap_handlers_proxy 0.1.1: Proxy handler for Pydap server that can serve data from other web sites
+sci-geosciences/pydap_handlers_sql 0.3.0: SQL handler for Pydap server that allows serving data from SQL databases
+sci-geosciences/pydap_handlers_sqlite 0.1.0: Handler for Pydap server that allows serving data from SQLite files
+sci-geosciences/pydap_responses_kml 0.4.6: KML responses for Pydap Data Access Protocol server
+sci-geosciences/pydap_responses_matlab 0.2.1: MatLab response for Pydap Data Access Protocol server
+sci-geosciences/pydap_responses_netcdf 0.1.4.1: NetCDF responses for Pydap Data Access Protocol server
+sci-geosciences/pydap_responses_wms 0.5.4: WMS responses for Pydap Data Access Protocol server
+sci-geosciences/pydap_responses_xls 0.1.2: Excel responses for Pydap Data Access Protocol server
+sci-geosciences/qgis 9999: User friendly Geographic Information System
+sci-libs/Cgraph 2.04: A set of C functions that generate PostScript for publication quality scientific plots
+sci-libs/acml 5.3.1 6.1.0.31: AMD Core Math Library for amd64 CPUs
+sci-libs/amber99sb_phipsi 0_pre130901: AMBER99SB PHI PSI table (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
+sci-libs/amber99sbnmr 0_pre130901: AMBER99SBnmr1 force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
+sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
+sci-libs/amdlibm 3.1: Optimized libm replacement from AMD for x86_64 architectures
+sci-libs/armadillo 4.650.4 5.600.2 6.200.3: Streamlined C++ linear algebra library
+sci-libs/arrayfire 3.1.1-r2 3.1.2 3.1.3 9999: A general purpose GPU library
+sci-libs/asl 0.1.5 9999: Advanced Simulation Library - multiphysics simulation software package
+sci-libs/atlas 3.10.1-r1 3.10.1-r2: Automatically Tuned Linear Algebra Software
+sci-libs/bigdft-abi 1.0.4-r3: A DFT electronic structure code using a wavelet basis set
+sci-libs/blas-reference 20131116 20131116-r1 99999999: Reference implementation of BLAS
+sci-libs/blastdb 9999: The BLAST NR database
+sci-libs/bloom 9999: C++ Bloom Filter Library
+sci-libs/calculix-ccx 2.7-r1 2.8_p2: A Free Software Three-Dimensional Structural Finite Element Program
+sci-libs/calculix-cgx 2.7-r1: A Free Software Three-Dimensional Structural Finite Element Program
+sci-libs/cblas-reference 20110218 20110218-r1: C wrapper interface to the F77 reference BLAS implementation
+sci-libs/ccif 0.3.20111209: CCP4 ccif lib
+sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools
+sci-libs/clblas 2.4-r1 2.6 9999: A software library containing BLAS routines for OpenCL
+sci-libs/clfft 2.6.1 2.8 9999: Library containing FFT functions written in OpenCL
+sci-libs/clrng 9999: A library for uniform random number generation in OpenCL
+sci-libs/cs-rosetta-db 1.01.2009.1109.11: System for chemical shifts based protein structure prediction using ROSETTA
+sci-libs/dcmtk 3.6.0: OFFIS DICOM image files library and tools
+sci-libs/dealii 8.1.0-r2 8.2.1-r1 8.3.0 9999: Solving partial differential equations with the finite element method
+sci-libs/elmer-eio 6.0_p4651 9999: Finite element programs, libraries, and visualization tools - elmer I/O library
+sci-libs/elmer-hutiter 6.0_p4651 9999: Finite element programs, libraries, and visualization tools - hutiter library
+sci-libs/etsf_io 1.0.3-r2 1.0.4-r1: A library of F90 routines to read/write the ETSF file format
+sci-libs/factory 3.1.1-r2: C++ library for representing multivariate polynomials
+sci-libs/fdlibm 5.3: C math library supporting IEEE 754 floating-point arithmetic
+sci-libs/fftw 9999: Fast C library for the Discrete Fourier Transform
+sci-libs/fgsl 0.9.4: A Fortran interface to the GNU Scientific Library
+sci-libs/fox 4.1.2-r2: A library designed to allow the easy use of XML from Fortran
+sci-libs/framewave 1.3.1: A collection of popular image and signal processing routines
+sci-libs/geom 5.1.2.7: A complete OpenCascade - OCAF based CAD framework
+sci-libs/ghmm 9999: General Hidden Markov Model library - efficient data structures and algorithms for HMMs
+sci-libs/givaro 3.2.13 3.3.0 3.8.0: C++ library for arithmetic and algebraic computations
+sci-libs/gmsh 2.8.5: A three-dimensional finite element mesh generator
+sci-libs/gotoblas2 1.13: Fast implementations of the Basic Linear Algebra Subroutines
+sci-libs/gsl 1.16-r2: GNU Scientific Library
+sci-libs/iml 1.0.3-r2 1.0.4: Integer Matrix Library
+sci-libs/itk 4.4.2 4.4.2-r1 4.5.1: NLM Insight Segmentation and Registration Toolkit
+sci-libs/jhdf5 14.12.1: Java binding for HDF5 compatible with HDF5 1.6/1.8
+sci-libs/k3match 1.1: Fast matching of large sets of points in 3D space, in O(N log N) time
+sci-libs/lapack-reference 3.4.2 3.5.0 9999: Reference implementation of LAPACK
+sci-libs/lapacke-reference 3.4.2 3.5.0 9999: C Interface to LAPACK
+sci-libs/lapackpp 2.5.4: C++ wrapper for LAPACK libraries
+sci-libs/libcgnsoo 1728: CGNSOO library, provides an object-oriented interface to the CGNS Mid-level library
+sci-libs/libfac 3.1.1: libfac is an extension of Singular-factory to finite fields
+sci-libs/libgeodecomp 9999: An auto-parallelizing library to speed up computer simulations
+sci-libs/libmatheval 1.1.10: library to parse and evaluate symbolic expressions
+sci-libs/libmaus 0.0.185: Library for biobambam
+sci-libs/libsc 1.0 1.1: Support for parallel scientific applications
+sci-libs/libspatialindex 1.8.5: General framework for developing spatial indices
+sci-libs/libsufr 0.5.4 0.6.3 0.6.4: LIBrary of Some Useful Fortran Routines
+sci-libs/libxc 2.1.2 2.2.2: A library of exchange-correlation functionals for use in DFT
 sci-libs/lmfit 5.1: library for Levenberg-Marquardt least-squares minimization and curve fitting
-sci-libs/lwpr 1.2.5: 
-sci-libs/matc 6.0_p4651 8.0 9999: 
-sci-libs/med 2.3.6: 
-sci-libs/mesquite 2.3.0: 
-sci-libs/mkl 11.1.0.080-r1 11.1.1.106 11.1.2.144 11.1.3.174 11.2.0.090 11.2.1.133 11.2.2.164 11.2.3.187: 
-sci-libs/mlpack 1.0.8: 
-sci-libs/modglue 1.19: 
-sci-libs/mpiblacs 1.1-r1: 
-sci-libs/msms 1.5.6: 
-sci-libs/nexus 4.3.1: 
-sci-libs/ni-visa 0.0.1: 
-sci-libs/nibabel 1.3.0 2.0.1 9999: 
-sci-libs/nipy 0.3.0 0.4.0 9999: 
-sci-libs/nipype 0.11.0 9999: 
-sci-libs/o2scl 0.915: 
-sci-libs/oasa 0.13.1: 
-sci-libs/omalloc 0.9.6: 
-sci-libs/openblas 0.2.8 0.2.11 0.2.12 0.2.14 9999: 
-sci-libs/openlibm 9999: 
-sci-libs/optpp 2.4: 
-sci-libs/p4est 1.0 1.1: 
-sci-libs/pagmo 9999: 
-sci-libs/parmetis 4.0.3: 
-sci-libs/pastix 5.2.2_p9: 
-sci-libs/pfft 1.0.7_alpha 9999: 
-sci-libs/pg2plplot 0.2.0 0.3.1: 
-sci-libs/plasma 2.5.2 2.6.0: 
-sci-libs/pmx 9999: 
-sci-libs/pydicom 0.9.8 0.9.9 9999: 
-sci-libs/rdkit 2015.03.1 9999: 
-sci-libs/scalapack 2.0.2-r1: 
-sci-libs/scikits_image 9999: 
-sci-libs/spglib 1.6.0: 
-sci-libs/starparse 9999: 
-sci-libs/superlu_dist 3.3: 
-sci-libs/superlu_mt 2.1: 
-sci-libs/symengine 0.1.0 9999: 
-sci-libs/symmetrica 2.0 2.0-r1: 
-sci-libs/tmglib 3.4.2 3.5.0: 
-sci-libs/trilinos 11.10.2 11.12.1-r1 11.14.1-r1 12.0.1 12.2.1: 
-sci-libs/votca-tools 9999: 
-sci-libs/vxl 9999: 
-sci-libs/wannier90 1.2-r3 2.0.0 2.0.1: 
-sci-libs/xblas 1.0.248 1.0.248-r1: 
-sci-libs/xraylib 2.16.0 3.1.0: 
-sci-libs/zarja 1.1.1: 
-sci-mathematics/Macaulay2 9999: 
-sci-mathematics/Oid 4.0: 
-sci-mathematics/acl2 7.1: 
-sci-mathematics/alt-ergo 0.95.2: 
-sci-mathematics/apron 0.9.10-r1: 
-sci-mathematics/aribas 1.63: 
-sci-mathematics/axiom 201408: 
-sci-mathematics/burrtools 0.5.2-r1: 
-sci-mathematics/cadabra 1.39: 
-sci-mathematics/cdfplayer 10.0.2: 
-sci-mathematics/cipi 1.0: 
-sci-mathematics/dolfin 0.9.9: 
-sci-mathematics/dsfmt 2.2: 
-sci-mathematics/flocq 2.3.0: 
-sci-mathematics/frama-c 20140301: 
-sci-mathematics/freefem++ 3.8: 
-sci-mathematics/gambit 0.2010.09.01: 
-sci-mathematics/gap 4.4.12: 
-sci-mathematics/gappa 1.1.1: 
-sci-mathematics/gappalib-coq 1.0.0: 
-sci-mathematics/giac 1.1.0: 
-sci-mathematics/gismo 0.8.1: 
-sci-mathematics/htk 3.4.1: 
-sci-mathematics/kash-bin 3: 
-sci-mathematics/kayali 0.3.2: 
-sci-mathematics/lattE-macchiato 0.9.3: 
-sci-mathematics/libsfmt 1.3.0: 
-sci-mathematics/lie 2.2.2: 
-sci-mathematics/ltl2ba 1.1: 
-sci-mathematics/mdp 3.3 9999: 
-sci-mathematics/netgen 4.9.13 5.0.0: 
-sci-mathematics/open-axiom 1.4.2: 
-sci-mathematics/petsc 3.4.2 3.5.3 3.6.0: 
-sci-mathematics/pff 8.4: 
-sci-mathematics/pulp 1.5.6: 
-sci-mathematics/scilab 5.5.2-r1: 
-sci-mathematics/surfer 0.0.197: 
-sci-mathematics/ufc 1.4.2 2.3.0: 
-sci-mathematics/why 2.34: 
-sci-mathematics/why3 0.83: 
-sci-mathematics/yorick 2.1.06: 
-sci-mathematics/z3 4.3.1 9999: 
-sci-misc/elmer-elmergrid 6.0_p4651 9999: 
-sci-misc/elmer-fem 6.0_p4651 9999: 
-sci-misc/elmer-front 6.0_p4651 9999: 
-sci-misc/elmer-gui 9999: 
-sci-misc/elmer-meshgen2d 6.0_p4651 9999: 
-sci-misc/elmer-meta 6.0_p4651 9999: 
-sci-misc/elmer-post 6.0_p4651 9999: 
-sci-misc/finomaton 1.0: 
-sci-misc/fitscut 1.4.4: 
-sci-misc/foma 0.9.14_alpha 0.9.16_alpha: 
-sci-misc/hfst 2.2 3.0.2 3.3.12: 
-sci-misc/irstlm 5.80.08: 
-sci-misc/jwnl 1.3_rc3: 
-sci-misc/kaldi 0_p20150709 0_p20151106: 
-sci-misc/kotus-sanalista 1-r1: 
-sci-misc/mitlm 0.4.1: 
-sci-misc/nltk 2.0.4: 
-sci-misc/omorfi 0.1_alpha: 
-sci-misc/openfst 1.3.4 1.4.1: 
-sci-misc/opennlp-maxent 2.4.0: 
-sci-misc/praat 5.4.19: 
-sci-misc/pywordnet 2.0.1: 
-sci-misc/sfst 1.4.2 1.4.6g: 
-sci-misc/simx 0.2 9999: 
-sci-misc/stanford-parser 1.6: 
-sci-misc/stanford-tagger 20060521: 
-sci-physics/abinit 7.4.2-r1 7.6.4-r1 7.10.4: 
-sci-physics/atompaw 3.0.1.9-r1 4.0.0.10: 
-sci-physics/bigdft 1.7.1 1.7.6: 
-sci-physics/clip 4.0.0_beta2: 
-sci-physics/elk 1.4.22 2.1.25: 
-sci-physics/espresso 9999: 
-sci-physics/espresso++ 9999: 
-sci-physics/fullprof-bin 20313.04: 
-sci-physics/geant-vmc 3.1.15a 4.2.15a 9999: 
-sci-physics/genfit 02.00.00 9999: 
-sci-physics/herwig++ 2.7.0-r2: 
-sci-physics/hoomd-blue 9999: 
-sci-physics/looptools 2.9 2.10 2.11: 
-sci-physics/mc-tester 1.25.0: 
-sci-physics/openmx 3.6 3.7.8: 
-sci-physics/qcl 0.6.4: 
-sci-physics/rivet 2.1.1 2.1.2: 
-sci-physics/root 9999: 
-sci-physics/tauola 1.1.3 1.1.4 1.1.5 9999: 
-sci-physics/vgm 3.06 9999: 
-sci-physics/yoda 1.0.6: 
-sci-visualization/forge 3.1 3.1.2 9999: 
-sci-visualization/gnuplot 5.0.9999 5.1.9999: 
-sci-visualization/mantid 3.3.0: 
-sci-visualization/mayavi 4.4.0 4.4.2: 
-sci-visualization/nodemon 0.3.5: 
-sci-visualization/v_sim 3.6.0: 
-sci-visualization/vtkPOFFReader 300: 
-sci-visualization/yt 2.6 9999: 
-sys-cluster/blcr 0.8.4: 
-sys-cluster/empi 0.10: 
-sys-cluster/ganglia_jobmonarch 0.3.1: 
-sys-cluster/gasnet 1.24.0 9999: 
-sys-cluster/hpl 2.0-r1 2.1: 
-sys-cluster/hpx 9999: 
-sys-cluster/htcondor 8.0.0 8.3.2: 
-sys-cluster/libquo 9999: 
-sys-cluster/lustre 9999: 
-sys-cluster/modules 3.2.9c 3.2.9c-r1 3.2.10 3.2.10-r1: 
-sys-cluster/mpe2 1.3.0: 
-sys-cluster/mpich 3.0.4 3.1.3-r2 3.1.4-r1: 
-sys-cluster/mpich2 1.5: 
-sys-cluster/mvapich2 1.6-r1: 
-sys-cluster/nullmpi 0.7 9999: 
-sys-cluster/openmpi 1.6.5 1.7.3 1.8.8 1.10.0: 
-sys-cluster/ovis 3.0.1: 
-sys-cluster/pyslice 1.7: 
-sys-devel/gdebugger 6.2.438: 
-virtual/blacs 1.1: 
-virtual/blas 2.1-r1 2.1-r2 2.1-r3: 
-virtual/cblas 2.0 2.0-r1 2.0-r2 2.0-r3: 
-virtual/geant 3: 
-virtual/lapack 3.4-r1 3.5-r1 3.5-r2: 
-virtual/lapacke 1.0 3.5: 
-virtual/mpi 2.0-r3: 
-virtual/perl-encoding-warnings 0.11: 
-virtual/scalapack 2.0: 
-www-client/casperjs 1.1_beta3: 
-x11-libs/agg 2.5-r3: 
-x11-libs/tr 1.3: 
-x11-libs/xview 3.2-r8: 
-x11-libs/xview-bin 3.2_p1428: 
-x11-misc/envytools 9999: 
+sci-libs/lwpr 1.2.5: The Locally Weighted Projection Regression Library
+sci-libs/matc 6.0_p4651 8.0 9999: Finite element programs, libraries, and visualization tools - math C library
+sci-libs/med 2.3.6: Modeling and Exchange of Data library
+sci-libs/mesquite 2.3.0: Mesh Quality Improvement Toolkit
+sci-libs/mkl 11.1.0.080-r1 11.1.1.106 11.1.2.144 11.1.3.174 11.2.0.090 11.2.1.133 11.2.2.164 11.2.3.187: Intel Math Kernel Library: linear algebra, fft, math functions
+sci-libs/mlpack 1.0.8: Scalable c++ machine learning library
+sci-libs/modglue 1.19: C++ library for handling of multiple co-processes
+sci-libs/mpiblacs 1.1-r1: Basic Linear Algebra Communication Subprograms with MPI
+sci-libs/msms 1.5.6: MSMS library python extension module
+sci-libs/nexus 4.3.1: Data format for neutron and x-ray scattering data
+sci-libs/ni-visa 0.0.1: Placeholder for an NI-VISA library ebuild
+sci-libs/nibabel 1.3.0 2.0.1 9999: Access a cacophony of neuro-imaging file formats
+sci-libs/nipy 0.3.0 0.4.0 9999: Neuroimaging tools for Python
+sci-libs/nipype 0.11.0 9999: Neuroimaging in Python: Pipelines and Interfaces
+sci-libs/o2scl 0.915: Object-oriented Scientific Computing Library
+sci-libs/oasa 0.13.1: Python library for manipulation of chemical structures
+sci-libs/omalloc 0.9.6: omalloc is the memory management of the Singular algebra system
+sci-libs/openblas 0.2.8 0.2.11 0.2.12 0.2.14 9999: Optimized BLAS library based on GotoBLAS2
+sci-libs/openlibm 9999: High quality system independent, open source libm
+sci-libs/optpp 2.4: C++ library for non-linear optimization
+sci-libs/p4est 1.0 1.1: Scalable Algorithms for Parallel Adaptive Mesh Refinement on Forests of Octrees
+sci-libs/pagmo 9999: Parallelization engine for optimization problems
+sci-libs/parmetis 4.0.3: Parallel (MPI) unstructured graph partitioning library
+sci-libs/pastix 5.2.2_p9: Parallel solver for very large sparse linear systems
+sci-libs/pfft 1.0.7_alpha 9999: Parallel 3d FFT
+sci-libs/pg2plplot 0.2.0 0.3.1: Assist the transition from PGPlot to PLplot in Fortran programs
+sci-libs/plasma 2.5.2 2.6.0: Parallel Linear Algebra for Scalable Multi-core Architecture
+sci-libs/pmx 9999: Python library to read PDB, GRO or Gromacs XTC files
+sci-libs/pydicom 0.9.8 0.9.9 9999: A pure python package for parsing DICOM files
+sci-libs/rdkit 2015.03.1 9999: Cheminformatics and machine-learning software written in C++ and Python
+sci-libs/scalapack 2.0.2-r1: Subset of LAPACK routines redesigned for heterogenous computing
+sci-libs/scikits_image 9999: Image processing routines for SciPy
+sci-libs/spglib 1.6.0: Spglib is a C library for finding and handling crystal symmetries
+sci-libs/starparse 9999: Library for parsing NMR star files (peak-list format) and CIF files
+sci-libs/superlu_dist 3.3: MPI distributed sparse LU factorization library
+sci-libs/superlu_mt 2.1: Multithreaded sparse LU factorization library
+sci-libs/symengine 0.1.0 9999: Fast symbolic manipulation library, written in C++
+sci-libs/symmetrica 2.0 2.0-r1: A collection of routine to handle a variety of topics
+sci-libs/tmglib 3.4.2 3.5.0: Test Matrix Generator library for LAPACK
+sci-libs/trilinos 11.10.2 11.12.1-r1 11.14.1-r1 12.0.1 12.2.1: Scientific library collection for large scale problems
+sci-libs/votca-tools 9999: Votca tools library
+sci-libs/vxl 9999: C++ computer vision research libraries
+sci-libs/wannier90 1.2-r3 2.0.0 2.0.1: Calculates maximally localized Wannier functions (MLWFs)
+sci-libs/xblas 1.0.248 1.0.248-r1: Extra Precise Basic Linear Algebra Subroutines
+sci-libs/xraylib 2.16.0 3.1.0: A library for X-ray matter interaction cross sections for X-ray fluorescence applications
+sci-libs/zarja 1.1.1: Scientific multi-agent simulation library
+sci-mathematics/Macaulay2 9999: Research tool for commutative algebra and algebraic geometry
+sci-mathematics/Oid 4.0: An interactive, extensible software system for experimenting with matroids
+sci-mathematics/acl2 7.1: Industrial strength theorem prover
+sci-mathematics/alt-ergo 0.95.2: Alt-Ergo is an automatic theorem prover
+sci-mathematics/apron 0.9.10-r1: Static analysis of the numerical variables of a program by Abstract Interpretation
+sci-mathematics/aribas 1.63: Interpreter for big integer and multi-precision floating point arithmetic
+sci-mathematics/axiom 201408: Axiom is a general purpose Computer Algebra system
+sci-mathematics/burrtools 0.5.2-r1: Program to solve assembly and interlocking puzzles
+sci-mathematics/cadabra 1.39: Field-theory motivated computer algebra system
+sci-mathematics/cdfplayer 10.0.2: Player for Wolfram CDF
+sci-mathematics/cipi 1.0: Computing information projections iteratively
+sci-mathematics/dolfin 0.9.9: C++/Python interface of FEniCS
+sci-mathematics/dsfmt 2.2: Double precision SIMD-oriented Fast Mersenne Twister library
+sci-mathematics/flocq 2.3.0: A floating-point formalization for the Coq system
+sci-mathematics/frama-c 20140301: Framework for analysis of source codes written in C
+sci-mathematics/freefem++ 3.8: Solve PDEs using FEM on 2d and 3d domains
+sci-mathematics/gambit 0.2010.09.01: Gambit: Software Tools for Game Theory
+sci-mathematics/gap 4.4.12: System for computational discrete algebra
+sci-mathematics/gappa 1.1.1: Verifying and proving properties on floating-point or fixed-point arithmetic
+sci-mathematics/gappalib-coq 1.0.0: Allows the certificates Gappa generates to be imported by the Coq
+sci-mathematics/giac 1.1.0: A free C++ CAS (Computer Algebra System) library and its interfaces
+sci-mathematics/gismo 0.8.1: C++ library for geometric design and numerical simulation
+sci-mathematics/htk 3.4.1: Toolkit for building and manipulating hidden Markov models
+sci-mathematics/kash-bin 3: software package for algebraic number theory
+sci-mathematics/kayali 0.3.2: Qt front-end for Computer Algebra System mainly maxima
+sci-mathematics/lattE-macchiato 0.9.3: lattE-macchiato consists of tools for lattice point enumeration
+sci-mathematics/libsfmt 1.3.0: SIMD-oriented Fast Mersenne Twister
+sci-mathematics/lie 2.2.2: A Computer algebra package for Lie group computations
+sci-mathematics/ltl2ba 1.1: Fast LTL to Buechi Automata Translation
+sci-mathematics/mdp 3.3 9999: Modular data processing framework for python
+sci-mathematics/netgen 4.9.13 5.0.0: NETGEN is an automatic 3d tetrahedral mesh generator
+sci-mathematics/open-axiom 1.4.2: Symbolic and algebraic computations system
+sci-mathematics/petsc 3.4.2 3.5.3 3.6.0: Portable, Extensible Toolkit for Scientific Computation
+sci-mathematics/pff 8.4: Library for reasoning about floating point numbers in coq
+sci-mathematics/pulp 1.5.6: Create MPS/LP files, call solvers, and present results
+sci-mathematics/scilab 5.5.2-r1: Scientific software package for numerical computations
+sci-mathematics/surfer 0.0.197: Frontend to surf to visualize algebraic curves and surfaces
+sci-mathematics/ufc 1.4.2 2.3.0: Unified framework for finite element assembly
+sci-mathematics/why 2.34: Why is a software verification platform
+sci-mathematics/why3 0.83: Why3 is a platform for deductive program verification
+sci-mathematics/yorick 2.1.06: Language for scientific computing and rapid prototyping
+sci-mathematics/z3 4.3.1 9999: An efficient theorem prover
+sci-misc/elmer-elmergrid 6.0_p4651 9999: Finite element programs, libraries, and visualization tools - elmergrid
+sci-misc/elmer-fem 6.0_p4651 9999: Finite element programs, libraries, and visualization tools - main fem
+sci-misc/elmer-front 6.0_p4651 9999: Finite element programs, libraries, and visualization tools - elmer frontend
+sci-misc/elmer-gui 9999: a collection of finite element programs, libraries, and visualization tools, New Elmer pre-processor
+sci-misc/elmer-meshgen2d 6.0_p4651 9999: Finite element programs, libraries, and visualization tools - meshgen2d
+sci-misc/elmer-meta 6.0_p4651 9999: Collection of finite element programs, libraries, and visualization tools
+sci-misc/elmer-post 6.0_p4651 9999: Finite element programs, libraries, and visualization tools - elmerpost
+sci-misc/finomaton 1.0: Simple tcl/tk script to draw finite state automata
+sci-misc/fitscut 1.4.4: Extract cutouts from FITS image files
+sci-misc/foma 0.9.14_alpha 0.9.16_alpha: Finite state toolkit compatible with Xerox tools
+sci-misc/hfst 2.2 3.0.2 3.3.12: Helsinki Finite State Transducer API and tools
+sci-misc/irstlm 5.80.08: A tool for the estimation, representation, and computation of statistical language models
+sci-misc/jwnl 1.3_rc3: Java interface to WordNet dictionary data
+sci-misc/kaldi 0_p20150709 0_p20151106: A toolkit for speech recognition
+sci-misc/kotus-sanalista 1-r1: Finnish dictionary word list
+sci-misc/mitlm 0.4.1: A set of tools designed for the efficient estimation of statistical n-gram language models
+sci-misc/nltk 2.0.4: Natural language processing tool collection
+sci-misc/omorfi 0.1_alpha: Open morphology for Finnish language
+sci-misc/openfst 1.3.4 1.4.1: Finite State Transducer tools by Google et al
+sci-misc/opennlp-maxent 2.4.0: Maximum entropy model implementation for opennlp
+sci-misc/praat 5.4.19: Speech analysis and synthesis
+sci-misc/pywordnet 2.0.1: Python bindings for wordnet
+sci-misc/sfst 1.4.2 1.4.6g: Uni Stuttgart Finite State Transducer tools
+sci-misc/simx 0.2 9999: a library for developing parallel, discrete-event simulations in Python
+sci-misc/stanford-parser 1.6: Stanfords statistical natural language parsers
+sci-misc/stanford-tagger 20060521: Stanfords log linear POS taggers
+sci-physics/abinit 7.4.2-r1 7.6.4-r1 7.10.4: Find total energy, charge density and electronic structure using density functional theory
+sci-physics/atompaw 3.0.1.9-r1 4.0.0.10: PAW atomic data generator
+sci-physics/bigdft 1.7.1 1.7.6: A DFT electronic structure code using a wavelet basis set
+sci-physics/clip 4.0.0_beta2: Interactive program for evaluation of Laue diffraction patterns
+sci-physics/elk 1.4.22 2.1.25: All-electron full-potential linearised augmented-plane wave (FP-LAPW)
+sci-physics/espresso 9999: Extensible Simulation Package for Research on Soft matter
+sci-physics/espresso++ 9999: extensible, flexible, fast and parallel simulation software for soft matter research
+sci-physics/fullprof-bin 20313.04: Crystallographic tools mainly for Rietveld analysis
+sci-physics/geant-vmc 3.1.15a 4.2.15a 9999: Virtual Monte Carlo Geant4 implementation
+sci-physics/genfit 02.00.00 9999: Generic toolkit for track reconstruction in physics experiments
+sci-physics/herwig++ 2.7.0-r2: High-Energy Physics event generator
+sci-physics/hoomd-blue 9999: a general-purpose particle simulation toolkit
+sci-physics/looptools 2.9 2.10 2.11: Tools for evaluation of scalar and tensor one-loop integrals
+sci-physics/mc-tester 1.25.0: A universal tool for comparisons of Monte Carlo predictions in High Energy Physics
+sci-physics/openmx 3.6 3.7.8: Material eXplorer using DFT, NC pseudopotentials, and pseudo-atomic localized basis functions
+sci-physics/qcl 0.6.4: Quantum Computation Language with an emulator of a quantum computer
+sci-physics/rivet 2.1.1 2.1.2: Toolkit for validation of Monte Carlo HEP event generators
+sci-physics/root 9999: C++ data analysis framework and interpreter from CERN
+sci-physics/tauola 1.1.3 1.1.4 1.1.5 9999: tau decay Monte Carlo generator
+sci-physics/vgm 3.06 9999: Virtual Geometry Model for High Energy Physics Experiments
+sci-physics/yoda 1.0.6: Yet more Objects for (High Energy Physics) Data Analysis
+sci-visualization/forge 3.1 3.1.2 9999: High Performance Visualizations for ArrayFire
+sci-visualization/gnuplot 5.0.9999 5.1.9999: Command-line driven interactive plotting program
+sci-visualization/mantid 3.3.0: Utilities for processing and plotting neutron scattering data
+sci-visualization/mayavi 4.4.0 4.4.2: Enthought Tool Suite: Scientific data 3-dimensional visualizer
+sci-visualization/nodemon 0.3.5: Distributed visualization tool for monitoring system resource utilization
+sci-visualization/v_sim 3.6.0: Displays atomic structures such as crystals, gain boudaries, molecules
+sci-visualization/vtkPOFFReader 300: Parallelized reader for OpenFOAM(R) file format for use with ParaView/VTK
+sci-visualization/yt 2.6 9999: Astrophysical Simulation Analysis and Vizualization package
+sys-cluster/blcr 0.8.4: Berkeley Lab Checkpoint/Restart for Linux
+sys-cluster/empi 0.10: Handling Multiple MPI Implementations
+sys-cluster/ganglia_jobmonarch 0.3.1: Ganglia addons for Torque
+sys-cluster/gasnet 1.24.0 9999: networking middleware layer to implementing partitioned global address space (PGAS) language
+sys-cluster/hpl 2.0-r1 2.1: A Portable Implementation of the High-Performance Linpack Benchmark for Distributed-Memory Computers
+sys-cluster/hpx 9999: C++ runtime system for parallel and distributed applications
+sys-cluster/htcondor 8.0.0 8.3.2: Workload management system for compute-intensive jobs
+sys-cluster/libquo 9999: run-time tuning of process binding policies made easy
+sys-cluster/lustre 9999: Lustre is a parallel distributed file system
+sys-cluster/modules 3.2.9c 3.2.9c-r1 3.2.10 3.2.10-r1: Dynamic modification of a user's environment via modulefiles
+sys-cluster/mpe2 1.3.0: MPI development tools
+sys-cluster/mpich 3.0.4 3.1.3-r2 3.1.4-r1: A high performance and portable MPI implementation
+sys-cluster/mpich2 1.5: A high performance and portable MPI implementation
+sys-cluster/mvapich2 1.6-r1: MVAPICH2 MPI-over-infiniband package auto-configured for OpenIB
+sys-cluster/nullmpi 0.7 9999: MPI substitute library
+sys-cluster/openmpi 1.6.5 1.7.3 1.8.8 1.10.0: A high-performance message passing library (MPI)
+sys-cluster/ovis 3.0.1: Tool for statistical analysis of large data sets
+sys-cluster/pyslice 1.7: Templating system for parametric modeling
+sys-devel/gdebugger 6.2.438: OpenCL and OpenGL debugger and memory analyzer
+virtual/blacs 1.1: Virtual for BLACS implementation
+virtual/blas 2.1-r1 2.1-r2 2.1-r3: Virtual for FORTRAN 77 BLAS implementation
+virtual/cblas 2.0 2.0-r1 2.0-r2 2.0-r3: Virtual for BLAS C implementation
+virtual/geant 3: Virtual for Geant-3
+virtual/lapack 3.4-r1 3.5-r1 3.5-r2: Virtual for Linear Algebra Package FORTRAN 77 implementation
+virtual/lapacke 1.0 3.5: Virtual for LAPACK C implementation
+virtual/mpi 2.0-r3: Virtual for Message Passing Interface (MPI) v2.0 implementation
+virtual/perl-encoding-warnings 0.11: Virtual for encoding-warnings
+virtual/scalapack 2.0: Virtual for ScaLAPACK implementation
+www-client/casperjs 1.1_beta3: Navigation scripting & testing utility for PhantomJS and SlimerJS
+x11-libs/agg 2.5-r3: High quality rendering engine library for C++
+x11-libs/tr 1.3: An OpenGL utility library for doing tiled rendering
+x11-libs/xview 3.2-r8: The X Window-System-based Visual/Integrated Environment for Workstations
+x11-libs/xview-bin 3.2_p1428: The X Window-System-based Visual/Integrated Environment for Workstations - binary package
+x11-misc/envytools 9999: Tools for people envious of nvidia's blob driver

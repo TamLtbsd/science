@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=Virtual for ScaLAPACK implementation
+EAPI=5
+IUSE=doc
+KEYWORDS=~amd64 ~x86 ~amd64-linux
+RDEPEND=|| ( >=sci-libs/scalapack-2.0 >=sci-libs/mkl-10.3 ) doc? ( >=app-doc/scalapack-docs-2.0 )
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=a82efce9daa68e8b2528cbaf409d7c47

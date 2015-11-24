@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install prepare setup test unpack
+DEPEND=dev-perl/BTLib icc? ( dev-lang/icc ) ifc? ( dev-lang/ifc ) virtual/fortran dev-lang/perl:=[-build(-)]
+DESCRIPTION=Prediction of coding regions in DNA/RNA sequences
+EAPI=5
+HOMEPAGE=http://sourceforge.net/projects/estscan/
+IUSE=icc ifc
+KEYWORDS=~x86 ~amd64
+LICENSE=estscan
+RDEPEND=dev-perl/BTLib icc? ( dev-lang/icc ) ifc? ( dev-lang/ifc ) virtual/fortran dev-lang/perl:=[-build(-)]
+SLOT=0
+SRC_URI=http://downloads.sourceforge.net/estscan/estscan-3.0.3.tar.gz http://downloads.sourceforge.net/estscan/At.smat.gz http://downloads.sourceforge.net/estscan/Dm.smat.gz http://downloads.sourceforge.net/estscan/Dr.smat.gz http://downloads.sourceforge.net/estscan/Hs.smat.gz http://downloads.sourceforge.net/estscan/Mm.smat.gz http://downloads.sourceforge.net/estscan/Rn.smat.gz http://downloads.sourceforge.net/estscan/user_guide_fev_07.pdf http://downloads.sourceforge.net/estscan/BTLib-0.19.tar.gz
+_eclass_exported_funcs=pkg_setup:fortran-2 src_unpack:perl-module src_prepare:- src_configure:perl-module src_compile:- src_test:perl-module src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	d769539d9bace6eaca30af23bc2b4dde	perl-module	1cfb38bf68a24c8394e41d2f53003146	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	unpacker	1d149d9bda7723e740cfd28118f27813
+_md5_=7914492d2ab170391d03a7dc3bcf6a72

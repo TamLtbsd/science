@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile configure install prepare
+DEPEND=virtual/blas virtual/lapack virtual/pkgconfig doc? ( app-doc/doxygen[latex] )
+DESCRIPTION=C++ wrapper for LAPACK libraries
+EAPI=5
+HOMEPAGE=http://lapackpp.sourceforge.net
+IUSE=doc static-libs
+KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
+LICENSE=LGPL-2.1
+RDEPEND=virtual/blas virtual/lapack
+SLOT=0
+SRC_URI=mirror://sourceforge/lapackpp/lapackpp-2.5.4.tar.gz
+_eclass_exported_funcs=src_prepare:- src_configure:- src_compile:- src_install:-
+_eclasses_=multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=bedb66dba39bc5c2e28a336f5f572ddb

@@ -1,0 +1,14 @@
+DEFINED_PHASES=setup
+DEPEND=>=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_5(-),-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),python_single_target_python2_7(+)] app-arch/bzip2 app-text/sablotron dev-cpp/muParser dev-libs/boost:= dev-libs/expat dev-libs/icu dev-libs/libxslt dev-libs/lzo dev-libs/xalan-c dev-libs/xerces-c dev-util/cppunit media-libs/freetype media-libs/giflib media-libs/glew media-libs/tiff:0= net-libs/gnutls sci-libs/hdf5 sys-fs/fuse sys-libs/db:* virtual/glut virtual/opengl x11-libs/fltk x11-libs/wxGTK:* mysql? ( virtual/mysql ) pcre? ( dev-libs/libpcre ) sqlite? ( dev-db/sqlite:3= ) ssl? ( dev-libs/openssl:0= ) sybase-ct? ( dev-db/freetds ) xml? ( dev-libs/libxml2:2= ) xpm? ( x11-libs/libXpm virtual/jpeg:0= media-libs/libpng:0= sys-libs/zlib )
+DESCRIPTION=View and analyze genome sequences
+EAPI=5
+HOMEPAGE=http://www.ncbi.nlm.nih.gov/projects/gbench/
+IUSE=xml ssl sybase-ct zlib lzo pcre gnutls freetds mysql berkdb python opengl glut icu expat sqlite hdf5 jpeg png tiff gif xpm sybase threads fltk cgi python_targets_python2_7
+LICENSE=public-domain
+RDEPEND=>=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_5(-),-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),python_single_target_python2_7(+)] app-arch/bzip2 app-text/sablotron dev-cpp/muParser dev-libs/boost:= dev-libs/expat dev-libs/icu dev-libs/libxslt dev-libs/lzo dev-libs/xalan-c dev-libs/xerces-c dev-util/cppunit media-libs/freetype media-libs/giflib media-libs/glew media-libs/tiff:0= net-libs/gnutls sci-libs/hdf5 sys-fs/fuse sys-libs/db:* virtual/glut virtual/opengl x11-libs/fltk x11-libs/wxGTK:* mysql? ( virtual/mysql ) pcre? ( dev-libs/libpcre ) sqlite? ( dev-db/sqlite:3= ) ssl? ( dev-libs/openssl:0= ) sybase-ct? ( dev-db/freetds ) xml? ( dev-libs/libxml2:2= ) xpm? ( x11-libs/libXpm virtual/jpeg:0= media-libs/libpng:0= sys-libs/zlib )
+REQUIRED_USE=python_targets_python2_7
+SLOT=0
+SRC_URI=ftp://ftp.ncbi.nlm.nih.gov/toolbox/gbench/ver-2.3.2/gbench-src-2.3.2.tgz
+_eclass_exported_funcs=pkg_setup:python-single-r1
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	python-single-r1	f0877a50e1277a64cd4fe5855250102b	python-utils-r1	7d52f592fc09a002ea150d69507b5bad	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	wxwidgets	2a19d3cd9b18703ae9fb53123722061c
+_md5_=8449f664556779a6879b43e32515d680

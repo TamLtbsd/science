@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=sci-mathematics/gappa sci-mathematics/coq sci-mathematics/flocq
+DESCRIPTION=Allows the certificates Gappa generates to be imported by the Coq
+EAPI=5
+HOMEPAGE=http://gappa.gforge.inria.fr/
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-2
+RDEPEND=sci-mathematics/gappa sci-mathematics/coq sci-mathematics/flocq
+SLOT=0
+SRC_URI=http://gforge.inria.fr/frs/download.php/32743/gappalib-coq-1.0.0.tar.gz
+_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
+_md5_=15894b804b1712c3144d6995feb1e15f

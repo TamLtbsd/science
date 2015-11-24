@@ -1,0 +1,8 @@
+DEFINED_PHASES=-
+DESCRIPTION=Genome browser and analysis
+EAPI=5
+HOMEPAGE=http://johnsonlab.ucsf.edu/mochi.html
+LICENSE=MIT
+SLOT=0
+_eclass_exported_funcs=-
+_md5_=9c554edd5381d0d41f588a5589b55c42

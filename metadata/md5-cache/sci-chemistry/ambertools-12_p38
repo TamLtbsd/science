@@ -1,0 +1,15 @@
+DEFINED_PHASES=compile configure install prepare setup test
+DEPEND=virtual/cblas virtual/lapack sci-libs/clapack sci-libs/arpack sci-libs/cifparse-obj sci-chemistry/mopac7 sci-libs/netcdf >=sci-libs/fftw-3.3:3.0 sci-chemistry/reduce app-shells/tcsh dev-util/byacc dev-libs/libf2c sys-devel/ucpp virtual/fortran
+DESCRIPTION=A suite for carrying out complete molecular mechanics investigations
+EAPI=5
+HOMEPAGE=http://ambermd.org/#AmberTools
+IUSE=openmp X
+KEYWORDS=~amd64 ~x86 ~amd64-linux
+LICENSE=GPL-2
+RDEPEND=virtual/cblas virtual/lapack sci-libs/clapack sci-libs/arpack sci-libs/cifparse-obj sci-chemistry/mopac7 sci-libs/netcdf >=sci-libs/fftw-3.3:3.0 sci-chemistry/reduce virtual/fortran
+RESTRICT=fetch
+SLOT=0
+SRC_URI=AmberTools12.tar.bz2 http://dev.gentoo.org/~jlec/distfiles/ambertools-bugfixes-12_p38.tar.xz
+_eclass_exported_funcs=pkg_setup:- src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	fortran-2	eb14fa8f4c3b9977b8d26c2c653ca325	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	d769539d9bace6eaca30af23bc2b4dde	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=ba44b894ada3a212be3b3381fe8491cc

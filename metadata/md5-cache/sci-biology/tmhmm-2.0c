@@ -1,0 +1,11 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=Prediction of transmembrane helices in proteins
+EAPI=5
+HOMEPAGE=http://www.cbs.dtu.dk/services/TMHMM/
+KEYWORDS=~amd64 ~x86
+LICENSE=tmhmm
+RESTRICT=fetch
+SLOT=0
+SRC_URI=tmhmm-2.0c.Linux.tar.gz
+_eclass_exported_funcs=src_prepare:- src_install:-
+_md5_=5f3177611499a0ada11342e72306e2e2
