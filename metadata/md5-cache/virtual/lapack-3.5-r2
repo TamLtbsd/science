@@ -1,9 +1,0 @@
-DEFINED_PHASES=pretend
-DESCRIPTION=Virtual for Linear Algebra Package FORTRAN 77 implementation
-EAPI=5
-IUSE=doc int64
-KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
-RDEPEND=|| ( >=sci-libs/lapack-reference-3.5[int64?] >=sci-libs/atlas-3.10.1[lapack] ) int64? ( >=sci-libs/lapack-reference-3.5[int64] ) doc? ( >=app-doc/lapack-docs-3.3 )
-SLOT=0
-_eclasses_=multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=6094735300373140354f2e45b864d9cc
