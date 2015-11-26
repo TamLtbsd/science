@@ -509,7 +509,7 @@ sci-chemistry/module2 0_pre20140717: Residual dipolar coupling and residual chem
 sci-chemistry/mtz2hkl 0.3: Intended to facilitate the transition from refmac5 refinement to shelxh or shelxl refinement
 sci-chemistry/mtz2sca 0.3: Converts CCP4 mtz-files containing anomalous data to Scalepack format
 sci-chemistry/nMOLDYN 3.0.10: nMOLDYN is an interactive analysis program for Molecular Dynamics simulations
-sci-chemistry/nmrpipe 8.6.2015.271.07.19-r1: Spectral visualisation, analysis and Fourier processing
+sci-chemistry/nmrpipe 8.7.2015.320.15.26: Spectral visualisation, analysis and Fourier processing
 sci-chemistry/nmrview 5.2.2-r3: Visualisation and analysis of processed NMR data
 sci-chemistry/nwchem 6.3_p2-r1 6.5_p26243-r7: Delivering High-Performance Computational Chemistry to Science
 sci-chemistry/openbabel 9999: Interconverts file formats used in molecular modeling
