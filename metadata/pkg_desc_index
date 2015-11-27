@@ -107,7 +107,7 @@ dev-python/matplotlib-venn 0.11 9999: Routines for plotting area-weighted two- a
 dev-python/matplotlib2tikz 0.2.4 0.4.0 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
 dev-python/matrix2latex 1.0.0 9999: A tool to create LaTeX tables from python lists and arrays
 dev-python/meshpy 2013.1.2 2014.1: Quality triangular and tetrahedral mesh generation for Python
-dev-python/metakernel 0.11.0 0.11.2 0.11.3: Metakernel for Jupyter
+dev-python/metakernel 0.11.3 0.11.5: Metakernel for Jupyter
 dev-python/metakernel_bash 0.11.3-r1: A Bash kernel for Jupyter/IPython
 dev-python/metakernel_python 0.11.3-r1: A Python kernel for Jupyter/IPython
 dev-python/montage-wrapper 0.9.7: Python wrapper for the Montage mosaicking toolkit
@@ -138,7 +138,7 @@ dev-python/pythoncgns 2009.10.30: Python language bindings for the CGNS library
 dev-python/pythonocc 0.5: Python Interface to OpenCASCADE CAD library
 dev-python/pythonqt 2.1 9999: A dynamic Python binding for the Qt framework
 dev-python/pywcsgrid2 9999: Custom Matplotlib Axes class for displaying astronomical fits images
-dev-python/qtconsole 4.0.1-r1 4.1.0 9999: Qt-based console for Jupyter with support for rich media output
+dev-python/qtconsole 4.0.1-r1 4.1.1 9999: Qt-based console for Jupyter with support for rich media output
 dev-python/snakemake 3.4.2: Make-like task language
 dev-python/specutils 9999: Affiliated package for 1D spectral operations
 dev-python/symengine 9999: Python wrappers to the symengine C++ library
