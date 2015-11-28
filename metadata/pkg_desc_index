@@ -131,7 +131,7 @@ dev-python/pynomo 0.2.2: PyNomo is a program to create nomographs (nomograms) us
 dev-python/pysolar 0.5: Collection of Python libraries for simulating the irradiation by the sun
 dev-python/pysparse 1.1.1-r1: Sparse linear algebra extension for Python
 dev-python/python-ivi 0.14.9 9999: Python-based interpretation of the Interchangeable Virtual Instrument standard
-dev-python/python-vxi11 0.7 0.8 9999: Provides a pure Python VXI-11 driver for controlling instruments over Ethernet
+dev-python/python-vxi11 0.8 9999: Provides a pure Python VXI-11 driver for controlling instruments over Ethernet
 dev-python/pythoncgns 2009.10.30: Python language bindings for the CGNS library
 dev-python/pythonocc 0.5: Python Interface to OpenCASCADE CAD library
 dev-python/pythonqt 2.1 9999: A dynamic Python binding for the Qt framework
@@ -566,7 +566,7 @@ sci-libs/amber99sbnmr 0_pre130901: AMBER99SBnmr1 force field (Lindorff-Larsen et
 sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amdlibm 3.1: Optimized libm replacement from AMD for x86_64 architectures
 sci-libs/armadillo 4.650.4 5.600.2 6.200.3: Streamlined C++ linear algebra library
-sci-libs/arrayfire 3.1.1-r2 3.1.2 3.1.3 3.2.0 9999: A general purpose GPU library
+sci-libs/arrayfire 3.1.3 3.2.0 9999: A general purpose GPU library
 sci-libs/asl 0.1.5 9999: Advanced Simulation Library - multiphysics simulation software package
 sci-libs/atlas 3.10.1-r1 3.10.1-r2: Automatically Tuned Linear Algebra Software
 sci-libs/bigdft-abi 1.0.4-r3: A DFT electronic structure code using a wavelet basis set
@@ -751,7 +751,7 @@ sci-physics/root 9999: C++ data analysis framework and interpreter from CERN
 sci-physics/tauola 1.1.3 1.1.4 1.1.5 9999: tau decay Monte Carlo generator
 sci-physics/vgm 3.06 9999: Virtual Geometry Model for High Energy Physics Experiments
 sci-physics/yoda 1.0.6: Yet more Objects for (High Energy Physics) Data Analysis
-sci-visualization/forge 3.1 3.1.2 3.2.0 9999: High Performance Visualizations for ArrayFire
+sci-visualization/forge 3.1.2 3.2.0 9999: High Performance Visualizations for ArrayFire
 sci-visualization/gnuplot 5.0.9999 5.1.9999: Command-line driven interactive plotting program
 sci-visualization/mantid 3.3.0: Utilities for processing and plotting neutron scattering data
 sci-visualization/mayavi 4.4.0 4.4.2: Enthought Tool Suite: Scientific data 3-dimensional visualizer
