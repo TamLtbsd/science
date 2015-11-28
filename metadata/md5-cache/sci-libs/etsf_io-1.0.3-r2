@@ -10,5 +10,5 @@ RDEPEND=|| ( sci-libs/netcdf[fortran] sci-libs/netcdf-fortran ) virtual/fortran 
 SLOT=0
 SRC_URI=http://www.etsf.eu/sites/default/files/etsf_io-1.0.3.tar.gz -> etsf_io-1.0.3.tar
 _eclass_exported_funcs=pkg_setup:fortran-2 src_configure:-
-_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	fortran-2	e62c85d2be9631b799221c0dafd24256	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	fortran-2	5cc7c979568f0b4f6ef324628a6465d5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=da813e9c287fcf8e24066c5a307f8467

@@ -573,7 +573,7 @@ sci-libs/bigdft-abi 1.0.4-r3: A DFT electronic structure code using a wavelet ba
 sci-libs/blas-reference 20131116-r2 99999999: Reference implementation of BLAS
 sci-libs/blastdb 9999: The BLAST NR database
 sci-libs/bloom 9999: C++ Bloom Filter Library
-sci-libs/calculix-ccx 2.7-r1 2.8_p2: A Free Software Three-Dimensional Structural Finite Element Program
+sci-libs/calculix-ccx 2.8_p2: A Free Software Three-Dimensional Structural Finite Element Program
 sci-libs/calculix-cgx 2.7-r1: A Free Software Three-Dimensional Structural Finite Element Program
 sci-libs/cblas-reference 20110218-r1: C wrapper interface to the F77 reference BLAS implementation
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib

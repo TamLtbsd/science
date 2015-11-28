@@ -10,5 +10,5 @@ RDEPEND=sci-libs/scotch:0=[int64?,mpi?] sys-apps/hwloc:0= virtual/blas mpi? ( vi
 SLOT=0
 SRC_URI=https://gforge.inria.fr/frs/download.php/33558/pastix_release_bugfix9_351ef60.tar.bz2
 _eclass_exported_funcs=pkg_setup:fortran-2 src_prepare:- src_configure:- src_compile:- src_install:-
-_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	fortran-2	e62c85d2be9631b799221c0dafd24256	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	fortran-2	5cc7c979568f0b4f6ef324628a6465d5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=0cbf8c000698735a7643d585bac78f6a
