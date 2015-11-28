@@ -1,9 +1,0 @@
-DEFINED_PHASES=-
-DESCRIPTION=Virtual for BLAS C implementation
-EAPI=5
-IUSE=int64
-KEYWORDS=~alpha ~amd64 ~hppa ~ppc ~ppc64 ~s390 ~sparc ~x86 ~x86-fbsd ~amd64-linux ~x86-linux ~x64-macos ~x86-macos
-RDEPEND=int64? ( || ( >=sci-libs/openblas-0.2.11[int64] >=sci-libs/cblas-reference-20110218-r1[int64] ) ) || ( >=sci-libs/cblas-reference-20110218-r1[int64?] >=sci-libs/openblas-0.2.11[int64?] >=sci-libs/gsl-1.15-r3[-cblas-external] >=sci-libs/gotoblas2-1.13 >=sci-libs/atlas-3.9.34 >=sci-libs/mkl-10.3 )
-SLOT=0
-_eclass_exported_funcs=-
-_md5_=f2c279faff99dfded550b80953116c62
