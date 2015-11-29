@@ -7,7 +7,7 @@
 # Copyright 2008, 2009 Mike Kelly
 # Copyright 2009 David Leverton
 
-# @ECLASS: alternatives-2
+# @ECLASS: alternatives-2.eclass
 # @MAINTAINER:
 # Gentoo Science Project <sci@gentoo.org>
 # @BLURB: Manage alternative implementations.
@@ -31,7 +31,7 @@ case "${EAPI:-0}" in
 		;;
 esac
 
-DEPEND=">=app-admin/eselect-1.4.4-r102"
+DEPEND=">=app-admin/eselect-1.4.5-r102"
 RDEPEND="${DEPEND}
 	!app-admin/eselect-blas
 	!app-admin/eselect-cblas
