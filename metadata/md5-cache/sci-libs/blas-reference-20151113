@@ -8,8 +8,8 @@ KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 LICENSE=BSD
 RDEPEND=>=app-admin/eselect-1.4.5-r102 !app-admin/eselect-blas !app-admin/eselect-cblas !app-admin/eselect-lapack virtual/fortran >=app-admin/eselect-1.4.5-r102 !app-admin/eselect-blas !app-admin/eselect-cblas !app-admin/eselect-lapack virtual/fortran
 REQUIRED_USE=test? ( )
-SLOT=0/3.5.0
-SRC_URI=http://www.netlib.org/lapack/lapack-3.5.0.tgz
+SLOT=0/3.6.0
+SRC_URI=http://www.netlib.org/lapack/lapack-3.6.0.tgz
 _eclass_exported_funcs=pkg_prerm:alternatives-2 pkg_postinst:alternatives-2 pkg_setup:python-any-r1 src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
 _eclasses_=alternatives-2	08cd022cfb6a7d817b231dafda2058de	cmake-utils	f16fa5681153277df51f001deaf17ff8	eutils	f20548a2f7b0128068388cd2ec26708a	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	fortran-2	5cc7c979568f0b4f6ef324628a6465d5	multibuild	706332a8d833c077e1aa37faa1ebf162	multilib	3972ca401cf7dbb430df9995f5d8d580	multilib-build	c47eec09e82c8a750127ff2abf0745b1	numeric	0c830a1432a1e464d4e952ad44bbd231	numeric-int64-multibuild	ec20966595be4faf7e2202dec98d75f4	python-any-r1	63d890c175bcc4604e8327cef1dec948	python-utils-r1	435d2b9a60ae5a1c3b65737c621716e2	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=9eacd5dc812c3239b0d2f90bebfc6ebd
+_md5_=ebde54af6463f93f34436d44f4c23d7a
