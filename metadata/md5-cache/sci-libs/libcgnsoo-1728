@@ -1,6 +1,6 @@
 DEFINED_PHASES=configure
 DEPEND=sci-libs/cgnslib
-DESCRIPTION=CGNSOO library, provides an object-oriented interface to the CGNS Mid-level library
+DESCRIPTION=Object-oriented interface to the CGNS Mid-level library
 EAPI=5
 HOMEPAGE=http://openfoam-extend.sourceforge.net
 KEYWORDS=~amd64 ~x86
@@ -9,4 +9,4 @@ RDEPEND=sci-libs/cgnslib
 SLOT=0
 SRC_URI=http://ppa.launchpad.net/cae-team/ppa/ubuntu/pool/main/libc/libcgnsoo-3.0/libcgnsoo-3.0_1728.orig.tar.gz
 _eclass_exported_funcs=src_configure:-
-_md5_=4cd7fc973762dfd46c9ba834971320a3
+_md5_=a7e388d0307ae3689ee5fc78957bc079

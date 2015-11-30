@@ -10,7 +10,7 @@ app-forensics/vine 1.0: The BitBlaze Static Analysis Component
 app-portage/g-octave 9999: A tool that generates and installs ebuilds for Octave-Forge
 app-text/dgs 0.5.10-r2: A Ghostscript based Display Postscript (DPS) server
 app-vim/vim-gromacs 9999: vim plugin: Gromacs file syntax highlighting and some macros
-dev-cpp/eigen 3.2.2 3.2.4 9999: C++ template library for linear algebra
+dev-cpp/eigen 3.2.2 3.2.4 3.2.6 9999: C++ template library for linear algebra
 dev-cpp/growler 0.3.8.2: Distributed object architecture and environment
 dev-cpp/growler-arch 0.3.7.1: Growler libraries and utilities
 dev-cpp/growler-core 0.3.7: General-purpose classes and functionality
@@ -559,11 +559,11 @@ sci-geosciences/pydap_responses_netcdf 0.1.4.1: NetCDF responses for Pydap Data 
 sci-geosciences/pydap_responses_wms 0.5.4: WMS responses for Pydap Data Access Protocol server
 sci-geosciences/pydap_responses_xls 0.1.2: Excel responses for Pydap Data Access Protocol server
 sci-geosciences/qgis 9999: User friendly Geographic Information System
-sci-libs/Cgraph 2.04: A set of C functions that generate PostScript for publication quality scientific plots
+sci-libs/Cgraph 2.04: C functions that generate PostScript for publication quality scientific plots
 sci-libs/acml 5.3.1 6.1.0.31: AMD Core Math Library for amd64 CPUs
 sci-libs/amber99sb_phipsi 0_pre130901: AMBER99SB PHI PSI table (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amber99sbnmr 0_pre130901: AMBER99SBnmr1 force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
-sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
+sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN FF (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amdlibm 3.1: Optimized libm replacement from AMD for x86_64 architectures
 sci-libs/armadillo 4.650.4 5.600.2 6.200.3: Streamlined C++ linear algebra library
 sci-libs/arrayfire 3.1.3 3.2.0 9999: A general purpose GPU library
@@ -594,7 +594,7 @@ sci-libs/fgsl 0.9.4: A Fortran interface to the GNU Scientific Library
 sci-libs/fox 4.1.2-r2: A library designed to allow the easy use of XML from Fortran
 sci-libs/framewave 1.3.1: A collection of popular image and signal processing routines
 sci-libs/geom 5.1.2.7: A complete OpenCascade - OCAF based CAD framework
-sci-libs/ghmm 9999: General Hidden Markov Model library - efficient data structures and algorithms for HMMs
+sci-libs/ghmm 9999: General Hidden Markov Model library
 sci-libs/givaro 3.2.13 3.3.0 3.8.0: C++ library for arithmetic and algebraic computations
 sci-libs/gmsh 2.8.5: A three-dimensional finite element mesh generator
 sci-libs/gotoblas2 1.13: Fast implementations of the Basic Linear Algebra Subroutines
@@ -606,7 +606,7 @@ sci-libs/k3match 1.1: Fast matching of large sets of points in 3D space, in O(N 
 sci-libs/lapack-reference 3.5.0 9999: Reference implementation of LAPACK
 sci-libs/lapacke-reference 3.5.0 9999: C Interface to LAPACK
 sci-libs/lapackpp 2.5.4: C++ wrapper for LAPACK libraries
-sci-libs/libcgnsoo 1728: CGNSOO library, provides an object-oriented interface to the CGNS Mid-level library
+sci-libs/libcgnsoo 1728: Object-oriented interface to the CGNS Mid-level library
 sci-libs/libfac 3.1.1: libfac is an extension of Singular-factory to finite fields
 sci-libs/libgeodecomp 9999: An auto-parallelizing library to speed up computer simulations
 sci-libs/libmatheval 1.1.10: library to parse and evaluate symbolic expressions
@@ -633,7 +633,7 @@ sci-libs/nipype 0.11.0 9999: Neuroimaging in Python: Pipelines and Interfaces
 sci-libs/o2scl 0.915: Object-oriented Scientific Computing Library
 sci-libs/oasa 0.13.1: Python library for manipulation of chemical structures
 sci-libs/omalloc 0.9.6: omalloc is the memory management of the Singular algebra system
-sci-libs/openblas 0.2.14 9999: Optimized BLAS library based on GotoBLAS2
+sci-libs/openblas 0.2.14 0.2.15 9999: Optimized BLAS library based on GotoBLAS2
 sci-libs/openlibm 9999: High quality system independent, open source libm
 sci-libs/optpp 2.4: C++ library for non-linear optimization
 sci-libs/p4est 1.0 1.1: Scalable Algorithms for Parallel Adaptive Mesh Refinement on Forests of Octrees
@@ -660,7 +660,7 @@ sci-libs/votca-tools 9999: Votca tools library
 sci-libs/vxl 9999: C++ computer vision research libraries
 sci-libs/wannier90 1.2-r3 2.0.0 2.0.1: Calculates maximally localized Wannier functions (MLWFs)
 sci-libs/xblas 1.0.248-r1: Extra Precise Basic Linear Algebra Subroutines
-sci-libs/xraylib 2.16.0 3.1.0: A library for X-ray matter interaction cross sections for X-ray fluorescence applications
+sci-libs/xraylib 2.16.0 3.1.0: X-ray matter interaction cross sections for X-ray fluorescence library
 sci-libs/zarja 1.1.1: Scientific multi-agent simulation library
 sci-mathematics/Macaulay2 9999: Research tool for commutative algebra and algebraic geometry
 sci-mathematics/Oid 4.0: An interactive, extensible software system for experimenting with matroids

@@ -1,5 +1,5 @@
 DEFINED_PHASES=install
-DESCRIPTION=AMBER99SBnmr1-ILDN force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
+DESCRIPTION=AMBER99SBnmr1-ILDN FF (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 EAPI=5
 HOMEPAGE=https://research.chemistry.ohio-state.edu/bruschweiler/protein-force-field/
 KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
@@ -8,4 +8,4 @@ RESTRICT=strip binchecks
 SLOT=0
 SRC_URI=http://research.chemistry.ohio-state.edu/bruschweiler/files/2013/09/nmr1-ildn.tar -> amber99sbnmr-ildn-0_pre130901.tar
 _eclass_exported_funcs=src_install:-
-_md5_=9224756b4270a31c5356857ada7df9c4
+_md5_=f4bafc8f475154e529e5451815aa62e5
