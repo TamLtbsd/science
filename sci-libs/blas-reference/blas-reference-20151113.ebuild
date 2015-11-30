@@ -11,7 +11,7 @@ NUMERIC_MODULE_NAME="refblas"
 inherit alternatives-2 cmake-utils fortran-2 numeric-int64-multibuild python-any-r1 toolchain-funcs
 
 LPN=lapack
-LPV=3.5.0
+LPV=3.6.0
 
 DESCRIPTION="Reference implementation of BLAS"
 HOMEPAGE="http://www.netlib.org/lapack/"
@@ -38,6 +38,7 @@ src_prepare() {
 	# variables with -DPROFNAME etc in src_configure
 	sed -i \
 		-e 's:\([^xc]\)blas:\1${LIBNAME}:g' \
+		-e '/PROPERTIES/s:blas:${LIBNAME}:g' \
 		CMakeLists.txt \
 		BLAS/SRC/CMakeLists.txt || die
 	sed -i \

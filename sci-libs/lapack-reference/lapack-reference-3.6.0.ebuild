@@ -40,13 +40,14 @@ src_prepare() {
 	# ${PROFNAME}, ${LIBNAME} and ${BLAS_REQUIRES} are not defined here, they
 	# are in single quotes in the following seds.  They are set later by
 	# defining a cmake variables with -DPROFNAME etc in src_configure.
-	sed -i \
+	sed \
 		-e 's:BINARY_DIR}/lapack.pc:BINARY_DIR}/${PROFNAME}.pc:' \
 		-e '/ALL_TARGETS/s:lapack):${LIBNAME}):' \
 		-e '/LAPACK_LIBRARIES/s:lapack:${LIBNAME}:g' \
-		CMakeLists.txt || die
+		-i CMakeLists.txt || die
 	sed -i \
 		-e 's:(lapack:(${LIBNAME}:g' \
+		-e '/PROPERTIES/s:lapack:${LIBNAME}:g' \
 		SRC/CMakeLists.txt || die
 	sed -i \
 		-e '/Name: /s:lapack:${PROFNAME}:' \
