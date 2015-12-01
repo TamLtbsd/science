@@ -350,6 +350,7 @@ sci-biology/mira 4.9.5: Whole Genome Shotgun and EST Sequence Assembler for Sang
 sci-biology/miranda 3.3a: An algorithm for finding genomic targets for microRNAs
 sci-biology/mne-python 0.7 9999: Python package for MEG and EEG data analysis
 sci-biology/mosaik 2.2.3 9999: A reference-guided aligner for next-generation sequencing technologies
+sci-biology/mothur 1.36.1: A suite of algorithms for ecological bioinformatics
 sci-biology/mreps 2.5: Identification of serial/tandem repeats in DNA sequences
 sci-biology/mrfast 2.6.0.1: Micro Read Fast Alignment Search Tool
 sci-biology/mrsfast 2.6.0.4: Micro Read Fast Alignment Search Tool
