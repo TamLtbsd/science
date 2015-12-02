@@ -310,6 +310,7 @@ sci-biology/flexbar 2.4: Barcode, MID tag and adapter sequence removal
 sci-biology/freebayes 9999: Bayesian gen. variant detector to find small polymorphisms: SNPs, indels, MNPs and complex events
 sci-biology/fsa 1.15.7: Distance-based probabilistic multiple sequence alignment algorithm for DNA/RNA/protein
 sci-biology/fsl 5.0.8: Analysis of functional, structural, and diffusion MRI brain imaging data
+sci-biology/full_lengther_next 0.0.8: Classify assembled transcripts and fix frameshifts in ORFs
 sci-biology/gap2caf 2.1.0: GAP4 file format to CAF v2 format converter for genomic assembly data
 sci-biology/gbench 2.3.2: View and analyze genome sequences
 sci-biology/gbrowse 2.39 2.45 2.48: Display of genomic annotations on interactive web pages
@@ -397,6 +398,10 @@ sci-biology/samstat 20130708: Show statistics of BAM/SAM (error profiles, nucleo
 sci-biology/samtools 1.0-r2 1.1-r1 1.2-r1: Utilities for SAM (Sequence Alignment/Map), a format for large nucleotide sequence alignments
 sci-biology/scaffold_builder 20131122-r1: Combine FASTA contigs from a de novo assembly into scaffolds using a reference assembly
 sci-biology/scan_for_matches 20121220: Pattern search through DNA sequences (aka patscan)
+sci-biology/scbi_blast 0.0.37: Handle blast+ executions using pipes instead of files
+sci-biology/scbi_fasta 0.1.9: Read FASTA and QUAL files
+sci-biology/scbi_mapreduce 0.0.40: Run parallel and distributed computing jobs
+sci-biology/scbi_plot 0.0.7: Wrapper to create plots with gnuplot
 sci-biology/sclust 0.1: seeded clustering tool by processing pairwise alignments from TIGR Gene Indices project tools
 sci-biology/screed 0.7.1: A short read database
 sci-biology/scythe 0.992: Bayesian adapter trimmer for Illumina/Solexa
