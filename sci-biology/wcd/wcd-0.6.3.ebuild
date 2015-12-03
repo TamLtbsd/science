@@ -8,7 +8,7 @@ AUTOTOOLS_AUTORECONF=true
 
 inherit autotools-utils flag-o-matic multilib
 
-DESCRIPTION="EST sequence clustering by either of: d2 function, edit distance, common word heuristics"
+DESCRIPTION="EST sequence clustering: d2 function, edit distance, common word heuristics"
 HOMEPAGE="http://code.google.com/p/wcdest/"
 SRC_URI="http://wcdest.googlecode.com/files/wcd-express-${PV}.tar.gz -> ${P}.tar.gz
 	http://www.bioinf.wits.ac.za/~scott/wcd.html
@@ -30,6 +30,11 @@ PATCHES=(
 	"${FILESDIR}"/${P}-ldflags.patch
 	"${FILESDIR}"/${P}-impl-decl.patch
 	)
+
+src_prepare() {
+	rm -r src/*o src/.deps || die
+	autotools-utils_src_prepare
+}
 
 src_configure(){
 	local myeconfargs=()
