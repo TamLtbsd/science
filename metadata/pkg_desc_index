@@ -102,7 +102,7 @@ dev-python/jupyter_console 9999: A terminal-based console frontend for Jupyter k
 dev-python/jupyter_core 9999: Core common functionality of Jupyter projects
 dev-python/matlab_wrapper 0.9.6 9999: MATLAB wrapper for Python
 dev-python/matplotlib-venn 0.11 9999: Routines for plotting area-weighted two- and three-circle venn diagrams
-dev-python/matplotlib2tikz 0.2.4 0.4.0 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
+dev-python/matplotlib2tikz 0.4.0 0.5.1 9999: Python script for converting matplotlib figures into native Pgfplots (TikZ) figures
 dev-python/matrix2latex 1.0.0 9999: A tool to create LaTeX tables from python lists and arrays
 dev-python/meshpy 2013.1.2 2014.1: Quality triangular and tetrahedral mesh generation for Python
 dev-python/metakernel 0.11.3 0.11.5: Metakernel for Jupyter
