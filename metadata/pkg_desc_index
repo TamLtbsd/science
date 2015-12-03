@@ -576,12 +576,12 @@ sci-libs/arrayfire 3.1.3 3.2.0 9999: A general purpose GPU library
 sci-libs/asl 0.1.5 9999: Advanced Simulation Library - multiphysics simulation software package
 sci-libs/atlas 3.10.1-r1 3.10.1-r2: Automatically Tuned Linear Algebra Software
 sci-libs/bigdft-abi 1.0.4-r3: A DFT electronic structure code using a wavelet basis set
-sci-libs/blas-reference 20131116-r2 20151113 99999999: Reference implementation of BLAS
+sci-libs/blas-reference 20131116-r2 20151113-r1 99999999: Reference implementation of BLAS
 sci-libs/blastdb 9999: The BLAST NR database
 sci-libs/bloom 9999: C++ Bloom Filter Library
 sci-libs/calculix-ccx 2.8_p2: A Free Software Three-Dimensional Structural Finite Element Program
 sci-libs/calculix-cgx 2.7-r1: A Free Software Three-Dimensional Structural Finite Element Program
-sci-libs/cblas-reference 20110218-r1 20151113-r1: C wrapper interface to the F77 reference BLAS implementation
+sci-libs/cblas-reference 20110218-r1 20151113-r2: C wrapper interface to the F77 reference BLAS implementation
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib
 sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools
 sci-libs/clblas 2.6-r1 2.8 9999: A software library containing BLAS routines for OpenCL
@@ -609,8 +609,8 @@ sci-libs/iml 1.0.3-r2 1.0.4: Integer Matrix Library
 sci-libs/itk 4.4.2 4.4.2-r1 4.5.1: NLM Insight Segmentation and Registration Toolkit
 sci-libs/jhdf5 14.12.1: Java binding for HDF5 compatible with HDF5 1.6/1.8
 sci-libs/k3match 1.1: Fast matching of large sets of points in 3D space, in O(N log N) time
-sci-libs/lapack-reference 3.5.0 3.6.0 9999: Reference implementation of LAPACK
-sci-libs/lapacke-reference 3.5.0 3.6.0 9999: C Interface to LAPACK
+sci-libs/lapack-reference 3.5.0 3.6.0-r1 9999: Reference implementation of LAPACK
+sci-libs/lapacke-reference 3.5.0 3.6.0-r1 9999: C Interface to LAPACK
 sci-libs/lapackpp 2.5.4: C++ wrapper for LAPACK libraries
 sci-libs/libcgnsoo 1728: Object-oriented interface to the CGNS Mid-level library
 sci-libs/libfac 3.1.1: libfac is an extension of Singular-factory to finite fields
