@@ -610,7 +610,7 @@ sci-libs/itk 4.4.2 4.4.2-r1 4.5.1: NLM Insight Segmentation and Registration Too
 sci-libs/jhdf5 14.12.1: Java binding for HDF5 compatible with HDF5 1.6/1.8
 sci-libs/k3match 1.1: Fast matching of large sets of points in 3D space, in O(N log N) time
 sci-libs/lapack-reference 3.5.0 3.6.0-r1 9999: Reference implementation of LAPACK
-sci-libs/lapacke-reference 3.5.0 3.6.0-r1 9999: C Interface to LAPACK
+sci-libs/lapacke-reference 3.5.0 3.6.0-r2 9999: C Interface to LAPACK
 sci-libs/lapackpp 2.5.4: C++ wrapper for LAPACK libraries
 sci-libs/libcgnsoo 1728: Object-oriented interface to the CGNS Mid-level library
 sci-libs/libfac 3.1.1: libfac is an extension of Singular-factory to finite fields
