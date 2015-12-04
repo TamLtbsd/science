@@ -6,10 +6,10 @@ HOMEPAGE=http://software.intel.com/en-us/articles/intel-mkl/
 IUSE=examples multilib
 KEYWORDS=-* ~amd64 ~x86 ~amd64-linux ~x86-linux
 LICENSE=Intel-SDP
-RDEPEND=>=dev-libs/intel-common-13 >=app-admin/eselect-1.4.5-r102 !app-admin/eselect-blas !app-admin/eselect-cblas !app-admin/eselect-lapack
+RDEPEND=>=dev-libs/intel-common-13 >=app-admin/eselect-1.4.5-r102 !app-eselect/eselect-blas !app-eselect/eselect-cblas !app-eselect/eselect-lapack
 RESTRICT=mirror
 SLOT=0
 SRC_URI=http://registrationcenter-download.intel.com/irc_nas/4992/parallel_studio_xe_2015_update1.tgz
 _eclass_exported_funcs=pkg_pretend:intel-sdp pkg_prerm:alternatives-2 pkg_postrm:intel-sdp pkg_postinst:alternatives-2 pkg_setup:intel-sdp src_unpack:intel-sdp src_prepare:- src_install:-
-_eclasses_=alternatives-2	9b3c32e893e437d36ef147efb197e7d4	check-reqs	4f43fb72bc73bd58d75ec601713fae20	eutils	d9bd2ddd85a58e470b49ca997e255a4c	intel-sdp	2bd9b6c0c7c6b03f5278c25936f21219	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=alternatives-2	85c48524d99a4cb628c8e90c3f63035f	check-reqs	4f43fb72bc73bd58d75ec601713fae20	eutils	d9bd2ddd85a58e470b49ca997e255a4c	intel-sdp	2bd9b6c0c7c6b03f5278c25936f21219	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=3faa4152821d14d6b50edb2c11356454
