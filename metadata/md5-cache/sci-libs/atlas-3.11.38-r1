@@ -3,12 +3,13 @@ DEPEND=>=app-admin/eselect-1.4.5-r102 fortran? ( virtual/fortran )
 DESCRIPTION=Automatically Tuned Linear Algebra Software
 EAPI=5
 HOMEPAGE=http://math-atlas.sourceforge.net/
-IUSE=doc fortran generic ifko lapack static-libs threads
+IUSE=+deprecated doc fortran generic ifko lapack static-libs threads
 KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 LICENSE=BSD
 RDEPEND=>=app-admin/eselect-1.4.5-r102 !app-eselect/eselect-blas !app-eselect/eselect-cblas !app-eselect/eselect-lapack fortran? ( virtual/fortran )
+REQUIRED_USE=deprecated? ( lapack ) lapack? ( fortran )
 SLOT=0
 SRC_URI=mirror://sourceforge/math-atlas/atlas3.11.38.tar.bz2 fortran? ( lapack? ( http://www.netlib.org/lapack/lapack-3.6.0.tgz ) )
 _eclass_exported_funcs=pkg_prerm:alternatives-2 pkg_postinst:alternatives-2 pkg_setup:- src_configure:- src_compile:- src_test:- src_install:-
 _eclasses_=alternatives-2	85c48524d99a4cb628c8e90c3f63035f	eutils	d9bd2ddd85a58e470b49ca997e255a4c	fortran-2	5cc7c979568f0b4f6ef324628a6465d5	multilib	3972ca401cf7dbb430df9995f5d8d580	numeric	0c830a1432a1e464d4e952ad44bbd231	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=30eb0011eb294de54e50bdd7b3f8a8e1
+_md5_=b8a1bc3215031a28c1e500120f8c33cd
