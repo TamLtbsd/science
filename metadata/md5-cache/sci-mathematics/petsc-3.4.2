@@ -1,5 +1,5 @@
 DEFINED_PHASES=configure install postinst prepare setup
-DEPEND=virtual/blas virtual/lapack afterimage? ( media-libs/libafterimage ) hdf5? ( sci-libs/hdf5[mpi?] ) hypre? ( >=sci-libs/hypre-2.8.0b[mpi?] ) mpi? ( virtual/mpi[cxx?,fortran?] ) mumps? ( sci-libs/mumps[mpi?] sci-libs/scalapack ) scotch? ( sci-libs/scotch[mpi?] ) sparse? ( sci-libs/suitesparse >=sci-libs/cholmod-1.7.0 ) superlu? ( sci-libs/superlu ) X? ( x11-libs/libX11 ) || ( ) virtual/pkgconfig dev-util/cmake virtual/fortran
+DEPEND=virtual/blas virtual/lapack afterimage? ( media-libs/libafterimage ) hdf5? ( sci-libs/hdf5[mpi?] ) hypre? ( >=sci-libs/hypre-2.8.0b[mpi?] ) mpi? ( virtual/mpi[cxx?,fortran?] ) mumps? ( sci-libs/mumps[mpi?] sci-libs/scalapack ) scotch? ( sci-libs/scotch[mpi?] ) sparse? ( sci-libs/suitesparse >=sci-libs/cholmod-1.7.0 ) superlu? ( sci-libs/superlu ) X? ( x11-libs/libX11 ) || ( >=dev-lang/python-2.7.5-r2:2.7 ) virtual/pkgconfig dev-util/cmake virtual/fortran
 DESCRIPTION=Portable, Extensible Toolkit for Scientific Computation
 EAPI=5
 HOMEPAGE=http://www.mcs.anl.gov/petsc/
@@ -11,5 +11,5 @@ REQUIRED_USE=afterimage? ( X ) hdf5? ( mpi ) hypre? ( cxx mpi ) mumps? ( mpi sco
 SLOT=0
 SRC_URI=http://ftp.mcs.anl.gov/pub/petsc/release-snapshots/petsc-3.4.2.tar.gz
 _eclass_exported_funcs=pkg_postinst:- pkg_setup:python-any-r1 src_prepare:- src_configure:- src_install:-
-_eclasses_=eutils	d9bd2ddd85a58e470b49ca997e255a4c	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	fortran-2	5cc7c979568f0b4f6ef324628a6465d5	multilib	3972ca401cf7dbb430df9995f5d8d580	python-any-r1	18215b242007be1e9d7fd95683aaf4c0	python-utils-r1	8839d3b63783f5eebbe020034404fae1	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=eutils	d9bd2ddd85a58e470b49ca997e255a4c	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	fortran-2	5cc7c979568f0b4f6ef324628a6465d5	multilib	3972ca401cf7dbb430df9995f5d8d580	python-any-r1	0ee3a2b43a7ff470ba57bc6e0ee386b3	python-utils-r1	832cb17726d498a182de6b9ee2adc0dc	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=234d22fdc8738f05171064151943e976

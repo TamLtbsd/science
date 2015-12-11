@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install preinst prepare setup unpack
+DEPEND=~sci-libs/elmer-eio-9999 !bundled_netgen? ( sci-mathematics/netgen ) virtual/glu || ( ~sci-misc/elmer-post-9999 >=sci-libs/vtk-5.0.0[qt4,python?] ) matc? ( ~sci-libs/matc-9999 ) vtk? ( >=sci-libs/vtk-5.0.0[qt4,python?] ) opencascade? ( >=sci-libs/opencascade-6.3:* ) python? ( dev-python/pythonqt[python_targets_python2_7(-)?,-python_single_target_python3_3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_jython2_7(-),python_single_target_python2_7(+)] ) qwt? ( x11-libs/qwt:5 ) >=dev-qt/qtcore-4.3:4 >=dev-qt/qtopengl-4.3:4 >=dev-qt/qtscript-4.3:4 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DESCRIPTION=a collection of finite element programs, libraries, and visualization tools, New Elmer pre-processor
+EAPI=5
+HOMEPAGE=http://www.csc.fi/english/pages/elmer
+IUSE=debug +bundled_netgen matc opencascade python qwt vtk python_targets_python2_7
+LICENSE=GPL-2
+RDEPEND=~sci-libs/elmer-eio-9999 !bundled_netgen? ( sci-mathematics/netgen ) virtual/glu || ( ~sci-misc/elmer-post-9999 >=sci-libs/vtk-5.0.0[qt4,python?] ) matc? ( ~sci-libs/matc-9999 ) vtk? ( >=sci-libs/vtk-5.0.0[qt4,python?] ) opencascade? ( >=sci-libs/opencascade-6.3:* ) python? ( dev-python/pythonqt[python_targets_python2_7(-)?,-python_single_target_python3_3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_jython2_7(-),python_single_target_python2_7(+)] ) qwt? ( x11-libs/qwt:5 ) >=dev-qt/qtcore-4.3:4 >=dev-qt/qtopengl-4.3:4 >=dev-qt/qtscript-4.3:4
+REQUIRED_USE=opencascade? ( vtk )
+SLOT=0
+_eclass_exported_funcs=pkg_preinst:subversion pkg_setup:python-single-r1 src_unpack:subversion src_prepare:- src_configure:- src_compile:qt4-r2 src_install:qt4-r2
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	d9bd2ddd85a58e470b49ca997e255a4c	libtool	b75230758539a7da029e24afdb693960	multilib	3972ca401cf7dbb430df9995f5d8d580	python-single-r1	caecf590709cc0fcf0b6582bdc49150f	python-utils-r1	832cb17726d498a182de6b9ee2adc0dc	qmake-utils	bd69cb386c63df4642cf1392b50c8d81	qt4-r2	cb2cb5856695b300266b425da70e82d8	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=554d1e6de8dccfaaad920ca4c2e9e79d
