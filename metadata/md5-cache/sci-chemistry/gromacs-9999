@@ -3,11 +3,11 @@ DEPEND=X? ( x11-libs/libX11 x11-libs/libSM x11-libs/libICE ) blas? ( virtual/bla
 DESCRIPTION=The ultimate molecular dynamics simulation package
 EAPI=5
 HOMEPAGE=http://www.gromacs.org/
-IUSE=X blas boost cuda +doc -double-precision +fftw lapack +make-symlinks mkl mpi +offensive openmp +single-precision test +threads +tng cpu_flags_x86_sse2 cpu_flags_x86_sse4_1 cpu_flags_x86_fma4 cpu_flags_x86_avx cpu_flags_x86_avx2
+IUSE=X blas boost cuda +doc -double-precision +fftw lapack mkl mpi +offensive openmp +single-precision test +threads +tng cpu_flags_x86_sse2 cpu_flags_x86_sse4_1 cpu_flags_x86_fma4 cpu_flags_x86_avx cpu_flags_x86_avx2
 LICENSE=LGPL-2.1 UoI-NCSA !mkl? ( !fftw? ( BSD ) !blas? ( BSD ) !lapack? ( BSD ) ) cuda? ( LGPL-3 ) threads? ( BSD )
 RDEPEND=X? ( x11-libs/libX11 x11-libs/libSM x11-libs/libICE ) blas? ( virtual/blas ) boost? ( >=dev-libs/boost-1.55 ) cuda? ( >=dev-util/nvidia-cuda-toolkit-4.2.9-r1 ) fftw? ( sci-libs/fftw:3.0 ) lapack? ( virtual/lapack ) mkl? ( sci-libs/mkl ) mpi? ( virtual/mpi )
 REQUIRED_USE=|| ( single-precision double-precision ) cuda? ( single-precision ) mkl? ( !blas !fftw !lapack )
 SLOT=0/9999
 _eclass_exported_funcs=pkg_pretend:- pkg_postinst:- src_unpack:- src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
 _eclasses_=bash-completion-r1	acf715fa09463f043fbfdc1640f3fb85	cmake-utils	8f9b4a16a74424949f28dee874ec2d34	cuda	005e306be76ac11f3468389ef2e4da10	eutils	d9bd2ddd85a58e470b49ca997e255a4c	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-r3	0961ca04f93a7ae0e4c4a0b2b8c3be99	multilib	3972ca401cf7dbb430df9995f5d8d580	readme.gentoo	cbc4807273837f5fccb5372e385e99eb	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=f81bc17fd3e32be5d49e7ad1cc73ae37
+_md5_=9e031fd797c5d2cbb264e0b854dfaba5
