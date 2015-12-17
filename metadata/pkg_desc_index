@@ -114,6 +114,7 @@ dev-python/nbconvert 9999: Converting Jupyter Notebooks
 dev-python/nbformat 9999: Reference implementation of the Jupyter Notebook format
 dev-python/nbviewer 9999: Nbconvert as a webservice (rendering ipynb to static HTML)
 dev-python/newrelic 2.44.0.36 2.50.0.39: New Relic Python Agent
+dev-python/nilearn 0.1.4.1 9999: Fast and easy statistical learning on NeuroImaging data
 dev-python/notebook 4.0.6 9999: Jupyter Interactive Notebook
 dev-python/nvidia-ml-py 6.340.0 7.346.0 7.352.0: Python Bindings for the NVIDIA Management Library
 dev-python/omniorbpy 3.4: A robust high-performance CORBA ORB for Python
