@@ -1,0 +1,15 @@
+DEFINED_PHASES=compile configure install prepare pretend test unpack
+DEPEND=>=sys-devel/gcc-4.7:* media-libs/freeimage cuda? ( >=dev-util/nvidia-cuda-toolkit-7.5.18-r1 dev-libs/boost ) cpu? ( virtual/blas virtual/cblas virtual/lapacke sci-libs/fftw:3.0 ) opencl? ( virtual/blas virtual/cblas virtual/lapacke dev-libs/boost dev-libs/boost-compute >=sci-libs/clblas-2.4 >=sci-libs/clfft-2.6.1 ) graphics? ( media-libs/glew >=media-libs/glfw-3.1.1 =sci-visualization/forge-3.2.0 ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 )
+DESCRIPTION=A general purpose GPU library
+EAPI=5
+HOMEPAGE=http://www.arrayfire.com/
+IUSE=+examples +cpu cuda nonfree opencl test unified graphics
+KEYWORDS=~amd64
+LICENSE=BSD nonfree? ( OpenSIFT )
+RDEPEND=>=sys-devel/gcc-4.7:* media-libs/freeimage cuda? ( >=dev-util/nvidia-cuda-toolkit-7.5.18-r1 dev-libs/boost ) cpu? ( virtual/blas virtual/cblas virtual/lapacke sci-libs/fftw:3.0 ) opencl? ( virtual/blas virtual/cblas virtual/lapacke dev-libs/boost dev-libs/boost-compute >=sci-libs/clblas-2.4 >=sci-libs/clfft-2.6.1 ) graphics? ( media-libs/glew >=media-libs/glfw-3.1.1 =sci-visualization/forge-3.2.0 )
+RESTRICT=userpriv
+SLOT=0
+SRC_URI=http://arrayfire.com/arrayfire_source/arrayfire-full-3.2.1.tar.bz2 -> arrayfire-3.2.1.tar.bz2 test? ( https://googletest.googlecode.com/files/gtest-1.7.0.zip )
+_eclass_exported_funcs=pkg_pretend:- src_unpack:- src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
+_eclasses_=cmake-utils	b657a2689df4f46725711250cf9c8a32	eutils	d9bd2ddd85a58e470b49ca997e255a4c	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=36fea7c437954d97dce2f672738a6674
