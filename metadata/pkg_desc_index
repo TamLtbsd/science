@@ -608,7 +608,7 @@ sci-libs/givaro 3.2.13 3.3.0 3.8.0: C++ library for arithmetic and algebraic com
 sci-libs/gmsh 2.8.5: A three-dimensional finite element mesh generator
 sci-libs/gotoblas2 1.13-r1: Fast implementations of the Basic Linear Algebra Subroutines
 sci-libs/gsl 1.16-r2: GNU Scientific Library
-sci-libs/iml 1.0.3-r2 1.0.4: Integer Matrix Library
+sci-libs/iml 1.0.4 1.0.5: Integer Matrix Library
 sci-libs/itk 4.4.2 4.4.2-r1 4.5.1: NLM Insight Segmentation and Registration Toolkit
 sci-libs/jhdf5 14.12.1: Java binding for HDF5 compatible with HDF5 1.6/1.8
 sci-libs/k3match 1.1: Fast matching of large sets of points in 3D space, in O(N log N) time
