@@ -584,7 +584,7 @@ sci-libs/blastdb 9999: The BLAST NR database
 sci-libs/bloom 9999: C++ Bloom Filter Library
 sci-libs/calculix-ccx 2.8_p2: A Free Software Three-Dimensional Structural Finite Element Program
 sci-libs/calculix-cgx 2.7-r1: A Free Software Three-Dimensional Structural Finite Element Program
-sci-libs/cblas-reference 20110218-r1 20151113-r2: C wrapper interface to the F77 reference BLAS implementation
+sci-libs/cblas-reference 20110218-r1 20151113-r3: C wrapper interface to the F77 reference BLAS implementation
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib
 sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools
 sci-libs/clblas 2.6-r1 2.8 9999: A software library containing BLAS routines for OpenCL
