@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=dev-lang/R:0= dev-libs/double-conversion:0= dev-libs/gmp:0= dev-libs/libpcre:3= >=dev-libs/libgit2-0.21 dev-libs/mpfr:0= dev-libs/utf8proc:0= sci-libs/arpack:0= sci-libs/camd:0= sci-libs/cholmod:0= sci-libs/fdlibm:0= sci-libs/fftw:3.0=[threads] sci-libs/openlibm:0= sci-libs/spqr:0= sci-libs/umfpack:0= sci-mathematics/glpk:0= >=sys-devel/llvm-3.4 >=sys-libs/libunwind-1.1:7= sys-libs/readline:0= sys-libs/zlib:0= >=virtual/blas-2.1-r2[int64?] >=virtual/lapack-3.5-r2[int64?] emacs? ( app-emacs/ess )
 SLOT=0
 _eclass_exported_funcs=pkg_postrm:- pkg_postinst:- src_unpack:git-r3 src_prepare:- src_configure:- src_compile:- src_install:-
-_eclasses_=elisp-common	73c48c11ad6a6494eda0d0cca848c8fa	eutils	d9bd2ddd85a58e470b49ca997e255a4c	git-r3	0961ca04f93a7ae0e4c4a0b2b8c3be99	multilib	3972ca401cf7dbb430df9995f5d8d580	pax-utils	9dd3f9de6dccb2463faf55e568439d1c	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=elisp-common	73c48c11ad6a6494eda0d0cca848c8fa	eutils	d9bd2ddd85a58e470b49ca997e255a4c	git-r3	0961ca04f93a7ae0e4c4a0b2b8c3be99	multilib	3972ca401cf7dbb430df9995f5d8d580	pax-utils	ecf634cba91bb9591a8fdb6f6145f1bb	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=4377d0a86c70af689e8539cc415e2dd3
