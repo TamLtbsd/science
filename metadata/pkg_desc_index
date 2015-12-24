@@ -10,7 +10,7 @@ app-forensics/vine 1.0: The BitBlaze Static Analysis Component
 app-portage/g-octave 9999: A tool that generates and installs ebuilds for Octave-Forge
 app-text/dgs 0.5.10-r2: A Ghostscript based Display Postscript (DPS) server
 app-vim/vim-gromacs 9999: vim plugin: Gromacs file syntax highlighting and some macros
-dev-cpp/eigen 3.2.7 9999: C++ template library for linear algebra
+dev-cpp/eigen 3.2.7-r1 9999: C++ template library for linear algebra
 dev-cpp/growler 0.3.8.2: Distributed object architecture and environment
 dev-cpp/growler-arch 0.3.7.1: Growler libraries and utilities
 dev-cpp/growler-core 0.3.7: General-purpose classes and functionality
