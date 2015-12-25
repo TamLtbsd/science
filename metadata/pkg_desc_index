@@ -72,7 +72,7 @@ dev-python/Forthon 0.8.13: Python interface generator for Fortran based codes
 dev-python/GOGrapher 9999: A Gene Ontology Programming Library
 dev-python/PeakUtils 1.0.1: Peak detection utilities for 1D data
 dev-python/RecSQL 9999: Simple SQL analysis of python records
-dev-python/arrayfire-python 3.1.20151111 3.2.20151214 9999: Python bindings for ArrayFire
+dev-python/arrayfire-python 3.1.20151111 3.2.20151214 3.2.20151224 9999: Python bindings for ArrayFire
 dev-python/astlib 0.7.0: Python astronomy modules for image and coordinate manipulation
 dev-python/astropy 9999: Core functionality for performing astrophysics with Python
 dev-python/astropy-helpers 9999: Helpers for Astropy and Affiliated packages
