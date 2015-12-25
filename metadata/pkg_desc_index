@@ -197,7 +197,7 @@ sci-astronomy/zpeg 5.23: Galaxy photometric redshifts from evolutionary synthesi
 sci-biology/AlignGraph 9999: Asssemble contigs/scaffolds using related reference sequence
 sci-biology/Atlas 2005: Atlas Whole Genome Assembly Suite
 sci-biology/Atlas-Link 0.01: Links and orients genome sequence contigs using mate-pair information or superscaffolds .agp files
-sci-biology/Atlas2 1.4.3: Variant analysis tools (true SNPs, insertions, deletions) from whole exome capture sequencing (WECS)
+sci-biology/Atlas2 1.4.3: Variant analysis tools from whole exome capture sequencing (WECS)
 sci-biology/Atlas_GapFill 2.2: Close gaps using BWA-identified reads and reassemble
 sci-biology/BBmap 34.97 35.68: Short read aligner, K-mer-based error-correction and normalization, FASTA/Q conversion
 sci-biology/BG7 9999: A standalone bacterial genome annotation system using blastn from ncbi-tools++ for gene prediction
