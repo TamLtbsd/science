@@ -218,6 +218,7 @@ sci-libs/libgeodecomp:scotch - Optinally use Scotch for domain decomposition.
 sci-libs/libgeodecomp:visit - Add in situ visualization for big simulations via VisIt.
 sci-libs/libsc:romio - Build with support for the ROMIO MPI-IO component
 sci-libs/lwpr:octave - Add sci-mathematics/octave support
+sci-libs/mkl:int64 - Build the 64 bits integer library
 sci-libs/nexus:cbf - Support for Crystallographic Binary Format files with sci-libs/cbflib
 sci-libs/nexus:doc - Generate library documentation with app-doc/doxygen
 sci-libs/nexus:fortran - Build the Fortran bindings
