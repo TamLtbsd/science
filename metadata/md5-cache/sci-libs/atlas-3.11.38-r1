@@ -11,5 +11,5 @@ REQUIRED_USE=deprecated? ( lapack ) lapack? ( fortran )
 SLOT=0
 SRC_URI=mirror://sourceforge/math-atlas/atlas3.11.38.tar.bz2 fortran? ( lapack? ( http://www.netlib.org/lapack/lapack-3.6.0.tgz ) )
 _eclass_exported_funcs=pkg_prerm:alternatives-2 pkg_postinst:alternatives-2 pkg_setup:- src_configure:- src_compile:- src_test:- src_install:-
-_eclasses_=alternatives-2	c999805141d429cec00b3623d15610d2	eutils	d9bd2ddd85a58e470b49ca997e255a4c	fortran-2	5cc7c979568f0b4f6ef324628a6465d5	linux-info	8f92e5ac1a1da684c5450b1b21a1f56a	multilib	3972ca401cf7dbb430df9995f5d8d580	numeric	0c830a1432a1e464d4e952ad44bbd231	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=alternatives-2	c999805141d429cec00b3623d15610d2	eutils	d9bd2ddd85a58e470b49ca997e255a4c	fortran-2	d31b3a9fd39520b0150a4fed638b369e	linux-info	8f92e5ac1a1da684c5450b1b21a1f56a	multilib	3972ca401cf7dbb430df9995f5d8d580	numeric	0c830a1432a1e464d4e952ad44bbd231	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=689112daab58acd0a0683f41b9459c4a
