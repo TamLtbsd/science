@@ -1,14 +1,14 @@
 DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=mpi? ( sys-cluster/mpich2 ) dev-perl/DBI dev-perl/DBD-SQLite dev-perl/File-Which dev-perl/Bit-Vector dev-perl/Inline-C dev-perl/IO-All dev-perl/libwww-perl dev-perl/DBD-Pg dev-perl/Module-Build dev-perl/Want dev-perl/IO-Prompt dev-perl/Perl-Unsafe-Signals dev-perl/forks >=sci-biology/bioperl-1.6 sci-biology/ncbi-tools || ( sci-biology/ncbi-tools++ ) sci-biology/snap sci-biology/exonerate sci-biology/augustus sci-biology/repeatmasker dev-lang/perl:=[-build(-)]
+DEPEND=mpi? ( sys-cluster/mpich2 || ( sys-cluster/openmpi ) ) dev-perl/DBI dev-perl/DBD-SQLite dev-perl/File-Which dev-perl/Bit-Vector dev-perl/Inline-C dev-perl/IO-All dev-perl/libwww-perl dev-perl/DBD-Pg dev-perl/Module-Build dev-perl/Want dev-perl/IO-Prompt dev-perl/Perl-Unsafe-Signals dev-perl/forks dev-perl/forks-shared >=sci-biology/bioperl-1.6 sci-biology/ncbi-tools || ( sci-biology/ncbi-tools++ ) sci-biology/snap sci-biology/exonerate sci-biology/augustus sci-biology/repeatmasker dev-lang/perl:=[-build(-)]
 DESCRIPTION=A genome annotation viewer and pipeline for small eukaryota and prokaryota
 EAPI=5
 HOMEPAGE=http://www.yandell-lab.org/software/maker.html
 IUSE=mpi
 LICENSE=|| ( GPL-2 Artistic-2 )
-RDEPEND=mpi? ( sys-cluster/mpich2 ) dev-perl/DBI dev-perl/DBD-SQLite dev-perl/File-Which dev-perl/Bit-Vector dev-perl/Inline-C dev-perl/IO-All dev-perl/libwww-perl dev-perl/DBD-Pg dev-perl/Module-Build dev-perl/Want dev-perl/IO-Prompt dev-perl/Perl-Unsafe-Signals dev-perl/forks >=sci-biology/bioperl-1.6 sci-biology/ncbi-tools || ( sci-biology/ncbi-tools++ ) sci-biology/snap sci-biology/exonerate sci-biology/augustus sci-biology/repeatmasker dev-lang/perl:=[-build(-)]
+RDEPEND=mpi? ( sys-cluster/mpich2 || ( sys-cluster/openmpi ) ) dev-perl/DBI dev-perl/DBD-SQLite dev-perl/File-Which dev-perl/Bit-Vector dev-perl/Inline-C dev-perl/IO-All dev-perl/libwww-perl dev-perl/DBD-Pg dev-perl/Module-Build dev-perl/Want dev-perl/IO-Prompt dev-perl/Perl-Unsafe-Signals dev-perl/forks dev-perl/forks-shared >=sci-biology/bioperl-1.6 sci-biology/ncbi-tools || ( sci-biology/ncbi-tools++ ) sci-biology/snap sci-biology/exonerate sci-biology/augustus sci-biology/repeatmasker dev-lang/perl:=[-build(-)]
 RESTRICT=fetch
 SLOT=0
 SRC_URI=maker-2.31.8.tgz
-_eclass_exported_funcs=src_unpack:perl-module src_prepare:perl-module src_configure:perl-module src_compile:- src_test:perl-module src_install:perl-module
+_eclass_exported_funcs=src_unpack:perl-module src_prepare:perl-module src_configure:perl-module src_compile:- src_test:perl-module src_install:-
 _eclasses_=eutils	d9bd2ddd85a58e470b49ca997e255a4c	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	e32940a7b2a9992ad217eccddb84d548	perl-functions	15aff0b9cba2282790142295ceb6be0c	perl-module	b2108b3c85ac7a6a6a9b035b54f6813c	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	unpacker	1d149d9bda7723e740cfd28118f27813
-_md5_=a4a9835627b3f57be3eb252b16fb4968
+_md5_=c51941f36ab1da9b8dc064b7f0d03983
