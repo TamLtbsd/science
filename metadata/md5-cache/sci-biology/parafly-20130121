@@ -7,4 +7,4 @@ LICENSE=BSD-BroadInstitute
 SLOT=0
 SRC_URI=http://sourceforge.net/projects/transdecoder/files/OLDER/TransDecoder_r20140704.tar.gz
 _eclass_exported_funcs=src_configure:-
-_md5_=d2db33f275a2a373ea7c584ea046b985
+_md5_=fee1d6103e3423a97c124e0fbcb3fa42
