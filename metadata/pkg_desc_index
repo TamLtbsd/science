@@ -299,6 +299,7 @@ sci-biology/cutadapt 1.2.1 1.4.1 1.5 9999: Remove adapter sequences from high-th
 sci-biology/dawg 1.1.2: DNA Assembly With Gaps: Phylogenetic aligner for sequence evolution simulation
 sci-biology/dcmstack 9999: DICOM to Nifti coversion
 sci-biology/discrover 1.6.0 9999: A sequence motif discovery tool that uses discriminative learning
+sci-biology/dna2pep 1.1: Translate DNA sequence into protein (with STOP codon read-through)
 sci-biology/ePCR 2.3.12: Search for sub-sequences matching PCR primers
 sci-biology/edena 3.131028: De novo short read assembler
 sci-biology/epga 9999: De novo assembler using distribution of reads and insert size
