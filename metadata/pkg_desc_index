@@ -323,6 +323,7 @@ sci-biology/gbrowse 2.39 2.45 2.48: Display of genomic annotations on interactiv
 sci-biology/geneid 1.4.4: An ab initio exon/gene finding program
 sci-biology/genepop 4.2.1: Population genetics analysis
 sci-biology/generecon 1.2.1-r1: Disequilibrium gene mapping based on coalescent theory using Bayesian Markov Chain MC methods
+sci-biology/genometools 1.5.7: A collection of tools for bioinformatics (notably Tallymer, Readjoiner, gff3validator)
 sci-biology/genomeview-bin 2450: Genome browser and annotation tool
 sci-biology/genseed 1.0.22: Seed-driven progressive assembly program using legacy NCBI blast, CAP3, and optionally cross_match
 sci-biology/gfftools 0.98d: gff2ps can render features annotated in GFF file format into PostScript figures
