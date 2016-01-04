@@ -370,6 +370,7 @@ sci-biology/ngsview 0.91: Display, edit next-gen sequence alignment (BED, BLAST,
 sci-biology/nilearn 0.1.4.1 9999: Fast and easy statistical learning on NeuroImaging data
 sci-biology/nistats 9999: Neuroimaging tools for Python
 sci-biology/nrcl 110625: Containment clustering and layout utility for processing pairwise alignments
+sci-biology/nwalign 0.3.1: Needleman-Wunsch global sequence alignment in python/cython
 sci-biology/pairagon 1.1: HMM-based cDNA to genome aligner
 sci-biology/parafly 20130121: Some dependency for transdecoder
 sci-biology/pb-honey 14.1.15: Structural variant identification (SNV) using long reads (over 10kbp)
