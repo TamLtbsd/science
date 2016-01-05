@@ -225,7 +225,7 @@ sci-biology/MaSuRCA 2.3.2b: Assembler to combine Sanger, Roche 454 and Illumina 
 sci-biology/MagicViewer 1.2.1: Display short reads alignment, identify the genetic variation + associate with reference annotation
 sci-biology/MeV 4.8.1: Multiple experiment Viewer for genomic data analysis
 sci-biology/MochiView 1.45: Genome browser and analysis
-sci-biology/MuSeqBox 5.3: Parse and filter BLAST output into tab-delimited file
+sci-biology/MuSeqBox 5.4: Parse and filter BLAST output into tab-delimited file
 sci-biology/NGSTools 2.0.5: Next Generation Sequencing Eclipse Plugin (CNV and indel discovery), aka NGSEP
 sci-biology/OBO-Edit 2.1.0 2.1.1.6: Java-based editor optimized for the OBO biological ontology file format
 sci-biology/ONTO-PERL 1.41: Manipulates OBO- and OWL-formatted ontologies (like the Gene Ontology)
