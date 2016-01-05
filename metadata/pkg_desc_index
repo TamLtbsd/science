@@ -225,6 +225,7 @@ sci-biology/MaSuRCA 2.3.2b: Assembler to combine Sanger, Roche 454 and Illumina 
 sci-biology/MagicViewer 1.2.1: Display short reads alignment, identify the genetic variation + associate with reference annotation
 sci-biology/MeV 4.8.1: Multiple experiment Viewer for genomic data analysis
 sci-biology/MochiView 1.45: Genome browser and analysis
+sci-biology/MuSeqBox 5.3: Parse and filter BLAST output into tab-delimited file
 sci-biology/NGSTools 2.0.5: Next Generation Sequencing Eclipse Plugin (CNV and indel discovery), aka NGSEP
 sci-biology/OBO-Edit 2.1.0 2.1.1.6: Java-based editor optimized for the OBO biological ontology file format
 sci-biology/ONTO-PERL 1.41: Manipulates OBO- and OWL-formatted ontologies (like the Gene Ontology)
@@ -346,6 +347,7 @@ sci-biology/lastz 1.03.66: A pairwise DNA sequence aligner (also chromosome to c
 sci-biology/libgtextutils 0.6.1: Gordon Text utils Library
 sci-biology/lighter 9999: NGS reads corrector
 sci-biology/lucy 1.20: DNA sequence quality and vector trimming tool
+sci-biology/mRNAmarkup 1.0 1.1: Transcript annotation workflow
 sci-biology/maker 2.31.8: A genome annotation viewer and pipeline for small eukaryota and prokaryota
 sci-biology/manatee-igs 2.23.1: IGS-modified version of the genome annotation tool using Chado database schema
 sci-biology/manatee-jcvi 2.4.3: genome annotation tool: view, modify, and store annotation for prokaryotic and eukaryotic genomes
