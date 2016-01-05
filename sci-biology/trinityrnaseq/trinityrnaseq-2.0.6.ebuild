@@ -1,4 +1,4 @@
-# Copyright 1999-2015 Gentoo Foundation
+# Copyright 1999-2016 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
@@ -16,7 +16,7 @@ SRC_URI="https://github.com/${PN}/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="BSD-BroadInstitute"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS=""
 IUSE=""
 
 DEPEND=""
@@ -48,7 +48,7 @@ src_install(){
 	doins -r util/*
 	#
 	dobin Inchworm/bin/*
-	cd Chrysalis
+	cd Chrysalis || die
 	dobin MakeDepend checkLock BreakTransByPairs Chrysalis GraphFromFasta IsoformAugment JoinTransByPairs QuantifyGraph ReadsToTranscripts RunButterfly TranscriptomeFromVaryK analysis/ReadsToComponents.pl
 	cd "${S}" || die
 	insinto "${VENDOR_LIB}/${PN}"
