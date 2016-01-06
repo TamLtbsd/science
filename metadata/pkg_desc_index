@@ -203,7 +203,7 @@ sci-biology/Atlas 2005: Atlas Whole Genome Assembly Suite
 sci-biology/Atlas-Link 0.01: Links and orients genome sequence contigs using mate-pair information or superscaffolds .agp files
 sci-biology/Atlas2 1.4.3: Variant analysis tools from whole exome capture sequencing (WECS)
 sci-biology/Atlas_GapFill 2.2: Close gaps using BWA-identified reads and reassemble
-sci-biology/BBmap 34.97 35.68: Short read aligner, K-mer-based error-correction and normalization, FASTA/Q conversion
+sci-biology/BBmap 34.97 35.82: Short read aligner, K-mer-based error-correction and normalization, FASTA/Q conversion
 sci-biology/BG7 9999: A standalone bacterial genome annotation system using blastn from ncbi-tools++ for gene prediction
 sci-biology/BRAKER 20150330: Gene prediction based on RNA-Seq using GeneMark-ET and AUGUSTUS
 sci-biology/BRANCH 9999: Extend partial transcripts with sequence from other reads or genomic contigs
