@@ -281,6 +281,7 @@ sci-biology/bru2nii 9999: Converts Bruker ParaVision MRI data to the NIfTI file 
 sci-biology/bx-python 0.7.2 9999: Library for rapid implementation of genome scale analyses
 sci-biology/caftools 2.0.2: Manipulate CAF files and convert to GAP4 format (not GAP5), ACE, PHRAP
 sci-biology/cap3-bin 20071221: CAP3 is for small-scale assembly of EST sequences with or without quality value
+sci-biology/cast-bin 20080813: Predict low-complexity regions in putative proteins
 sci-biology/cd-hit 4.6.1: Clustering Database at High Identity with Tolerance
 sci-biology/cd-hit-auxtools 0.5: Additional cd-hit itools: read-linker, cd-hit-lap and cd-hit-dup
 sci-biology/cdbfasta 0.1: FASTA record indexing/retrievieng utility, a part of TIGR Gene Indices project tools

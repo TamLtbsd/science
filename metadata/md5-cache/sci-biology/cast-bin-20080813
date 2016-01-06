@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Predict low-complexity regions in putative proteins
+EAPI=5
+HOMEPAGE=http://bioinformatics.cenargen.embrapa.br/portrait/download
+KEYWORDS=~amd64
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=http://bioinformatics.cenargen.embrapa.br/portrait/download/cast-linux.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=f216896d9bc4160689c70f61db37c476
