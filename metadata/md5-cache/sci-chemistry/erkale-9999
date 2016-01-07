@@ -1,5 +1,5 @@
-DEFINED_PHASES=compile configure install preinst prepare test unpack
-DEPEND=>=sci-libs/armadillo-4[blas,lapack] sci-libs/gsl sci-libs/hdf5 sci-libs/libint >=sci-libs/libxc-2.0.0 sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=>=sci-libs/armadillo-4[blas,lapack] sci-libs/gsl sci-libs/hdf5 sci-libs/libint >=sci-libs/libxc-2.0.0 sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) >=dev-vcs/git-1.8.2.1
 DESCRIPTION=Quantum chemistry program for atoms and molecules
 EAPI=5
 HOMEPAGE=https://code.google.com/p/erkale/
@@ -7,6 +7,6 @@ IUSE=openmp
 LICENSE=GPL-2
 RDEPEND=sci-libs/gsl sci-libs/hdf5 sci-libs/libint >=sci-libs/libxc-2.0.0
 SLOT=0
-_eclass_exported_funcs=pkg_preinst:subversion src_unpack:subversion src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
-_eclasses_=cmake-utils	b657a2689df4f46725711250cf9c8a32	eutils	d9bd2ddd85a58e470b49ca997e255a4c	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multibuild	742139c87a9fa3766f0c2b155e5522bf	multilib	3972ca401cf7dbb430df9995f5d8d580	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=5cf17325d83e8912c784c913eca1128b
+_eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
+_eclasses_=cmake-utils	b657a2689df4f46725711250cf9c8a32	eutils	d9bd2ddd85a58e470b49ca997e255a4c	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-r3	0961ca04f93a7ae0e4c4a0b2b8c3be99	multibuild	742139c87a9fa3766f0c2b155e5522bf	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=1fa44efb2ef715dbd79ad1d25d4b09fb
