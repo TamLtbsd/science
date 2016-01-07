@@ -721,6 +721,7 @@ sci-mathematics/pff 8.4: Library for reasoning about floating point numbers in c
 sci-mathematics/pulp 1.5.6: Create MPS/LP files, call solvers, and present results
 sci-mathematics/scilab 5.5.2-r1: Scientific software package for numerical computations
 sci-mathematics/surfer 0.0.197: Frontend to surf to visualize algebraic curves and surfaces
+sci-mathematics/tisean 3.0.1: Time series alanalytics with theory of nonliner deterministic dynamical systems
 sci-mathematics/ufc 1.4.2 2.3.0: Unified framework for finite element assembly
 sci-mathematics/why 2.34: Why is a software verification platform
 sci-mathematics/why3 0.83: Why3 is a platform for deductive program verification
