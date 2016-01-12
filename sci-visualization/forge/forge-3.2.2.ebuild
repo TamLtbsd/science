@@ -1,18 +1,18 @@
-# Copyright 1999-2015 Gentoo Foundation
+# Copyright 1999-2016 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
 EAPI=5
 
-inherit cmake-utils
+inherit cmake-utils multilib
 
 DESCRIPTION="High Performance Visualizations for ArrayFire"
 HOMEPAGE="http://www.arrayfire.com/"
 SRC_URI="https://github.com/arrayfire/${PN}/archive/af${PV}.tar.gz -> ${P}.tar.gz"
-KEYWORDS="~amd64"
 
 LICENSE="BSD"
 SLOT="0"
+KEYWORDS="~amd64"
 IUSE="examples"
 
 RDEPEND="
@@ -40,6 +40,7 @@ src_configure() {
 	   $(cmake-utils_use_build examples EXAMPLES)
 	   -DUSE_SYSTEM_GLM=ON
 	   -DUSE_SYSTEM_FREETYPE=ON
+	   -DFG_INSTALL_CMAKE_DIR=/usr/$(get_libdir)/cmake/Forge
 	)
 	cmake-utils_src_configure
 }
