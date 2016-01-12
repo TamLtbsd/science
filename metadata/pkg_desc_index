@@ -587,7 +587,7 @@ sci-libs/amber99sbnmr 0_pre130901: AMBER99SBnmr1 force field (Lindorff-Larsen et
 sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN FF (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amdlibm 3.1: Optimized libm replacement from AMD for x86_64 architectures
 sci-libs/armadillo 4.650.4 5.600.2 6.200.3: Streamlined C++ linear algebra library
-sci-libs/arrayfire 3.1.3-r1 3.2.0-r1 3.2.1 3.2.2 9999: A general purpose GPU library
+sci-libs/arrayfire 3.1.3-r1 3.2.2 9999: A general purpose GPU library
 sci-libs/asl 0.1.5 9999: Advanced Simulation Library - multiphysics simulation software package
 sci-libs/atlas 3.10.1-r2 3.10.2 3.11.38-r1: Automatically Tuned Linear Algebra Software
 sci-libs/bigdft-abi 1.0.4-r3: A DFT electronic structure code using a wavelet basis set
@@ -774,7 +774,7 @@ sci-physics/root 9999: C++ data analysis framework and interpreter from CERN
 sci-physics/tauola 1.1.3 1.1.4 1.1.5 9999: tau decay Monte Carlo generator
 sci-physics/vgm 3.06 9999: Virtual Geometry Model for High Energy Physics Experiments
 sci-physics/yoda 1.0.6: Yet more Objects for (High Energy Physics) Data Analysis
-sci-visualization/forge 3.1.2 3.2.0 3.2.1 9999: High Performance Visualizations for ArrayFire
+sci-visualization/forge 3.1.2 3.2.2 9999: High Performance Visualizations for ArrayFire
 sci-visualization/gnuplot 5.0.9999 5.1.9999: Command-line driven interactive plotting program
 sci-visualization/mantid 3.3.0: Utilities for processing and plotting neutron scattering data
 sci-visualization/mayavi 4.4.0 4.4.2: Enthought Tool Suite: Scientific data 3-dimensional visualizer
