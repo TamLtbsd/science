@@ -26,8 +26,8 @@ DEPEND="${RDEPEND}
 	virtual/pkgconfig"
 
 src_prepare() {
-	need-wxwidgets unicode
-	epatch "${FILESDIR}"/${PN}-7.5-glew.patch
+	epatch_user
+
 	sed \
 		-e "/^dist_doc_DATA/d" \
 		-i Makefile.am || die "Failed to disable installation of LICENSE file"
