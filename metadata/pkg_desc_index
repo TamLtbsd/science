@@ -391,7 +391,7 @@ sci-biology/proda 1.0: Multiple alignment of protein sequences with repeated and
 sci-biology/prokka 1.11: Prokaryotic whole genome annotation pipeline
 sci-biology/prot4EST 3.1b: Predict proteins from EST sequences overcoming errors in ORFs
 sci-biology/psx 0.1: parallel multi-FASTA file processing tool from TIGR Gene Indices project tools
-sci-biology/psychopy 1.78.00 9999: Python experimental psychology toolkit
+sci-biology/psychopy 1.78.00 1.83.03 9999: Python experimental psychology toolkit
 sci-biology/pvmsx 0.1: Parallel multi-FASTA file processing tool
 sci-biology/pybedtools 0.6.9: Wrapper for Aaron Quinlan's BEDtools, plus other useful methods for working
 sci-biology/pybrain 9999: The Python Machine Learning Library
