@@ -466,7 +466,7 @@ sci-biology/wise 2.4.1: Genewise, promoterwise: align protein HMMs to DNA for CD
 sci-biology/zmsort 110625: Merge-sort utility for compressed alignment files, with multi-file output
 sci-chemistry/GromacsWrapper 9999: Python framework for Gromacs
 sci-chemistry/NMRdyn 3.2.5: NMR relaxation studies of protein association
-sci-chemistry/ambertools 12_p38: A suite for carrying out complete molecular mechanics investigations
+sci-chemistry/ambertools 12_p38-r1: A suite for carrying out complete molecular mechanics investigations
 sci-chemistry/ball 9999: Biochemical Algorithms Library
 sci-chemistry/burrow-owl 9999: Visualize multidimensional nuclear magnetic resonance (NMR) spectra
 sci-chemistry/camshift 1.35.0: Structure based prediction of protein chemical shifts
