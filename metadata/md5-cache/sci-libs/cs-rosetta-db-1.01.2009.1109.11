@@ -8,5 +8,5 @@ RESTRICT=binchecks mirror strip
 SLOT=0
 SRC_URI=http://spin.niddk.nih.gov/bax/software/CSROSETTA/PDBH.tar.Z -> cs-rosetta-db-1.01.2009.1109.11-PDBH.tar.Z http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/PDBH.hyb.tar.gz -> cs-rosetta-db-1.01.2009.1109.11-PDBH.hyb.tar.gz http://spin.niddk.nih.gov/bax/software/CSROSETTA/CS.tar.Z -> cs-rosetta-db-1.01.2009.1109.11-CS.tar.Z http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/CS.hyb.tar.gz -> cs-rosetta-db-1.01.2009.1109.11-CS.hyb.tar.gz http://spin.niddk.nih.gov/bax/software/CSROSETTA/ANGLESS.tar.Z -> cs-rosetta-db-1.01.2009.1109.11-ANGLESS.tar.Z http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/ANGLESS.hyb.tar.gz -> cs-rosetta-db-1.01.2009.1109.11-ANGLESS.hyb.tar.gz http://spin.niddk.nih.gov/bax/software/CSROSETTA/hybrid/vall.dat.apr24.gz -> cs-rosetta-db-1.01.2009.1109.11-vall.dat.apr24.gz
 _eclass_exported_funcs=src_unpack:- src_prepare:- src_install:-
-_eclasses_=eutils	7332d4dd366dcd51c0014dde21f21897	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	8982475656ba7ade9b3201397efbd612	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=b9cf9d326af7d7c5c5532b3f69c66f3b
