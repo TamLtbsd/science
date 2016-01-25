@@ -719,7 +719,7 @@ sci-mathematics/netgen 4.9.13 5.0.0: NETGEN is an automatic 3d tetrahedral mesh 
 sci-mathematics/open-axiom 1.4.2: Symbolic and algebraic computations system
 sci-mathematics/petsc 3.4.2 3.5.3 3.6.0 3.6.3: Portable, Extensible Toolkit for Scientific Computation
 sci-mathematics/pff 8.4: Library for reasoning about floating point numbers in coq
-sci-mathematics/pulp 1.5.6: Create MPS/LP files, call solvers, and present results
+sci-mathematics/pulp 1.5.6-r1: Create MPS/LP files, call solvers, and present results
 sci-mathematics/scilab 5.5.2-r1: Scientific software package for numerical computations
 sci-mathematics/surfer 0.0.197: Frontend to surf to visualize algebraic curves and surfaces
 sci-mathematics/tisean 3.0.1: Time series alanalytics with theory of nonliner deterministic dynamical systems
