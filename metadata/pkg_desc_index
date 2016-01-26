@@ -811,7 +811,6 @@ virtual/lapacke 1.0 3.5 3.6: Virtual for LAPACK C implementation
 virtual/mpi 2.0-r3: Virtual for Message Passing Interface (MPI) v2.0 implementation
 virtual/perl-encoding-warnings 0.11: Virtual for encoding-warnings
 virtual/scalapack 2.0 2.0.2: Virtual for ScaLAPACK implementation
-www-client/casperjs 1.1_beta3: Navigation scripting & testing utility for PhantomJS and SlimerJS
 x11-libs/agg 2.5-r3: High quality rendering engine library for C++
 x11-libs/tr 1.3: An OpenGL utility library for doing tiled rendering
 x11-libs/xview 3.2-r8: The X Window-System-based Visual/Integrated Environment for Workstations
