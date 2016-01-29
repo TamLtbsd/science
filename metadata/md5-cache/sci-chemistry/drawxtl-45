@@ -10,5 +10,5 @@ RDEPEND=opengl? ( virtual/opengl media-libs/freeglut ) fltk? ( x11-libs/fltk:1[o
 SLOT=4
 SRC_URI=http://www.lwfinger.com/drawxtl/DRAWxtl45.tar.gz
 _eclass_exported_funcs=pkg_postinst:- src_prepare:- src_compile:- src_install:-
-_eclasses_=eutils	8982475656ba7ade9b3201397efbd612	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	28fb3e5852485af1c348d446b0b98389	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=b841e6f69a5d63de83c7fd00e49bb8bc
