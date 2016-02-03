@@ -3,9 +3,9 @@ DESCRIPTION=Virtual for FORTRAN 77 BLAS implementation
 EAPI=5
 IUSE=doc int64 abi_x86_32 abi_x86_64
 KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
-RDEPEND=!app-eselect/eselect-blas || ( sci-libs/blas-reference[int64?,abi_x86_32(-)?,abi_x86_64(-)?] >=sci-libs/openblas-0.2.11[int64?,abi_x86_32(-)?,abi_x86_64(-)?] sci-libs/gotoblas2[int64?,abi_x86_32(-)?,abi_x86_64(-)?] sci-libs/mkl[int64?,abi_x86_32(-)?,abi_x86_64(-)?] abi_x86_64? ( !abi_x86_32? ( >=dev-cpp/eigen-3.1.4 sci-libs/atlas[fortran] >=sci-libs/acml-4.4 ) ) ) doc? ( >=app-doc/blas-docs-3.2 ) int64? ( || ( sci-libs/blas-reference[int64,abi_x86_32(-)?,abi_x86_64(-)?] >=sci-libs/openblas-0.2.11[int64,abi_x86_32(-)?,abi_x86_64(-)?] sci-libs/gotoblas2[int64,abi_x86_32(-)?,abi_x86_64(-)?] sci-libs/mkl[int64,abi_x86_32(-)?,abi_x86_64(-)?] ) )
+RDEPEND=!app-eselect/eselect-blas || ( sci-libs/blas-reference[int64?,abi_x86_32(-)?,abi_x86_64(-)?] >=sci-libs/openblas-0.2.11[int64?,abi_x86_32(-)?,abi_x86_64(-)?] sci-libs/gotoblas2[int64?,abi_x86_32(-)?,abi_x86_64(-)?] sci-libs/mkl[int64?,abi_x86_32(-)?,abi_x86_64(-)?] abi_x86_64? ( !abi_x86_32? ( || ( >=dev-cpp/eigen-3.1.4 sci-libs/atlas[fortran] >=sci-libs/acml-4.4 ) ) ) ) doc? ( >=app-doc/blas-docs-3.2 ) int64? ( || ( sci-libs/blas-reference[int64,abi_x86_32(-)?,abi_x86_64(-)?] >=sci-libs/openblas-0.2.11[int64,abi_x86_32(-)?,abi_x86_64(-)?] sci-libs/gotoblas2[int64,abi_x86_32(-)?,abi_x86_64(-)?] sci-libs/mkl[int64,abi_x86_32(-)?,abi_x86_64(-)?] ) )
 REQUIRED_USE=|| ( abi_x86_32 abi_x86_64 )
 SLOT=0
 _eclass_exported_funcs=pkg_pretend:-
 _eclasses_=eutils	28fb3e5852485af1c348d446b0b98389	multibuild	742139c87a9fa3766f0c2b155e5522bf	multilib	3972ca401cf7dbb430df9995f5d8d580	multilib-build	8fe2e81aeb36cdf8a6cc5f50443879cc	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=51c4527b00410d941f9482ba9ecb7967
+_md5_=a109bc0ce09e45c2dc0f47af027c9369
