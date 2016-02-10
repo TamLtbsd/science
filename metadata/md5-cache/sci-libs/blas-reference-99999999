@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile configure install postinst preinst prepare prerm setup test unpack
-DEPEND=test? ( || ( >=dev-lang/python-2.7.5-r2:2.7 ) ) virtual/pkgconfig >=app-admin/eselect-1.4.5-r103 sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) virtual/fortran >=app-admin/eselect-1.4.5-r103 virtual/fortran || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DEPEND=test? ( || ( >=dev-lang/python-2.7.5-r2:2.7 ) ) virtual/pkgconfig >=app-admin/eselect-1.4.5-r103 sys-devel/make >=dev-util/cmake-2.8.12 virtual/fortran >=app-admin/eselect-1.4.5-r103 virtual/fortran || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
 DESCRIPTION=Reference implementation of BLAS
 EAPI=5
 HOMEPAGE=http://www.netlib.org/lapack/
@@ -9,5 +9,5 @@ RDEPEND=>=app-admin/eselect-1.4.5-r103 !app-eselect/eselect-blas !app-eselect/es
 REQUIRED_USE=test? ( ) || ( abi_x86_32 abi_x86_64 )
 SLOT=0/3.6.0
 _eclass_exported_funcs=pkg_prerm:alternatives-2 pkg_preinst:subversion pkg_postinst:alternatives-2 pkg_setup:python-any-r1 src_unpack:subversion src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
-_eclasses_=alternatives-2	beedbf0f7061e7116ec8fe5a19a925e5	cmake-utils	3443785f3176b7cfdf7bd1f2c403bd9f	eutils	28fb3e5852485af1c348d446b0b98389	flag-o-matic	d270fa247153df66074f795fa42dba3e	fortran-2	49cf4293404403fe100eafdd9b84c940	multibuild	742139c87a9fa3766f0c2b155e5522bf	multilib	3972ca401cf7dbb430df9995f5d8d580	multilib-build	8fe2e81aeb36cdf8a6cc5f50443879cc	numeric	287f03a697810f9cdf8da9dc66092cb9	numeric-int64-multibuild	a979c2ed0dfc519fd71c716629a18f9e	python-any-r1	8eb13cdf35f6e43c48107b911900b2cc	python-utils-r1	2e6826f6a93ad2acf904eecf5b5fb6d2	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=alternatives-2	beedbf0f7061e7116ec8fe5a19a925e5	cmake-utils	c67ce9708a9c02be2d296cf547740e9c	eutils	28fb3e5852485af1c348d446b0b98389	flag-o-matic	d270fa247153df66074f795fa42dba3e	fortran-2	49cf4293404403fe100eafdd9b84c940	multibuild	742139c87a9fa3766f0c2b155e5522bf	multilib	3972ca401cf7dbb430df9995f5d8d580	multilib-build	8fe2e81aeb36cdf8a6cc5f50443879cc	numeric	287f03a697810f9cdf8da9dc66092cb9	numeric-int64-multibuild	a979c2ed0dfc519fd71c716629a18f9e	python-any-r1	8eb13cdf35f6e43c48107b911900b2cc	python-utils-r1	2e6826f6a93ad2acf904eecf5b5fb6d2	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=65a5c2c35e13900bb1556f66ae43927c
