@@ -1,7 +1,7 @@
 DEFINED_PHASES=compile install postinst prepare
 DEPEND=!app-eselect/eselect-blas !app-eselect/eselect-lapack || ( sys-apps/coreutils sys-freebsd/freebsd-bin app-misc/realpath ) app-arch/xz-utils doc? ( dev-python/docutils ) !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DESCRIPTION=Gentoo's multi-purpose configuration and management tool
-EAPI=5
+EAPI=6
 HOMEPAGE=http://wiki.gentoo.org/wiki/Project:Eselect
 IUSE=doc emacs vim-syntax
 KEYWORDS=~alpha ~amd64 ~arm ~arm64 ~hppa ~ia64 ~m68k ~mips ~ppc ~ppc64 ~s390 ~sh ~sparc ~x86 ~ppc-aix ~amd64-fbsd ~sparc-fbsd ~x86-fbsd ~x64-freebsd ~x86-freebsd ~hppa-hpux ~ia64-hpux ~x86-interix ~amd64-linux ~arm-linux ~ia64-linux ~x86-linux ~ppc-macos ~x64-macos ~x86-macos ~m68k-mint ~sparc-solaris ~sparc64-solaris ~x64-solaris ~x86-solaris
@@ -12,4 +12,4 @@ SLOT=0
 SRC_URI=http://dev.gentoo.org/~ulm/eselect/eselect-1.4.5.tar.xz
 _eclass_exported_funcs=pkg_postinst:- src_prepare:- src_compile:- src_install:-
 _eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	bash-completion-r1	acf715fa09463f043fbfdc1640f3fb85	eutils	28fb3e5852485af1c348d446b0b98389	libtool	b75230758539a7da029e24afdb693960	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=3b629c0ff5b2825e49987c64d6a6bc4a
+_md5_=7d9b9038490ffdb997d5fe14a376276a
