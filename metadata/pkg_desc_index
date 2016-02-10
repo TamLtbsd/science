@@ -200,6 +200,7 @@ sci-astronomy/topcat 4.0.1: Interactive graphical viewer and editor for astronom
 sci-astronomy/weightwatcher 1.12 9999: Combine weight maps and polygon for astronomical images weighting
 sci-astronomy/zebra 1.01: Galaxy redhift Bayesian analyzer
 sci-astronomy/zpeg 5.23: Galaxy photometric redshifts from evolutionary synthesis
+sci-biology/ANGLE-bin 20080813: CDS prediction overcoming sequencing errors in protein coding regions in unfinished cDNA
 sci-biology/AlignGraph 9999: Asssemble contigs/scaffolds using related reference sequence
 sci-biology/Atlas 2005: Atlas Whole Genome Assembly Suite
 sci-biology/Atlas-Link 0.01: Links and orients genome sequence contigs using mate-pair information or superscaffolds .agp files
@@ -238,6 +239,7 @@ sci-biology/RSeQC 2.6.1: Utilities for RNA-seq data quality control
 sci-biology/Ray 2.3.0: Assembler for metagenomes, genomes and transcriptomes (untested) using parallel MPI
 sci-biology/Rcorrector 9999: Error correction for Illumina RNA-seq reads
 sci-biology/SEECER 0.1.3-r2: SEquencing Error Corrector for RNA-Seq reads
+sci-biology/SPAdes 3.5.0: De novo assembler for smaller genomes (bacteria to fungi)
 sci-biology/SSAKE 3.8.2: Short-read trimmer, assembler, scaffolder in PERL using the 3'-most k-mers
 sci-biology/STAR 2.4.1c 9999: STAR aligner: align RNA-seq reads to reference genome uncompressed suffix arrays
 sci-biology/SnpEff 4.1e: Annotate SNP changes and predict their effect
@@ -390,6 +392,7 @@ sci-biology/phusion 2.1c: Whole genome shotgun assembler using phrap (for Sanger
 sci-biology/pileup 0.6: SSAHA2-based pipeline to align reads into format also understood by samtools, maq
 sci-biology/plinkseq 0.10: C/C++ library for working with human genetic variation data
 sci-biology/polyphen 2.2.2: Predict effect of aminoacid substitution on human protein function
+sci-biology/portrait 1.1: Ab initio ncRNA prediction
 sci-biology/primerD 1.0.0: Design degenerate primers
 sci-biology/proda 1.0: Multiple alignment of protein sequences with repeated and shuffled elements
 sci-biology/prokka 1.11: Prokaryotic whole genome annotation pipeline

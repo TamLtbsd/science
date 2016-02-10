@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=CDS prediction overcoming sequencing errors in protein coding regions in unfinished cDNA
+EAPI=5
+HOMEPAGE=http://bioinformatics.cenargen.embrapa.br/portrait/download
+KEYWORDS=~amd64
+LICENSE=BSD
+RESTRICT=fetch
+SLOT=0
+SRC_URI=http://bioinformatics.cenargen.embrapa.br/portrait/download/angle.tar.gz
+_eclass_exported_funcs=src_install:-
+_md5_=0c5d6cd092ea799d9c8eb49929a4f4cf
