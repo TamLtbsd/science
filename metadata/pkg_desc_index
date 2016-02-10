@@ -291,6 +291,7 @@ sci-biology/cd-hit 4.6.1: Clustering Database at High Identity with Tolerance
 sci-biology/cd-hit-auxtools 0.5: Additional cd-hit itools: read-linker, cd-hit-lap and cd-hit-dup
 sci-biology/cdbfasta 0.1: FASTA record indexing/retrievieng utility, a part of TIGR Gene Indices project tools
 sci-biology/cegma 2.5: Predict genes in a genome and use them for training to find all genes
+sci-biology/cg-cat 20150130: r2cat and treecat, scaffolding tools for ordering and orienting contigs
 sci-biology/cgview-bin 20131130: CGView Comparison Tool to compare genome sequences graphically (aka CCT)
 sci-biology/clover 2011.10.24: Cis-eLement OVERrepresentation: Detection of functional DNA motifs
 sci-biology/cluster 1.50-r1: Clustering software for microarray analysis
