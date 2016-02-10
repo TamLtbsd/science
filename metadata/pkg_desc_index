@@ -437,6 +437,7 @@ sci-biology/sgp2 1.1: Find ORFs by comparing two genomic/EST sequences using tbl
 sci-biology/sickle 1.33 9999: Windowed adaptive quality-based trimming tool for FASTQ data from Illumina/Solexa
 sci-biology/signalp 3.0: Prediction of signal peptide cleavage sites in amino acid sequences
 sci-biology/skewer-bin 0.1.104: Adaptor and MID removal / trimming tool, also for Illumina-oriented paired-end reads
+sci-biology/smalt 0.7.6: Successor of ssaha2: pairwise sequence alignment mapping DNA reads
 sci-biology/smalt-bin 0.7.4: Pairwise sequence alignment mapping DNA reads onto genomic reference, better over SSAHA2
 sci-biology/snap 20131129: HMM-based prokaryotic and eukaryotic gene prediction tool
 sci-biology/snphylo 20140701: Pipeline to generate phylogenetic tree from SNP data
