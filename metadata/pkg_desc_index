@@ -130,7 +130,7 @@ dev-python/prettyplotlib 0.1.7 9999: Painlessly create beautiful matplotlib plot
 dev-python/psubprocess 0.1.2: Execute tasks in parallel
 dev-python/ptyprocess 9999: Run a subprocess in a pseudo terminal
 dev-python/pydotplus 2.0.2: Improved version of the old pydot project
-dev-python/pyfftw 0.9.2 9999: FFTW wrapper for python
+dev-python/pyfftw 0.9.2 0.10.1 9999: FFTW wrapper for python
 dev-python/pyhdf 0.8.3: Python interface to NCSA HDF4 library
 dev-python/pylibconfig2 0.2.5 9999: Pure python library for libconfig syntax
 dev-python/pymvpa 0.4.4: Multivariate pattern analysis with Python
