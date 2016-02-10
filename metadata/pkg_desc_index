@@ -240,6 +240,7 @@ sci-biology/Rcorrector 9999: Error correction for Illumina RNA-seq reads
 sci-biology/SEECER 0.1.3-r2: SEquencing Error Corrector for RNA-Seq reads
 sci-biology/SSAKE 3.8.2: Short-read trimmer, assembler, scaffolder in PERL using the 3'-most k-mers
 sci-biology/STAR 2.4.1c 9999: STAR aligner: align RNA-seq reads to reference genome uncompressed suffix arrays
+sci-biology/SnpEff 4.1e: Annotate SNP changes and predict their effect
 sci-biology/SolexaQA 2.2: Analyze and trim single-end and paired-end reads, show quality statistics
 sci-biology/StarORF 9999: Java-based utility to show ORFs in a sequence
 sci-biology/TransDecoder 2.0.1: Extract ORF/CDS regions from FASTA sequences
