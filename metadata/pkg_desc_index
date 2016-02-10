@@ -564,7 +564,7 @@ sci-chemistry/unio 2.0.3-r1: Automated NMR Data Analysis
 sci-chemistry/usf-tools 9999: The USF program suite
 sci-chemistry/votca-csg 9999: Votca coarse-graining engine
 sci-chemistry/votca-csgapps 9999: Extra applications for votca-csg
-sci-chemistry/wxmacmolplt 7.6.1: Chemical 3D graphics program with GAMESS input builder
+sci-chemistry/wxmacmolplt 7.6.1 7.6.2: Chemical 3D graphics program with GAMESS input builder
 sci-chemistry/xplor-nih 2.38: Structure determination program which builds on the X-PLOR program
 sci-electronics/minipro 9999: A free and open TL866XX programmer
 sci-electronics/player 2.0.4: A network server for robot control
