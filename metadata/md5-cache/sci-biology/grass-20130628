@@ -1,11 +1,11 @@
 DEFINED_PHASES=compile install prepare
-DEPEND=sci-biology/bamtools sci-biology/ncbi-tools++
+DEPEND=sci-biology/bamtools sci-biology/ncbi-tools++ sys-cluster/openmpi
 DESCRIPTION=Scaffold next-generation sequencing assemblies
 EAPI=5
 HOMEPAGE=https://github.com/AlexeyG/GRASS
 LICENSE=GPL-3
-RDEPEND=sci-biology/bamtools sci-biology/ncbi-tools++
+RDEPEND=sci-biology/bamtools sci-biology/ncbi-tools++ sys-cluster/openmpi
 SLOT=0
 SRC_URI=https://github.com/AlexeyG/GRASS/archive/master.zip -> grass-20130628.zip https://tud-scaffolding.googlecode.com/files/GRASS%20manual.pdf -> grass_manual.pdf
 _eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
-_md5_=86da8c1728070eff1037342ffc33903e
+_md5_=0700c44b0fec2b9f3faaf4886ef38c1b
