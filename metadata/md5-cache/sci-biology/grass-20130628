@@ -8,4 +8,4 @@ RDEPEND=sci-biology/bamtools sci-biology/ncbi-tools++
 SLOT=0
 SRC_URI=https://github.com/AlexeyG/GRASS/archive/master.zip -> grass-20130628.zip https://tud-scaffolding.googlecode.com/files/GRASS%20manual.pdf -> grass_manual.pdf
 _eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
-_md5_=436ca9d8d09aeff266afcb00e9009d8f
+_md5_=86da8c1728070eff1037342ffc33903e
