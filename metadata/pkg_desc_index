@@ -630,7 +630,7 @@ sci-libs/ghmm 9999: General Hidden Markov Model library
 sci-libs/givaro 3.2.13 3.3.0 3.8.0: C++ library for arithmetic and algebraic computations
 sci-libs/gmsh 2.8.5: A three-dimensional finite element mesh generator
 sci-libs/gotoblas2 1.13-r1: Fast implementations of the Basic Linear Algebra Subroutines
-sci-libs/gsl 1.16-r2: GNU Scientific Library
+sci-libs/gsl 1.16-r2 2.1: GNU Scientific Library
 sci-libs/iml 1.0.4 1.0.5: Integer Matrix Library
 sci-libs/ipp 8.2.2.187-r1: Intel Integrated Performance Primitive library for multimedia and data processing
 sci-libs/itk 4.4.2 4.4.2-r1 4.5.1: NLM Insight Segmentation and Registration Toolkit
