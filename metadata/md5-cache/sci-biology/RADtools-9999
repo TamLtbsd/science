@@ -1,11 +1,11 @@
-DEFINED_PHASES=install unpack
-DEPEND=>=dev-lang/perl-5.10 dev-perl/Parallel-ForkManager dev-vcs/git
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=>=dev-lang/perl-5.10 dev-perl/Parallel-ForkManager dev-lang/perl:= >=dev-vcs/git-1.8.2.1
 DESCRIPTION=Tools for processing RAD Sequencing Illumina reads
-EAPI=5
+EAPI=6
 HOMEPAGE=https://www.wiki.ed.ac.uk/display/RADSequencing/Home
 LICENSE=GPL-3
-RDEPEND=>=dev-lang/perl-5.10 dev-perl/Parallel-ForkManager
+RDEPEND=>=dev-lang/perl-5.10 dev-perl/Parallel-ForkManager dev-lang/perl:=
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-2 src_install:-
-_eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
-_md5_=232b1add14c91edd75b5a683cca5c0fc
+_eclass_exported_funcs=src_unpack:git-r3 src_prepare:perl-module src_configure:perl-module src_compile:perl-module src_test:perl-module src_install:-
+_eclasses_=eutils	28fb3e5852485af1c348d446b0b98389	git-r3	ef66dfc3db09f327af21cf32f140fb2b	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	e32940a7b2a9992ad217eccddb84d548	perl-functions	15aff0b9cba2282790142295ceb6be0c	perl-module	b2108b3c85ac7a6a6a9b035b54f6813c	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=de8dcb27a030d14e37d02c334a73d0b7

@@ -324,7 +324,7 @@ sci-biology/fastqc 0.11.3: Perl-based wrapper around java apps to quality contro
 sci-biology/fastx_toolkit 0.0.14: Tools for Short Read FASTA/FASTQ file processing
 sci-biology/ffindex 0.9.9.6: Simple index/database for huge amounts of small files
 sci-biology/flexbar 2.4: Barcode, MID tag and adapter sequence removal
-sci-biology/freebayes 9999: Bayesian gen. variant detector to find small polymorphisms: SNPs, indels, MNPs and complex events
+sci-biology/freebayes 9999: Bayesian gen. variant detector to find small polymorphisms
 sci-biology/fsa 1.15.7: Distance-based probabilistic multiple sequence alignment algorithm for DNA/RNA/protein
 sci-biology/fsl 5.0.8: Analysis of functional, structural, and diffusion MRI brain imaging data
 sci-biology/full_lengther_next 0.5.6: Classify assembled transcripts and fix frameshifts in ORFs
@@ -379,7 +379,7 @@ sci-biology/mrsfast 2.6.0.4: Micro Read Fast Alignment Search Tool
 sci-biology/ncbi-blast+ 2.2.30 2.2.31 2.3.0: A subset of NCBI C++ Toolkit containing just the NCBI BLAST+
 sci-biology/ncbi-tools++ 12.0.0: NCBI C++ Toolkit, including NCBI BLAST+
 sci-biology/nesoni 0.128: Analysis package for next-generation sequencing data and prepare for IGV display
-sci-biology/ngs_backbone 1.4.0 9999: Assembly and annotation pipeline with web interface for EST/chromosomal sequences
+sci-biology/ngs_backbone 1.4.0 9999: Assembly & annotation pipeline with web interface for EST/chromosomal sequences
 sci-biology/ngsview 0.91: Display, edit next-gen sequence alignment (BED, BLAST, Eland, mapview processed MAQ, Corona formats)
 sci-biology/nilearn 0.1.4.1 9999: Fast and easy statistical learning on NeuroImaging data
 sci-biology/nistats 9999: Neuroimaging tools for Python
@@ -763,7 +763,7 @@ sci-misc/opennlp-maxent 2.4.0: Maximum entropy model implementation for opennlp
 sci-misc/praat 5.4.19: Speech analysis and synthesis
 sci-misc/pywordnet 2.0.1: Python bindings for wordnet
 sci-misc/sfst 1.4.2 1.4.6g: Uni Stuttgart Finite State Transducer tools
-sci-misc/simx 0.2 9999: a library for developing parallel, discrete-event simulations in Python
+sci-misc/simx 0.2 9999: Library for developing parallel, discrete-event simulations in Python
 sci-misc/stanford-parser 1.6: Stanfords statistical natural language parsers
 sci-misc/stanford-tagger 20060521: Stanfords log linear POS taggers
 sci-physics/abinit 7.4.2-r1 7.6.4-r1 7.10.4: Find total energy, charge density and electronic structure using density functional theory

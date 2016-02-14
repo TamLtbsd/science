@@ -1,11 +1,11 @@
 DEFINED_PHASES=install unpack
-DEPEND=virtual/libusb:1 dev-vcs/git
+DEPEND=virtual/libusb:1 >=dev-vcs/git-1.8.2.1 virtual/pkgconfig
 DESCRIPTION=A free and open TL866XX programmer
-EAPI=5
+EAPI=6
 HOMEPAGE=https://github.com/vdudouyt/minipro
 LICENSE=GPL-3
 RDEPEND=virtual/libusb:1
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-2 src_install:-
-_eclasses_=bash-completion-r1	acf715fa09463f043fbfdc1640f3fb85	eutils	28fb3e5852485af1c348d446b0b98389	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
-_md5_=97cb7f1f7560afeff0e75a484f645db2
+_eclass_exported_funcs=src_unpack:git-r3 src_install:-
+_eclasses_=bash-completion-r1	acf715fa09463f043fbfdc1640f3fb85	eutils	28fb3e5852485af1c348d446b0b98389	git-r3	ef66dfc3db09f327af21cf32f140fb2b	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	udev	73058269b3e70e34e084fa3981282338
+_md5_=bd280829004fef9ef3d0becf35f272bb
