@@ -8,4 +8,4 @@ RDEPEND=sci-biology/bamtools sci-biology/ncbi-tools++ sys-cluster/openmpi
 SLOT=0
 SRC_URI=https://github.com/AlexeyG/GRASS/archive/master.zip -> grass-20130628.zip https://tud-scaffolding.googlecode.com/files/GRASS%20manual.pdf -> grass_manual.pdf
 _eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
-_md5_=0700c44b0fec2b9f3faaf4886ef38c1b
+_md5_=e9c77002a1a7c80191f1b75a8fbe94fe
