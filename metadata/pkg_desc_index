@@ -485,7 +485,7 @@ sci-chemistry/chimera-bin 1.9 1.10.2: An extensible Molecular Modelling System
 sci-chemistry/chooch 5.0.2-r1: a program that will automatically determine values of the anomalous scattering factors
 sci-chemistry/cnsface 0.0.12: GUI for the Crystallography and NMR System
 sci-chemistry/concoord 2.1 2.1.2: Method to generate protein conformations around a known structure based on geometric restrictions
-sci-chemistry/coot 9999: Crystallographic Object-Oriented Toolkit for model building, completion and validation
+sci-chemistry/coot 9999: Crystallographic Object-Oriented Toolkit
 sci-chemistry/cpmgfit 1.43: non-linear least squares fitting of CPMG relaxation dispersion curves
 sci-chemistry/cs-rosetta 1.01.2009.1109.11: System for chemical shifts based protein structure prediction using ROSETTA
 sci-chemistry/curvefit 1.40: Linear and non-linear least squares fitting
