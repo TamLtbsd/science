@@ -303,6 +303,7 @@ sci-biology/consed 29: A genome sequence finishing program
 sci-biology/consed2gap 20050520: Convert whole CONSED dataset to a GAP4 project
 sci-biology/coral 1.4: Error corrector for Illumina and Roche/454 reads using multiple alignment info
 sci-biology/cortex_var 1.0.5.21: Assemble and compare genotype variants (variant discovery without reference sequence)
+sci-biology/cross_genome 20140822: Genome scaffolding using cross-species synteny
 sci-biology/cutadapt 1.2.1 1.4.1 1.5 9999: Remove adapter sequences from high-throughput sequencing data
 sci-biology/dawg 1.1.2: DNA Assembly With Gaps: Phylogenetic aligner for sequence evolution simulation
 sci-biology/dcmstack 9999: DICOM to Nifti coversion
@@ -390,6 +391,7 @@ sci-biology/pb-honey 14.1.15: Structural variant identification (SNV) using long
 sci-biology/pb-jelly 14.9.9: Close gaps using PacBio RS or 454 FLX+ reads
 sci-biology/perlprimer 1.1.21: GUI application written in Perl to design primers for standard PCR, bisulphite PCR and Real-time PCR
 sci-biology/phusion 2.1c: Whole genome shotgun assembler using phrap (for Sanger-based reads)
+sci-biology/phusion2 3.0: Whole genome shotgun assembler using phrap (for Sanger-based reads)
 sci-biology/pileup 0.6: SSAHA2-based pipeline to align reads into format also understood by samtools, maq
 sci-biology/plinkseq 0.10: C/C++ library for working with human genetic variation data
 sci-biology/polyphen 2.2.2: Predict effect of aminoacid substitution on human protein function
