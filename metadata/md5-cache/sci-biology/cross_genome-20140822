@@ -7,4 +7,4 @@ LICENSE=GPL-3+
 SLOT=0
 SRC_URI=https://sourceforge.net/projects/phusion2/files/cross_genome/cross_genome.tar.gz -> cross_genome-20140822.tar.gz
 _eclass_exported_funcs=src_prepare:- src_install:-
-_md5_=95a888a2b66ef92ffe0a8c2004cc93e9
+_md5_=35f68382ba52b0a4ac2074ce00989316
