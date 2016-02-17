@@ -1,10 +1,10 @@
 DEFINED_PHASES=install prepare
 DESCRIPTION=Genome scaffolding using cross-species synteny
-EAPI=5
+EAPI=6
 HOMEPAGE=http://www.sanger.ac.uk/science/tools/crossgenome
 KEYWORDS=~amd64
 LICENSE=GPL-3+
 SLOT=0
 SRC_URI=https://sourceforge.net/projects/phusion2/files/cross_genome/cross_genome.tar.gz -> cross_genome-20140822.tar.gz
 _eclass_exported_funcs=src_prepare:- src_install:-
-_md5_=2a07bebea21844bcb327a8ea8d154c66
+_md5_=95a888a2b66ef92ffe0a8c2004cc93e9
