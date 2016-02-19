@@ -34,9 +34,9 @@ dev-java/scirenderer 1.1.0: A rendering library based on JoGL
 dev-lang/berkeley_upc 2.16.2 2.18.0 2.18.2 2.20.0: The Berkeley UPC Runtime/driver
 dev-lang/berkeley_upc_translator 2.16.2 2.18.0 2.18.2: The Berkeley UPC-to-C translator
 dev-lang/conceptual 1.4: A Network Correctness and Performance Testing Language
-dev-lang/icc 16.0.1.150: Intel C/C++ Compiler
+dev-lang/icc 16.0.2.181: Intel C/C++ Compiler
 dev-lang/idb 14.0.3.174-r1: Intel C/C++/FORTRAN debugger
-dev-lang/ifc 16.0.1.150: Intel FORTRAN Compiler
+dev-lang/ifc 16.0.2.181: Intel FORTRAN Compiler
 dev-lang/ispc 9999: Intel SPMD Program Compiler
 dev-lang/julia 9999: High-performance programming language for technical computing
 dev-lang/path64 9999: Path64 Compiler Suite Community Edition
@@ -46,7 +46,7 @@ dev-lang/vtune 13.1.10.298370 13.1.12.305106 13.1.13.313935 13.1.17.353306 15.1.
 dev-libs/asmjit 1.0_beta4: complete x86/x64 JIT-Assembler for C++ language
 dev-libs/boost-compute 0.4-r1 0.5 9999: A header-only C++ Computing Library for OpenCL
 dev-libs/fortrancl 0.1_alpha3: OpenCL interface for Fortran 90
-dev-libs/intel-common 16.0.1.150: Common libraries and utilities needed for Intel compilers and libraries
+dev-libs/intel-common 16.0.2.181: Common libraries and utilities needed for Intel compilers and libraries
 dev-libs/libconfig 9999: Libconfig is a simple library for manipulating structured configuration files
 dev-libs/libcuda 9999: Gdev is open-source GPGPU runtime
 dev-libs/libflatarray 9999: Struct of arrays library with object oriented interface for C++
@@ -655,7 +655,7 @@ sci-libs/lwpr 1.2.5: The Locally Weighted Projection Regression Library
 sci-libs/matc 6.0_p4651 8.0 9999: Finite element programs, libraries, and visualization tools - math C library
 sci-libs/med 2.3.6: Modeling and Exchange of Data library
 sci-libs/mesquite 2.3.0: Mesh Quality Improvement Toolkit
-sci-libs/mkl 11.1.0.080-r2 11.1.1.106-r1 11.1.2.144-r1 11.1.3.174-r1 11.2.0.090-r1 11.2.1.133-r1 11.2.2.164-r1 11.2.3.187-r1: Intel Math Kernel Library: linear algebra, fft, math functions
+sci-libs/mkl 11.1.0.080-r2 11.1.1.106-r1 11.1.2.144-r1 11.1.3.174-r1 11.2.0.090-r1 11.2.1.133-r1 11.2.2.164-r1 11.2.3.187-r1 11.3.2.181: Intel Math Kernel Library: linear algebra, fft, math functions
 sci-libs/mlpack 1.0.8: Scalable c++ machine learning library
 sci-libs/modglue 1.19: C++ library for handling of multiple co-processes
 sci-libs/mpiblacs 1.1-r1: Basic Linear Algebra Communication Subprograms with MPI
