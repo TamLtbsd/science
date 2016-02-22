@@ -42,7 +42,7 @@ dev-lang/julia 9999: High-performance programming language for technical computi
 dev-lang/path64 9999: Path64 Compiler Suite Community Edition
 dev-lang/pgi 13.5: PGI compiler suite
 dev-lang/terra 2015.03.12: A low-level counterpart to Lua
-dev-lang/vtune 13.1.10.298370 13.1.12.305106 13.1.13.313935 13.1.17.353306 15.1.380310 15.2.393444 15.3.403110: Intel VTune Amplifier XE
+dev-lang/vtune 15.4.412820: Intel VTune Amplifier XE
 dev-libs/asmjit 1.0_beta4: complete x86/x64 JIT-Assembler for C++ language
 dev-libs/boost-compute 0.4-r1 0.5 9999: A header-only C++ Computing Library for OpenCL
 dev-libs/fortrancl 0.1_alpha3: OpenCL interface for Fortran 90
