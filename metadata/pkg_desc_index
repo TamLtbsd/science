@@ -375,6 +375,7 @@ sci-biology/mosaik 2.2.3 9999: A reference-guided aligner for next-generation se
 sci-biology/mothur 1.36.1: A suite of algorithms for ecological bioinformatics
 sci-biology/mreps 2.5: Identification of serial/tandem repeats in DNA sequences
 sci-biology/mrfast 2.6.0.1: Micro Read Fast Alignment Search Tool
+sci-biology/mricrogl 9999: A simle medical imaging visualization tool
 sci-biology/mricron 9999: A simle medical imaging visualization tool
 sci-biology/mrsfast 2.6.0.4: Micro Read Fast Alignment Search Tool
 sci-biology/ncbi-blast+ 2.2.30 2.2.31 2.3.0: A subset of NCBI C++ Toolkit containing just the NCBI BLAST+
