@@ -10,7 +10,7 @@ app-forensics/vine 1.0: The BitBlaze Static Analysis Component
 app-portage/g-octave 9999: A tool that generates and installs ebuilds for Octave-Forge
 app-text/dgs 0.5.10-r2: A Ghostscript based Display Postscript (DPS) server
 app-vim/vim-gromacs 9999: vim plugin: Gromacs file syntax highlighting and some macros
-dev-cpp/eigen 3.2.7-r1 3.2.8 9999: C++ template library for linear algebra
+dev-cpp/eigen 3.2.7-r1 3.2.8-r1 9999: C++ template library for linear algebra
 dev-cpp/growler 0.3.8.2: Distributed object architecture and environment
 dev-cpp/growler-arch 0.3.7.1: Growler libraries and utilities
 dev-cpp/growler-core 0.3.7: General-purpose classes and functionality
@@ -375,8 +375,6 @@ sci-biology/mosaik 2.2.3 9999: A reference-guided aligner for next-generation se
 sci-biology/mothur 1.36.1: A suite of algorithms for ecological bioinformatics
 sci-biology/mreps 2.5: Identification of serial/tandem repeats in DNA sequences
 sci-biology/mrfast 2.6.0.1: Micro Read Fast Alignment Search Tool
-sci-biology/mricrogl 9999: A simle medical imaging visualization tool
-sci-biology/mricron 9999: A simle medical imaging visualization tool
 sci-biology/mrsfast 2.6.0.4: Micro Read Fast Alignment Search Tool
 sci-biology/ncbi-blast+ 2.2.30 2.2.31 2.3.0: A subset of NCBI C++ Toolkit containing just the NCBI BLAST+
 sci-biology/ncbi-tools++ 12.0.0: NCBI C++ Toolkit, including NCBI BLAST+
@@ -793,6 +791,8 @@ sci-visualization/forge 3.1.2 3.2.2 9999: High Performance Visualizations for Ar
 sci-visualization/gnuplot 5.0.9999 5.1.9999: Command-line driven interactive plotting program
 sci-visualization/mantid 3.3.0: Utilities for processing and plotting neutron scattering data
 sci-visualization/mayavi 4.4.0 4.4.2: Enthought Tool Suite: Scientific data 3-dimensional visualizer
+sci-visualization/mricrogl 9999: A simle medical imaging visualization tool
+sci-visualization/mricron 9999: A simle medical imaging visualization tool
 sci-visualization/nodemon 0.3.5: Distributed visualization tool for monitoring system resource utilization
 sci-visualization/v_sim 3.6.0: Displays atomic structures such as crystals, gain boudaries, molecules
 sci-visualization/vtkPOFFReader 300: Parallelized reader for OpenFOAM(R) file format for use with ParaView/VTK
