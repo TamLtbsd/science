@@ -816,15 +816,15 @@ sys-cluster/openmpi 1.6.5 1.7.3 1.8.8 1.10.0 1.10.2: A high-performance message 
 sys-cluster/ovis 3.0.1: Tool for statistical analysis of large data sets
 sys-cluster/pyslice 1.7: Templating system for parametric modeling
 sys-devel/gdebugger 6.2.438: OpenCL and OpenGL debugger and memory analyzer
-virtual/blacs 1.1 1.1-r1: Virtual for BLACS implementation
-virtual/blas 2.1-r4 2.1-r5: Virtual for FORTRAN 77 BLAS implementation
-virtual/cblas 2.0-r3 2.0-r4: Virtual for BLAS C implementation
+virtual/blacs 1.1-r1: Virtual for BLACS implementation
+virtual/blas 2.1-r5: Virtual for FORTRAN 77 BLAS implementation
+virtual/cblas 2.0-r4: Virtual for BLAS C implementation
 virtual/geant 3: Virtual for Geant-3
-virtual/lapack 3.5-r3 3.6: Virtual for Linear Algebra Package FORTRAN 77 implementation
-virtual/lapacke 1.0 3.5 3.6: Virtual for LAPACK C implementation
+virtual/lapack 3.6: Virtual for Linear Algebra Package FORTRAN 77 implementation
+virtual/lapacke 3.6: Virtual for LAPACK C implementation
 virtual/mpi 2.0-r3: Virtual for Message Passing Interface (MPI) v2.0 implementation
 virtual/perl-encoding-warnings 0.11: Virtual for encoding-warnings
-virtual/scalapack 2.0 2.0.2: Virtual for ScaLAPACK implementation
+virtual/scalapack 2.0.2: Virtual for ScaLAPACK implementation
 x11-libs/agg 2.5-r3: High quality rendering engine library for C++
 x11-libs/tr 1.3: An OpenGL utility library for doing tiled rendering
 x11-libs/xview 3.2-r8: The X Window-System-based Visual/Integrated Environment for Workstations

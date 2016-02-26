@@ -1,8 +1,0 @@
-DEFINED_PHASES=-
-DESCRIPTION=Virtual for LAPACK C implementation
-EAPI=5
-KEYWORDS=~amd64 ~x86 ~amd64-linux
-RDEPEND=|| ( >=sci-libs/lapacke-reference-1.0 >=sci-libs/mkl-10.3 )
-SLOT=0
-_eclass_exported_funcs=-
-_md5_=87c3a6743053abb8c962ab5db89eee74
