@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=dev-lang/perl dev-perl/Graph dev-perl/Algorithm-ClusterPoints dev-perl/XML-DOM dev-perl/Statistics-Descriptive dev-lang/perl:=
+DESCRIPTION=Link and orient genome sequence contigs using mate-pair information
+EAPI=6
+HOMEPAGE=https://www.hgsc.bcm.edu/software/atlas-link
+LICENSE=HGSC-BCM
+RDEPEND=dev-lang/perl dev-perl/Graph dev-perl/Algorithm-ClusterPoints dev-perl/XML-DOM dev-perl/Statistics-Descriptive dev-lang/perl:=
+SLOT=0
+SRC_URI=https://www.hgsc.bcm.edu/sites/default/files/software/Atlas_Link/Atlas-link.tar.gz -> Atlas-Link-0.01.tar.gz
+_eclass_exported_funcs=src_prepare:perl-module src_configure:perl-module src_compile:perl-module src_test:perl-module src_install:perl-module
+_eclasses_=multiprocessing	e32940a7b2a9992ad217eccddb84d548	perl-functions	15aff0b9cba2282790142295ceb6be0c	perl-module	b2108b3c85ac7a6a6a9b035b54f6813c
+_md5_=e77de03f7fb078945934eca848829ec3
