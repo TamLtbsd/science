@@ -283,6 +283,7 @@ sci-biology/blue 1.1.2 1.1.3: Error corrector for Illummina and Roche/454 able t
 sci-biology/brat 1.2.4: Bisulfite-treated Reads Analysis Tool
 sci-biology/breakdancer 9999: Genome-wide detection of structural variants from next generation paired-end sequencing reads
 sci-biology/bru2nii 9999: Converts Bruker ParaVision MRI data to the NIfTI file format
+sci-biology/bwa 0.7.13: Burrows-Wheeler Alignment Tool, a fast short genomic sequence aligner
 sci-biology/bx-python 0.7.2 9999: Library for rapid implementation of genome scale analyses
 sci-biology/caftools 2.0.2: Manipulate CAF files and convert to GAP4 format (not GAP5), ACE, PHRAP
 sci-biology/cap3-bin 20071221: CAP3 is for small-scale assembly of EST sequences with or without quality value
