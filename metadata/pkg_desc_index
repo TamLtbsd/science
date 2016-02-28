@@ -351,7 +351,7 @@ sci-biology/inGAP-bin 3.0.1: Detect SNPs and indels from Next-gen sequences usin
 sci-biology/jellyfish 1.1.11 2.1.3 2.1.4: k-mer counter within reads for assemblies
 sci-biology/jigsaw 3.2.10: Combine results from external gene predictors into final gene models
 sci-biology/jtreeview 1.1.6.4: Viewer for Microarray Data in PCL or CDT formats
-sci-biology/kallisto 0.42.1 9999: Near-optimal RNA-Seq quantification
+sci-biology/kallisto 0.42.4 9999: Near-optimal RNA-Seq quantification
 sci-biology/khmer 0.8 1.0.1 9999: In-memory K-mer counting in DNA/RNA/protein sequences
 sci-biology/kmergenie 1.6971: Estimate best k-mer length to be used in novo assemblies (default set during compilation is 121)
 sci-biology/lastz 1.03.66: A pairwise DNA sequence aligner (also chromosome to chromosome), a BLASTZ replacement
@@ -419,7 +419,8 @@ sci-biology/roche454ace2caf 20100812: Convert from ace to gap4 (of staden v1.x),
 sci-biology/ruffus 9999: Python module to support computational pipelines
 sci-biology/rum 2.0.5.5: RNA-Seq Unified Mapper (digital normalization)
 sci-biology/sabre 9999: Barcode demultiplexing and trimming tool for Illumina FastQ files
-sci-biology/salmon 0.3.2 0.4.2 9999: Transcript-level quantification from RNA-seq reads using lightweight alignments
+sci-biology/sailfish 0.9.1 9999: Rapid Mapping-based Isoform Quantification from RNA-Seq Reads
+sci-biology/salmon 0.3.2 0.4.2 0.5.0 0.6.0 9999: Transcript-level quantification from RNA-seq reads using lightweight alignments
 sci-biology/samstat 20130708: Show statistics of BAM/SAM (error profiles, nucleotide composition, base quals, len. distribution)
 sci-biology/samtools 1.0-r2 1.1-r1 1.2-r1: Utilities for SAM (Sequence Alignment/Map), a format for large nucleotide sequence alignments
 sci-biology/scaffold_builder 20131122-r1: Combine FASTA contigs from a de novo assembly into scaffolds using a reference assembly
