@@ -173,7 +173,6 @@ net-ftp/bbftp-client 3.2.1: Secure file transfer software with its own transfer 
 net-ftp/bbftp-server 3.2.1: Secure file transfer software with its own transfer protocol optimized for files larger than 2GB
 net-misc/bbscp 1.0.6: SCP-like interface to bbFTP
 perl-core/encoding-warnings 0.11: Warn on implicit encoding conversions
-sci-astronomy/astrometry 0.43: Automated astrometric calibration programs and service
 sci-astronomy/bpz 1.99.3: Bayesian Photometric Redshifts
 sci-astronomy/casapy-bin 4.2.1.29047.001_p1 4.2.2.30986_p1 4.4.0: Software package to calibrate, image, and analyze radioastronomical data
 sci-astronomy/chealpix 3.11.2: Hierarchical Equal Area isoLatitude Pixelization of a sphere - C Library
@@ -192,10 +191,10 @@ sci-astronomy/scamp 1.7.0-r2 9999: Astrometric and photometric solutions for ast
 sci-astronomy/sextractor 2.8.6-r1 2.19.5 9999: Extract catalogs of sources from astronomical FITS images
 sci-astronomy/skymaker 3.10.5 9999: Program that simulates astronomical images
 sci-astronomy/starlink-bin 20130413: Astronomical data processing software suite
-sci-astronomy/stiff 2.4.0 9999: Converts astronomical FITS images to the TIFF format
+sci-astronomy/stiff 9999: Converts astronomical FITS images to the TIFF format
 sci-astronomy/stilts 2.5.1: Command line tools to process astronomical tables
 sci-astronomy/stuff 1.26.0 9999: Tool for automatic generation of astronomical catalogs
-sci-astronomy/swarp 2.38.0 9999: Resample and coadd astronomical FITS images
+sci-astronomy/swarp 9999: Resample and coadd astronomical FITS images
 sci-astronomy/topcat 4.0.1: Interactive graphical viewer and editor for astronomical tables
 sci-astronomy/weightwatcher 1.12 9999: Combine weight maps and polygon for astronomical images weighting
 sci-astronomy/zebra 1.01: Galaxy redhift Bayesian analyzer
@@ -685,7 +684,7 @@ sci-libs/pydicom 0.9.8 0.9.9 9999: A pure python package for parsing DICOM files
 sci-libs/rdkit 2015.03.1 9999: Cheminformatics and machine-learning software written in C++ and Python
 sci-libs/scalapack 2.0.2-r1: Subset of LAPACK routines redesigned for heterogenous computing
 sci-libs/scikits_image 9999: Image processing routines for SciPy
-sci-libs/spglib 1.6.0: Spglib is a C library for finding and handling crystal symmetries
+sci-libs/spglib 1.6.0 1.9.0: Spglib is a C library for finding and handling crystal symmetries
 sci-libs/starparse 9999: Library for parsing NMR star files (peak-list format) and CIF files
 sci-libs/superlu_dist 3.3: MPI distributed sparse LU factorization library
 sci-libs/superlu_mt 2.1: Multithreaded sparse LU factorization library

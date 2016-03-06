@@ -49,7 +49,6 @@ dev-util/nvidia-cuda-gdk:nvvs - Install the NVIDIA Validation Suite.
 media-gfx/brlcad:benchmarks - Run benchmarks during test phase (need test option enabled)
 media-gfx/librecad:3d - Require all 2D coordinates stored as 3D
 media-gfx/librecad:tools - Build additional tool programs: tff2lff
-sci-astronomy/astrometry:extra - Add extra tools, specifically for plots
 sci-astronomy/mosstack:opencl - Enables OpenCL support and pulls in pyopencl. This makes some operations much faster but requires specific hardware and drivers.
 sci-astronomy/mosstack:qt4 - Pulls in PyQt4. Program works on command line interface without it but for GUI the library is required.
 sci-astronomy/psfex:plplot - Build with sci-libs/plplot to allow diagnostic plots during processing
