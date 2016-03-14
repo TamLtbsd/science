@@ -183,20 +183,20 @@ sci-astronomy/healpix_cxx 3.11.2: Hierarchical Equal Area isoLatitude Pixelizati
 sci-astronomy/healpix_idl 3.11: Hierarchical Equal Area isoLatitude Pixelization of a sphere - IDL routines
 sci-astronomy/lephare 2.2: Photometric Analysis for Redshift Estimate for galaxies
 sci-astronomy/libthesky 0.3.2: Fortran library to compute positions of celestial bodies
-sci-astronomy/missfits 2.8.0 9999: Performs basic maintenance and packaging tasks on FITS files
+sci-astronomy/missfits 9999: Performs basic maintenance and packaging tasks on FITS files
 sci-astronomy/montage 3.3: Astronomical image mosaic engine
 sci-astronomy/mosstack 0.6.1 0.6.1-r1: Stacking software for astronomical images
-sci-astronomy/psfex 3.9.1 3.17.0 9999: Extracts models of the Point Spread Function from FITS images
-sci-astronomy/scamp 1.7.0-r2 9999: Astrometric and photometric solutions for astronomical images
-sci-astronomy/sextractor 2.8.6-r1 2.19.5 9999: Extract catalogs of sources from astronomical FITS images
-sci-astronomy/skymaker 3.10.5 9999: Program that simulates astronomical images
+sci-astronomy/psfex 9999: Extracts models of the Point Spread Function from FITS images
+sci-astronomy/scamp 9999: Astrometric and photometric solutions for astronomical images
+sci-astronomy/sextractor 9999: Extract catalogs of sources from astronomical FITS images
+sci-astronomy/skymaker 9999: Program that simulates astronomical images
 sci-astronomy/starlink-bin 20130413: Astronomical data processing software suite
 sci-astronomy/stiff 9999: Converts astronomical FITS images to the TIFF format
 sci-astronomy/stilts 2.5.1: Command line tools to process astronomical tables
-sci-astronomy/stuff 1.26.0 9999: Tool for automatic generation of astronomical catalogs
+sci-astronomy/stuff 9999: Tool for automatic generation of astronomical catalogs
 sci-astronomy/swarp 9999: Resample and coadd astronomical FITS images
 sci-astronomy/topcat 4.0.1: Interactive graphical viewer and editor for astronomical tables
-sci-astronomy/weightwatcher 1.12 9999: Combine weight maps and polygon for astronomical images weighting
+sci-astronomy/weightwatcher 9999: Combine weight maps and polygon for astronomical images weighting
 sci-astronomy/zebra 1.01: Galaxy redhift Bayesian analyzer
 sci-astronomy/zpeg 5.23: Galaxy photometric redshifts from evolutionary synthesis
 sci-biology/ANGLE-bin 20080813-r1: CDS prediction overcoming sequencing errors in unfinished cDNA
