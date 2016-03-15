@@ -464,7 +464,7 @@ sci-biology/tophat 2.0.12 2.0.13 2.0.14 2.1.0: Python-based splice junction mapp
 sci-biology/trans-abyss 1.4.8: Analyze and combine multiple assemblies from abyss
 sci-biology/trf 4.07b: Tandem Repeats Finder
 sci-biology/trim_galore 0.4.0: Perl wrapper around Cutadapt and FastQC to adapter and quality trimming
-sci-biology/trimmomatic 0.32: Illumina adapter trimming tool
+sci-biology/trimmomatic 0.35: Illumina adapter trimming tool
 sci-biology/trinityrnaseq 2.0.6 2.1.1: Transcriptome assembler for RNA-seq reads
 sci-biology/trowel 0.1.4.1: Error corrector for genomic Illumina FASTQ reads using QUALs and not coverage info
 sci-biology/twinscan 4.1.2-r1: iscan (aka twinscan and N-SCAN) and wrapper around Pairagon: A gene structure prediction pipeline
