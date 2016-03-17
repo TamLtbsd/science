@@ -431,7 +431,7 @@ sci-biology/scbi_mapreduce 0.0.45: Run parallel and distributed computing jobs
 sci-biology/scbi_plot 0.0.7: Wrapper to create plots with gnuplot
 sci-biology/sclust 0.1: seeded clustering tool by processing pairwise alignments from TIGR Gene Indices project tools
 sci-biology/screed 0.7.1: A short read database
-sci-biology/scythe 0.992: Bayesian adapter trimmer for Illumina/Solexa
+sci-biology/scythe 0.992: Bayesian 3'-end adapter (only) trimmer for Illumina/Solexa
 sci-biology/seqclean 110625: Trimpoly and mdust for trimming and validation of ESTs/DNA sequences
 sci-biology/seqtools 4.34.5: Display alignments and GFF files, matrix dot plots (blixem, dotter, belvu)
 sci-biology/sequin 20121202: A tool to facilitate submission of data to the GenBank, EMBL, and DDBJ sequence databases
