@@ -636,7 +636,7 @@ sci-libs/gmsh 2.8.5: A three-dimensional finite element mesh generator
 sci-libs/gotoblas2 1.13-r1: Fast implementations of the Basic Linear Algebra Subroutines
 sci-libs/gsl 1.16-r2 2.1: GNU Scientific Library
 sci-libs/iml 1.0.4 1.0.5: Integer Matrix Library
-sci-libs/io_lib 1.14.6: General purpose trace and experiment file reading/writing interface
+sci-libs/io_lib 1.14.7: General purpose trace and experiment file reading/writing interface
 sci-libs/ipp 8.2.2.187-r1: Intel Integrated Performance Primitive library for multimedia and data processing
 sci-libs/itk 4.4.2 4.4.2-r1 4.5.1: NLM Insight Segmentation and Registration Toolkit
 sci-libs/jhdf5 14.12.1: Java binding for HDF5 compatible with HDF5 1.6/1.8
