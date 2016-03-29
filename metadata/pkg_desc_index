@@ -89,7 +89,8 @@ dev-python/cosmocalc 0.1.2-r1: Simple cosmology python module
 dev-python/dimensionful 9999: A simple library for making your data dimensionful
 dev-python/emcee 1.2.0 2.0.0: Python ensemble sampling toolkit for affine-invariant MCMC
 dev-python/ffc 1.4.0: Compiler for multilinear forms by generating C or C++ code
-dev-python/ffnet 0.7.1: Feed-forward neural network for python
+dev-python/ffnet 0.7.1 0.8.3: Feed-forward neural network for python
+dev-python/ffnetui 0.8.3.2: GUI for ffnet - feed forward neural network for python
 dev-python/fiat 1.4.0: FInite element Automatic Tabulator
 dev-python/future 0.15.2: Clean single-source support for Python 3 and 2
 dev-python/gammapy 0.1 9999: A Python package for gamma-ray astronomy
@@ -609,8 +610,8 @@ sci-libs/bigdft-abi 1.0.4-r3: A DFT electronic structure code using a wavelet ba
 sci-libs/blas-reference 20131116-r2 20151113-r1 99999999: Reference implementation of BLAS
 sci-libs/blastdb 9999: The BLAST NR database
 sci-libs/bloom 9999: C++ Bloom Filter Library
-sci-libs/calculix-ccx 2.8_p2: A Free Software Three-Dimensional Structural Finite Element Program
-sci-libs/calculix-cgx 2.7-r1: A Free Software Three-Dimensional Structural Finite Element Program
+sci-libs/calculix-ccx 2.10: A Free Software Three-Dimensional Structural Finite Element Program
+sci-libs/calculix-cgx 2.10: A Free Software Three-Dimensional Structural Finite Element Program
 sci-libs/cblas-reference 20110218-r1 20151113-r3: C wrapper interface to the F77 reference BLAS implementation
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib
 sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools
