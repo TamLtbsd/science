@@ -1,13 +1,13 @@
-DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=>=sci-biology/swissknife-1.65 dev-perl/DateManip >=dev-perl/XML-Simple-2.16 >=dev-perl/XML-Parser-2.34 virtual/perl-File-Path dev-lang/perl:=[-build(-)]
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=>=sci-biology/swissknife-1.65 dev-perl/Date-Manip >=dev-perl/XML-Simple-2.16 >=dev-perl/XML-Parser-2.34 virtual/perl-File-Path dev-lang/perl:=
 DESCRIPTION=Manipulates OBO- and OWL-formatted ontologies (like the Gene Ontology)
-EAPI=5
+EAPI=6
 HOMEPAGE=http://search.cpan.org/dist/ONTO-PERL/
 KEYWORDS=~amd64 ~x86
 LICENSE=|| ( Artistic GPL-1+ )
-RDEPEND=>=sci-biology/swissknife-1.65 dev-perl/DateManip >=dev-perl/XML-Simple-2.16 >=dev-perl/XML-Parser-2.34 virtual/perl-File-Path dev-lang/perl:=[-build(-)]
+RDEPEND=>=sci-biology/swissknife-1.65 dev-perl/Date-Manip >=dev-perl/XML-Simple-2.16 >=dev-perl/XML-Parser-2.34 virtual/perl-File-Path dev-lang/perl:=
 SLOT=0
 SRC_URI=mirror://cpan/authors/id/E/EA/EASR/ONTO-PERL/ONTO-PERL-1.41.tar.gz
-_eclass_exported_funcs=src_unpack:perl-module src_prepare:perl-module src_configure:perl-module src_compile:perl-module src_test:perl-module src_install:perl-module
-_eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	e32940a7b2a9992ad217eccddb84d548	perl-functions	15aff0b9cba2282790142295ceb6be0c	perl-module	b2108b3c85ac7a6a6a9b035b54f6813c	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	unpacker	45d07319df5f40ee6af58418b0f930be
-_md5_=ed96a7bb135e5511904ad0272f4030f0
+_eclass_exported_funcs=src_prepare:perl-module src_configure:perl-module src_compile:perl-module src_test:perl-module src_install:perl-module
+_eclasses_=multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	e32940a7b2a9992ad217eccddb84d548	perl-functions	15aff0b9cba2282790142295ceb6be0c	perl-module	b2108b3c85ac7a6a6a9b035b54f6813c	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=552ea3359bd694729f8610aa6adc3481

@@ -4,8 +4,8 @@ EAPI=5
 HOMEPAGE=http://perlprimer.sourceforge.net/
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
-RDEPEND=dev-perl/perl-tk dev-perl/libwww-perl >=sci-biology/rebase-904
+RDEPEND=dev-perl/Tk dev-perl/libwww-perl >=sci-biology/rebase-904
 SLOT=0
 SRC_URI=mirror://sourceforge/perlprimer/perlprimer-1.1.21.tar.bz2
 _eclass_exported_funcs=src_prepare:- src_install:-
-_md5_=4742a81ad5f5779b0c2b54ca46c83b09
+_md5_=5f6046050d2bccf23949292ac7e7d820
