@@ -425,7 +425,7 @@ sci-biology/sailfish 0.9.1 9999: Rapid Mapping-based Isoform Quantification from
 sci-biology/salmon 0.3.2 0.4.2 0.5.0 0.6.0 9999: Transcript-level quantification from RNA-seq reads using lightweight alignments
 sci-biology/samstat 20130708: Show statistics of BAM/SAM (error profiles, nucleotide composition, base quals, len. distribution)
 sci-biology/samtools 1.0-r2 1.1-r1 1.2-r1: Utilities for SAM (Sequence Alignment/Map), a format for large nucleotide sequence alignments
-sci-biology/scaffold_builder 20131122-r1: Combine FASTA contigs from a de novo assembly into scaffolds using a reference assembly
+sci-biology/scaffold_builder 20131122-r1: Combine FASTA contigs from a de novo assembly into scaffolds using a reference genome
 sci-biology/scan_for_matches 20121220: Pattern search through DNA sequences (aka patscan)
 sci-biology/scbi_blast 0.0.37: Handle blast+ executions using pipes instead of files
 sci-biology/scbi_fasta 0.1.9: Read FASTA and QUAL files
