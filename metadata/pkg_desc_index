@@ -245,7 +245,7 @@ sci-biology/STAR 2.4.1c 9999: STAR aligner: align RNA-seq reads to reference gen
 sci-biology/SnpEff 4.1e: Annotate SNP changes and predict their effect
 sci-biology/SolexaQA 2.2: Analyze and trim single-end and paired-end reads, show quality statistics
 sci-biology/StarORF 9999: Java-based utility to show ORFs in a sequence
-sci-biology/TransDecoder 2.0.1: Extract ORF/CDS regions from FASTA sequences
+sci-biology/TransDecoder 2.0.1 2.1.0: Extract ORF/CDS regions from FASTA sequences
 sci-biology/Trinotate 2.0.1: Annotation and analysis pipeline for de novo assembled transcriptomes
 sci-biology/VarScan 2.3.7: Variant detection (germline, multi-sample, somatic mut., som. cp nr alterations (CNA)), SNP calls
 sci-biology/VelvetOptimiser 2.2.5: Optimise three primary parameter options (K, -exp_cov, -cov_cutoff) for Velvet sequence assembler
@@ -327,6 +327,7 @@ sci-biology/fastqc 0.11.3: Perl-based wrapper around java apps to quality contro
 sci-biology/fastx_toolkit 0.0.14: Tools for Short Read FASTA/FASTQ file processing
 sci-biology/ffindex 0.9.9.6: Simple index/database for huge amounts of small files
 sci-biology/fgap 1.8.1: Tool to close gaps in de novo assembled contigs or scaffolds
+sci-biology/fgap-bin 1.8.1: Tool to close gaps in de novo assembled contigs or scaffolds
 sci-biology/flexbar 2.4: Barcode, MID tag and adapter sequence removal
 sci-biology/freebayes 9999: Bayesian gen. variant detector to find small polymorphisms
 sci-biology/fsa 1.15.7: Distance-based probabilistic multiple sequence alignment algorithm for DNA/RNA/protein
@@ -392,6 +393,7 @@ sci-biology/pairagon 1.1: HMM-based cDNA to genome aligner
 sci-biology/parafly 20130121: Some dependency for transdecoder
 sci-biology/pb-honey 14.1.15: Structural variant identification (SNV) using long reads (over 10kbp)
 sci-biology/pb-jelly 14.9.9: Close gaps using PacBio RS or 454 FLX+ reads
+sci-biology/perga 9999: Paired End Reads Guided Assembler
 sci-biology/perlprimer 1.1.21: GUI application written in Perl to design primers for standard PCR, bisulphite PCR and Real-time PCR
 sci-biology/phusion 2.1c: Whole genome shotgun assembler using phrap (for Sanger-based reads)
 sci-biology/phusion2 3.0: Whole genome shotgun assembler using phrap (for Sanger-based reads)
