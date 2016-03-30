@@ -416,6 +416,7 @@ sci-biology/pysurfer 0.4 0.6 9999: Python based program for visualization of dat
 sci-biology/quast 2.3: Compare quality of multiple genome assemblies to each other
 sci-biology/quicktree 1.1-r1: Rapid reconstruction of phylogenies by the Neighbor-Joining method
 sci-biology/quorum 0.2.1 1.0.0: Illumina reads error corrector
+sci-biology/reapr 1.0.18: Verify and correct genome assembly scaffolds using paired-end reads
 sci-biology/repeatmasker 4.0.6-r2: Screen DNA sequences for interspersed repeats and low complexity DNA
 sci-biology/repeatmasker-libraries 20150807: A special version of RepBase used by RepeatMasker
 sci-biology/reptile 1.1: Illumina read corrector
