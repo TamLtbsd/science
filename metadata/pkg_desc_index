@@ -320,7 +320,7 @@ sci-biology/est2assembly 1.08 9999: EST assembly and annotation pipeline for cha
 sci-biology/estscan 3.0.3: Prediction of coding regions in DNA/RNA sequences
 sci-biology/eugene 4.1d: Prokaryotic and Eukaryotic gene predictor
 sci-biology/eval 2.2.8: Validate, compare and draw summary statistics for GTF files
-sci-biology/exomiser-bin 7.0.0: Annotate VCF files from whole-exome sequencing (Jannovar, UCSC KnownGenes, hg19)
+sci-biology/exomiser-bin 7.2.1: Annotate VCF files and prioritize genome/exome mutations (Jannovar, UCSC KnownGenes, hg19)
 sci-biology/exonerate-gff3 9999: exonerate-2.2.0 with patches to add GFF3 formatted output
 sci-biology/fastdnaml 1.2.2_p10: Maximum likelihood phylogenetic tree builder for DNA sequences
 sci-biology/fastqc 0.11.3: Perl-based wrapper around java apps to quality control FASTA/FASTQ sequence files

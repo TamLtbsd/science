@@ -1,0 +1,11 @@
+DEFINED_PHASES=install postinst
+DEPEND=sci-biology/Jannovar-bin
+DESCRIPTION=Annotate VCF files and prioritize genome/exome mutations (Jannovar, UCSC KnownGenes, hg19)
+EAPI=5
+HOMEPAGE=http://www.sanger.ac.uk/science/tools/exomiser
+LICENSE=AGPL-3+
+RDEPEND=sci-biology/Jannovar-bin
+SLOT=0
+SRC_URI=ftp://ftp.sanger.ac.uk/pub/resources/software/exomiser/downloads/exomiser/exomiser-cli-7.2.1-distribution.zip ftp://ftp.sanger.ac.uk/pub/resources/software/exomiser/downloads/exomiser/GenomiserREADME -> exomiser-bin.README ftp://ftp.sanger.ac.uk/pub/resources/software/exomiser/downloads/exomiser/README.md -> exomiser-bin.README.md
+_eclass_exported_funcs=pkg_postinst:- src_install:-
+_md5_=b3e960a4cd4111da4f70db6a8c75e2d6
