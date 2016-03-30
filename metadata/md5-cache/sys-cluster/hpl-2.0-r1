@@ -10,5 +10,5 @@ RDEPEND=virtual/mpi virtual/blas virtual/lapack
 SLOT=0
 SRC_URI=http://www.netlib.org/benchmark/hpl/hpl-2.0.tar.gz
 _eclass_exported_funcs=pkg_postinst:- src_prepare:- src_compile:- src_install:-
-_eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	mpi	1490b22076a4b648135645e341c4d852	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	mpi	1490b22076a4b648135645e341c4d852	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
 _md5_=e42094c0c8263158d5f1835c368b146b

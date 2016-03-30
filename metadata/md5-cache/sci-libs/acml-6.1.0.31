@@ -11,5 +11,5 @@ RESTRICT=strip mirror
 SLOT=0
 SRC_URI=gfortran? ( acml-6.1.0.31-gfortran64.tgz )
 _eclass_exported_funcs=pkg_prerm:alternatives-2 pkg_postinst:alternatives-2 pkg_setup:fortran-2 src_unpack:- src_test:- src_install:-
-_eclasses_=alternatives-2	beedbf0f7061e7116ec8fe5a19a925e5	eutils	9d81603248f2ba3ec59124320d123e5e	fortran-2	8200fc942c3b3c1fc75d4d5bfd0ba7a2	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=alternatives-2	beedbf0f7061e7116ec8fe5a19a925e5	eutils	9d81603248f2ba3ec59124320d123e5e	fortran-2	8200fc942c3b3c1fc75d4d5bfd0ba7a2	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=99eb5cfd5bfba8afbe8fd1c66f0bac3f
