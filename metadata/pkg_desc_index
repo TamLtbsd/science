@@ -260,6 +260,7 @@ sci-biology/ampliconnoise 1.27: Noise removal from pyrosequenced amplicons
 sci-biology/angsd 9999: Population genetics analysis package
 sci-biology/ants 9999: Advanced Normalitazion Tools for neuroimaging
 sci-biology/apollo 9999: Apollo genome editor is Java-based application for browsing and annotation of genomic sequences
+sci-biology/arachne 46233: Whole genome shotgun assembler for Sanger read lengths (overlap-layout-contig)
 sci-biology/argo 1.0.24: Production tool for visualizing and manually annotating whole genomes
 sci-biology/argo-bin 1.0.31 2.0.3: Visualization and manually annotating whole genomes
 sci-biology/artemis 9999: DNA sequence viewer/annotation (Artemis) and comparison (ACT) tool
