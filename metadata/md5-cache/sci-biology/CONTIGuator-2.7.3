@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=Speed up bacterial genome assemblies by artemis and compare chromosome regions
+EAPI=6
+HOMEPAGE=http://contiguator.sourceforge.net
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=>=sci-biology/abacas-1.3.1 sci-biology/primer3 || ( sci-biology/ncbi-tools++ sci-biology/ncbi-blast+ ) sci-biology/biopython sci-biology/mummer || ( sci-biology/artemis || ( sci-biology/artemis-bin sci-biology/act-bin ) )
+SLOT=0
+SRC_URI=http://downloads.sourceforge.net/project/contiguator/CONTIGuator_v2.7.tar.gz https://sourceforge.net/projects/contiguator/files/README.md
+_eclass_exported_funcs=src_install:-
+_md5_=3b3dccbd6ccd5e0c2d4957f441a431e8

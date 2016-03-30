@@ -212,7 +212,7 @@ sci-biology/BRAKER 1.8: Gene prediction based on RNA-Seq using GeneMark-ET and A
 sci-biology/BRANCH 9999: Extend partial transcripts with sequence from other reads or genomic contigs
 sci-biology/BamView 1.2.11: Display read alignments in BAM files, is a part of Artemis
 sci-biology/BlastToSam 9999: Convert NCBI BLAST output to SAM format
-sci-biology/CONTIGuator 2.7: Speed up bacterial genome assemblies by artemis and compare chromosome regions
+sci-biology/CONTIGuator 2.7.3: Speed up bacterial genome assemblies by artemis and compare chromosome regions
 sci-biology/DisEMBL 1.4: Intrinsic Protein Disorder Prediction
 sci-biology/EBARDenovo 1.2.2: Transcriptome de novo assembler with chimera detection
 sci-biology/ESTate 0.5: ORF finding despite frameshifts, EST clustering
