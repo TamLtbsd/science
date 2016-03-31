@@ -270,7 +270,7 @@ sci-biology/augustus 3.1: Eukaryotic gene predictor
 sci-biology/autoeditor 1.20: Automatic correct of discrepancies in multiple sequence alignments
 sci-biology/bambino 1.02 1.06: display SAM/BAM files and for SNP/indel detection, report coverage in .wig files
 sci-biology/bambus 2.33: Scaffolding Polymorphic Genomes and Metagenomes, a part of AMOS bundle
-sci-biology/bamtools 9999: A programmer's API and an end-user's toolkit for handling BAM files
+sci-biology/bamtools 2.4.0 9999: A programmer's API and an end-user's toolkit for handling BAM files
 sci-biology/barnacle 1.0.3: Check de novo assembly for chimeric contigs/transcripts
 sci-biology/barrnap 0.3 0.4: Predict Bacterial and Archaeal rRNA genes and output in GFF3 format
 sci-biology/bcftools 1.2: Utilities for variant calling and manipulating VCF and BCF files
