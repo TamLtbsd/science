@@ -608,7 +608,7 @@ sci-libs/amber99sb_phipsi 0_pre130901: AMBER99SB PHI PSI table (Lindorff-Larsen 
 sci-libs/amber99sbnmr 0_pre130901: AMBER99SBnmr1 force field (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amber99sbnmr-ildn 0_pre130901: AMBER99SBnmr1-ILDN FF (Lindorff-Larsen et al., Proteins 78, 1950-58, 2010)
 sci-libs/amdlibm 3.1: Optimized libm replacement from AMD for x86_64 architectures
-sci-libs/armadillo 4.650.4 5.600.2 6.200.3: Streamlined C++ linear algebra library
+sci-libs/armadillo 4.650.4 5.600.2 6.200.5 6.600.5: Streamlined C++ linear algebra library
 sci-libs/arrayfire 3.1.3-r1 3.2.2 9999: A general purpose GPU library
 sci-libs/asl 0.1.5 9999: Advanced Simulation Library - multiphysics simulation software package
 sci-libs/atlas 3.10.1-r2 3.10.2 3.11.38-r1: Automatically Tuned Linear Algebra Software
@@ -622,7 +622,7 @@ sci-libs/cblas-reference 20110218-r1 20151113-r3: C wrapper interface to the F77
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib
 sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools
 sci-libs/clblas 2.6-r1 2.8 2.10 9999: A software library containing BLAS routines for OpenCL
-sci-libs/clfft 2.6.1 2.8 2.8-r1 2.10.0 9999: Library containing FFT functions written in OpenCL
+sci-libs/clfft 2.6.1 2.8 2.8-r1 2.10.0 2.10.2 9999: Library containing FFT functions written in OpenCL
 sci-libs/clrng 9999: A library for uniform random number generation in OpenCL
 sci-libs/cs-rosetta-db 1.01.2009.1109.11: System for chemical shifts based protein structure prediction using ROSETTA
 sci-libs/dcmtk 3.6.0: OFFIS DICOM image files library and tools
