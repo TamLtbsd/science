@@ -94,7 +94,7 @@ dev-python/ffnetui 0.8.3.2: GUI for ffnet - feed forward neural network for pyth
 dev-python/fiat 1.4.0: FInite element Automatic Tabulator
 dev-python/future 0.15.2: Clean single-source support for Python 3 and 2
 dev-python/gammapy 0.1 9999: A Python package for gamma-ray astronomy
-dev-python/hdf5storage 0.1.11 9999: Read/write Python types to/from HDF5 files, including MATLAB v7.3 MAT files
+dev-python/hdf5storage 0.1.11 0.1.13 9999: Read/write Python types to/from HDF5 files, including MATLAB v7.3 MAT files
 dev-python/healpy 1.7.4: Python wrapper for healpix
 dev-python/imageutils 9999: Image processing utilities for Astropy
 dev-python/inference 0.4: Collection of Python modules for statistical inference
