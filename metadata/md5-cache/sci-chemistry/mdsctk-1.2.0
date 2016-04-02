@@ -9,5 +9,5 @@ RDEPEND==sci-chemistry/gromacs-4.6*:= sci-libs/gsl sys-libs/db:=[cxx] virtual/bl
 SLOT=0
 SRC_URI=https://github.com/douradopalmares/mdsctk/archive/1.2.0.tar.gz -> mdsctk-1.2.0.tar.gz
 _eclass_exported_funcs=src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
-_eclasses_=cmake-utils	e79d341200cba811b41cc0728403c48d	db-use	a4966c7f4f7df444ead1212848c13cc9	eutils	9d81603248f2ba3ec59124320d123e5e	flag-o-matic	d270fa247153df66074f795fa42dba3e	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=cmake-utils	422bbd1bee2557490177a34dbe0a662b	db-use	a4966c7f4f7df444ead1212848c13cc9	eutils	9d81603248f2ba3ec59124320d123e5e	flag-o-matic	d270fa247153df66074f795fa42dba3e	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=f0c07914d4c962398b45395cf9004d11
