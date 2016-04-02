@@ -8,4 +8,4 @@ RDEPEND=dev-lang/perl sys-devel/gcc:* sys-devel/clang >=sci-biology/samtools-0.1
 SLOT=0
 SRC_URI=https://sourceforge.net/projects/molbiolib/files/MolBioLib_public.version5.tar.gz
 _eclass_exported_funcs=src_compile:-
-_md5_=92ea1645b3610bbb98326e7bd9dd3985
+_md5_=7ef3adb29385809a546325e8c36e9938
