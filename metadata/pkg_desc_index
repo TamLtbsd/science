@@ -405,6 +405,7 @@ sci-biology/plinkseq 0.10: C/C++ library for working with human genetic variatio
 sci-biology/polyphen 2.2.2: Predict effect of aminoacid substitution on human protein function
 sci-biology/portrait 1.1: Ab initio ncRNA prediction
 sci-biology/primerD 1.0.0: Design degenerate primers
+sci-biology/prinseq-lite 0.20.4: Describe, trim, reformat and convert to or form FASTA/FASTQ files
 sci-biology/proda 1.0: Multiple alignment of protein sequences with repeated and shuffled elements
 sci-biology/prokka 1.11: Prokaryotic whole genome annotation pipeline
 sci-biology/prot4EST 3.1b: Predict proteins from EST sequences overcoming errors in ORFs
