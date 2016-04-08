@@ -315,7 +315,7 @@ sci-biology/dcmstack 9999: DICOM to Nifti coversion
 sci-biology/discrover 1.6.0 9999: A sequence motif discovery tool that uses discriminative learning
 sci-biology/dna2pep 1.1: Translate DNA sequence into protein (with STOP codon read-through)
 sci-biology/ePCR 2.3.12: Search for sub-sequences matching PCR primers
-sci-biology/edena 3.131028: De novo short read assembler
+sci-biology/edena 3.131028: De novo short read OLC assembler (overlap-layout-consensus)
 sci-biology/epga 9999: De novo assembler using distribution of reads and insert size
 sci-biology/erpin 5.5b: Easy RNA Profile IdentificatioN, an RNA motif search program
 sci-biology/est2assembly 1.08 9999: EST assembly and annotation pipeline for chado/gbrowse2 display
@@ -446,7 +446,7 @@ sci-biology/seqclean 110625: Trimpoly and mdust for trimming and validation of E
 sci-biology/seqtools 4.34.5: Display alignments and GFF files, matrix dot plots (blixem, dotter, belvu)
 sci-biology/sequin 20121202: A tool to facilitate submission of data to the GenBank, EMBL, and DDBJ sequence databases
 sci-biology/sff_dump 1.04: Convert Roche SFF files to FASTA file format
-sci-biology/sga 9999: String Graph Assembler for short-read assemblies
+sci-biology/sga 9999: String Graph OLC Assembler for short reads (overlap-layout-consensus)
 sci-biology/sgp2 1.1: Find ORFs by comparing two genomic/EST sequences using tblastx and geneid ab initio predictions
 sci-biology/sickle 1.33 9999: Windowed adaptive quality-based trimming tool for FASTQ data from Illumina/Solexa
 sci-biology/signalp 3.0: Prediction of signal peptide cleavage sites in amino acid sequences
