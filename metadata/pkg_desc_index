@@ -429,7 +429,7 @@ sci-biology/roche454ace2caf 20100812: Convert from ace to gap4 (of staden v1.x),
 sci-biology/ruffus 9999: Python module to support computational pipelines
 sci-biology/rum 2.0.5.5: RNA-Seq Unified Mapper (digital normalization)
 sci-biology/sabre 9999: Barcode demultiplexing and trimming tool for Illumina FastQ files
-sci-biology/sailfish 0.9.1 9999: Rapid Mapping-based Isoform Quantification from RNA-Seq Reads
+sci-biology/sailfish 0.9.2 9999: Rapid Mapping-based Isoform Quantification from RNA-Seq Reads
 sci-biology/salmon 0.3.2 0.4.2 0.5.0 0.6.0 9999: Transcript-level quantification from RNA-seq reads using lightweight alignments
 sci-biology/samstat 20130708: Show statistics of BAM/SAM (error profiles, nucleotide composition, base quals, len. distribution)
 sci-biology/samtools 1.0-r2 1.1-r1 1.2-r1: Utilities for SAM (Sequence Alignment/Map), a format for large nucleotide sequence alignments
