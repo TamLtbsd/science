@@ -241,7 +241,7 @@ sci-biology/Ray 2.3.0: Assembler for metagenomes, genomes and transcriptomes (un
 sci-biology/Rcorrector 9999: Error correction for Illumina RNA-seq reads
 sci-biology/SEECER 0.1.3-r2: SEquencing Error Corrector for RNA-Seq reads
 sci-biology/SPAdes 3.5.0: De novo assembler for smaller genomes (bacteria to fungi)
-sci-biology/SSAKE 3.8.2: Short-read trimmer, assembler, scaffolder in PERL using the 3'-most k-mers
+sci-biology/SSAKE 3.8.2: Short-read trimmer, OLC assembler, scaffolder in PERL using the 3'-most k-mers
 sci-biology/STAR 2.4.1c 9999: STAR aligner: align RNA-seq reads to reference genome uncompressed suffix arrays
 sci-biology/SnpEff 4.1e: Annotate SNP changes and predict their effect
 sci-biology/SolexaQA 2.2: Analyze and trim single-end and paired-end reads, show quality statistics
@@ -261,7 +261,7 @@ sci-biology/ampliconnoise 1.27: Noise removal from pyrosequenced amplicons
 sci-biology/angsd 9999: Population genetics analysis package
 sci-biology/ants 9999: Advanced Normalitazion Tools for neuroimaging
 sci-biology/apollo 9999: Apollo genome editor is Java-based application for browsing and annotation of genomic sequences
-sci-biology/arachne 46233: Whole genome shotgun assembler for Sanger read lengths (overlap-layout-contig)
+sci-biology/arachne 46233: Whole genome shotgun OLC assembler for Sanger reads (overlap-layout-contig)
 sci-biology/argo 1.0.24: Production tool for visualizing and manually annotating whole genomes
 sci-biology/argo-bin 1.0.31 2.0.3: Visualization and manually annotating whole genomes
 sci-biology/artemis 9999: DNA sequence viewer/annotation (Artemis) and comparison (ACT) tool
@@ -484,7 +484,7 @@ sci-biology/vague-bin 1.0.5: GUI for Velvet de novo assembler
 sci-biology/velvetk 20120606: Estimate the best k-mer size to use for your Velvet de novo assembly
 sci-biology/wcd 0.6.3: EST sequence clustering: d2 function, edit distance, common word heuristics
 sci-biology/weblogo 2.8.2: generate consensus sequence logo figures
-sci-biology/wgs-assembler 8.3_rc2: De novo whole-genome shotgun DNA sequence assembler (Celera Assembler and CABOG)
+sci-biology/wgs-assembler 8.3_rc2: De novo whole-genome shotgun DNA sequence OLC assembler (Celera Assembler, CABOG)
 sci-biology/wise 2.4.1: Genewise, promoterwise: align protein HMMs to DNA for CDS predictions
 sci-biology/zmsort 110625: Merge-sort utility for compressed alignment files, with multi-file output
 sci-chemistry/GromacsWrapper 9999: Python framework for Gromacs
