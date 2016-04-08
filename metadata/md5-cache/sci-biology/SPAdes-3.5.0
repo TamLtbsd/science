@@ -1,6 +1,6 @@
 DEFINED_PHASES=compile prepare pretend
 DEPEND=sys-libs/zlib app-arch/bzip2 dev-python/regex dev-libs/boost
-DESCRIPTION=De novo assembler for smaller genomes (bacteria to fungi)
+DESCRIPTION=De novo de Bruijn genome assembler (bacteria to fungi) or uneven coverage
 EAPI=5
 HOMEPAGE=http://bioinf.spbau.ru/en/spades
 KEYWORDS=~amd64
@@ -10,4 +10,4 @@ SLOT=0
 SRC_URI=http://spades.bioinf.spbau.ru/release3.5.0/SPAdes-3.5.0.tar.gz http://spades.bioinf.spbau.ru/release3.5.0/manual.html
 _eclass_exported_funcs=pkg_pretend:- src_prepare:- src_compile:-
 _eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
-_md5_=51332b1266dc2cf2befb855c96904674
+_md5_=b43830623382fa91ed1ea644488796f0
