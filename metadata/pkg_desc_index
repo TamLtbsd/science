@@ -342,6 +342,7 @@ sci-biology/full_lengther_next 0.5.7: Classify assembled transcripts and fix fra
 sci-biology/gap2caf 2.1.0: GAP4 file format to CAF v2 format converter for genomic assembly data
 sci-biology/gbench 2.3.2: View and analyze genome sequences
 sci-biology/gbrowse 2.39 2.45 2.48: Display of genomic annotations on interactive web pages
+sci-biology/gemini 9999: Lightweight VCF to DB framework for disease and population genetics
 sci-biology/geneid 1.4.4: An ab initio exon/gene finding program
 sci-biology/genepop 4.2.1: Population genetics analysis
 sci-biology/generecon 1.2.1-r1: Disequilibrium gene mapping based on coalescent theory using Bayesian Markov Chain MC methods
