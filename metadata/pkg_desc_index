@@ -376,6 +376,7 @@ sci-biology/maker 2.31.8: A genome annotation viewer and pipeline for small euka
 sci-biology/manatee-igs 2.23.1: IGS-modified version of the genome annotation tool using Chado database schema
 sci-biology/manatee-jcvi 2.4.3: genome annotation tool: view, modify, and store annotation for prokaryotic and eukaryotic genomes
 sci-biology/mavid 2.0.4: Multiple alignment of large DNA sequences
+sci-biology/megahit 9999: Metagenome assembler using succinct de Bruijn graph approach with CUDA
 sci-biology/merlin 1.1.2: Statistical analysis of gene flow in pedigrees
 sci-biology/metaseq 0.5.3: Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data
 sci-biology/mgblast 0.1: Customized version of megablast from TIGR Gene Indices project used by tgicl and gicl utilities
