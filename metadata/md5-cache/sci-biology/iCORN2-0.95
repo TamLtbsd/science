@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst prepare unpack
+DEPEND=sci-biology/snpomatic || ( sci-biology/smalt sci-biology/smalt-bin ) sci-biology/samtools:= sci-biology/gatk sci-biology/picard
+DESCRIPTION=Iteratively map reads to a reference, fix mismatches and indels with GATK/picard
+EAPI=5
+HOMEPAGE=http://icorn.sourceforge.net/ http://sourceforge.net/projects/icorn
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=sci-biology/snpomatic || ( sci-biology/smalt sci-biology/smalt-bin ) sci-biology/samtools:= sci-biology/gatk sci-biology/picard dev-lang/perl app-shells/tcsh
+SLOT=0
+SRC_URI=ftp://ftp.sanger.ac.uk/pub4/resources/software/pagit/ICORN2/icorn2.V0.95.tgz http://icorn.sourceforge.net/manual.html -> iCORN2_manual.html
+_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_prepare:- src_install:-
+_md5_=697fd8451813a7f06cd800dff8c6478a

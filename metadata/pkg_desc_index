@@ -355,6 +355,7 @@ sci-biology/grass 20130628: Scaffold next-generation sequencing assemblies
 sci-biology/hexamer 19990330: Predict CDS using 6mers without deriving information from base composition
 sci-biology/hmmer 3.1_beta2: Sequence analysis using profile hidden Markov models
 sci-biology/hydra-sv 0.5.3: Detection of structural variation breakpoints in unique and duplicated genomic regions
+sci-biology/iCORN2 0.95: Iteratively map reads to a reference, fix mismatches and indels with GATK/picard
 sci-biology/igv 2.3.47 2.3.52: Integrative Genomics Viewer
 sci-biology/inGAP-bin 3.0.1: Detect SNPs and indels from Next-gen sequences using a Bayesian algorithm
 sci-biology/jellyfish 1.1.11 2.1.3 2.1.4: k-mer counter within reads for assemblies
