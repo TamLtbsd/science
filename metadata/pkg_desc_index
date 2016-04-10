@@ -426,6 +426,7 @@ sci-biology/pysurfer 0.4 0.6 9999: Python based program for visualization of dat
 sci-biology/quast 2.3: Compare quality of multiple genome assemblies to each other
 sci-biology/quicktree 1.1-r1: Rapid reconstruction of phylogenies by the Neighbor-Joining method
 sci-biology/quorum 0.2.1 1.0.0: Illumina reads error corrector
+sci-biology/reaper 15348: Demultiplex, trim 3'-adapter/polyA and filter short read DNA sequences
 sci-biology/reapr 1.0.18: Verify and correct genome assembly scaffolds using paired-end reads
 sci-biology/repeatmasker 4.0.6-r2: Screen DNA sequences for interspersed repeats and low complexity DNA
 sci-biology/repeatmasker-libraries 20150807: A special version of RepBase used by RepeatMasker
@@ -461,6 +462,8 @@ sci-biology/smalt 0.7.6: Successor of ssaha2: pairwise sequence alignment mappin
 sci-biology/smalt-bin 0.7.4: Pairwise sequence alignment mapping DNA reads onto genomic reference, better over SSAHA2
 sci-biology/snap 20131129: HMM-based prokaryotic and eukaryotic gene prediction tool
 sci-biology/snphylo 20140701: Pipeline to generate phylogenetic tree from SNP data
+sci-biology/snpomatic 9999: Stringent short-read aligner supporting filters and various output formats
+sci-biology/somatic-sniper 1.0.4: Compare BAM files from normal and tumor samples and report somatic SNPs
 sci-biology/spm 8 12 12_p6470: Analysis of brain imaging data sequences for Octave or Matlab
 sci-biology/sra_sdk 2.2.2a: NCBI Sequence Read Archive (SRA) sratoolkit
 sci-biology/ssaha2-bin 2.5.5: SSAHA2: Sequence Search and Alignment by Hashing Algorithm

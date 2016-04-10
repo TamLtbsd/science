@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=sys-libs/zlib
+DESCRIPTION=Demultiplex, trim 3'-adapter/polyA and filter short read DNA sequences
+EAPI=5
+HOMEPAGE=http://www.ebi.ac.uk/~stijn/reaper
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=sys-libs/zlib
+SLOT=0
+SRC_URI=http://www.ebi.ac.uk/~stijn/reaper/src/reaper-15-348.tgz
+_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
+_md5_=2969f34022e1a4616531a762147e820c

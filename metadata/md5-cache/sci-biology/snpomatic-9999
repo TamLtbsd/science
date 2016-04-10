@@ -1,0 +1,10 @@
+DEFINED_PHASES=install prepare unpack
+DEPEND=>=dev-vcs/git-1.8.2.1
+DESCRIPTION=Stringent short-read aligner supporting filters and various output formats
+EAPI=5
+HOMEPAGE=https://github.com/magnusmanske/snpomatic
+LICENSE=GPL-3
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_install:-
+_eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	git-r3	ef66dfc3db09f327af21cf32f140fb2b	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=855737f58ef2b0536edfebc5dad76999
