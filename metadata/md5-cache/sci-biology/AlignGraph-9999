@@ -1,6 +1,6 @@
 DEFINED_PHASES=compile install unpack
 DEPEND=>=dev-vcs/git-1.8.2.1
-DESCRIPTION=Asssemble contigs/scaffolds using related reference sequence
+DESCRIPTION=Reference-assisted asssembly of contigs/scaffolds
 EAPI=5
 HOMEPAGE=https://github.com/baoe/AlignGraph http://bioinformatics.oxfordjournals.org/content/30/12/i319.long
 LICENSE=Artistic-2
@@ -8,4 +8,4 @@ RDEPEND=sci-biology/blat sci-biology/bowtie
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_compile:- src_install:-
 _eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	git-r3	ef66dfc3db09f327af21cf32f140fb2b	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
-_md5_=5df0561800a215a07f5bf33f0cb1fe10
+_md5_=5d3d6301eee67fe6d62b749c588dbbe8
