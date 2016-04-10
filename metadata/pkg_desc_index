@@ -281,6 +281,7 @@ sci-biology/bcftools 1.2: Utilities for variant calling and manipulating VCF and
 sci-biology/beagle 4.0: Genotype calling/phasing, imputation of ungenotyped markers, identity-by-descent segment detection
 sci-biology/beaglecall 20101115: Simultaneous genotype calling and haplotype phasing for unrelated individuals
 sci-biology/bedtools 2.22.1: Tools for manipulation and analysis of BED, GFF/GTF, VCF, and SAM/BAM file formats
+sci-biology/bfast 0.7.0_alpha: Blat-like Fast Accurate Search Tool (short read mapper)
 sci-biology/biobambam 0.0.183: Tools for bam file processing
 sci-biology/biopieces 0.51 9999: Toolkit to find and trim adaptors, plot read lengths, qualities, map reads and submit to GenBank
 sci-biology/bismark 0.13.0: A tool to map bisulfite converted sequence reads and determine cytosine methylation states

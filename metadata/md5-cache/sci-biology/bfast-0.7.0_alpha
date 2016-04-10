@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DESCRIPTION=Blat-like Fast Accurate Search Tool (short read mapper)
+EAPI=5
+HOMEPAGE=https://sourceforge.net/projects/bfast
+KEYWORDS=~amd64
+LICENSE=GPL-2
+RDEPEND=dev-lang/perl
+SLOT=0
+SRC_URI=https://sourceforge.net/projects/bfast/files/bfast/0.7.0/bfast-0.7.0a.tar.gz
+_eclass_exported_funcs=-
+_md5_=d69571c77ed5106c0d34336318c77556
