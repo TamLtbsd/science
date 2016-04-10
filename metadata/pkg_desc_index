@@ -217,6 +217,7 @@ sci-biology/DisEMBL 1.4: Intrinsic Protein Disorder Prediction
 sci-biology/EBARDenovo 1.2.2: Transcriptome de novo assembler with chimera detection
 sci-biology/ESTate 0.5: ORF finding despite frameshifts, EST clustering
 sci-biology/FLASH 1.2.9: Merge paired-end mates from fragments that are shorter than twice the read length
+sci-biology/Fastaq 9999: Python3 script to manipulate FASTA/Q files plus API for developers
 sci-biology/GAL 0.2.2: Genome Annotation Library (incl. fasta_tool)
 sci-biology/Gambit 0.4.145: Genomic alignments from BAM files with annotations from BED, GFF, GFF3, VCF formats
 sci-biology/HTSeq 0.6.1: Use SAM/BAM/Bowtie/FASTA/Q/GFF/GTF files in python, count reads, genomic intervals
