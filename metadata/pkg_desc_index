@@ -424,6 +424,7 @@ sci-biology/pybedtools 0.6.9: Wrapper for Aaron Quinlan's BEDtools, plus other u
 sci-biology/pybrain 9999: The Python Machine Learning Library
 sci-biology/pyfaidx 0.3.8: Efficient pythonic random access to fasta subsequences
 sci-biology/pysam 0.6-r2 0.7.5 0.8.3 0.8.4: Python interface for the SAM/BAM sequence alignment and mapping format
+sci-biology/pysamstats 0.24.2: Calculate statistics against genome positions from a SAM, BAM or CRAM file
 sci-biology/pysurfer 0.4 0.6 9999: Python based program for visualization of data from Freesurfer
 sci-biology/quast 2.3: Compare quality of multiple genome assemblies to each other
 sci-biology/quicktree 1.1-r1: Rapid reconstruction of phylogenies by the Neighbor-Joining method
