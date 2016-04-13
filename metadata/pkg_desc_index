@@ -24,7 +24,6 @@ dev-java/gluegen 1_p20080421 2.0_rc8 2.1.4 2.2.4: Automatically generate the JNI
 dev-java/hdf-java 2.9: Java interface to the HDF5 library
 dev-java/jeuclid-core 3.1.9-r1: Core module of MathML rendering solution
 dev-java/jgraphx 1.4.1.0 1.8.0.6 2.5.0.3: Open-source graph component for Java
-dev-java/jhealpix 3.11: Hierarchical Equal Area isoLatitude Pixelization of a sphere - Java
 dev-java/jlatexmath 1.0.3: A Java API to render LaTeX
 dev-java/jlatexmath-fop 1.0.3: jlatexmath plugin for dev-java/fop
 dev-java/jogl 1.1.1a 2.0_rc8-r1 2.1.4 2.2.4: Java(TM) Binding fot the OpenGL(TM) API
@@ -82,22 +81,20 @@ dev-python/astlib 0.7.0: Python astronomy modules for image and coordinate manip
 dev-python/astropy 9999: Core functionality for performing astrophysics with Python
 dev-python/astropy-helpers 9999: Helpers for Astropy and Affiliated packages
 dev-python/astropysics 9999: General purpose python library for professional astronomers/astrophysicists
-dev-python/astroquery 0.2 9999: A collection of packages to access online astronomical resources
+dev-python/astroquery 9999: A collection of packages to access online astronomical resources
 dev-python/brewer2mpl 1.4.1 9999: Connect colorbrewer2.org color maps to Python and matplotlib
-dev-python/ccdproc 0.2 0.2.1 9999: Astropy affiliated package for reducing optical/IR CCD data
+dev-python/ccdproc 9999: Astropy affiliated package for reducing optical/IR CCD data
 dev-python/coards 1.0.5: Converts COARDS between time specification and a Python datetime object
 dev-python/coords 0.37: Managing astronomical coordinate systems
 dev-python/cosmocalc 0.1.2-r1: Simple cosmology python module
 dev-python/dimensionful 9999: A simple library for making your data dimensionful
-dev-python/emcee 1.2.0 2.0.0: Python ensemble sampling toolkit for affine-invariant MCMC
 dev-python/ffc 1.4.0: Compiler for multilinear forms by generating C or C++ code
 dev-python/ffnet 0.7.1 0.8.3: Feed-forward neural network for python
 dev-python/ffnetui 0.8.3.2: GUI for ffnet - feed forward neural network for python
 dev-python/fiat 1.4.0: FInite element Automatic Tabulator
 dev-python/future 0.15.2: Clean single-source support for Python 3 and 2
-dev-python/gammapy 0.1 9999: A Python package for gamma-ray astronomy
+dev-python/gammapy 9999: A Python package for gamma-ray astronomy
 dev-python/hdf5storage 0.1.11 0.1.13 9999: Read/write Python types to/from HDF5 files, including MATLAB v7.3 MAT files
-dev-python/healpy 1.7.4: Python wrapper for healpix
 dev-python/imageutils 9999: Image processing utilities for Astropy
 dev-python/inference 0.4: Collection of Python modules for statistical inference
 dev-python/instant 1.2.0 1.3.0 1.4.0: Instant inlining of C and C++ code in Python
@@ -178,12 +175,9 @@ net-misc/bbscp 1.0.6: SCP-like interface to bbFTP
 perl-core/encoding-warnings 0.11: Warn on implicit encoding conversions
 sci-astronomy/bpz 1.99.3: Bayesian Photometric Redshifts
 sci-astronomy/casapy-bin 4.2.1.29047.001_p1 4.2.2.30986_p1 4.4.0: Software package to calibrate, image, and analyze radioastronomical data
-sci-astronomy/chealpix 3.11.2: Hierarchical Equal Area isoLatitude Pixelization of a sphere - C Library
 sci-astronomy/eazy 1.00: Photometric redshift estimator for galaxies
 sci-astronomy/eye 9999: Enhance astronomical object extraction with neural network filters
 sci-astronomy/galfit-bin 3.0.5: Galaxy morphology fitting program
-sci-astronomy/healpix_cxx 3.11.2: Hierarchical Equal Area isoLatitude Pixelization of a sphere - C++
-sci-astronomy/healpix_idl 3.11: Hierarchical Equal Area isoLatitude Pixelization of a sphere - IDL routines
 sci-astronomy/lephare 2.2: Photometric Analysis for Redshift Estimate for galaxies
 sci-astronomy/libthesky 0.3.2: Fortran library to compute positions of celestial bodies
 sci-astronomy/missfits 9999: Performs basic maintenance and packaging tasks on FITS files
@@ -256,7 +250,6 @@ sci-biology/VarScan 2.3.7: Variant detection (germline, multi-sample, somatic mu
 sci-biology/VelvetOptimiser 2.2.5: Optimise three primary parameter options (K, -exp_cov, -cov_cutoff) for Velvet sequence assembler
 sci-biology/YASRA 2.33: Yet Another Short Read Assembler aligning to a reference using LASTZ
 sci-biology/abacas 1.3.1: Order and orientate DNA contigs even via 6-frame protein alignments, design primers for gap closing
-sci-biology/abyss 1.3.3-r1 1.3.4-r1 1.3.6-r1: Assembly By Short Sequences - a de novo, parallel, paired-end sequence assembler
 sci-biology/act-bin 13.0.0: DNA contig sequence comparison tool supplementing Artemis
 sci-biology/aghermann 1.0.7: A sleep-research experiment manager, EDF viewer & Process S simulator
 sci-biology/align_to_scf 1.06: View trace information at a given position missing from Roche .ace files
@@ -425,7 +418,7 @@ sci-biology/pvmsx 0.1: Parallel multi-FASTA file processing tool
 sci-biology/pybedtools 0.6.9: Wrapper for Aaron Quinlan's BEDtools, plus other useful methods for working
 sci-biology/pybrain 9999: The Python Machine Learning Library
 sci-biology/pyfaidx 0.3.8: Efficient pythonic random access to fasta subsequences
-sci-biology/pysam 0.6-r2 0.7.5 0.8.3 0.8.4: Python interface for the SAM/BAM sequence alignment and mapping format
+sci-biology/pysam 0.7.5: Python interface for the SAM/BAM sequence alignment and mapping format
 sci-biology/pysamstats 0.24.2: Calculate statistics against genome positions from a SAM, BAM or CRAM file
 sci-biology/pysurfer 0.4 0.6 9999: Python based program for visualization of data from Freesurfer
 sci-biology/quast 2.3: Compare quality of multiple genome assemblies to each other
@@ -485,7 +478,6 @@ sci-biology/tclust 110625: Transitive closure clustering tool with overlap filte
 sci-biology/tgicl 2.1: TIGR perl scripts for clustering large EST/mRNAs datasets and aceconv, mgblast and pvmsx binaries
 sci-biology/tigr-foundation-libs 2.0-r1: TIGR Foundation for C++
 sci-biology/tmhmm 2.0c: Prediction of transmembrane helices in proteins
-sci-biology/tophat 2.0.12 2.0.13 2.0.14 2.1.0: Python-based splice junction mapper for RNA-Seq reads using bowtie/bowtie2
 sci-biology/trans-abyss 1.4.8: Analyze and combine multiple assemblies from abyss
 sci-biology/trf 4.07b: Tandem Repeats Finder
 sci-biology/trim_galore 0.4.0: Perl wrapper around Cutadapt and FastQC to adapter and quality trimming
