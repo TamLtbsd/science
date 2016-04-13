@@ -10,5 +10,5 @@ RDEPEND=media-libs/mesa[nptl] >=media-libs/freeglut-1.0 virtual/opengl x11-libs/
 SLOT=0
 SRC_URI=http://www.dhondt.de/cgx_2.10.all.tar.bz2 doc? ( http://www.dhondt.de/cgx_2.10.pdf )
 _eclass_exported_funcs=src_configure:- src_install:-
-_eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_eclasses_=eutils	9d81603248f2ba3ec59124320d123e5e	multilib	23ae8c186171e6476af098d2a50d0ee0	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
 _md5_=a7d56b24435bb4678a825bd4cf98c404
