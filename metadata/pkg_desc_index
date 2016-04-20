@@ -472,7 +472,7 @@ sci-biology/subread 1.4.6: NGS suite for read mapping, analysis of mapped reads,
 sci-biology/swissknife 1.70: Perl library of modules to manipulate SwissProt flatfiles
 sci-biology/symap 4.0: Synteny Mapping and Analysis Program between chromosomes, contigs and physical maps
 sci-biology/tablet 1.14.04.10 9999: Viewer of next generation sequence assemblies and alignments
-sci-biology/tablet-bin 1.14.10.21: Viewer of next generation sequence assemblies and alignments
+sci-biology/tablet-bin 1.15.09.01: Viewer of next generation sequence assemblies and alignments
 sci-biology/tagdust 20101028: Trim multimers of various primers/adapter from Illumina datasets
 sci-biology/tclust 110625: Transitive closure clustering tool with overlap filtering options
 sci-biology/tgicl 2.1: TIGR perl scripts for clustering large EST/mRNAs datasets and aceconv, mgblast and pvmsx binaries
