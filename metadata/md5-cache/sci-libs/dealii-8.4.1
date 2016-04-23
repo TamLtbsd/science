@@ -3,13 +3,13 @@ DEPEND=dev-libs/boost app-arch/bzip2 sys-libs/zlib arpack? ( sci-libs/arpack[mpi
 DESCRIPTION=Solving partial differential equations with the finite element method
 EAPI=5
 HOMEPAGE=http://www.dealii.org/
-IUSE=arpack cpu_flags_x86_avx cpu_flags_x86_sse2 c++11 +debug doc +examples hdf5 +lapack mesh_converter metis mpi muparser opencascade netcdf p4est parameter_gui petsc +sparse static-libs +tbb trilinos
+IUSE=arpack cpu_flags_x86_avx cpu_flags_x86_sse2 c++11 +debug doc +examples hdf5 +lapack metis mpi muparser opencascade netcdf p4est parameter_gui petsc +sparse static-libs +tbb trilinos
 KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 LICENSE=LGPL-2.1+
 RDEPEND=dev-libs/boost app-arch/bzip2 sys-libs/zlib arpack? ( sci-libs/arpack[mpi=] ) hdf5? ( sci-libs/hdf5[mpi=] ) lapack? ( virtual/lapack ) metis? ( >=sci-libs/parmetis-4 ) mpi? ( virtual/mpi ) muparser? ( dev-cpp/muParser ) netcdf? ( sci-libs/netcdf-cxx:0 ) opencascade? ( sci-libs/opencascade:* ) p4est? ( sci-libs/p4est[mpi] ) parameter_gui? ( dev-qt/qtgui:4 ) petsc? ( sci-mathematics/petsc[mpi=] ) sparse? ( sci-libs/umfpack ) tbb? ( dev-cpp/tbb ) trilinos? ( sci-libs/trilinos )
 REQUIRED_USE=p4est? ( mpi ) trilinos? ( mpi )
 SLOT=0
-SRC_URI=https://github.com/dealii/dealii/archive/v8.3.0.tar.gz -> dealii-8.3.0.tar.gz doc? ( https://github.com/dealii/dealii/releases/download/v8.3.0/dealii-8.3.0-offline_documentation.tar.gz -> dealii-8.3.0-offline_documentation.tar.gz http://ganymed.iwr.uni-heidelberg.de/~maier/dealii/releases/dealii-8.3.0-offline_documentation.tar.gz -> dealii-8.3.0-offline_documentation.tar.gz )
+SRC_URI=https://github.com/dealii/dealii/archive/v8.4.1.tar.gz -> dealii-8.4.1.tar.gz doc? ( https://github.com/dealii/dealii/releases/download/v8.4.1/dealii-8.4.1-offline_documentation.tar.gz -> dealii-8.4.1-offline_documentation.tar.gz )
 _eclass_exported_funcs=src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
 _eclasses_=cmake-utils	422bbd1bee2557490177a34dbe0a662b	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	d270fa247153df66074f795fa42dba3e	multilib	23ae8c186171e6476af098d2a50d0ee0	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=6850f24a1d88556ba0aa2a7d5524338c
+_md5_=9f7af77ced76e6b111cfb9ccb6fd3d46
