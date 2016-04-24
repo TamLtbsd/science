@@ -1,8 +1,0 @@
-DEFINED_PHASES=install
-DESCRIPTION=CAP3 is for small-scale assembly of EST sequences with or without quality value
-EAPI=5
-HOMEPAGE=http://seq.cs.iastate.edu
-SLOT=0
-SRC_URI=x86? ( http://seq.cs.iastate.edu/CAP3/cap3.linux.tar ) amd64? ( http://seq.cs.iastate.edu/CAP3/cap3.linux.i686_xeon64.tar )
-_eclass_exported_funcs=src_install:-
-_md5_=b7345544f8e3610abc1441aefc6ba0df

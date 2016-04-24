@@ -22,6 +22,7 @@ dev-java/fits 1.11.0-r1: Java library for FITS input/output
 dev-java/flexdock 1.1.1 1.2.4: A Java docking framework for use in cross-platform Swing applications
 dev-java/gluegen 1_p20080421 2.0_rc8 2.1.4 2.2.4: Automatically generate the JNI code necessary to call C libraries
 dev-java/hdf-java 2.9: Java interface to the HDF5 library
+dev-java/htsjdk 2.2.2: Java API for high-throughput sequencing data (HTS) formats.
 dev-java/jeuclid-core 3.1.9-r1: Core module of MathML rendering solution
 dev-java/jgraphx 1.4.1.0 1.8.0.6 2.5.0.3: Open-source graph component for Java
 dev-java/jlatexmath 1.0.3: A Java API to render LaTeX
@@ -288,7 +289,6 @@ sci-biology/bru2nii 9999: Converts Bruker ParaVision MRI data to the NIfTI file 
 sci-biology/bwa 0.7.13: Burrows-Wheeler Alignment Tool, a fast short genomic sequence aligner
 sci-biology/bx-python 0.7.2 9999: Library for rapid implementation of genome scale analyses
 sci-biology/caftools 2.0.2: Manipulate CAF files and convert to GAP4 format (not GAP5), ACE, PHRAP
-sci-biology/cap3-bin 20071015 20150210: CAP3 is for small-scale assembly of EST sequences with or without quality value
 sci-biology/cast-bin 20080813: Predict low-complexity regions in putative proteins
 sci-biology/cd-hit 4.6.5: Clustering Database at High Identity with Tolerance
 sci-biology/cd-hit-auxtools 0.5: Additional cd-hit itools: read-linker, cd-hit-lap and cd-hit-dup
