@@ -1,11 +1,12 @@
-DEFINED_PHASES=compile
-DEPEND=dev-lang/perl sys-devel/gcc:* sys-devel/clang >=sci-biology/samtools-0.1.18:0 <sci-biology/samtools-1:0
+DEFINED_PHASES=compile install prepare
+DEPEND=dev-lang/perl sys-devel/gcc:* sys-devel/clang >=sci-biology/samtools-0.1.18:0 <sci-biology/samtools-1:0 doc? ( app-doc/doxygen )
 DESCRIPTION=C++11 framework for rapid develop and deploy of bioinformatic tasks
 EAPI=6
 HOMEPAGE=https://sourceforge.net/projects/molbiolib
+IUSE=doc
 LICENSE=GPL-3
-RDEPEND=dev-lang/perl sys-devel/gcc:* sys-devel/clang >=sci-biology/samtools-0.1.18:0 <sci-biology/samtools-1:0
+RDEPEND=dev-lang/perl sys-devel/gcc:* sys-devel/clang >=sci-biology/samtools-0.1.18:0 <sci-biology/samtools-1:0 doc? ( app-doc/doxygen )
 SLOT=0
 SRC_URI=https://sourceforge.net/projects/molbiolib/files/MolBioLib_public.version5.tar.gz
-_eclass_exported_funcs=src_compile:-
-_md5_=7ef3adb29385809a546325e8c36e9938
+_eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
+_md5_=0a145b7d0019b5551b446cb071832d13
