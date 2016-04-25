@@ -108,7 +108,7 @@ dev-python/jupyter_console 9999: A terminal-based console frontend for Jupyter k
 dev-python/jupyter_core 9999: Core common functionality of Jupyter projects
 dev-python/matlab_wrapper 0.9.6 9999: MATLAB wrapper for Python
 dev-python/matplotlib-venn 0.11 9999: Routines for plotting area-weighted two- and three-circle venn diagrams
-dev-python/matplotlib2tikz 0.5.4 0.5.6 9999: Convert matplotlib figures into native Pgfplots (TikZ) figures
+dev-python/matplotlib2tikz 0.5.6 0.5.7 9999: Convert matplotlib figures into native Pgfplots (TikZ) figures
 dev-python/matrix2latex 1.0.0 9999: A tool to create LaTeX tables from python lists and arrays
 dev-python/meshpy 2013.1.2 2014.1: Quality triangular and tetrahedral mesh generation for Python
 dev-python/metakernel 0.11.8 0.12.2: Metakernel for Jupyter
@@ -632,8 +632,8 @@ sci-libs/calculix-cgx 2.10: A Free Software Three-Dimensional Structural Finite 
 sci-libs/cblas-reference 20110218-r1 20151113-r3: C wrapper interface to the F77 reference BLAS implementation
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib
 sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools
-sci-libs/clblas 2.6-r1 2.8 2.10 9999: A software library containing BLAS routines for OpenCL
-sci-libs/clfft 2.6.1 2.8 2.8-r1 2.10.0 2.10.2 9999: Library containing FFT functions written in OpenCL
+sci-libs/clblas 2.8 2.10 9999: A software library containing BLAS routines for OpenCL
+sci-libs/clfft 2.10.0 2.10.2 2.12.0 9999: Library containing FFT functions written in OpenCL
 sci-libs/clrng 9999: A library for uniform random number generation in OpenCL
 sci-libs/cs-rosetta-db 1.01.2009.1109.11: System for chemical shifts based protein structure prediction using ROSETTA
 sci-libs/dcmtk 3.6.0: OFFIS DICOM image files library and tools
