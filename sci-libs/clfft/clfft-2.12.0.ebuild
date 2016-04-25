@@ -1,4 +1,4 @@
-# Copyright 1999-2015 Gentoo Foundation
+# Copyright 1999-2016 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
@@ -47,15 +47,7 @@ src_configure() {
 		$(cmake-utils_use_build client CLIENT)
 		$(cmake-utils_use_build examples EXAMPLES)
 		$(cmake-utils_use_build test TEST)
+		-DBoost_USE_STATIC_LIBS=OFF
 	)
 	cmake-utils_src_configure
-}
-
-# Upstream fixed already adjusted their CMakeLists.txt. Thus, the (callback) client
-# is installed by cmake again with the next release.
-src_install() {
-	cmake-utils_src_install
-
-	use callback_client && dobin "${BUILD_DIR}/staging/clFFT-callback-client-2.8.0"
-	use client && dobin "${BUILD_DIR}/staging/clFFT-client-2.8.0"
 }
