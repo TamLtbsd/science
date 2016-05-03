@@ -58,6 +58,7 @@ dev-libs/utf8proc 1.1.6 1.2-r1: library for processing UTF-8 encoded Unicode str
 dev-ml/lacaml 7.0.3: BLAS/LAPACK interface for OCaml
 dev-ml/mlgmpidl 1.1: OCaml interface to the GMP and MPFR libraries
 dev-ml/zarith 1.2.1: Arithmetic and logical operations over arbitrary-precision integers
+dev-perl/Algorithm-Loops 1.31: Looping constructs: NestedLoops, MapCar*, Filter, and NextPermute*
 dev-perl/BTLib 0.19: Perl part of the estscan package
 dev-perl/Bio-BigFile 1.07: BigWig and BigBed file perl-based interface for Gbrowse-2
 dev-perl/Bio-DB-Das-Chado 0.34: A Chado database interface for Gbrowse-2
@@ -334,7 +335,7 @@ sci-biology/flexbar 2.4: Barcode, MID tag and adapter sequence removal
 sci-biology/freebayes 9999: Bayesian gen. variant detector to find small polymorphisms
 sci-biology/fsa 1.15.7: Distance-based probabilistic multiple sequence alignment algorithm for DNA/RNA/protein
 sci-biology/fsl 5.0.8: Analysis of functional, structural, and diffusion MRI brain imaging data
-sci-biology/full_lengther_next 0.6.0: Classify assembled transcripts and fix frameshifts in ORFs
+sci-biology/full_lengther_next 0.6.1: Classify assembled transcripts and fix frameshifts in ORFs
 sci-biology/gap2caf 2.1.0: GAP4 file format to CAF v2 format converter for genomic assembly data
 sci-biology/gbench 2.3.2: View and analyze genome sequences
 sci-biology/gbrowse 2.39 2.45 2.48: Display of genomic annotations on interactive web pages
@@ -414,7 +415,7 @@ sci-biology/primerD 1.0.0: Design degenerate primers
 sci-biology/prinseq-lite 0.20.4: Describe, trim, reformat and convert to or form FASTA/FASTQ files
 sci-biology/proda 1.0: Multiple alignment of protein sequences with repeated and shuffled elements
 sci-biology/prokka 1.11: Prokaryotic whole genome annotation pipeline
-sci-biology/prot4EST 3.1b: Predict proteins from EST sequences overcoming errors in ORFs
+sci-biology/prot4EST 3.1b: Predict proteins from EST sequences overcoming frameshifts
 sci-biology/psx 0.1: parallel multi-FASTA file processing tool from TIGR Gene Indices project tools
 sci-biology/psychopy 1.78.00 1.83.03 9999: Python experimental psychology toolkit
 sci-biology/pvmsx 0.1: Parallel multi-FASTA file processing tool
