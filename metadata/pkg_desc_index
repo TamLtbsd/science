@@ -305,6 +305,7 @@ sci-biology/cnrun 2.0.3: A NeuroML-enabled, precise but slow neuronal network si
 sci-biology/codonw 1.4.4-r2: Multivariate statistical analysis of codon and amino acid usage
 sci-biology/conform-gt 1174: Modify your Variant Call Format file to be consistent with reference VCF
 sci-biology/conifer 0.2.2: Copy Number Inference/Variants (CNV) from exome reads
+sci-biology/conrad 1: Gene predictor using ab initio and ad hoc evidence (RNA-Seq, BLAST) on gDNA
 sci-biology/consed 29: A genome sequence finishing program
 sci-biology/consed2gap 20050520: Convert whole CONSED dataset to a GAP4 project
 sci-biology/coral 1.4: Error corrector for Illumina and Roche/454 reads using multiple alignment info
