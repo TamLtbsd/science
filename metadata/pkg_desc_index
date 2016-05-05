@@ -519,6 +519,7 @@ sci-chemistry/curvefit 1.40: Linear and non-linear least squares fitting
 sci-chemistry/dl_poly 1.9 4.05: a general purpose molecular dynamics simulation package
 sci-chemistry/drawxtl 45 55: Crystal structure drawings from structural data
 sci-chemistry/dssp2pdb 0.03: convert dssp to pdb
+sci-chemistry/erkale 9999: Quantum chemistry program for atoms and molecules
 sci-chemistry/freeon 9999: An experimental suite of programs for linear scaling quantum chemistry
 sci-chemistry/gamess 20130501.1: A powerful quantum chemistry package
 sci-chemistry/gnome-chemistry-utils 0.14.2-r1 9999: Programs and library containing GTK widgets and C++ classes related to chemistry
