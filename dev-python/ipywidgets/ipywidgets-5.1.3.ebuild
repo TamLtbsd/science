@@ -19,20 +19,18 @@ KEYWORDS="~amd64 ~x86"
 IUSE="test"
 
 RDEPEND="
-	dev-python/traitlets[${PYTHON_USEDEP}]
-	dev-python/ipykernel[${PYTHON_USEDEP}]
+	>=dev-python/traitlets-4.2.0[${PYTHON_USEDEP}]
+	>=dev-python/ipykernel-4.2.2[${PYTHON_USEDEP}]
+	>=dev-python/widgetsnbextension-1.2.2[${PYTHON_USEDEP}]
 	"
 DEPEND="${RDEPEND}
 	test? (
 		$(python_gen_cond_dep 'dev-python/mock[${PYTHON_USEDEP}]' python2_7)
 		dev-python/nose[${PYTHON_USEDEP}]
 		dev-python/coverage[${PYTHON_USEDEP}]
-		www-client/casperjs
 	)
 	"
 
 python_test() {
 	nosetests --with-coverage --cover-package=ipywidgets ipywidgets || die
-
-	"${PYTHON}" -m ipywidgets.jstest || die
 }
