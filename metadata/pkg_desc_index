@@ -104,7 +104,7 @@ dev-python/instant 1.2.0 1.3.0 1.4.0: Instant inlining of C and C++ code in Pyth
 dev-python/ipykernel 9999: IPython Kernel for Jupyter
 dev-python/ipyparallel 9999: Interactive Parallel Computing with IPython
 dev-python/ipython_genutils 9999: Vestigial utilities from IPython
-dev-python/ipywidgets 4.1.1 9999: IPython HTML widgets for Jupyter
+dev-python/ipywidgets 4.1.1 5.1.3 9999: IPython HTML widgets for Jupyter
 dev-python/jupyter_client 9999: Jupyter protocol implementation and client libraries
 dev-python/jupyter_console 9999: A terminal-based console frontend for Jupyter kernels
 dev-python/jupyter_core 9999: Core common functionality of Jupyter projects
@@ -154,6 +154,7 @@ dev-python/testpath 9999: Test utilities for code working with files and command
 dev-python/traitlets 9999: A configuration system for Python applications
 dev-python/ufl 1.4.0: Unified Form Language for declaration of for FE discretizations
 dev-python/viper 1.0.1: Minimalistic scientific plotter and run-time visualization module
+dev-python/widgetsnbextension 1.2.2: IPython HTML widgets for Jupyter
 dev-tcltk/img_rotate 1.1: Image rotation package
 dev-tcltk/togl 1.7-r1: A Tk widget for OpenGL rendering
 dev-tex/pythontex 0.14-r1 9999: Fast Access to Python from within LaTeX
