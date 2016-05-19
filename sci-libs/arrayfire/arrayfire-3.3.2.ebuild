@@ -17,7 +17,7 @@ KEYWORDS="~amd64"
 LICENSE="BSD
 	nonfree? ( OpenSIFT )"
 SLOT="0"
-IUSE="+examples +cpu cuda nonfree opencl test graphics"
+IUSE="+examples +cpu cuda nonfree opencl test unified graphics"
 
 RDEPEND="
 	>=sys-devel/gcc-4.7:*
@@ -44,13 +44,15 @@ RDEPEND="
 	graphics? (
 		media-libs/glew
 		>=media-libs/glfw-3.1.1
-		=sci-visualization/forge-3.1.2
+		=sci-visualization/forge-3.2.2
 	)"
 DEPEND="${RDEPEND}"
 
 S="${WORKDIR}/${PN}-full-${PV}"
 BUILD_DIR="${S}/build"
 CMAKE_BUILD_TYPE=Release
+
+PATCHES=("${FILESDIR}/${P}-FindLAPACKE.patch")
 
 # We need write acccess /dev/nvidiactl, /dev/nvidia0 and /dev/nvidia-uvm and the portage
 # user is (usually) not in the video group
@@ -92,6 +94,7 @@ src_configure() {
 		-DBUILD_TEST="$(usex test)"
 		-DBUILD_GRAPHICS="$(usex graphics)"
 		-DBUILD_NONFREE="$(usex nonfree)"
+		-DBUILD_UNIFIED="$(usex unified)"
 		-DUSE_SYSTEM_BOOST_COMPUTE=ON
 		-DUSE_SYSTEM_CLBLAS=ON
 		-DUSE_SYSTEM_CLFFT=ON
