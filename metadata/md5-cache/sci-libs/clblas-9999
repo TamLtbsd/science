@@ -1,7 +1,7 @@
 DEFINED_PHASES=compile configure install prepare pretend setup test unpack
 DEPEND=dev-libs/boost virtual/opencl || ( >=dev-util/amdapp-2.9 dev-util/intel-ocl-sdk ) performance? ( >=dev-lang/python-2.7.5-r2:2.7 >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),python_single_target_python2_7(+)] ) sys-devel/make >=dev-util/cmake-2.8.12 >=dev-vcs/git-1.8.2.1
 DESCRIPTION=A software library containing BLAS routines for OpenCL
-EAPI=5
+EAPI=6
 HOMEPAGE=https://github.com/clMathLibraries/clBLAS
 IUSE=+client examples +ktest performance test python_targets_python2_7
 LICENSE=Apache-2.0
@@ -11,4 +11,4 @@ RESTRICT=test
 SLOT=0
 _eclass_exported_funcs=pkg_pretend:- pkg_setup:python-single-r1 src_unpack:git-r3 src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:cmake-utils
 _eclasses_=cmake-utils	d6c1714cc58fd2168bf150f2a01f3801	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	d270fa247153df66074f795fa42dba3e	git-r3	ef66dfc3db09f327af21cf32f140fb2b	multilib	d062ae4ba2fc40a19c11de2ad89b6616	python-single-r1	2ebea8fbab356d63110245129a67a6dd	python-utils-r1	13d5b02ea59b21da41c77c9294f3b7f7	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=74b9bc427d582dbd90e807e2c803e8fe
+_md5_=a0727ad453df3189858e86d395bbb496
