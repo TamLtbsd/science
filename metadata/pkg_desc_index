@@ -90,7 +90,6 @@ dev-python/coards 1.0.5: Converts COARDS between time specification and a Python
 dev-python/coords 0.37: Managing astronomical coordinate systems
 dev-python/cosmocalc 0.1.2-r1: Simple cosmology python module
 dev-python/dimensionful 9999: A simple library for making your data dimensionful
-dev-python/entrypoints 0.2.1: Discover and load entry points from installed packages
 dev-python/ffc 1.4.0: Compiler for multilinear forms by generating C or C++ code
 dev-python/ffnet 0.7.1 0.8.3: Feed-forward neural network for python
 dev-python/ffnetui 0.8.3.2: GUI for ffnet - feed forward neural network for python
@@ -117,12 +116,12 @@ dev-python/metakernel 0.12.2 0.12.6: Metakernel for Jupyter
 dev-python/metakernel_bash 0.11.3-r1: A Bash kernel for Jupyter/IPython
 dev-python/metakernel_python 0.11.3-r1: A Python kernel for Jupyter/IPython
 dev-python/montage-wrapper 0.9.7: Python wrapper for the Montage mosaicking toolkit
-dev-python/nbconvert 4.2.0 9999: Converting Jupyter Notebooks
+dev-python/nbconvert 9999: Converting Jupyter Notebooks
 dev-python/nbdime 9999: Diff and merge of Jupyter Notebooks
 dev-python/nbformat 9999: Reference implementation of the Jupyter Notebook format
 dev-python/nbviewer 9999: Nbconvert as a webservice (rendering ipynb to static HTML)
 dev-python/newrelic 2.44.0.36 2.50.0.39: New Relic Python Agent
-dev-python/notebook 4.0.6 4.2.0 9999: Jupyter Interactive Notebook
+dev-python/notebook 4.0.6 9999: Jupyter Interactive Notebook
 dev-python/nvidia-ml-py 6.340.0 7.346.0 7.352.0: Python Bindings for the NVIDIA Management Library
 dev-python/omniorbpy 3.4: A robust high-performance CORBA ORB for Python
 dev-python/opal-client 2.4.1: Python Opal Web Service Client
