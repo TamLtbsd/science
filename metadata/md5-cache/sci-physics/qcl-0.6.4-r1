@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure install
+DEPEND=sys-devel/bison sys-devel/flex
+DESCRIPTION=Quantum Computation Language with an emulator of a quantum computer
+EAPI=6
+HOMEPAGE=http://tph.tuwien.ac.at/~oemer/qcl.html
+IUSE=doc plotutils readline
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+SLOT=0
+SRC_URI=http://tph.tuwien.ac.at/~oemer/tgz/qcl-0.6.4.tgz doc? ( http://tph.tuwien.ac.at/~oemer/doc/structquprog.pdf http://tph.tuwien.ac.at/~oemer/doc/qcldoc.pdf http://tph.tuwien.ac.at/~oemer/doc/quprog.pdf )
+_eclass_exported_funcs=src_configure:- src_install:-
+_md5_=7a2190d71652429cd11b74b17078336b
