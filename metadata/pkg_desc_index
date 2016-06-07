@@ -797,7 +797,7 @@ sci-misc/simx 0.2 9999: Library for developing parallel, discrete-event simulati
 sci-misc/stanford-parser 1.6: Stanfords statistical natural language parsers
 sci-misc/stanford-tagger 20060521: Stanfords log linear POS taggers
 sci-physics/abinit 7.4.2-r1 7.6.4-r1 7.10.4: Find total energy, charge density and electronic structure using density functional theory
-sci-physics/atompaw 3.0.1.9-r1 4.0.0.10: PAW atomic data generator
+sci-physics/atompaw 3.0.1.9-r1 4.0.0.10 4.0.0.13: PAW atomic data generator
 sci-physics/bigdft 1.7.1 1.7.6: A DFT electronic structure code using a wavelet basis set
 sci-physics/clip 4.0.0_beta2: Interactive program for evaluation of Laue diffraction patterns
 sci-physics/elk 1.4.22 2.1.25: All-electron full-potential linearised augmented-plane wave (FP-LAPW)
