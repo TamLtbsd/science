@@ -406,10 +406,8 @@ sys-cluster/htcondor:libvirt - Use app-emulation/libvirt for virtualisation
 sys-cluster/htcondor:management - Use net-libs/qmf for management
 sys-cluster/htcondor:minimal - Don't support standard universe jobs
 sys-cluster/lustre:client - Enable kernel client modules
-sys-cluster/lustre:liblustre - Enable building of liblustre
 sys-cluster/lustre:server - Enable kernels server modules
 sys-cluster/lustre:tests - Enable installation of tests
-sys-cluster/lustre:urandom - Enable use of urandom
 sys-cluster/lustre:utils - Enable lustre utils
 sys-cluster/mpich:mpi-threads - Enable MPI_THREAD_MULTIPLE
 sys-cluster/mpich:romio - Build the ROMIO MPI-IO component
