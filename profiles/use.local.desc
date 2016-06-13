@@ -406,6 +406,7 @@ sys-cluster/htcondor:libvirt - Use app-emulation/libvirt for virtualisation
 sys-cluster/htcondor:management - Use net-libs/qmf for management
 sys-cluster/htcondor:minimal - Don't support standard universe jobs
 sys-cluster/lustre:client - Enable kernel client modules
+sys-cluster/lustre:dlc - Enable Dynamic LNET Configuration
 sys-cluster/lustre:server - Enable kernels server modules
 sys-cluster/lustre:tests - Enable installation of tests
 sys-cluster/lustre:utils - Enable lustre utils
