@@ -76,6 +76,8 @@ dev-perl/opal-client 1.9.2: Perl Opal Web Service Client
 dev-python/Forthon 0.8.13: Python interface generator for Fortran based codes
 dev-python/GOGrapher 9999: A Gene Ontology Programming Library
 dev-python/PeakUtils 1.0.1: Peak detection utilities for 1D data
+dev-python/PyVISA 1.8 9999: Python VISA bindings for GPIB, RS232, and USB instruments
+dev-python/PyVISA-py 0.2 9999: Python VISA bindings for GPIB, RS232, and USB instruments
 dev-python/RecSQL 9999: Simple SQL analysis of python records
 dev-python/arrayfire-python 3.1.20151111 3.2.20151214 3.2.20151224 3.3.20160516 9999: Python bindings for ArrayFire
 dev-python/astropy 9999: Core functionality for performing astrophysics with Python
