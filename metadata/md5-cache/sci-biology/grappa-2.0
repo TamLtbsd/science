@@ -7,4 +7,4 @@ LICENSE=GPL-2
 SLOT=0
 SRC_URI=http://www.cs.unm.edu/~moret/GRAPPA/GRAPPA20.tar.gz
 _eclass_exported_funcs=src_prepare:- src_install:-
-_md5_=47d17bc3931c094c68cbd141940c8d73
+_md5_=a21d701ec8ac720ac0d1e5ef8d64d391
