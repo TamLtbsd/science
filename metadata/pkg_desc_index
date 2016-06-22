@@ -283,7 +283,7 @@ sci-biology/bedtools 2.22.1: Tools for manipulation and analysis of BED, GFF/GTF
 sci-biology/bfast 0.7.0_alpha: Blat-like Fast Accurate Search Tool (short read mapper)
 sci-biology/bio-cd-hit-report 0.1.0: Ruby library for reading CD-HIT cluster reports
 sci-biology/biobambam 0.0.183: Tools for bam file processing
-sci-biology/biopieces 0.51 9999: Toolkit to find and trim adaptors, plot read lengths, qualities, map reads and submit to GenBank
+sci-biology/biopieces 0.51 9999: Trim adaptors, plot read lengths, qualities, map reads and submit to GenBank
 sci-biology/bismark 0.13.0: A tool to map bisulfite converted sequence reads and determine cytosine methylation states
 sci-biology/blasr 9999: The PacBio long read aligner
 sci-biology/blue 1.1.2 1.1.3: Error corrector for Illummina and Roche/454 able to also fix insertions and deletions
