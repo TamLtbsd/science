@@ -1,10 +1,11 @@
-DEFINED_PHASES=install unpack
-DEPEND=sci-libs/hdf5[cxx] >=dev-vcs/git-1.8.2.1
+DEFINED_PHASES=configure install unpack
+DEPEND=hdf5? ( >=sci-libs/hdf5-1.8.12[cxx] ) >=dev-vcs/git-1.8.2.1
 DESCRIPTION=The PacBio long read aligner
 EAPI=5
 HOMEPAGE=http://www.smrtcommunity.com/SMRT-Analysis/Algorithms/BLASR
+IUSE=hdf5
 LICENSE=blasr
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_install:-
+_eclass_exported_funcs=src_unpack:git-r3 src_configure:- src_install:-
 _eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	git-r3	00f60a84fc7b499c99edfe99caea9f95	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	c9d9187f4caa4026a0ceddd8dfceb3c1
-_md5_=51323776304ad3e9dd08cffca282790d
+_md5_=32c2335be4dbc0e386bdc4668553c143
