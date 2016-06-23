@@ -360,6 +360,7 @@ sci-biology/hydra-sv 0.5.3: Detection of structural variation breakpoints in uni
 sci-biology/iCORN2 0.95: Iteratively map reads to a reference, fix mismatches and indels with GATK/picard
 sci-biology/igv 2.3.47 2.3.52: Integrative Genomics Viewer
 sci-biology/inGAP-bin 3.0.1: Detect SNPs and indels from Next-gen sequences using a Bayesian algorithm
+sci-biology/jannovar 0.16: Exome annotation tool
 sci-biology/jannovar-bin 0.16: Exome annotation tool
 sci-biology/jellyfish 1.1.11 2.1.3 2.1.4: k-mer counter within reads for assemblies
 sci-biology/jigsaw 3.2.10: Combine results from external gene predictors into final gene models
