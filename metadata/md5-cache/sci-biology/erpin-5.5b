@@ -8,5 +8,5 @@ LICENSE=all-rights-reserved
 SLOT=0
 SRC_URI=http://rna.igmors.u-psud.fr/download/Erpin/erpin5.5b.serv.tar.gz http://rna.igmors.u-psud.fr/download/Erpin/ErpinBatch.1.4.tar.gz
 _eclass_exported_funcs=src_prepare:- src_compile:- src_install:-
-_eclasses_=multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	77f907363e91028a361ce5a3e9e7ed1e
+_eclasses_=multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	e886935aae2b45a545665444ab0667cf
 _md5_=e5e8715af01a6af84204bd0f887833d5

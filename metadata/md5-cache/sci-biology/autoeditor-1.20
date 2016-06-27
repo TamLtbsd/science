@@ -10,5 +10,5 @@ RDEPEND=>=sci-libs/io_lib-1.8.11 sci-biology/tigr-foundation-libs sys-libs/zlib
 SLOT=0
 SRC_URI=ftp://ftp.cbcb.umd.edu/pub/software/autoEditor/autoEditor-1.20.tar.gz test? ( ftp://ftp.cbcb.umd.edu/pub/software/autoEditor/autoEditor-1.20-sample.tar.gz )
 _eclass_exported_funcs=src_prepare:- src_test:-
-_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	77f907363e91028a361ce5a3e9e7ed1e
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	e886935aae2b45a545665444ab0667cf
 _md5_=57b314046f33a75329825e5a369a1e5f

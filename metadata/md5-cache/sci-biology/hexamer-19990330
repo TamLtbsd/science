@@ -7,5 +7,5 @@ LICENSE=all-rights-reserved
 SLOT=0
 SRC_URI=ftp://ftp.sanger.ac.uk/pub/users/rd/hexamer.tar.gz -> hexamer-19990330.tar.gz
 _eclass_exported_funcs=src_prepare:- src_install:-
-_eclasses_=multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	77f907363e91028a361ce5a3e9e7ed1e
+_eclasses_=multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	e886935aae2b45a545665444ab0667cf
 _md5_=71b91780dc9b5acb50351a30f10c36f2
