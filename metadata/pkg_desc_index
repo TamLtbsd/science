@@ -79,7 +79,7 @@ dev-python/PeakUtils 1.0.1: Peak detection utilities for 1D data
 dev-python/PyVISA 1.8 9999: Python VISA bindings for GPIB, RS232, and USB instruments
 dev-python/PyVISA-py 0.2 9999: Python VISA bindings for GPIB, RS232, and USB instruments
 dev-python/RecSQL 9999: Simple SQL analysis of python records
-dev-python/arrayfire-python 3.1.20151111 3.2.20151214 3.2.20151224 3.3.20160516 9999: Python bindings for ArrayFire
+dev-python/arrayfire-python 3.1.20151111 3.2.20151224 3.3.20160516 9999: Python bindings for ArrayFire
 dev-python/astropy 9999: Core functionality for performing astrophysics with Python
 dev-python/astropy-helpers 9999: Helpers for Astropy and Affiliated packages
 dev-python/astropysics 9999: General purpose python library for professional astronomers/astrophysicists
@@ -109,7 +109,7 @@ dev-python/jupyter_console 9999: A terminal-based console frontend for Jupyter k
 dev-python/jupyter_core 9999: Core common functionality of Jupyter projects
 dev-python/matlab_wrapper 0.9.6 9999: MATLAB wrapper for Python
 dev-python/matplotlib-venn 0.11 9999: Routines for plotting area-weighted two- and three-circle venn diagrams
-dev-python/matplotlib2tikz 0.5.6 0.5.7 9999: Convert matplotlib figures into native Pgfplots (TikZ) figures
+dev-python/matplotlib2tikz 0.5.7 9999: Convert matplotlib figures into native Pgfplots (TikZ) figures
 dev-python/matrix2latex 1.0.0 9999: A tool to create LaTeX tables from python lists and arrays
 dev-python/meshpy 2013.1.2 2014.1: Quality triangular and tetrahedral mesh generation for Python
 dev-python/metakernel 0.12.2 0.12.6: Metakernel for Jupyter
@@ -315,6 +315,7 @@ sci-biology/cross_genome 20140822: Genome scaffolding using cross-species synten
 sci-biology/cutadapt 1.9.1 9999: Remove adapter sequences from high-throughput sequencing data
 sci-biology/dawg 1.1.2: DNA Assembly With Gaps: Phylogenetic aligner for sequence evolution simulation
 sci-biology/dcmstack 9999: DICOM to Nifti coversion
+sci-biology/dipy 0.11.0 9999: computational neuroanatomy project focusing on diffusion MRI
 sci-biology/discrover 1.6.0 9999: A sequence motif discovery tool that uses discriminative learning
 sci-biology/dna2pep 1.1: Translate DNA sequence into protein (with STOP codon read-through)
 sci-biology/ePCR 2.3.12: Search for sub-sequences matching PCR primers
