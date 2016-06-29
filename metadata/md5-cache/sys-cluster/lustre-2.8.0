@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare pretend setup unpack
-DEPEND=virtual/awk dlc? ( dev-libs/libyaml ) readline? ( sys-libs/readline:0 ) server? ( >=sys-kernel/spl-0.6.1 >=sys-fs/zfs-kmod-0.6.1 sys-fs/zfs ) virtual/linux-sources >=dev-vcs/git-1.8.2.1 !<sys-devel/gettext-0.18.1.1-r3 =sys-devel/automake-1.15* >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 kernel_linux? ( virtual/modutils ) sys-apps/sed kernel_linux? ( virtual/linux-sources ) virtual/pkgconfig
+DEPEND=virtual/awk dlc? ( dev-libs/libyaml ) readline? ( sys-libs/readline:0 ) server? ( >=sys-kernel/spl-0.6.1 >=sys-fs/zfs-kmod-0.6.1 sys-fs/zfs ) dev-python/docutils virtual/linux-sources >=dev-vcs/git-1.8.2.1 !<sys-devel/gettext-0.18.1.1-r3 =sys-devel/automake-1.15* >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 kernel_linux? ( virtual/modutils ) sys-apps/sed kernel_linux? ( virtual/linux-sources ) virtual/pkgconfig
 DESCRIPTION=Lustre is a parallel distributed file system
 EAPI=6
 HOMEPAGE=http://wiki.whamcloud.com/
@@ -11,4 +11,4 @@ REQUIRED_USE=client? ( modules ) server? ( modules )
 SLOT=0
 _eclass_exported_funcs=pkg_pretend:- pkg_preinst:linux-mod pkg_postrm:linux-mod pkg_postinst:linux-mod pkg_setup:- src_unpack:git-r3 src_prepare:- src_configure:- src_compile:- src_install:-
 _eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	d270fa247153df66074f795fa42dba3e	git-r3	00f60a84fc7b499c99edfe99caea9f95	libtool	4890219c51da247200223277f993e054	linux-info	fd1e29abbb02cbc49f1a14299846e9c4	linux-mod	4755518412586c2fd655ff6e55780bcb	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	e886935aae2b45a545665444ab0667cf	udev	73058269b3e70e34e084fa3981282338	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=83dfc67a5fc78a1bb56c759a07c675bd
+_md5_=32d6c339f8b4db1f06371a6201e9446a
