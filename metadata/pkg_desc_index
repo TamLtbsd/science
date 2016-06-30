@@ -370,6 +370,7 @@ sci-biology/kallisto 0.42.4 9999: Near-optimal RNA-Seq quantification
 sci-biology/karect 1.0.0: Correct mismatches and indels of raw reads incl. paired-end
 sci-biology/khmer 0.8 1.0.1 9999: In-memory K-mer counting in DNA/RNA/protein sequences
 sci-biology/kmergenie 1.6971: Estimate best k-mer length to be used in novo assemblies (default set during compilation is 121)
+sci-biology/kraken 0.10.5: Detect sequencing project contaminants by mapping reads to taxonomic groups
 sci-biology/lastz 1.03.66: A pairwise DNA sequence aligner (also chromosome to chromosome), a BLASTZ replacement
 sci-biology/libgtextutils 0.6.1: Gordon Text utils Library
 sci-biology/lighter 9999: NGS reads corrector
