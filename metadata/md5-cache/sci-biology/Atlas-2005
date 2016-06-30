@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile
+DEFINED_PHASES=compile prepare
 DEPEND=dev-libs/boost
 DESCRIPTION=Atlas Whole Genome Assembly Suite
 EAPI=5
@@ -7,5 +7,6 @@ LICENSE=ATLAS
 RDEPEND=dev-libs/boost
 SLOT=0
 SRC_URI=https://www.hgsc.bcm.edu/sites/default/files/software/Atlas/atlas-src.tgz
-_eclass_exported_funcs=src_compile:-
-_md5_=6f97b040324d0269f85ca9881321b747
+_eclass_exported_funcs=src_prepare:- src_compile:-
+_eclasses_=multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	e886935aae2b45a545665444ab0667cf
+_md5_=3972c1aa66cc8c2c25353208d9cf3a6b
