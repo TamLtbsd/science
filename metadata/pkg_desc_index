@@ -66,6 +66,7 @@ dev-perl/Lab-Instrument 2.01: Interface to an instrument via GPIB, serial bus or
 dev-perl/Lab-Tools 1.4: Tools for use with dev-perl/Lab-Instrument
 dev-perl/Lab-VISA 2.06: Perl interface to National Instrument's VISA library
 dev-perl/Log-Cabin 0.06: Partial implementation of Log::Log4perl with reduced disk IO
+dev-perl/Scalar-Util-Numeric 0.40: Wrappers around perl's builtin looks_like_number function
 dev-perl/Text-Graph 0.83: Perl module for generating simple text-based graphs
 dev-perl/Text-ParseWords 3.27: Parse strings containing shell-style quoting
 dev-perl/Text-RecordParser 1.6.5: Perl module to read record-oriented files
