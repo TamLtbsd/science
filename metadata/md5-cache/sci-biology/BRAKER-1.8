@@ -1,12 +1,12 @@
-DEFINED_PHASES=install postinst unpack
+DEFINED_PHASES=install postinst prepare unpack
 DEPEND=dev-lang/perl:=[-build(-)]
 DESCRIPTION=Gene prediction based on RNA-Seq using GeneMark-ET and AUGUSTUS
 EAPI=5
 HOMEPAGE=http://bioinf.uni-greifswald.de/bioinf/braker http://bioinf.uni-greifswald.de/augustus/downloads
 LICENSE=GPL-3
-RDEPEND=virtual/perl-Scalar-List-Utils sci-biology/augustus dev-lang/perl:=[-build(-)]
+RDEPEND=dev-perl/Scalar-Util-Numeric sci-biology/augustus dev-lang/perl:=[-build(-)]
 SLOT=0
 SRC_URI=http://bioinf.uni-greifswald.de/augustus/binaries/BRAKER1_v1.8.tar.gz -> BRAKER-1.8.tar.gz
-_eclass_exported_funcs=pkg_postinst:- src_unpack:unpacker src_install:-
+_eclass_exported_funcs=pkg_postinst:- src_unpack:unpacker src_prepare:- src_install:-
 _eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	multiprocessing	e32940a7b2a9992ad217eccddb84d548	perl-functions	aac50de73be0a80ebe780e0b20850130	perl-module	c584f9e0fe426f3dcc2c46c6f7cb95ce	toolchain-funcs	e886935aae2b45a545665444ab0667cf	unpacker	45d07319df5f40ee6af58418b0f930be
-_md5_=bd0bfc150c28190adf8d4555ecca3c1e
+_md5_=795fd18487abd89907371d85b08f262b
