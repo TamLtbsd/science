@@ -483,7 +483,7 @@ sci-biology/staden 2.0.0_beta10 9999: DNA sequence assembly (gap4, gap5), editin
 sci-biology/staden_doc 2.0.0_beta9: Documentation files for the staden package
 sci-biology/stringtie 1.2.2: Transcriptome assembler and RNA-Seq analysis on BAM files aka cufflinks
 sci-biology/subread 1.4.6: NGS suite for read mapping, analysis of mapped reads, summary of exon/intron/gene counts
-sci-biology/swissknife 1.70: Perl library of modules to manipulate SwissProt flatfiles
+sci-biology/swissknife 1.72: Perl library of modules to manipulate SwissProt flatfiles
 sci-biology/symap 4.0: Synteny Mapping and Analysis Program between chromosomes, contigs and physical maps
 sci-biology/tablet 1.14.04.10 9999: Viewer of next generation sequence assemblies and alignments
 sci-biology/tablet-bin 1.15.09.01: Viewer of next generation sequence assemblies and alignments
