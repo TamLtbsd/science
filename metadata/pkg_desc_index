@@ -400,7 +400,7 @@ sci-biology/ncbi-tools++ 12.0.0: NCBI C++ Toolkit, including NCBI BLAST+
 sci-biology/nesoni 0.128: Analysis package for next-generation sequencing data and prepare for IGV display
 sci-biology/ngs_backbone 1.4.0 9999: Assembly & annotation pipeline with web interface for EST/chromosomal sequences
 sci-biology/ngsview 0.91: Display, edit next-gen sequence alignment (BED, BLAST, Eland, mapview processed MAQ, Corona formats)
-sci-biology/nilearn 0.1.4.1 0.2.4 9999: Fast and easy statistical learning on NeuroImaging data
+sci-biology/nilearn 0.1.4.1 0.2.4 0.2.5 9999: Fast and easy statistical learning on NeuroImaging data
 sci-biology/nistats 9999: Neuroimaging tools for Python
 sci-biology/nrcl 110625: Containment clustering and layout utility for processing pairwise alignments
 sci-biology/nwalign 0.3.1: Needleman-Wunsch global sequence alignment in python/cython
