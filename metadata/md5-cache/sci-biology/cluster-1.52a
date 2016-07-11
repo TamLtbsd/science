@@ -1,6 +1,6 @@
 DEFINED_PHASES=configure install postinst prepare
 DEPEND=X? ( x11-libs/motif:0= )
-DESCRIPTION=Clustering software for microarray analysis
+DESCRIPTION=Hierarchical, k-means, k-medians clustering for expression/microarray analysis
 EAPI=5
 HOMEPAGE=http://bonsai.hgc.jp/~mdehoon/software/cluster http://bonsai.hgc.jp/~mdehoon/software/cluster/software.htm#ctv
 IUSE=X
@@ -11,4 +11,4 @@ RESTRICT=fetch
 SLOT=0
 SRC_URI=cluster-1.52a.tar.gz
 _eclass_exported_funcs=pkg_postinst:- src_prepare:- src_configure:- src_install:-
-_md5_=a4fe567e31899758fa25fe788cdee7f8
+_md5_=f343f2f01017fd67e5b8b6c141d0090a
