@@ -276,7 +276,7 @@ sci-biology/autoeditor 1.20: Automatic correct of discrepancies in multiple sequ
 sci-biology/bambino 1.02 1.06: display SAM/BAM files and for SNP/indel detection, report coverage in .wig files
 sci-biology/bambus 2.33: Scaffolding Polymorphic Genomes and Metagenomes, a part of AMOS bundle
 sci-biology/bamtools 2.4.0 9999: A programmer's API and an end-user's toolkit for handling BAM files
-sci-biology/barnacle 1.0.3: Check de novo assembly for chimeric contigs/transcripts
+sci-biology/barnacle 1.0.4: Check de novo assembly for chimeric contigs/transcripts
 sci-biology/barrnap 0.3 0.4: Predict Bacterial and Archaeal rRNA genes and output in GFF3 format
 sci-biology/bcftools 1.2: Utilities for variant calling and manipulating VCF and BCF files
 sci-biology/beagle 4.0: Genotype calling/phasing, imputation of ungenotyped markers, identity-by-descent segment detection
@@ -308,11 +308,12 @@ sci-biology/cnrun 2.0.3: A NeuroML-enabled, precise but slow neuronal network si
 sci-biology/codonw 1.4.4-r2: Multivariate statistical analysis of codon and amino acid usage
 sci-biology/conform-gt 1174: Modify your Variant Call Format file to be consistent with reference VCF
 sci-biology/conifer 0.2.2: Copy Number Inference/Variants (CNV) from exome reads
-sci-biology/conrad 1: Gene predictor using ab initio and ad hoc evidence (RNA-Seq, BLAST) on gDNA
+sci-biology/conrad 1: Ab initio- and ad hoc evidence-based (RNA-Seq, BLAST) gene/ORF predictor
 sci-biology/consed 29: A genome sequence finishing program
 sci-biology/consed2gap 20050520: Convert whole CONSED dataset to a GAP4 project
 sci-biology/coral 1.4: Error corrector for Illumina and Roche/454 reads using multiple alignment info
 sci-biology/cortex_var 1.0.5.21: Assemble and compare genotype variants (variant discovery without reference sequence)
+sci-biology/cramtools 3.0: Java tools and APIs for efficient compression of sequence read data
 sci-biology/cross_genome 20140822: Genome scaffolding using cross-species synteny
 sci-biology/cutadapt 1.9.1 9999: Remove adapter sequences from high-throughput sequencing data
 sci-biology/dawg 1.1.2: DNA Assembly With Gaps: Phylogenetic aligner for sequence evolution simulation
