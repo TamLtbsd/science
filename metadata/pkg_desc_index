@@ -650,7 +650,7 @@ sci-libs/clfft 2.12.0 9999: Library containing FFT functions written in OpenCL
 sci-libs/clrng 9999: A library for uniform random number generation in OpenCL
 sci-libs/cs-rosetta-db 1.01.2009.1109.11: System for chemical shifts based protein structure prediction using ROSETTA
 sci-libs/dcmtk 3.6.0: OFFIS DICOM image files library and tools
-sci-libs/dealii 8.1.0-r2 8.2.1-r1 8.3.0 8.4.1 9999: Solving partial differential equations with the finite element method
+sci-libs/dealii 8.2.1-r1 8.3.0 8.4.1-r1 9999: Solving partial differential equations with the finite element method
 sci-libs/elmer-eio 6.0_p4651 9999: Finite element programs, libraries, and visualization tools - elmer I/O library
 sci-libs/elmer-hutiter 6.0_p4651 9999: Finite element programs, libraries, and visualization tools - hutiter library
 sci-libs/etsf_io 1.0.3-r2 1.0.4-r1: A library of F90 routines to read/write the ETSF file format
@@ -726,7 +726,7 @@ sci-libs/superlu_mt 2.1: Multithreaded sparse LU factorization library
 sci-libs/symengine 0.1.0 9999: Fast symbolic manipulation library, written in C++
 sci-libs/symmetrica 2.0 2.0-r1: A collection of routine to handle a variety of topics
 sci-libs/tmglib 3.5.0 3.6.0: Test Matrix Generator library for LAPACK
-sci-libs/trilinos 11.10.2 11.12.1-r1 11.14.1-r1 12.0.1 12.2.1 12.6.2: Scientific library collection for large scale problems
+sci-libs/trilinos 11.14.1-r1 12.0.1 12.2.1 12.6.3: Scientific library collection for large scale problems
 sci-libs/votca-tools 9999: Votca tools library
 sci-libs/vtk 6.1.0-r3: The Visualization Toolkit
 sci-libs/vxl 9999: C++ computer vision research libraries
@@ -766,7 +766,7 @@ sci-mathematics/ltl2ba 1.1: Fast LTL to Buechi Automata Translation
 sci-mathematics/mdp 3.3 9999: Modular data processing framework for python
 sci-mathematics/netgen 4.9.13 5.0.0 5.3.1: Automatic 3d tetrahedral mesh generator
 sci-mathematics/open-axiom 1.4.2: Symbolic and algebraic computations system
-sci-mathematics/petsc 3.4.2 3.5.3 3.6.0 3.6.3 3.6.4: Portable, Extensible Toolkit for Scientific Computation
+sci-mathematics/petsc 3.4.2 3.5.4 3.6.4 3.7.2: Portable, Extensible Toolkit for Scientific Computation
 sci-mathematics/pff 8.4: Library for reasoning about floating point numbers in coq
 sci-mathematics/pulp 1.5.6-r1: Create MPS/LP files, call solvers, and present results
 sci-mathematics/scilab 5.5.2-r1: Scientific software package for numerical computations
