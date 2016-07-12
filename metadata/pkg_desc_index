@@ -22,7 +22,7 @@ dev-java/fits 1.11.0-r1: Java library for FITS input/output
 dev-java/flexdock 1.1.1 1.2.4: A Java docking framework for use in cross-platform Swing applications
 dev-java/gluegen 1_p20080421 2.0_rc8 2.1.4 2.2.4: Automatically generate the JNI code necessary to call C libraries
 dev-java/hdf-java 2.9: Java interface to the HDF5 library
-dev-java/htsjdk 2.5.1: Java API for high-throughput sequencing data (HTS) formats.
+dev-java/htsjdk 2.1.0 2.2.2 2.5.1: Java API for high-throughput sequencing data (HTS) formats.
 dev-java/jeuclid-core 3.1.9-r1: Core module of MathML rendering solution
 dev-java/jgraphx 1.4.1.0 1.8.0.6 2.5.0.3: Open-source graph component for Java
 dev-java/jlatexmath 1.0.3: A Java API to render LaTeX
