@@ -37,7 +37,6 @@ dev-lang/conceptual 1.4: A Network Correctness and Performance Testing Language
 dev-lang/icc 16.0.2.181: Intel C/C++ Compiler
 dev-lang/idb 14.0.3.174-r1: Intel C/C++/FORTRAN debugger
 dev-lang/ifc 16.0.2.181: Intel FORTRAN Compiler
-dev-lang/ispc 9999: Intel SPMD Program Compiler
 dev-lang/julia 9999: High-performance programming language for technical computing
 dev-lang/path64 9999: Path64 Compiler Suite Community Edition
 dev-lang/pgi 13.5: PGI compiler suite
