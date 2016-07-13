@@ -96,15 +96,6 @@ sci-chemistry/gamess:neo - Enable NEO for nuclear basis support
 sci-chemistry/gamess:pax_kernel - Make this package work on PAX kernels
 sci-chemistry/gamess:qmmm-tinker - Enable tinker qmmm code
 sci-chemistry/gnome-chemistry-utils:gnumeric - Build pluging for gnumeric
-sci-chemistry/gromacs:boost - Enable external boost library
-sci-chemistry/gromacs:cuda - Enable cuda non-bonded kernels
-sci-chemistry/gromacs:double-precision - More precise calculations at the expense of speed
-sci-chemistry/gromacs:hwloc - Enable HWLoc lib support
-sci-chemistry/gromacs:make-symlinks - Create symbolic links for pre-5.0 binary names
-sci-chemistry/gromacs:mkl - Use sci-libs/mkl for fft, blas, lapack routines
-sci-chemistry/gromacs:offensive - Enable gromacs partly offensive quotes
-sci-chemistry/gromacs:single-precision - Single precision version of gromacs (default)
-sci-chemistry/gromacs:tng - Enable new trajectory format - tng
 sci-chemistry/mdsctk:R - Install dev-lang/R scripts as well
 sci-chemistry/nwchem:blas - Use external BLAS library instead of the internal routines
 sci-chemistry/nwchem:cuda - Enable CUDA GPU support for the Tensor Contraction Engine generated methods (CI, MBPT, CC)
