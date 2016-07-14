@@ -601,8 +601,6 @@ sci-chemistry/talosn 4.01.2013.148.15.55-r3 4.12.2015.147.15.40: Prediction of P
 sci-chemistry/trajng 0.6.1: TrajNG - Trajectory compression library
 sci-chemistry/unio 2.0.3-r1: Automated NMR Data Analysis
 sci-chemistry/usf-tools 9999: The USF program suite
-sci-chemistry/votca-csg 9999: Votca coarse-graining engine
-sci-chemistry/votca-csgapps 9999: Extra applications for votca-csg
 sci-chemistry/wxmacmolplt 7.6.1 7.6.2: Chemical 3D graphics program with GAMESS input builder
 sci-chemistry/xplor-nih 2.38: Structure determination program which builds on the X-PLOR program
 sci-electronics/minipro 9999: A free and open TL866XX programmer
@@ -725,7 +723,6 @@ sci-libs/symengine 0.1.0 9999: Fast symbolic manipulation library, written in C+
 sci-libs/symmetrica 2.0 2.0-r1: A collection of routine to handle a variety of topics
 sci-libs/tmglib 3.5.0 3.6.0: Test Matrix Generator library for LAPACK
 sci-libs/trilinos 11.14.1-r1 12.0.1 12.2.1 12.6.3: Scientific library collection for large scale problems
-sci-libs/votca-tools 9999: Votca tools library
 sci-libs/vtk 6.1.0-r3: The Visualization Toolkit
 sci-libs/vxl 9999: C++ computer vision research libraries
 sci-libs/wannier90 1.2-r3 2.0.0 2.0.1: Calculates maximally localized Wannier functions (MLWFs)
