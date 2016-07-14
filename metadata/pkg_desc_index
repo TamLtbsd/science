@@ -676,6 +676,7 @@ sci-libs/libfac 3.1.1: libfac is an extension of Singular-factory to finite fiel
 sci-libs/libgeodecomp 9999: An auto-parallelizing library to speed up computer simulations
 sci-libs/libmatheval 1.1.10: library to parse and evaluate symbolic expressions
 sci-libs/libmaus 0.0.185: Library for biobambam
+sci-libs/libmaus2 9999: Library for biobambam
 sci-libs/libmed 3.1.0: A library to store and exchange meshed data or computation results
 sci-libs/libsc 1.0 1.1: Support for parallel scientific applications
 sci-libs/libspatialindex 1.8.5: General framework for developing spatial indices
