@@ -350,9 +350,6 @@ sci-physics/bigdft:scalapack - Use ScaLAPACK, a subset of LAPACK routines redesi
 sci-physics/elk:libxc - Use sci-libs/libxc library of exchange-correlation functionals by ETSF.
 sci-physics/elk:perl - Install perl scripts.
 sci-physics/elk:python - Install python scripts.
-sci-physics/espresso:cuda - Enable cuda support
-sci-physics/espresso:examples - Installs the examples
-sci-physics/espresso:packages - Installs extra subpackages
 sci-physics/geant-vmc:g4root - Build G4Root (interface for GEANT4 simulation with a ROOT geometry)
 sci-physics/geant-vmc:geant3 - Build with Geant4 G3toG4 library
 sci-physics/geant-vmc:mtroot - Build MTRoot (provides ROOT IO manager classes with multi-threading support)
