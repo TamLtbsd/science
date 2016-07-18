@@ -807,7 +807,6 @@ sci-physics/bigdft 1.7.1 1.7.6: A DFT electronic structure code using a wavelet 
 sci-physics/clip 4.0.0_beta2: Interactive program for evaluation of Laue diffraction patterns
 sci-physics/elk 1.4.22 2.1.25: All-electron full-potential linearised augmented-plane wave (FP-LAPW)
 sci-physics/espresso 9999: Extensible Simulation Package for Research on Soft matter
-sci-physics/espresso++ 9999: extensible, flexible, fast and parallel simulation software for soft matter research
 sci-physics/fullprof-bin 20313.04: Crystallographic tools mainly for Rietveld analysis
 sci-physics/geant-vmc 3.1.15a 4.2.15a 9999: Virtual Monte Carlo Geant4 implementation
 sci-physics/genfit 02.00.00 9999: Generic toolkit for track reconstruction in physics experiments
