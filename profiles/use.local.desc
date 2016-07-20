@@ -356,7 +356,6 @@ sci-physics/geant-vmc:mtroot - Build MTRoot (provides ROOT IO manager classes wi
 sci-physics/geant-vmc:vgm - Enable the Virtual Geometry Model (sci-physics/vgm)
 sci-physics/herwig++:c++11 - Build Herwig++ using the C++11 standard. Experimental feature, not for production use.
 sci-physics/herwig++:fastjet - Adds support for sci-physics/fastjet
-sci-physics/hoomd-blue:cuda - Enable cuda non-bonded kernels
 sci-physics/mc-tester:hepmc - Compile sci-physics/hepmc interface
 sci-physics/root:fits - Support for images and data from FITS files with sci-libs/cfitsio
 sci-physics/root:geocad - Enable ROOT-CAD interface using sci-libs/opencascade

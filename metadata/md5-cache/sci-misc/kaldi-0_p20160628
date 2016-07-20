@@ -1,0 +1,15 @@
+DEFINED_PHASES=compile configure install prepare pretend test
+DEPEND=speex? ( media-libs/speex ) virtual/cblas virtual/lapack virtual/lapacke <sci-misc/openfst-1.5.0 cuda? ( dev-util/nvidia-cuda-toolkit ) virtual/pkgconfig doc? ( app-doc/doxygen )
+DESCRIPTION=A toolkit for speech recognition
+EAPI=6
+HOMEPAGE=http://kaldi-asr.org/
+IUSE=cuda doc speex test
+KEYWORDS=~amd64
+LICENSE=Apache-2.0
+RDEPEND=speex? ( media-libs/speex ) virtual/cblas virtual/lapack virtual/lapacke <sci-misc/openfst-1.5.0 cuda? ( dev-util/nvidia-cuda-toolkit )
+RESTRICT=cuda? ( userpriv )
+SLOT=0
+SRC_URI=https://github.com/kaldi-asr/kaldi/archive/16e69f1aacce8ad0665d2b6666c053b1421a9e91.tar.gz -> kaldi-0_p20160628.tar.gz
+_eclass_exported_funcs=pkg_pretend:- src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
+_eclasses_=cuda	0ecb926cd855df14e36328a247443e49	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=099accb80f326653575ab5a6583aa354
