@@ -173,8 +173,6 @@ sci-libs/dealii:tbb - Add threading support with the help of the tbb library (de
 sci-libs/dealii:trilinos - Add support for trilinos (sci-libs/trilinos)
 sci-libs/etsf_io:pic - Compile Position Independent Code
 sci-libs/factory:singular - Enable support for sci-mathematics/singular
-sci-libs/fftw:quad - Build quadruple precision lib
-sci-libs/fftw:zbus - Adds support for ZBus cycle-counter of mips
 sci-libs/fox:dom - Compile the W3C document object model module
 sci-libs/fox:fast - Compile with best known optimization flags
 sci-libs/fox:sax - Compile the streaming, validating parser based on java's Simple API for XML
