@@ -741,7 +741,6 @@ sci-mathematics/aribas 1.63: Interpreter for big integer and multi-precision flo
 sci-mathematics/axiom 201408: Axiom is a general purpose Computer Algebra system
 sci-mathematics/burrtools 0.5.2-r1: Program to solve assembly and interlocking puzzles
 sci-mathematics/cadabra 1.39: Field-theory motivated computer algebra system
-sci-mathematics/cdfplayer 10.0.2: Player for Wolfram CDF
 sci-mathematics/cipi 1.0: Computing information projections iteratively
 sci-mathematics/dolfin 0.9.9: C++/Python interface of FEniCS
 sci-mathematics/dsfmt 2.2: Double precision SIMD-oriented Fast Mersenne Twister library
