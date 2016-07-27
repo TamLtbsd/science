@@ -96,14 +96,14 @@ dev-python/ffnetui 0.8.3.2: GUI for ffnet - feed forward neural network for pyth
 dev-python/fiat 1.4.0: FInite element Automatic Tabulator
 dev-python/future 0.15.2: Clean single-source support for Python 3 and 2
 dev-python/gammapy 9999: A Python package for gamma-ray astronomy
-dev-python/hdf5storage 0.1.11 0.1.13 9999: Read/write Python types to/from HDF5 files, including MATLAB v7.3 MAT files
+dev-python/hdf5storage 0.1.13 9999: Read/write Python types to/from HDF5 files, including MATLAB v7.3 MAT files
 dev-python/imageutils 9999: Image processing utilities for Astropy
 dev-python/inference 0.4: Collection of Python modules for statistical inference
 dev-python/instant 1.2.0 1.3.0 1.4.0: Instant inlining of C and C++ code in Python
 dev-python/ipykernel 9999: IPython Kernel for Jupyter
 dev-python/ipyparallel 9999: Interactive Parallel Computing with IPython
 dev-python/ipython_genutils 9999: Vestigial utilities from IPython
-dev-python/ipywidgets 4.1.1 5.1.3 9999: IPython HTML widgets for Jupyter
+dev-python/ipywidgets 4.1.1 9999: IPython HTML widgets for Jupyter
 dev-python/jupyter_client 9999: Jupyter protocol implementation and client libraries
 dev-python/jupyter_console 9999: A terminal-based console frontend for Jupyter kernels
 dev-python/jupyter_core 9999: Core common functionality of Jupyter projects
@@ -645,7 +645,7 @@ sci-libs/cblas-reference 20110218-r1 20151113-r3: C wrapper interface to the F77
 sci-libs/ccif 0.3.20111209: CCP4 ccif lib
 sci-libs/cgnstools 2.5.4-r1: The CFD General Notation System (CGNS) tools
 sci-libs/clblas 2.8 2.10 9999: A software library containing BLAS routines for OpenCL
-sci-libs/clfft 2.12.0 9999: Library containing FFT functions written in OpenCL
+sci-libs/clfft 2.12.0 2.12.1 9999: Library containing FFT functions written in OpenCL
 sci-libs/clrng 9999: A library for uniform random number generation in OpenCL
 sci-libs/cs-rosetta-db 1.01.2009.1109.11: System for chemical shifts based protein structure prediction using ROSETTA
 sci-libs/dcmtk 3.6.0: OFFIS DICOM image files library and tools
