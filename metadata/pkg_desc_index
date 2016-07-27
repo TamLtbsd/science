@@ -245,7 +245,7 @@ sci-biology/SPAdes 3.5.0: De novo de Bruijn genome assembler (bacteria to fungi)
 sci-biology/SSAKE 3.8.2: Short-read trimmer, OLC assembler, scaffolder in PERL using the 3'-most k-mers
 sci-biology/STAR 2.4.1c 9999: STAR aligner: align RNA-seq reads to reference genome uncompressed suffix arrays
 sci-biology/Scaffolder-evaluation 9999: Scripts to run genome assembly scaffolding tools and analyse output for accuracy
-sci-biology/SnpEff 4.1e: Annotate SNP changes and predict their effect
+sci-biology/SnpEff 4.2: Annotate SNP changes and predict their effect
 sci-biology/SolexaQA 2.2: Analyze and trim single-end and paired-end reads, show quality statistics
 sci-biology/StarORF 9999: Java-based utility to show ORFs in a sequence
 sci-biology/TransDecoder 2.0.1 2.1.0: Extract ORF/CDS regions from FASTA sequences
