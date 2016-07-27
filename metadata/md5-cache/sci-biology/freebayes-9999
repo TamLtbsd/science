@@ -1,6 +1,6 @@
 DEFINED_PHASES=install unpack
 DEPEND=>=dev-vcs/git-1.8.2.1
-DESCRIPTION=Bayesian gen. variant detector to find small polymorphisms
+DESCRIPTION=Bayesian gen. variant detector to find short polymorphisms
 EAPI=6
 HOMEPAGE=https://github.com/ekg/freebayes
 LICENSE=MIT
@@ -8,4 +8,4 @@ RDEPEND=sci-biology/bamtools sci-biology/samtools
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_install:-
 _eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	git-r3	00f60a84fc7b499c99edfe99caea9f95	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441
-_md5_=78450913ecf59c93fa18265cecd122d5
+_md5_=40a861b639bf668335fda8191a53f7bc
