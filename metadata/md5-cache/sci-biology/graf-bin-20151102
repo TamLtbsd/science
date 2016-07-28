@@ -1,0 +1,10 @@
+DEFINED_PHASES=install postinst
+DESCRIPTION=Find closely related subjects using SNP genotype data, validate pedigree file
+EAPI=5
+HOMEPAGE=http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/Software.cgi
+KEYWORDS=~amd64
+LICENSE=public-domain
+SLOT=0
+SRC_URI=http://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetZip.cgi?zip_name=GRAF_files.zip -> graf-bin-20151102.zip
+_eclass_exported_funcs=pkg_postinst:- src_install:-
+_md5_=621b2b7dd5b247d35048fa928c654d39
