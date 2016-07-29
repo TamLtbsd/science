@@ -60,6 +60,7 @@ dev-perl/Algorithm-Loops 1.32: Looping constructs: NestedLoops, MapCar*, Filter,
 dev-perl/BTLib 0.19: Perl part of the estscan package
 dev-perl/Bio-BigFile 1.07: BigWig and BigBed file perl-based interface for Gbrowse-2
 dev-perl/Bio-DB-Das-Chado 0.34: A Chado database interface for Gbrowse-2
+dev-perl/Bio-DB-HTS 2.3: Enable rapid access to bgzipped FASTA files
 dev-perl/DBIx-DBStag 0.12: Relational Database to Hierarchical (Stag/XML) Mapping
 dev-perl/Lab-Instrument 2.01: Interface to an instrument via GPIB, serial bus or ethernet
 dev-perl/Lab-Tools 1.4: Tools for use with dev-perl/Lab-Instrument
@@ -325,6 +326,7 @@ sci-biology/discrover 1.6.0 9999: A sequence motif discovery tool that uses disc
 sci-biology/dna2pep 1.1: Translate DNA sequence into protein (with STOP codon read-through)
 sci-biology/ePCR 2.3.12: Search for sub-sequences matching PCR primers
 sci-biology/edena 3.131028: De novo short read OLC assembler (overlap-layout-consensus)
+sci-biology/ensembl-tools 85: Bioinformatics tools incl. Variant Effect Predictor (VEP)
 sci-biology/epga 9999: De novo assembler using distribution of reads and insert size
 sci-biology/erpin 5.5b: Easy RNA Profile IdentificatioN, an RNA motif search program
 sci-biology/est2assembly 1.08 9999: EST assembly and annotation pipeline for chado/gbrowse2 display
