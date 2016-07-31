@@ -509,6 +509,7 @@ sci-biology/trowel 0.1.4.1: Error corrector for genomic Illumina FASTQ reads usi
 sci-biology/twinscan 4.1.2-r1: iscan (aka twinscan and N-SCAN), Pairagon wrapper: Gene structure pred. pipeline
 sci-biology/ugene 1.13.3 1.16.1 1.20.0: A free open-source cross-platform bioinformatics software
 sci-biology/vague-bin 1.0.5: GUI for Velvet de novo assembler
+sci-biology/vcftools 0.1.13: Tools for working with VCF (Variant Call Format) files
 sci-biology/velvetk 20120606: Estimate the best k-mer size to use for your Velvet de novo assembly
 sci-biology/wcd 0.6.3: EST sequence clustering: d2 function, edit distance, common word heuristics
 sci-biology/weblogo 2.8.2: generate consensus sequence logo figures
