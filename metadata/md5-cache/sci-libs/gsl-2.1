@@ -1,15 +1,15 @@
 DEFINED_PHASES=compile configure install postinst prepare prerm setup test
-DEPEND=cblas-external? ( >=virtual/cblas-2.0-r3[abi_x86_32(-)?,abi_x86_64(-)?] ) >=virtual/pkgconfig-0-r1[abi_x86_32(-)?,abi_x86_64(-)?] !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=app-admin/eselect-1.4.5-r103 virtual/fortran
+DEPEND=cblas-external? ( >=virtual/cblas-2.0-r3[abi_x86_32(-)?,abi_x86_64(-)?] ) >=virtual/pkgconfig-0-r1[abi_x86_32(-)?,abi_x86_64(-)?] !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=app-admin/eselect-1.4.6-r100 virtual/fortran
 DESCRIPTION=GNU Scientific Library
 EAPI=6
 HOMEPAGE=http://www.gnu.org/software/gsl/
 IUSE=cblas-external static-libs abi_x86_32 abi_x86_64 int64
 KEYWORDS=~amd64 ~mips ~s390 ~sh ~x86 ~x86-fbsd ~x86-interix ~amd64-linux ~x86-linux ~x64-macos ~x86-macos ~sparc-solaris ~x86-solaris
 LICENSE=GPL-3
-RDEPEND=cblas-external? ( >=virtual/cblas-2.0-r3[abi_x86_32(-)?,abi_x86_64(-)?] ) >=app-admin/eselect-1.4.5-r103 !app-eselect/eselect-blas !app-eselect/eselect-cblas !app-eselect/eselect-lapack virtual/fortran
+RDEPEND=cblas-external? ( >=virtual/cblas-2.0-r3[abi_x86_32(-)?,abi_x86_64(-)?] ) >=app-admin/eselect-1.4.6-r100 !app-eselect/eselect-blas !app-eselect/eselect-cblas !app-eselect/eselect-lapack virtual/fortran
 REQUIRED_USE=|| ( abi_x86_32 abi_x86_64 )
 SLOT=0/19
 SRC_URI=mirror://gnu/gsl/gsl-2.1.tar.gz
 _eclass_exported_funcs=pkg_prerm:alternatives-2 pkg_postinst:alternatives-2 pkg_setup:fortran-2 src_prepare:- src_configure:- src_compile:- src_test:- src_install:-
-_eclasses_=alternatives-2	beedbf0f7061e7116ec8fe5a19a925e5	autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	fortran-2	8200fc942c3b3c1fc75d4d5bfd0ba7a2	libtool	4890219c51da247200223277f993e054	multibuild	742139c87a9fa3766f0c2b155e5522bf	multilib	d062ae4ba2fc40a19c11de2ad89b6616	multilib-build	8fe2e81aeb36cdf8a6cc5f50443879cc	numeric	287f03a697810f9cdf8da9dc66092cb9	numeric-int64-multibuild	a979c2ed0dfc519fd71c716629a18f9e	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441
+_eclasses_=alternatives-2	54fbee4282b96e9f5ed716490a68f36b	autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	fortran-2	8200fc942c3b3c1fc75d4d5bfd0ba7a2	libtool	4890219c51da247200223277f993e054	multibuild	742139c87a9fa3766f0c2b155e5522bf	multilib	d062ae4ba2fc40a19c11de2ad89b6616	multilib-build	8fe2e81aeb36cdf8a6cc5f50443879cc	numeric	287f03a697810f9cdf8da9dc66092cb9	numeric-int64-multibuild	a979c2ed0dfc519fd71c716629a18f9e	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441
 _md5_=f1e4d2eae64dfdd638c2bec57d61325d

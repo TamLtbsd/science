@@ -1,14 +1,14 @@
 DEFINED_PHASES=compile install postinst prepare prerm test
-DEPEND=virtual/mpi[fortran] virtual/blas !>sci-libs/scalapack-2 virtual/pkgconfig >=app-admin/eselect-1.4.5-r103
+DEPEND=virtual/mpi[fortran] virtual/blas !>sci-libs/scalapack-2 virtual/pkgconfig >=app-admin/eselect-1.4.6-r100
 DESCRIPTION=Basic Linear Algebra Communication Subprograms with MPI
 EAPI=5
 HOMEPAGE=http://www.netlib.org/blacs/
 IUSE=static-libs test
 KEYWORDS=~amd64 ~x86 ~amd64-linux ~x86-linux
 LICENSE=BSD
-RDEPEND=virtual/mpi[fortran] virtual/blas !>sci-libs/scalapack-2 >=app-admin/eselect-1.4.5-r103 !app-eselect/eselect-blas !app-eselect/eselect-cblas !app-eselect/eselect-lapack
+RDEPEND=virtual/mpi[fortran] virtual/blas !>sci-libs/scalapack-2 >=app-admin/eselect-1.4.6-r100 !app-eselect/eselect-blas !app-eselect/eselect-cblas !app-eselect/eselect-lapack
 SLOT=0
 SRC_URI=http://www.netlib.org/blacs//mpiblacs.tgz http://www.netlib.org/blacs//mpiblacs-patch03.tgz test? ( http://www.netlib.org/blacs//blacstester.tgz )
 _eclass_exported_funcs=pkg_prerm:alternatives-2 pkg_postinst:alternatives-2 src_prepare:- src_compile:- src_test:- src_install:-
-_eclasses_=alternatives-2	beedbf0f7061e7116ec8fe5a19a925e5	eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_eclasses_=alternatives-2	54fbee4282b96e9f5ed716490a68f36b	eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	82165206dedb2075f9a0fb8f9b1f9441	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
 _md5_=a9befec44841d587a3ffcd8d28aaa343
