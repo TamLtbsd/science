@@ -423,6 +423,7 @@ sci-biology/phusion 2.1c: Whole genome shotgun assembler using phrap (for Sanger
 sci-biology/phusion2 3.0: Whole genome shotgun assembler using phrap (for Sanger-based reads)
 sci-biology/picard 1.141 2.2.2: Java-based command-line utilities that manipulate SAM/BAM/CRAM/VCF files
 sci-biology/pileup 0.6: SSAHA2-based pipeline to align reads into format also understood by samtools, maq
+sci-biology/plink 1.90_pre160731: Whole genome association analysis toolset
 sci-biology/plinkseq 0.10: C/C++ library for working with human genetic variation data
 sci-biology/polyphen 2.2.2: Predict effect of aminoacid substitution on human protein function
 sci-biology/portrait 1.1: Ab initio ncRNA prediction
