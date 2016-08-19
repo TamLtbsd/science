@@ -1,13 +1,13 @@
 DEFINED_PHASES=compile configure install postinst preinst prepare setup
-DEPEND=>=virtual/jdk-1.7 app-arch/unzip dev-java/absolutelayout dev-java/jama:0 dev-java/commons-logging:0 >=dev-java/commons-io-2.1:1 dev-java/commons-math:2 dev-java/commons-jexl:2 dev-java/jcommon:1.0 dev-java/jfreechart:1.0 dev-java/jlfgr:0 dev-java/log4j:0 dev-java/gson:2.2.2 dev-java/guava:17 dev-java/swing-layout:1 dev-java/jgrapht:0 dev-java/junit:4 >=dev-java/java-config-2.2.0-r3 >=dev-java/ant-core-1.8.2:0 >=dev-java/javatoolkit-0.3.0-r2
+DEPEND=>=virtual/jdk-1.7 app-arch/unzip dev-java/absolutelayout dev-java/jama:0 >=dev-java/commons-compress-1.11 dev-java/commons-logging:0 >=dev-java/commons-io-2.1:1 dev-java/commons-math:2 dev-java/commons-jexl:2 dev-java/jcommon:1.0 dev-java/jfreechart:1.0 dev-java/jlfgr:0 dev-java/log4j:0 dev-java/gson:2.2.2 dev-java/guava:17 dev-java/swing-layout:1 dev-java/jgrapht:0 dev-java/junit:4 >=dev-java/java-config-2.2.0-r3 >=dev-java/ant-core-1.8.2:0 >=dev-java/javatoolkit-0.3.0-r2
 DESCRIPTION=Integrative Genomics Viewer
 EAPI=5
 HOMEPAGE=http://www.broadinstitute.org/igv/
 IUSE=elibc_FreeBSD elibc_FreeBSD
 LICENSE=LGPL-2.1
-RDEPEND=>=virtual/jre-1.7 dev-java/absolutelayout dev-java/jama:0 dev-java/commons-logging:0 >=dev-java/commons-io-2.1:1 dev-java/commons-math:2 dev-java/commons-jexl:2 dev-java/jcommon:1.0 dev-java/jfreechart:1.0 dev-java/jlfgr:0 dev-java/log4j:0 dev-java/gson:2.2.2 dev-java/guava:17 dev-java/swing-layout:1 dev-java/jgrapht:0 dev-java/junit:4 >=dev-java/java-config-2.2.0-r3
+RDEPEND=>=virtual/jre-1.7 dev-java/absolutelayout dev-java/jama:0 >=dev-java/commons-compress-1.11 dev-java/commons-logging:0 >=dev-java/commons-io-2.1:1 dev-java/commons-math:2 dev-java/commons-jexl:2 dev-java/jcommon:1.0 dev-java/jfreechart:1.0 dev-java/jlfgr:0 dev-java/log4j:0 dev-java/gson:2.2.2 dev-java/guava:17 dev-java/swing-layout:1 dev-java/jgrapht:0 dev-java/junit:4 >=dev-java/java-config-2.2.0-r3
 SLOT=0
 SRC_URI=https://github.com/broadinstitute/IGV/archive/v2.3.80.zip -> igv-2.3.80.zip
 _eclass_exported_funcs=pkg_preinst:java-pkg-2 pkg_postinst:- pkg_setup:java-pkg-2 src_prepare:java-pkg-2 src_configure:java-ant-2 src_compile:java-pkg-2 src_install:-
 _eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	java-ant-2	7c5d0c274d390745f5033754a319f515	java-pkg-2	b02dc1e46b3648e467b5fbdf7857cf28	java-utils-2	9a25f292ff66f8c2c00100ac0b15c54f	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
-_md5_=b278ef6697295459639fca1fc5759920
+_md5_=6388bcd617ae4661f7078e662db5b582
